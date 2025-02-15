@@ -26601,41 +26601,6 @@
         "país": "ir",
         "categoría": "news"
     },
-    "irib-tamasha": {
-        "nombre": "IRIB Tamasha",
-        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
-        "señales": {
-            "iframe_url": [
-                "https://telewebion.com/live/hdtest",
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "neo-tv-digital": {
-        "nombre": "neotvdigital",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://neotvdigital.com.ar/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://neotvdigital.com.ar/en-vivo/",
-        "país": "ar",
-        "categoría": "news"
-    },
     "Bahrain-tv": {
         "nombre": "Bahrain TV",
         "logo": "",
