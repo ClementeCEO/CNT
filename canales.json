@@ -26405,6 +26405,126 @@
         "país": "ir",
         "categoría": "news"
     },
+    "pakhshe-zende-3": {
+        "nombre": "Pakhshe Zende 3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://salintv.com/video/yastv_live_stream/"
+            ],
+            "m3u8_url": [,
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://salintv.com/video/yastv_live_stream/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "pakhshe-zende-4": {
+        "nombre": "Pakhshe Zende 4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://salintv.com/video/pakhshe-zende-4/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://salintv.com/video/pakhshe-zende-4/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "gozaresh-adel": {
+        "nombre": "Gozaresh Adel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://salintv.com/video/gozaresh-adel/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://salintv.com/video/gozaresh-adel/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "pakhshe-zende-6": {
+        "nombre": "Pakhshe Zende 6",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://salintv.com/video/pakhshe-zende-6/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://salintv.com/video/pakhshe-zende-6/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "4sport-tv": {
+        "nombre": "4sport",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://salintv.com/video/4sport-tv-live-stream/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://salintv.com/video/4sport-tv-live-stream/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "aio-sport": {
+        "nombre": "Aio Sport",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://salintv.com/video/aio-sport/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://salintv.com/video/aio-sport/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "irib-omid": {
+        "nombre": "IRIB Omid",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-omid",
+                "https://www.parsatv.com/name=Omid"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-omid",
+        "país": "ir",
+        "categoría": "news"
+    },
     "Bahrain-tv": {
         "nombre": "Bahrain TV",
         "logo": "",
