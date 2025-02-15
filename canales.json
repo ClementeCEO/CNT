@@ -26350,7 +26350,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.parsatv.com/name=Neto-Channel",
         "país": "ir",
         "categoría": "news"
     },
@@ -26491,7 +26491,7 @@
         "categoría": "news"
     },
     "aio-sport": {
-        "nombre": "pakhshe zende 5",
+        "nombre": "Aio Sport",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -26544,7 +26544,7 @@
         "categoría": "news"
     },
     "irinn-2-shabakeh-khabar-2": {
-        "nombre": "IRINN 2 - Shabakeh Khabar 2",
+        "nombre": "IRINN 2 Shabakeh Khabar 2",
         "logo": "",
         "señales": {
             "iframe_url": [
