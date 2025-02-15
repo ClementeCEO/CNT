@@ -26525,6 +26525,117 @@
         "país": "ir",
         "categoría": "news"
     },
+    "omidtv24": {
+        "nombre": "Omidtv24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://bradmax.com/client/embed-player/8124fa3454121635f7628fc1b21974a7644b28e3_5040?mediaUrl=https%3A%2F%2F2nbyjj2by53k-hls-live.5centscdn.com%2FOmidTV24%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Fplaylist.m3u8&title=OmidTV24%2Flive&id=16150",
+                "https://omidtv24.com/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://omidtv24.com/live/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "irinn-2-shabakeh-khabar-2": {
+        "nombre": "IRINN 2 Shabakeh Khabar 2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://sepehrtv.ir/live/irinn2",
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
+                "http://www.imvbox.tv/es/irinn/live-channel/play",
+                "https://telewebion.com/live/irinn2",
+                "https://darya.stream/live-tv/irib2-tv-live/",
+                "https://www.persianleague.com/iran-live-tv/video/31-live-khabar%3E"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "irib-pooya": {
+        "nombre": "IRIB Pooya",
+        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
+        "señales": {
+            "iframe_url": [
+                "https://telewebion.com/live/pooya",
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "irib-namayesh": {
+        "nombre": "IRIB Namayesh",
+        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
+        "señales": {
+            "iframe_url": [
+                "https://telewebion.com/live/namayesh",
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "irib-tamasha": {
+        "nombre": "IRIB Tamasha",
+        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
+        "señales": {
+            "iframe_url": [
+                "https://telewebion.com/live/hdtest",
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "neo-tv-digital": {
+        "nombre": "neotvdigital",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://neotvdigital.com.ar/en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://neotvdigital.com.ar/en-vivo/",
+        "país": "ar",
+        "categoría": "news"
+    },
     "Bahrain-tv": {
         "nombre": "Bahrain TV",
         "logo": "",
