@@ -30063,9 +30063,11 @@
         "nombre": "ABC7 SWFL",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com"
+            ],
             "m3u8_url": [],
-            "yt_id": "UCq9e_hCv2jvgck8WowW1NXg",
+            "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
