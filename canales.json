@@ -30489,11 +30489,17 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com"
+                "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+                "https://www.youtube.com/embed/YUJl2vWNsWU?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+                "https://www.youtube.com/embed/hiWkGIgEr0M?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+                "https://abc7chicago.com/watch/live/",
+                "https://abc7news.com/watch/live/",
+                "https://abc7.com/watch/live/",
+                "https://www.gulfcoastnewsnow.com/article/live-stream/46210476"
             ],
             "m3u8_url": [],
             "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
-            "yt_embed": "",
+            "yt_embed": "sj2cWegO1OU",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -30531,12 +30537,12 @@
                 "https://thedaddy.to/embed/stream-767.php",
                 "https://epctv.com/stream/CBS-Stream_3.html",
                 "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
+                "https://www.cbsnews.com/live/",
                 "https://www.cbs.com/live-tv/stream/cbs-news/"
             ],
             "m3u8_url": [
                 "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
-                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/74b11949-6f25-4212-8a36-e77f7b11c7bc:SCL/variant/c5978f1497cc006085b1a374230e90d9/bandwidth/1872292.m3u8"
+                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
             ],
             "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
             "yt_embed": "",
@@ -30733,11 +30739,10 @@
         "nombre": "NBC News",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
-                "https://lnc-nbc-news-now.tubi.video/master.m3u8"
+            "iframe_url": [
+                "https://www.nbcnews.com/watch"
             ],
+            "m3u8_url": [],
             "yt_id": "UCeY0bbntWzzVIaj2z3QigXg",
             "yt_embed": "",
             "yt_playlist": "",
