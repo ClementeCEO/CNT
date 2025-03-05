@@ -16306,6 +16306,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
+                "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
                 "https://k10.usastreams.com:1936/tvperuanisima/tvperuanisima/playlist.m3u8"
             ],
             "yt_id": "",
