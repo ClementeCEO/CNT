@@ -11285,6 +11285,21 @@
         "país": "es",
         "categoría": "news"
     },
+    "Televisión-de-Galicia": {
+        "nombre": "Televisión de Galicia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TVG",
+        "país": "es",
+        "categoría": "news"
+    },
     "hechos-ecuador": {
         "nombre": "hechos ecuador",
         "logo": "",
@@ -25434,23 +25449,6 @@
         "país": "ma",
         "categoría": "news"
     },
-    "TV4": {
-        "nombre": "TV4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvcuatro.tv/4-1/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvcuatro.tv/4-1/",
-        "país": "mx",
-        "categoría": "news"
-    },
     "tdm-Macau": {
         "nombre": "TDM Macau",
         "logo": "",
@@ -29764,15 +29762,11 @@
         "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/Ulwgdf5t46o?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.youtube.com/embed/p2AzyIEuFak?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
-            "m3u8_url": [
-                "https://dcs-vod.mp.lura.live/vod/p/1182800/prog.m3u8?i=i176971799-n807796f8-f9da-4056-8b39-8ff837695fe4&anvtrid=158a08305778179620820555868c552a",
-                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/af3a8c1c-caf6-4ffd-bbfb-ab2b9a4515d1:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1726846626~acl=*~id=3b17f345-7a41-4f48-b941-be51b7332410~data=hdntl~hmac=00b1a465099cc14caa1f241d57209546f314b3299312ab325f3c457f8bf9cff5&",
-                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/af3a8c1c-caf6-4ffd-bbfb-ab2b9a4515d1:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1726846626~acl=*~id=3b17f345-7a41-4f48-b941-be51b7332410~data=hdntl~hmac=00b1a465099cc14caa1f241d57209546f314b3299312ab325f3c457f8bf9cff5&"
-            ],
+            "m3u8_url": [],
             "yt_id": "UCUsm-fannqOY02PNN67C0KA",
-            "yt_embed": "Ulwgdf5t46o?",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -30479,6 +30473,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "TV4": {
+        "nombre": "TV4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvcuatro.tv/4-1/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcuatro.tv/4-1/",
         "país": "mx",
         "categoría": "news"
     },
