@@ -4,7 +4,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/gPLHafMRORY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/bad5HyO2SGo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0"
             ],
             "m3u8_url": [],
@@ -22,7 +22,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/_LzKVLtGHmI?autoplay=1&mute=1&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0",
                 "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=DreChCDH2dNUTFDzveUhHhdFM6QDKJ49HsI1QRqP7K0TaR26K28dKp2RZdRMTyYM7VUozjgPhpx&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
                 "https://www.mega.cl/senal-en-vivo/meganoticias/",
                 "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=1eDv4DotozLvXDbcsFA45qjqgWHWluU2Nll9QIIbrBgV3GNvE7OmIcSf8cmCT5il7N5QSCLV9pq&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
@@ -14597,8 +14596,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "America-tv-PE": {
-        "nombre": "America PE",
+    "América-Televisión-oficialPE": {
+        "nombre": "América Televisión OficialPE",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -14611,7 +14610,7 @@
             "m3u8_url": [
                 "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCGGry4kGWZUqIfG6LLNhOmg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "americatv_envivo"
@@ -21088,6 +21087,51 @@
         "país": "pe",
         "categoría": "news"
     },
+    "Noticias-EstrellaTV": {
+        "nombre": "Noticias EstrellaTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC9WfItMf79Vq1iB3-7aM56w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@noticiasestrellatv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Telemadrid": {
+        "nombre": "Telemadrid",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCv2BcgqxHSrl2QQfIkjR5Eg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@telemadrid",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Official-2-0": {
+        "nombre": "Official 2.0 ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCeLUedz1yn3Nsz4SA9eWE1w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Official20-l4r",
+        "país": "pe",
+        "categoría": "news"
+    },
     "acs-network": {
         "nombre": "ACS Network",
         "logo": "",
@@ -23410,9 +23454,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -23569,10 +23611,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://antv.gov.vn/",
                 "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -29111,6 +29154,85 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/af/business/bloomberg-tv-asia-bloombergtvasiahk-720p-dlk#gsc.tab=0",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Tạp-chí-VietTimes": {
+        "nombre": "Tạp chí VietTimes",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCX1ZYrJ4PHsOxw06KnfsBEQ",
+            "yt_embed": "FomrZGNhCFY",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TapchiVietTimes",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Vietnam-Plus": {
+        "nombre": "Vietnam Plus",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGN7_Jy7V12NspJBcxsQFyA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/c/BaoVietnamPlus",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Đài-Truyền-hình-Điện-Biên": {
+        "nombre": "Đài Truyền hình Điện Biên",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dienbientv.vn/"
+            ],
+            "m3u8_url": [
+                "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni"
+            ],
+            "yt_id": "UCTAVpwJhR46XO2DZ0P7AXVA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TruyenhinhDienBien23.9",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "TIN-TỨC-VIỆT": {
+        "nombre": "TIN TỨC VIỆT",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCxlprA9Y_T98gDqXMc46baw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TinTucVietOfficial",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Chuyển-Động-360": {
+        "nombre": "Chuyển Động 360",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC1HyDIb2OTBbvShOrPWg4kA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/c/Chuy%E1%BB%83n%C4%90%E1%BB%99ng360",
         "país": "vn",
         "categoría": "news"
     },
