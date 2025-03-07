@@ -23520,7 +23520,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.r7.com/universal/"],
+                "https://www.r7.com/universal/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -23529,6 +23530,342 @@
         },
         "sitio_oficial": "https://www.r7.com/",
         "país": "pt",
+        "categoría": "news"
+    },
+    "kuriakos-kids": {
+        "nombre": "Kuriakos Kids Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.olhosnatv.com.br/2018/05/kuriakos-kids.html",
+                "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-kids"
+            ],
+            "m3u8_url": [
+                "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-kids",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "rtp-madeira": {
+        "nombre": "RTP Madeira Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rtp.pt/play/direto/rtpmadeira"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-madeira",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "on-fm-portugal": {
+        "nombre": "ON FM Portugal Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://onfm.pt/on-fm-tv/",
+                "https://www.cxtv.com.br/tv-ao-vivo/on-fm-portugal"
+            ],
+            "m3u8_url": [
+                "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://onfm.pt",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "rit-europa": {
+        "nombre": "Canal Um Europa (RIT Europa) Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www-rittv-com-br.filesusr.com/html/e2bcec_b7f481e9eb5c2a0a3a3c4ae0808de095.html",
+                "https://www.rittv.com.br/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rit-europa",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "rtp-acores": {
+        "nombre": "RTP Açores Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rtp.pt/play/direto/rtpacores"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-acores",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "kuriakos-music": {
+        "nombre": "Kuriakos Music Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.olhosnatv.com.br/2018/05/kuriakos-music.html",
+                "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-music"
+            ],
+            "m3u8_url": [
+                "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-music",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "adbtv": {
+        "nombre": "ADBTV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/adbtv"
+            ],
+            "m3u8_url": [
+                "https://stream-hls.castr.net/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/adbtv",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "kuriakos-tv": {
+        "nombre": "Kuriakos Tv Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.kuriakos-tv.com/",
+                "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-tv"
+            ],
+            "m3u8_url": [
+                "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-tv",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "canal-vida": {
+        "nombre": "Canal Vida Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.castr.com/live_43f24df056e711ec8a98fbc0216fffd2",
+                "https://www.cxtv.com.br/tv-ao-vivo/canal-vida"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/canal-vida",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "Ao-vivo-REDEVIDA": {
+        "nombre": "Ao vivo - REDEVIDA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://redevida.com.br/ao-vivo/",
+                "https://r15.ciclano.io/proxy/diariofm/stream"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://redevida.com.br",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "ies-tv-igreja-do-espirito-santo": {
+        "nombre": "ies TV - Igreja do Espírito Santo Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/ies-tv-igreja-do-espirito-santo"
+            ],
+            "m3u8_url": [
+                "https://iescc.ddns.net/iestv/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/ies-tv-igreja-do-espirito-santo",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "nasci-para-cantar": {
+        "nombre": "Nasci Para Cantar Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/nasci-para-cantar"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/nasci-para-cantar",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "way-tv": {
+        "nombre": "Way TV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/way-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/way-tv",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "radiopaixaofm": {
+        "nombre": "Web TV Canal R Paixão FM",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.samcast.com.br/video/romeu6719/2/true/true/c3Rtdjguc2FtY2FzdC5jb20uYnIrMQ==/16:9//nao/nao?autoplay=1",
+                "https://radiopaixaofm.site/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiopaixaofm.site/",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "andorra-difusio": {
+        "nombre": "Andorra Difusió Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://players.cdn.enetres.net/live/56495F77FD124FECA75590A906965F2C021",
+                "https://www.andorradifusio.ad/endirecte/atv",
+                "https://www.cxtv.com.br/tv-ao-vivo/andorra-difusio"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/andorra-difusio",
+        "país": "ad",
+        "categoría": "news"
+    },
+    "loria-tv-andorra-en-directo-online": {
+        "nombre": "Lòria TV Andorra en directo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/v4BNUq5-Edo?rel=0&autoplay=0&cc_lang_pref=en&cc_load_policy=undefined&color=red&controls=0&disablekb=1&enablejsapi=1&fs=1&hl=en&iv_load_policy=3&mute=0&playsinline=1",
+                "https://iteleflix.com/ver/loria-tv-andorra-en-directo-online/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/loria-tv-andorra-en-directo-online/",
+        "país": "ad",
+        "categoría": "news"
+    },
+    "kronehit-tv": {
+        "nombre": "KroneHIT TV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "/info/alles-ueber-kronehit/tv/?content=1",
+                "https://www.kronehit.at/info/alles-ueber-kronehit/tv/?content=1",
+                "https://www.kronehit.at/info/alles-ueber-kronehit/tv/",
+                "https://www.cxtv.com.br/tv-ao-vivo/kronehit-tv"
+            ],
+            "m3u8_url": [
+                "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kronehit-tv",
+        "país": "at",
+        "categoría": "news"
+    },
+    "expo-channel": {
+        "nombre": "Expo Channel Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/expo-channel"
+            ],
+            "m3u8_url": [
+                "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/expo-channel",
+        "país": "at",
         "categoría": "news"
     },
     "gbnewsonline": {
