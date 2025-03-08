@@ -23827,6 +23827,175 @@
         "país": "ad",
         "categoría": "news"
     },
+    "news-24": {
+        "nombre": "News 24 Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.balkanweb.com/tvplayer/news-24.html?v=5",
+                "https://www.cxtv.com.br/tv-ao-vivo/news-24"
+            ],
+            "m3u8_url": [
+                "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.balkanweb.com/#gsc.tab=0",
+        "país": "al",
+        "categoría": "news"
+    },
+    "abc-news-albania": {
+        "nombre": "ABC News Albania Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://abcnews.al/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "abcnewsal"
+        },
+        "sitio_oficial": "https://abcnews.al/",
+        "país": "al",
+        "categoría": "news"
+    },
+    "tv-zimbo": {
+        "nombre": "Tv Zimbo Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/embed.html?autoplay=true&muted=true&fullscreen=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvzimbo.ao/tv/ao-vivo/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tvi-africa": {
+        "nombre": "TVI África Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/tvi-africa"
+            ],
+            "m3u8_url": [
+                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-africa",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tpa-internacional": {
+        "nombre": "TPA Internacional Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/67qOGuBiuks?si=o0Pnc4OWuXzVrNzE",
+                "https://www.cxtv.com.br/tv-ao-vivo/tpa-internacional",
+                "https://tpaonline.ao/em-directo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tpaonline.ao/em-directo/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "muzangala-tv": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.logicahost.com.br/muzangala.html",
+                "https://www.cxtv.com.br/tv-ao-vivo/muzangala-tv",
+                "https://muzangala.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://muzangala.tv/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "kk-tv": {
+        "nombre": "KK TV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://kktv.co.ao/",
+                "https://www.cxtv.com.br/tv-ao-vivo/kk-tv"
+            ],
+            "m3u8_url": [
+                "https://w1.manasat.com:443/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kktv.co.ao/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tvnz-1": {
+        "nombre": "TVNZ 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvnz.co.nz/livetv/tvnz-1",
+                "https://www.tvnz.co.nz/livetv/tvnz-2",
+                "https://www.tvnz.co.nz/livetv/tvnz-duke"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvnz.co.nz",
+        "país": "nz",
+        "categoría": "news"
+    },
+    "areena-yle": {
+        "nombre": "Areena Yle",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://areena.yle.fi/suorat",
+                "https://areena.yle.fi/suorat",
+                "https://areena.yle.fi/suorat"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://areena.yle.fi/tv",
+        "país": "fi",
+        "categoría": "news"
+    },
     "kronehit-tv": {
         "nombre": "KroneHIT TV Ao Vivo",
         "logo": "",
