@@ -10680,7 +10680,9 @@
         "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://agalega.gal/videos/76475-tvg"
+                "https://agalega.gal/videos/76475-tvg",
+                "https://www.agalega.gal/videos/77550-tv-g2",
+                "https://www.agalega.gal/videos/77552-en-directo-radio-galega"
             ],
             "m3u8_url": [
                 "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8"
@@ -10691,6 +10693,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://agalega.gal/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "Televisión-de-Galicia": {
+        "nombre": "Televisión de Galicia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.agalega.gal/videos/76475-tvg"
+            ],
+            "m3u8_url": [
+                "https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8"
+            ],
+            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TVG",
         "país": "es",
         "categoría": "news"
     },
@@ -11347,21 +11368,6 @@
         "país": "es",
         "categoría": "news"
     },
-    "Televisión-de-Galicia": {
-        "nombre": "Televisión de Galicia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TVG",
-        "país": "es",
-        "categoría": "news"
-    },
     "M-mas": {
         "nombre": "M+",
         "logo": "",
@@ -11411,6 +11417,24 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ==",
+        "país": "es",
+        "categoría": "news"
+    },
+    "heartland": {
+        "nombre": "Heartland",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.lightcast.com/embed/player.php?id=50167&type=live",
+                "https://www.watchheartlandtv.com/heartland-live-feed"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.watchheartlandtv.com",
         "país": "es",
         "categoría": "news"
     },
@@ -24648,6 +24672,24 @@
         },
         "sitio_oficial": "https://www.antvklik.com/",
         "país": "id",
+        "categoría": "news"
+    },
+    "Rai-News-24": {
+        "nombre": "Rai News 24 - La diretta in streaming video su RaiPlay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.raiplay.it/dirette/rainews24",
+                "https://www.rainews.it/notiziari/rainews24"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.raiplay.it",
+        "país": "it",
         "categoría": "news"
     },
     "senato": {
