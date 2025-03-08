@@ -10779,7 +10779,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://nebunexa.co/clappr/?id=CUATRO"
+                "https://nebunexa.co/clappr/?id=CUATRO",
+                "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
+                "https://tele-libre.org/en-vivo-online/la-cuatro/embed2.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -10788,6 +10790,24 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.mitele.uno/cuatro/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "Telecinco": {
+        "nombre": "Telecinco",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/telecinco/embed.php",
+                "https://tele-libre.org/en-vivo-online/telecinco/embed2.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.org/en-vivo-online/telecinco/",
         "país": "es",
         "categoría": "news"
     },
@@ -10920,10 +10940,14 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8",
-                "https://www.mitele.uno/player/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8"
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/ccxwhsfcnq?autoplay=1",
+                "https://www.canal4tenerife.tv/directo/",
+                "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
+                "https://tele-libre.org/en-vivo-online/la-cuatro/embed2.php"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -10955,7 +10979,10 @@
         "nombre": "CNN en Español",
         "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tviplayer.iol.pt/direto/CNN",
+                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPW9kaXNlYQ=="
+            ],
             "m3u8_url": [],
             "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
             "yt_embed": "",
@@ -10967,10 +10994,13 @@
         "categoría": "news"
     },
     "nuestra-comarca-television": {
-        "nombre": "nuestra comarca television",
+        "nombre": "nuestra comarca television Toros",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/toros/embed.php",
+                "https://tele-libre.org/en-vivo-online/toros/embed2.php"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -10982,10 +11012,12 @@
         "categoría": "news"
     },
     "canal-quickie": {
-        "nombre": "Canal Quickie",
+        "nombre": "Canal Quickie NOVA",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPW5vdmE="
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -10997,10 +11029,14 @@
         "categoría": "news"
     },
     "canal-blunatv": {
-        "nombre": "Blunatv",
+        "nombre": "Blunatv dmax",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/dmax/embed.php",
+                "https://tele-libre.org/en-vivo-online/dmax/embed2.php",
+                "https://tele-libre.org/en-vivo-online/dmax/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -11049,6 +11085,8 @@
         "señales": {
             "iframe_url": [
                 "https://nebunexa.co/clappr/?id=ANTENA3",
+                "https://tele-libre.org/en-vivo-online/antena-3/embed.php",
+                "https://tele-libre.org/en-vivo-online/antena-3/embed2.php",
                 "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM="
             ],
             "m3u8_url": [],
@@ -11297,6 +11335,58 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@TVG",
+        "país": "es",
+        "categoría": "news"
+    },
+    "M-mas": {
+        "nombre": "M+",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/m-plus/embed.php",
+                "https://tele-libre.org/en-vivo-online/m-plus/embed2.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.org/en-vivo-online/m-plus/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "DKISS": {
+        "nombre": "DKISS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz",
+        "país": "es",
+        "categoría": "news"
+    },
+    "amc-crimen": {
+        "nombre": "AMC CRIMEN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ==",
         "país": "es",
         "categoría": "news"
     },
@@ -31230,6 +31320,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/tlnovelas/embed.php",
+                "https://tele-libre.org/en-vivo-online/tlnovelas/embed2.php",
                 "https://www.cablevisionhd.com/stream/univisiontlnovelas.php",
                 "https://www.cablevisionhd.com/stream2/univisiontlnovelas.php",
                 "https://www.cablevisionhd.com/stream3/univisiontlnovelas.php",
@@ -34308,12 +34400,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/univision/embed.php",
+                "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
+                "https://tele-libre.org/en-vivo-online/univision/embed2.php",
                 "https://tele-libre.org/en-vivo-online/univision/embed2.php",
                 "https://embed.sdfgnksbounce.com/embed/univision.html"
             ],
             "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -34332,7 +34425,7 @@
                 "https://embed.sdfgnksbounce.com/embed/univision.html"
             ],
             "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -35737,6 +35830,24 @@
             "twitch_id": "aidoruteevee"
         },
         "sitio_oficial": "https://www.twitch.tv/aidoruteevee",
+        "país": "jp",
+        "categoría": "news"
+    },
+    "ntv_news": {
+        "nombre": "日テレNEWS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWhpc3RvcmlhZXM=",
+                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRhcms="
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCuTAXTexrhetbOe3zgskJBQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://news.ntv.co.jp/",
         "país": "jp",
         "categoría": "news"
     },
