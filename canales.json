@@ -7879,6 +7879,24 @@
         "país": "co",
         "categoría": "news"
     },
+    "canal-trece": {
+        "nombre": "Canal Trece",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.instantvideocloud.net/#/embed/c6bf0e38",
+                "https://canaltrece.com.co/canal-trece/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canaltrece.com.co",
+        "país": "co",
+        "categoría": "news"
+    },
     "rcpc-9": {
         "nombre": "RCPC",
         "logo": "",
@@ -11383,7 +11401,10 @@
         "nombre": "El Toro TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://eltorotv.com/directo-tv",
+                "https://clubdeamigos.eltorotv.com/tv-en-directo/"
+            ],
             "m3u8_url": [
                 "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
             ],
@@ -11551,6 +11572,198 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.watchheartlandtv.com",
+        "país": "es",
+        "categoría": "news"
+    },
+    "trece": {
+        "nombre": "Trece",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cope.es/directos/trece",
+                "https://players.cdn.enetres.net/live/091DB7AFBD77442B9BA2F141DCC182F5021"
+            ],
+            "m3u8_url": [
+                "https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cope.es",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canaltrece": {
+        "nombre": "Canal Trece",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://sinartdigital.com/envivo-canaltrece",
+                "https://sinartdigital.com/envivo-lanacional"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sinartdigital.com/envivo-canaltrece",
+        "país": "es",
+        "categoría": "news"
+    },
+    "mirametv": {
+        "nombre": "Mírametv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mirametv.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mirametv.com/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "costanoroestetv": {
+        "nombre": "Costanoroestetv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://costanoroestetv.net/"
+            ],
+            "m3u8_url": [
+                "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
+        "país": "es",
+        "categoría": "news"
+    },
+    "RTL5-News": {
+        "nombre": "RTL 102.5 News",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
+        "señales": {
+            "iframe_url": [
+                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
+                "https://play.rtl.it/live/1/radiovisione/"
+            ],
+            "m3u8_url": [
+                "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "Vivatvonline": {
+        "nombre": "Vivatvonline",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
+                "https://www.vivatvonline.com/tv-en-vivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivatvonline.com/tv-en-vivo",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "maraotv": {
+        "nombre": "Maraotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televizia.org/marao/",
+                "https://www.televizia.org/rioni/",
+                "https://www.televizia.org/comedy-arxi/",
+                "https://www.televizia.org/tvpirveli/",
+                "https://www.televizia.org/silk-universal/",
+                "https://www.televizia.org/gds/",
+                "https://www.televizia.org/formula/",
+                "https://www.televizia.org/pirveli-arxi-hd/",
+                "https://www.televizia.org/pirveli-arxi/",
+                "https://www.televizia.org/imedihq/",
+                "https://www.televizia.org/rustavi2/",
+                "https://www.televizia.org/mtavari-arxi/",
+                "https://www.televizia.live/ge/maraotv"
+            ],
+            "m3u8_url": [
+                "https://streaming-hls3.televizia.org/hls/marao.m3u8",
+                "https://streaming-hls4.televizia.org/hls/rioni.m3u8",
+                "https://streaming-hls1.televizia.org/hls/comedy.m3u8",
+                "https://streaming-hls2.televizia.org/hls/tvpirveli.m3u8",
+                "https://streaming-hls1.televizia.org/hls/silk.m3u8",
+                "https://streaming-hls4.televizia.org/hls/gds.m3u8",
+                "https://streaming-hls3.televizia.org/hls/formula.m3u8",
+                "https://streaming-hls4.televizia.org/hls/pirveliarxi.m3u8",
+                "https://streaming-hls2.televizia.org/hls/pirveliarxi.m3u8",
+                "https://streaming-hls1.televizia.org/hls/imedi.m3u8",
+                "https://streaming-hls4.televizia.org/hls/imedi.m3u8",
+                "https://streaming-hls3.televizia.org/hls/mtavari.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televizia.org/marao/",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "rustavi2": {
+        "nombre": "Rustavi2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.myvideo.ge/embed.html?chan=rustavi2hqnew&epg=false",
+                "https://rustavi2.ge/en/dvr1",
+                "https://tv.myvideo.ge/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustavi2.ge/en/dvr1",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "martv": {
+        "nombre": "Martv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://martv.live/"
+            ],
+            "m3u8_url": [
+                "http://iptv.services.everywan.net:8080/martv-web/video.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
         "país": "es",
         "categoría": "news"
     },
@@ -31421,6 +31634,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://dk1250.mx/en-vivo-por-youtube/",
+        "país": "mx",
+        "categoría": "radio"
+    },
+    "ryta": {
+        "nombre": "Ryta",
+        "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://ryta.com.mx/envivo/"
+            ],
+            "m3u8_url": [
+                "//60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ryta.com.mx",
         "país": "mx",
         "categoría": "radio"
     },
