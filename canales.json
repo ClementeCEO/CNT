@@ -2804,7 +2804,10 @@
         "nombre": "Cadena 3 Argentina",
         "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/VGmbqJR1yug?si=sElPWWTskcAvL-13?mute=1&rel=0&autoplay=1&wmode=transparent&showinfo=0&enablejsapi=1",
+                ""
+            ],
             "m3u8_url": [],
             "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
             "yt_embed": "",
@@ -2924,6 +2927,98 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "diputados": {
+        "nombre": "Cámara de Diputados",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.diputados.gob.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "rivadavia": {
+        "nombre": "Rivadavia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rivadavia.com.ar/video/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rivadavia.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "grupo-television-litoral": {
+        "nombre": "Grupo Television Litoral",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x8z8w7c?autoplay=1#amp=1",
+                "https://www.elocho.tv/el-ocho-en-vivo.html",
+                "https://www.elonce.tv/senal-en-vivo/",
+                "https://www.rosario3.com/el-tres-en-vivo/index.html",
+                "https://www.rosario3.com/radios/fmplus.html%20",
+                "https://www.fmvida.com.ar/",
+                "https://www.rosario3.com/radios/radio2.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCy-r-BQ5BQRU6rzGS73-WBQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.grupotelevisionlitoral.com/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "cadena-heat": {
+        "nombre": "Cadena Heat",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://api.apolomedia.com/player/embed/playerId/JOP6191557150612/contentId/133902",
+                "https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web",
+                "https://www.cadenaheat.com/radio-en-vivo/cadena-heat"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cadenaheat.com/radio-en-vivo/cadena-heat",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "cadena-ser": {
+        "nombre": "Cadena Ser Argentina",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/e7zMKLv7p7w?controls=1&mute=1&autoplay=1&rel=1&start=0&embedConfig=%5Bobject%20Object%5D&enablejsapi=1&origin=https%3A%2F%2Fcadenaser.com&widgetid=1&forigin=https%3A%2F%2Fcadenaser.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fcadenaser.com%2F&vf=6",
+                "https://cadenaser.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cadenaser.com/",
         "país": "ar",
         "categoría": "news"
     },
