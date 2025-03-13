@@ -8706,7 +8706,7 @@
         "categoría": "general"
     },
     "ondambiental-tv-bogota": {
-        "nombre": "",
+        "nombre": "Ondambientaltv",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -11647,26 +11647,6 @@
         },
         "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
         "país": "es",
-        "categoría": "news"
-    },
-    "RTL5-News": {
-        "nombre": "RTL 102.5 News",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
-        "señales": {
-            "iframe_url": [
-                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
-                "https://play.rtl.it/live/1/radiovisione/"
-            ],
-            "m3u8_url": [
-                "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "ge",
         "categoría": "news"
     },
     "Vivatvonline": {
@@ -16443,9 +16423,7 @@
                 "https://playerv.streamingvip.click/video/primaveratv4/1/true/false/c3Rtdi5zdHJlYW1pbmd2aXAuY2xpY2srMQ==/16:9/",
                 "https://tvgratisperu.com/pages/peru/re/primavera15_op1.php"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -25354,6 +25332,25 @@
         "país": "id",
         "categoría": "news"
     },
+    "tv8-sk": {
+        "nombre": "TV8 SK",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tv8.sk/wp/?p=104"
+            ],
+            "m3u8_url": [
+                "https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8"
+            ],
+            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tv8.sk/wp/?p=104",
+        "país": "sk",
+        "categoría": "news"
+    },
     "Rai-News-24": {
         "nombre": "Rai News 24 - La diretta in streaming video su RaiPlay",
         "logo": "",
@@ -25369,6 +25366,275 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.raiplay.it",
+        "país": "it",
+        "categoría": "news"
+    },
+    "LA7": {
+        "nombre": "LA7",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.la7.it/dirette-tv"
+            ],
+            "m3u8_url": [
+                "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "tv8": {
+        "nombre": "TV8",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
+        "señales": {
+            "iframe_url": [
+                "https://webserver.one/Live/Tv_8_Online.php",
+                "https://webserver.one/Live/Tv_8_Prz.php",
+                "https://webserver.one/Live/Tv_8_Prm.php",
+                "https://www.tv8.it/streaming"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://webtvhd.com/tv8-hd-live-stream-online.php",
+        "país": "it",
+        "categoría": "news"
+    },
+    "donnatv": {
+        "nombre": "Donnatv",
+        "logo": "https://sportitaliadd.akamaized.net/video_0/custom/logo/logo_footer_50.Logo-DonnaTV-1024.png",
+        "señales": {
+            "iframe_url": [
+                "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "hhttps://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
+        "país": "it",
+        "categoría": "news"
+    },
+    "TV2000": {
+        "nombre": "TV2000",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",
+        "señales": {
+            "iframe_url": [
+                "https://diretta.tv2000.it/?channel=tv2000_live",
+                "https://www.tv2000.it/live/"
+            ],
+            "m3u8_url": [
+                "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "QVC": {
+        "nombre": "QVC",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.qvc.it/content/shop-live-tv.html"
+            ],
+            "m3u8_url": [
+                "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "Rai-News-24Yoyo": {
+        "nombre": "Rai News 24",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.raiplay.it/dirette/rainews24",
+                "https://www.raiplay.it/dirette/raiyoyo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "italia2news": {
+        "nombre": "Italia2news",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png",
+        "señales": {
+            "iframe_url": [
+                "https://player.streamshow.it/hosted/italia2.php?autoplay=true&muted=false&"
+            ],
+            "m3u8_url": [
+                "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.italia2news.it/",
+        "país": "it",
+        "categoría": "news"
+    },
+    "Alma-TV": {
+        "nombre": "Alma TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png",
+        "señales": {
+            "iframe_url": [
+                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0"
+            ],
+            "m3u8_url": [
+                "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1741830142~acl=/*~hmac=01bd6010ba323b6a909b4d26ed5765613050fcdfcc25dec485fe4ecf670bf54f"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://almatv.tv/",
+        "país": "it",
+        "categoría": "news"
+    },
+    "Radio-105-TV": {
+        "nombre": "BOM CHANNEL",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvdream.net/web-tv/bomchannel/",
+                "https://www.105.net/sezioni/12038/tv"
+            ],
+            "m3u8_url": [
+                "https://5f22d76e220e1.streamlock.net:443/canale6/canale6/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvdream.net/web-tv/bomchannel/",
+        "país": "it",
+        "categoría": "news"
+    },
+    "Padre-Pio-TV": {
+        "nombre": "Padre Pio TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.padrepio.tv/diretta-tv/",
+                "https://www.padrepio.it/padre-pio-tv-live/"
+            ],
+            "m3u8_url": [
+                "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "Deejay-TV": {
+        "nombre": "Deejay TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.deejay.it/tv/"
+            ],
+            "m3u8_url": [
+                "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "RADIO-KISS-KISS-TV": {
+        "nombre": "RADIO KISS KISS TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png",
+        "señales": {
+            "iframe_url": [
+                "https://kisskiss.it/kiss-kiss-tv/",
+                "https://kisskissnapoli.it/kiss-kiss-napoli-tv/"
+            ],
+            "m3u8_url": [
+                "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+        "país": "it",
+        "categoría": "news"
+    },
+    "RADIOFRECCIA": {
+        "nombre": "RADIOFRECCIA",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png",
+        "señales": {
+            "iframe_url": [
+                "https://play.rtl.it/live/17/radiofreccia-radiovisione/"
+            ],
+            "m3u8_url": [
+                "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://play.rtl.it/live/17/radiofreccia-radiovisione/",
+        "país": "it",
+        "categoría": "news"
+    },
+    "RTL5-News": {
+        "nombre": "RTL 102.5 News",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
+        "señales": {
+            "iframe_url": [
+                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
+                "https://play.rtl.it/live/1/radiovisione/"
+            ],
+            "m3u8_url": [
+                "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
         "país": "it",
         "categoría": "news"
     },
