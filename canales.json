@@ -36179,10 +36179,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://v.iqilu.com/live/shpd/",
                 "https://yeslivetv.com/channels/rthk34/"
             ],
             "m3u8_url": [
-                "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd"
+                "https://livedoc.cgtn.com/200d/prog_index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -36190,6 +36191,27 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://gitee.com/baocaien/tvbox",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "TVB翡翠台-noticias": {
+        "nombre": "TVB翡翠台",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://iptv345.com/?act=play&token=5ecd9ca9fd8afe26fa4004310ca90f7b&tid=gt&id=5",
+                "https://iptv345.com/?act=play&token=e20f71abd396a7c36d5f37d9ecbb4029&tid=itv&id=1",
+                "https://yeslivetv.com/channels/tvb-jade/"
+            ],
+            "m3u8_url": [
+                "https://livedoc.cgtn.com/200d/prog_index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iptv345.com/?act=home",
         "país": "cn",
         "categoría": "news"
     },
@@ -36207,6 +36229,113 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://gitee.com/baocaien/tvbox",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "萧山生活频道-noticias": {
+        "nombre": "萧山生活频道 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/dxzhang456/collect-tv-txt/blob/c2a31c4824b0a8fb4b3637b0195489d58383aba1/collect-tv/history/output_20240615.txt#L1478",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "贵南综合-noticias": {
+        "nombre": "贵南综合 Noticias 凤凰中文",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://iptv345.com/?act=play&token=1843c71e5c9e97bab4514375753e0ae8&tid=ty&id=1"
+            ],
+            "m3u8_url": [
+                "https://k44991.kylintv.tv/live/pxna_iphone.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/dogwalkerg/iptv-api/blob/6a8ef18bd1534cfff46fd732898a5f69233083d3/output/result.txt#L1146",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "龙井综合": {
+        "nombre": "龙井综合",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://p.ytelc.com/videojsflv.html?id=http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv",
+                "https://www.fengshows.com/live"
+            ],
+            "m3u8_url": [
+                "https://k44991.kylintv.tv/live/pxna_iphone.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/dxzhang456/collect-tv-txt/blob/c2a31c4824b0a8fb4b3637b0195489d58383aba1/collect-tv/history/output_20240615.txt#L1478",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "哈尔滨新闻综合": {
+        "nombre": "哈尔滨新闻综合",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://stream.hrbtv.net/xwzh/sd/live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/otoxiyi/tvxz/blob/1d263b5b0977cb06c3a6993c28ecda097a8c857f/TV/zzzb.txt#L1965",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "凤凰资讯": {
+        "nombre": "凤凰资讯",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctv.com.tw/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "津南一套": {
+        "nombre": "津南一套",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Zhang-S-g/box/blob/90a8ebabf6d1e340419270f66008d0dd87a1393d/tvlive.txt#L1560",
         "país": "cn",
         "categoría": "news"
     },
