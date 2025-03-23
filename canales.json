@@ -35232,8 +35232,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.bfmtv.com/en-direct/",
-                "https://www.bfmtv.com/news-24-7/"
+                "https://players.brightcove.net/876450610001/19dszYXgm_default/index.html?videoId=6346069778112",
+                "https://azrotv.com/pyr/?id=aHR0cHM6Ly9taXQyLWNkbi1lZGdlLWxpdmUwNi5wZmQuc2ZyLm5ldC9iZm0tbmNkbi1saXZlLXByZW1pdW0tcGFsMS5wZmQuc2ZyLm5ldC9zaWQ9MDU0YWthcG1pbmphc2Vrc21rcmcvc2hscy9MSVZFJEJGTV9UVi9pbmRleC5tM3U4P3N0YXJ0PUxJVkUmZW5kPUVORA==",
+                "http://azrotv.com/iphone/news/ch/bfm.php",
+                "https://www.ledirect.fr/iframe-bfmtv",
+                "https://tv-programme.com/bfm-tv/direct"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -35362,6 +35365,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.livehdtv.com/token.php?stream=tf1",
                 "https://www.livehdtv.com/embed/ch123/"
             ],
             "m3u8_url": [],
@@ -35379,6 +35383,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
                 "https://www.livehdtv.com/embed/cnews/"
             ],
             "m3u8_url": [],
@@ -35395,10 +35400,14 @@
         "nombre": "W9 Live",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://livetvde.net/w9/index.m3u8?token=2e9221f932f2d1624d32c66ab377d8f732394937-548081b47c13b3899827997b52afd740-1720908681-1720897881"
+            "iframe_url": [
+                "https://www.livehdtv.com/token.php?stream=w9",
+                "https://azrotv.com/local/drPlayer/?id=w9",
+                "https://daddylive1.ru/live/stream-30.php",
+                "https://sslivetv.com/live/680-",
+                "http://azrotv.com/iphone/Fr/ch2/w9.php"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35408,13 +35417,16 @@
         "país": "fr",
         "categoría": "news"
     },
-    "tv5": {
-        "nombre": "TV5",
-        "logo": "",
+    "tv5-MONDE": {
+        "nombre": "TV5 MONDE",
+        "logo": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://europe.tv5monde.com/en/live",
+                "https://github.com/streamlink/streamlink/issues/5496"
+            ],
             "m3u8_url": [
-                "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8%22"
+                "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -35425,13 +35437,49 @@
         "país": "fr",
         "categoría": "news"
     },
-    "gulli": {
-        "nombre": "Gulli",
-        "logo": "",
+    "tv5-MONDE": {
+        "nombre": "RL PRO TV",
+        "logo": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"
+                "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/bermufine/news?tab=readme-ov-file",
+        "país": "fr",
+        "categoría": "news"
+    },
+    "ONE-TV": {
+        "nombre": "ONE TV",
+        "logo": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/bermufine/BeroMain",
+        "país": "fr",
+        "categoría": "news"
+    },
+    "gulli": {
+        "nombre": "Gulli En Direct - French Kids Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/gulli/"
+            ],
+            "m3u8_url": [
+                "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -35446,10 +35494,10 @@
         "nombre": "Arte",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8"
+            "iframe_url": [
+                "https://www.livehdtv.com/token.php?stream=artede"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35460,12 +35508,13 @@
         "categoría": ""
     },
     "20MinutesTV": {
-        "nombre": "/20MinutesTV",
+        "nombre": "20MinutesTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=20MinutesTV.fr",
-                "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf"
+                "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/src/qvrlxxf/zone/1/showtitle/1/",
+                "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
+                "https://tv-programme.com/20-minutes-tv-ile-de-france/direct"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -35482,11 +35531,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=4KurdHD.fr"
+                "https://kurdistantv.net/ku/live",
+                "https://www.kurdmax.tv/live-stream",
+                "https://karwan.tv/4-kurd-tv.html"
             ],
-            "m3u8_url": [
-                "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35496,11 +35545,14 @@
         "país": "fr",
         "categoría": ""
     },
-    "la16tv-tv": {
-        "nombre": "La16tv TV",
+    "la16tv-CNEWS": {
+        "nombre": "CNEWS - La16tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
+                "https://www.livehdtv.com/cnews/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -35511,11 +35563,15 @@
         "país": "fr",
         "categoría": "news"
     },
-    "moderateurtvadp-tv": {
-        "nombre": "Moderateurtvadp TV",
+    "npo-1-moderateurtvadp": {
+        "nombre": "NPO 1 - Moderateurtvadp",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/token.php?stream=npo1",
+                "https://npo.nl/start/live",
+                "https://www.livehdtv.com/npo-1/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -35526,11 +35582,34 @@
         "país": "fr",
         "categoría": "news"
     },
+    "EUROTV": {
+        "nombre": "EUROTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=eurochgreece",
+                "https://www.eurotv.gr/live-tv/"
+            ],
+            "m3u8_url": [
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.eurotv.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
     "hln-be": {
         "nombre": "HLN be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=HLN&auto=false",
+                "https://www.parsatv.com/name=HLN#news"
+            ],
             "m3u8_url": [
                 "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
             ],
