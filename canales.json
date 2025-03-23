@@ -12616,14 +12616,14 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.livehdtv.com/channel-13-live/",
                 "https://babaktv.com/embed/reshet-13-link01/",
                 "https://babaktv.com/embed/reshet-13-link02/",
                 "https://babaktv.com/embed/reshet-13-link03/"
             ],
             "m3u8_url": [
-                "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8",
-                "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8",
-                "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8"
+                "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_1.m3u8",
+                "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -12639,11 +12639,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD",
                 "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD"
             ],
-            "m3u8_url": [
-                "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?hdnea=st%3D1722629947%7Eexp%3D1722630847%7Eacl%3D%2F*%7Ehmac%3D3b3fe849c60731de999625c844d78a17a371c959fa46369d5cd1b3b22e96a4bd"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
