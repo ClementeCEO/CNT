@@ -5201,12 +5201,10 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x91tbcm?syndication=278713",
-                "https://www.dailymotion.com/embed/video/x8ra7t7",
-                "https://geo.dailymotion.com/player/x5poh.html?video=x91tbcm&autoplay=true&volume=0"
+                "https://www.reduno.com.bo/senal-en-vivo",
+                "https://www.boliviapuntotv.com/red-uno/"
             ],
             "m3u8_url": [
-                "https://live-c.cf.dmcdn.net/sec2(TJOGpTnvZ2wN0STUqj8QtJdUM3rUcmlZpOZhNJGUXE8NCN1La_JLKH78Zvv00PShsh2vhe6nK1SXSvwAauJsLmi4eP1uTKdHlrLZWh9DvV8)/dm/3/x91tbcm/d/live-720.m3u8",
                 "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
             ],
             "yt_id": "",
@@ -5223,8 +5221,10 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php"
+                "https://television.unitel.bo/vivo",
+                "https://www.boliviapuntotv.com/unitel/",
+                "https://geo.dailymotion.com/player/xt0om.html?video=x7wzxiw",
+                "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg"
             ],
             "m3u8_url": [
                 "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
@@ -5234,7 +5234,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://television.unitel.bo/vivo",
+        "sitio_oficial": "https://television.unitel.bo/",
         "país": "bo",
         "categoría": "news"
     },
@@ -5243,11 +5243,11 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://video.live.com.bo/live-stream-video-widget/megavision"
+                "https://tvmegavision.com/",
+                "https://video.live.com.bo/live-stream-video-widget/megavision",
+                "https://www.megavisiontvrd.com/"
             ],
-            "m3u8_url": [
-                "https://video.live.com.bo:3999/live/megavisionlive.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5282,12 +5282,15 @@
         "país": "bo",
         "categoría": "entertainment"
     },
-    "Megatv-bolivia": {
-        "nombre": "Megatv bolivia",
+    "Megatv-bolivia-boliviapuntotv": {
+        "nombre": "Megatv bolivia - boliviapuntotv",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://video.live.com.bo/live-stream-video-widget/megavision"
+                "https://video.live.com.bo/live-stream-video-widget/megavision",
+                "https://www.boliviapuntotv.com/musica/",
+                "https://www.boliviapuntotv.com/",
+                "https://serenotv.com/video/canal-bolivia-punto-tv/"
             ],
             "m3u8_url": [
                 "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
@@ -5307,12 +5310,10 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://playerv.srvif.com/video/f10tv/1/true/false/V1hwT1UyUkhVbkZTV0ZacVRUQnZlVmxXWkZwa1ZtdDVUMWhSUFE9PStS/16:9/",
+                "https://f10.tv.bo/f10-live/",
                 "https://video.live.com.bo/live-stream-video-widget/f10hd"
             ],
-            "m3u8_url": [
-                "https://stmv1.srvif.com/f10tv/f10tv/chunklist_w1392116423.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5326,7 +5327,9 @@
         "nombre": "Intv",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://in.tv.bo/en-vivo/"
+            ],
             "m3u8_url": [
                 "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
             ],
@@ -5363,11 +5366,13 @@
         "categoría": "news"
     },
     "red-bolivision": {
-        "nombre": "Bolivision",
+        "nombre": "RED Bolivision",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://rumble.com/embed/v58mfdh/?pub=3grnb9"
+                "https://www.boliviapuntotv.com/red-bolivision/",
+                "https://rumble.com/embed/v6ozbta/?pub=4",
+                "https://rumble.com/v6r6wu2-u.s.-bombs-yemen-d.c.-only-cares-about-a-leak-uk-journalist-addresses-spy-a.html"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -5385,11 +5390,10 @@
         "señales": {
             "iframe_url": [
                 "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
-                "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1"
+                "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
+                "https://www.boliviapuntotv.com/atb/"
             ],
-            "m3u8_url": [
-                "https://live-b.cf.dmcdn.net/sec2(JCNtkZ63tCxFu5RiWQ5yhIrJfUOMKZu24A2C5mzey2lIIGqv_NXDtm0beVbhTBH99BEyLEpPqIGlARRCCYh8oGr9nPkWanPNgUwbGR2yVGA)/dm/3/x84eirw/s/live-480.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5403,8 +5407,14 @@
         "nombre": "RTP BOLIVIA",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://www.boliviapuntotv.com/rtp/",
+                "https://rtpbolivia.com.bo/en-vivo/",
+                "https://www.rtp.pt/play/direto/rtp1"
+            ],
+            "m3u8_url": [
+                "https://rtp.noxun.net/hls/stream.m3u8"
+            ],
             "yt_id": "UCPHPu0J-6DDxyl9Fm83Z83Q",
             "yt_embed": "WITKhplhqbU?",
             "yt_playlist": "",
@@ -5435,10 +5445,15 @@
         "nombre": "PlusTLT",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/radioetvunifev",
+                "https://iblups.com/culturafmtaua",
+                "https://iblups.com/redeunamartv",
+                "https://iblups.com/costaricatelevision"
+            ],
             "m3u8_url": [],
             "yt_id": "UCJEg5G72_U5kElMy2Seyh1w",
-            "yt_embed": "Hk_wNUGH7GM?",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -5450,11 +5465,13 @@
         "nombre": "PAT Community",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://glb.bozztv.com/glb/ssh101/pattv/index.m3u8",
-                "https://glb.bozztv.com/glb/ssh101/pattv/index.m3u8"
+            "iframe_url": [
+                "https://www.boliviapuntotv.com/pat/",
+                "https://serenotv.com/video/canal-pat-hd/embed/",
+                "https://www.redpat.tv/envivolpz",
+                "https://serenotv.com/video/canal-pat-hd/"
             ],
+            "m3u8_url": [],
             "yt_id": "UCepJH-129qesEsiwHuD_z3w",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5464,11 +5481,15 @@
         "país": "bo",
         "categoría": "news"
     },
-    "facetas-deportivas": {
-        "nombre": "𝐅𝐀𝐂𝐄𝐓𝐀𝐒",
+    "facetas-deportivas-urbanateve": {
+        "nombre": "𝐅𝐀𝐂𝐄𝐓𝐀𝐒 urbanateve",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/urbanateve",
+                "https://iblups.com/tvamerico",
+                "https://iblups.com/namidia"
+            ],
             "m3u8_url": [
                 "https://master.tucableip.com:443//ftv/index.m3u8",
                 "https://master.tucableip.com/ftv/index.m3u8"
@@ -5482,17 +5503,20 @@
         "país": "bo",
         "categoría": "news"
     },
-    "abyayala": {
-        "nombre": "Abya Yala",
+    "abyayala-huaraztvgo": {
+        "nombre": "Abya Yala - huaraztvgo",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://www.tucableip.com/abyayalatv/",
+                "https://abyayala.tv.bo/en-vivo-2/",
+                "https://iblups.com/huaraztvgo",
+                "https://iblups.com/centraltv12",
+                "https://iblups.com/ybytyruzu",
+                "https://iblups.com/radio760am",
+                "https://iblups.com/info24hdtv",
                 "https://www.tucableip.com/abyayalatv/"
             ],
-            "m3u8_url": [
-                "https://master.tucableip.com/abyayalatv/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5502,11 +5526,17 @@
         "país": "bo",
         "categoría": "news"
     },
-    "universidad-san-francisco": {
-        "nombre": "Universidad San Francisco",
+    "universidad-san-francisco-planetaradiotv": {
+        "nombre": "Universidad San Francisco - planetaradiotv",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/tvsanjuan",
+                "https://iblups.com/planetaradiotv",
+                "https://iblups.com/tvradiogospelcristovive",
+                "https://iblups.com/metaleitortv2",
+                "https://planetaradiotv.com/index.php/tv-en-vivo/"
+            ],
             "m3u8_url": [
                 "https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8",
                 "https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8"
@@ -5520,11 +5550,18 @@
         "país": "bo",
         "categoría": "news"
     },
-    "canal9tvu": {
-        "nombre": "Canal9 Tvu",
+    "canal9tvu-mastertvangra": {
+        "nombre": "Canal9 Tvu mastertvangra",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
+                "https://iblups.com/amigofiel",
+                "https://iblups.com/testerman",
+                "https://iblups.com/tvappmobile1",
+                "https://iblups.com/tvdiaadia",
+                "https://iblups.com/mastertvangra",
+                "https://iblups.com/tuga",
+                "https://iblups.com/fmmaximopaz",
                 "https://www.uajms.edu.bo/canal9tvu/"
             ],
             "m3u8_url": [],
@@ -5537,11 +5574,18 @@
         "país": "bo",
         "categoría": "news"
     },
-    "tvu-umsa": {
-        "nombre": "Tvu Umsa",
+    "tvu-umsa-hinchastv": {
+        "nombre": "Tvu Umsa hinchastv",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/hinchastv",
+                "https://iblups.com/unciontv",
+                "https://iblups.com/tvguadalupeoficial",
+                "https://iblups.com/consorciolbj",
+                "https://www.guadaluperadio.com/tv",
+                "https://iblups.com/ecleticatv"
+            ],
             "m3u8_url": [
                 "https://video.live.com.bo:3003/live/tvuumsalive.m3u8",
                 "https://video.live.com.bo:3003/live/tvuumsalive.m3u8"
@@ -5555,11 +5599,20 @@
         "país": "bo",
         "categoría": "news"
     },
-    "evo": {
-        "nombre": "EVO",
+    "evo-quaere": {
+        "nombre": "EVO Quaere",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/quaere",
+                "https://iblups.com/onondiveh",
+                "https://iblups.com/estacion1013",
+                "https://iblups.com/unykatv",
+                "https://iblups.com/laincontrastabletv",
+                "https://iblups.com/radiopopulartv",
+                "https://iblups.com/canal33ayacucho",
+                "https://iblups.com/tvbilac"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -5570,12 +5623,17 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Cadenaa": {
-        "nombre": "Cadenaa",
+    "Cadenaa-tvdosala": {
+        "nombre": "Cadenaa Tvdosala",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/cadenaa/"
+                "https://conceptoweb-studio.com/radio/video/cadenaa/",
+                "https://iblups.com/tvdosala",
+                "https://iblups.com/tvupando",
+                "https://iblups.com/tvplayaaovivo",
+                "https://iblups.com/stereobox",
+                "https://iblups.com/lokurafmtv"
             ],
             "m3u8_url": [
                 "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
@@ -5594,7 +5652,13 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://tv.bitstreaming.net/live-stream-video-widget/palenquetv"
+                "https://tv.bitstreaming.net/live-stream-video-widget/palenquetv",
+                "https://iblups.com/webradiocamarrotv",
+                "https://iblups.com/causacomuntv",
+                "https://iblups.com/showmarques",
+                "https://iblups.com/telejarabacoa",
+                "https://iblups.com/radiooasisdr",
+                "https://iblups.com/tvplayaaovivo"
             ],
             "m3u8_url": [
                 "https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8"
@@ -5614,6 +5678,11 @@
         "señales": {
             "iframe_url": [
                 "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
+                "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
+                "https://iblups.com/bunkerdacultura",
+                "https://iblups.com/radiometaleitor",
+                "https://iblups.com/gentv173caba",
+                "https://iblups.com/spacefmibiuna",
                 "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision"
             ],
             "m3u8_url": [
@@ -5629,14 +5698,21 @@
         "país": "bo",
         "categoría": "news"
     },
-    "todo-noticias-tarija": {
-        "nombre": "Todo oticias Tarija",
+    "todo-noticias-tarija-silver2024": {
+        "nombre": "Todo oticias Tarija silver2024",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/silver2024",
+                "https://iblups.com/lamega2021",
+                "https://iblups.com/nossafmweb",
+                "https://iblups.com/eventos2025",
+                "https://iblups.com/tvelohimhouston",
+                "https://iblups.com/tvcidadecatanduva"
+            ],
             "m3u8_url": [],
             "yt_id": "UC-PbkLNxemio6lPH7_08A4Q",
-            "yt_embed": "V5FyzghZS7E?",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -5644,11 +5720,19 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Calle-7-Bolivia": {
-        "nombre": "Calle 7 Bolivia",
+    "Calle-7-Bolivia-disneychannelforever": {
+        "nombre": "Calle 7 Bolivia disneychannelforever",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/disneychannelforever",
+                "https://iblups.com/causacomuntv",
+                "https://iblups.com/showmarques",
+                "https://iblups.com/telejarabacoa",
+                "https://iblups.com/radiooasisdr",
+                "https://iblups.com/tvplayaaovivo",
+                "https://iblups.com/stereobox"
+            ],
             "m3u8_url": [],
             "yt_id": "UComN7x6DB7WweEqN8e9SNsA",
             "yt_embed": "",
@@ -5659,11 +5743,18 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Tigo-Sports-Bolivia": {
-        "nombre": "Tigo Sports Bolivia",
+    "Tigo-Sports-Bolivia-tvupando": {
+        "nombre": "Tigo Sports Bolivia tvupando",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iblups.com/tvupando",
+                "https://iblups.com/tvdosala",
+                "https://rumble.com/embed/v6ntso2/?pub=4",
+                "https://rumble.com/embed/v6oqpsc/?pub=4",
+                "https://rumble.com/embed/v6ozm2m/?pub=4",
+                "https://iblups.com/lokurafmtv"
+            ],
             "m3u8_url": [],
             "yt_id": "UCEtMFuN_m5TwqH2AHlx2_Jw",
             "yt_embed": "",
@@ -5674,11 +5765,18 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Contacto-Bolivia": {
-        "nombre": "Contacto Bolivia",
+    "Contacto-Bolivia-FOX-News": {
+        "nombre": "Contacto Bolivia FOX News",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://rumble.com/embed/v6owo3y/?pub=4",
+                "https://rumble.com/embed/v6ozf88/?pub=4",
+                "https://rumble.com/embed/v6oz04u/?pub=4",
+                "https://rumble.com/embed/v6o56uq/?pub=4",
+                "https://rumble.com/embed/v6oyz56/?pub=4",
+                "https://rumble.com/embed/v6on2os/?pub=4"
+            ],
             "m3u8_url": [],
             "yt_id": "UCLfvxJ59q5DJ5N0owaaCrIg",
             "yt_embed": "0qdH1j9KTlw?",
@@ -5689,20 +5787,57 @@
         "país": "bo",
         "categoría": "news"
     },
+    "fastpixtv": {
+        "nombre": "fastpixtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.boliviapuntotv.com/fastpixtv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.boliviapuntotv.com/",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "canal-suram-tv": {
+        "nombre": "Canal Suram TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.suram.com.co/",
+                "https://www.colombia.com/tv/suram-tv-yopal-3907",
+                "https://serenotv.com/video/canal-suram-tv/embed/",
+                "https://rumble.com/embed/v6on2os/?pub=4"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://serenotv.com/video/canal-suram-tv/",
+        "país": "bo",
+        "categoría": "news"
+    },
     "global": {
         "nombre": "Global",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "http://bccdn.xyz:80/4387701968208/945823895687/379",
+                "https://www.vivalivetv.com/channel/global-tv",
+                "https://supertvaovivo.fan/canais-globo-ao-vivo/",
+                "https://www.cxtv.com.br/tv-ao-vivo/rede-brasil-de-televisao-rbtv",
+                "https://www.tvlibrehd.com/en-vivo/fox-sports",
+                "https://www.cxtv.com.br/tv-ao-vivo/tv-feliz",
+                "https://www.teveglobo.live/#live",
                 "http://bccdn.xyz:80/4387701968208/945823895687/420"
             ],
-            "m3u8_url": [
-                "http://cdn-1.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8",
-                "http://cdn-4.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8",
-                "http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8",
-                "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5735,8 +5870,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8",
-                "https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/recordnews_620807a1_7e2474ca64e509e66940d07084c239d65301abaa/playlist.m3u8?sk=def50200c195cd489e51cb2f999faca6f2dff59e4814ccf7a2eb6318c9d9bd203c477e91da06d855eeda1488b238f4f6546e98127ef985ba8f7e34e31841a5ae9b806664f8d8ddbfab8f18d625d04fea0094cf2951fc988702428d616a601acd6cd8c36aa06da43630a4e81c06130372816490d8717d59dc974568cddb80eb1cf2a121767bf35e4263361d309fa734b81f5a423e2484a02d7cbbdd569a341045a92a0bcc4d16874414aa0a5bb61d911b67a2b9f4fcf9ff8eef2f00655eb4f6331de41c0d0fedfdb259b1739c0ddf51d818044ac746b832ae8f75c607602b4dd40650d6a80ea6547e847caf466bb1275ed932edea1650263c2b0c65e8cb9e052dfa45a19dde47e9c3bb5f5a1e49cf38feeeeef6dcd3788c090368a2c85d9dac73351b61bc3b0c7f9f8343698f2257ddd338edead4f842ae20bbd3786e8c86f1e170a2555c3984d119df6a3073c3debdca13eed664e0de8e"
+                "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8"
             ],
             "yt_id": "UCuiLR4p6wQ3xLEm15pEn1Xw",
             "yt_embed": "",
