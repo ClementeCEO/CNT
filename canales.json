@@ -20159,7 +20159,9 @@
         "nombre": "ABN2 Online Cristiana",
         "logo": "https://abn.pe/wp-content/uploads/2022/12/abn-radio-logo-mobil.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tv.abn.pe/abn-tv-en-directo/"
+            ],
             "m3u8_url": [
                 "https://xhateaec.com:8800/hls/abnradio/abnradio/9579e25b705387298999b6fa6f3ceb75/index.m3u8"
             ],
@@ -20168,7 +20170,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://abn.pe/mega-menu/en-vivo/tv-camara-abn/",
+        "sitio_oficial": "https://abn.pe/",
         "país": "pe",
         "categoría": "cristiana"
     },
@@ -20176,7 +20178,17 @@
         "nombre": "Abn Television Avivamiento Cristiana",
         "logo": "http://tvcristiana.net/wp-content/uploads/2016/09/logo-tvc.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=0&loop=0",
+                "https://musicacristiana.com.ar/3abn-kids-tv.html",
+                "https://gloryofzion.org/live/",
+                "https://zhcindy.org/live-tv/",
+                "https://zionglobalministries.org/live-stream/",
+                "https://www.naciontv.org/nacion-tv-intenacional/",
+                "https://musicacristiana.com.ar/television-celestial-tv.html",
+                "https://cielotv.do/",
+                "https://www.fcntelevision.tv/senalenvivo.html",
+            ],
             "m3u8_url": [
                 "https://s3.abntelevision.com:443/avivamientosd/avivamientosd/playlist.m3u8"
             ],
@@ -20211,7 +20223,9 @@
         "nombre": "Cdm Internacional Cristiana",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://musicacristiana.com.ar/cdm-internacional.html"
+            ],
             "m3u8_url": [
                 "https://s2.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
             ],
@@ -20249,7 +20263,9 @@
         "nombre": "Avivamiento Cristiana",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.avivamiento.com/avivamiento-tv.php"
+            ],
             "m3u8_url": [
                 "https://s2.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
             ],
