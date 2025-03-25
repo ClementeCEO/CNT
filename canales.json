@@ -14395,7 +14395,9 @@
         "nombre": "Onda Digital TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://ondadigitaltv.com/vivo/"
+            ],
             "m3u8_url": [
                 "https://v4.tustreaming.cl:443/odtvgo/index.m3u8"
             ],
@@ -14600,7 +14602,9 @@
         "nombre": "Radio Onda Digital",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.ondadigital.pe/"
+            ],
             "m3u8_url": [
                 "https://tv.ondadigital.pe/ondadigital/index.m3u8"
             ],
@@ -14655,7 +14659,10 @@
         "nombre": "Radio Bacan",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://eu1.servers10.com:2020/VideoPlayer/8300?autoplay=1",
+                "https://radiobacanpro.com/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -14845,7 +14852,9 @@
         "nombre": "Radio Sabor Mix",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUndGA1W52zylSsdoQiRLVQXpaAVBxWxr1CsdI1KpBOjmHF_w-brVA_aem_CJ2LdD129ElkJMzbGSsn4A"
+            ],
             "m3u8_url": [
                 "https://7.innovatestream.pe:19360/sabormixtv/sabormixtv.m3u8"
             ],
@@ -14862,7 +14871,9 @@
         "nombre": "canal 33 ayacucho",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.canal33ayacucho.com/"
+            ],
             "m3u8_url": [
                 "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
                 "https://cdnhd.iblups.com/hls/I5YHCGXRQI.m3u8"
@@ -14900,7 +14911,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/VVKm_FO5E2k?hd=1&autoplay=1"
+                "https://canalb.pe/live/"
             ],
             "m3u8_url": [],
             "yt_id": "UCFrOdZIiGOGFP5kk4xZgH6Q",
@@ -14908,7 +14919,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://canalb.pe/live/",
+        "sitio_oficial": "https://canalb.pe/",
         "país": "pe",
         "categoría": "news"
     },
@@ -15167,8 +15178,12 @@
         "nombre": "Huancayo TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.freetv.com/?section=epgsectionespanol",
+                "http://oxax.tv/penthouse-2.html"
+            ],
             "m3u8_url": [
+                "https://s.oxax.tv/Ol34MfRgySb7AvwqZ7wOVA/16/1742932085/index.m3u8",
                 "https://6362ca6f1fc28.streamlock.net:443/8090/8090/playlist.m3u8"
             ],
             "yt_id": "",
@@ -16212,7 +16227,9 @@
         "nombre": "Trasmision Cableperu",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://cableperu.pe/ver-cpn"
+            ],
             "m3u8_url": [
                 "https://video2.lhdserver.es/cableperu/live.m3u8"
             ],
@@ -16251,7 +16268,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/_ZqGxF_-spk?controls=0&rel=0&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fmegatvjaen.pe&widgetid=3"
+                "https://megatvjaen.pe/tv-en-vivo/"
             ],
             "m3u8_url": [
                 "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
@@ -16286,7 +16303,9 @@
         "nombre": "Mega net Tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://meganetfun.com/"
+            ],
             "m3u8_url": [
                 "https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8"
             ],
@@ -16413,7 +16432,9 @@
         "nombre": "Planeta tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://moyobamba.com/planetatv/?fbclid=IwZXh0bgNhZW0CMTAAAR1PH77IXmXtebKEUBsDZHSqUYML4F8G5b8klCYWFPHcZs4q8eruZzZzQEI_aem_SEbiZbeg8ZN-uDaIi_MgBQ"
+            ],
             "m3u8_url": [
                 "https:\/\/live.obslivestream.com\/planetatv\/index.m3u8"
             ],
