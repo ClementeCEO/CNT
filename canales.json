@@ -7776,118 +7776,6 @@
         "país": "cr",
         "categoría": "news"
     },
-    "investment-pitch": {
-        "nombre": "Investment Pitch FINANCIERO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=1088&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/investment-pitch"
-            ],
-            "m3u8_url": [
-                "https://30a-tv.com/feeds/720p/41.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/investment-pitch",
-        "país": "us",
-        "categoría": "news"
-    },
-    "european-indie-music-network": {
-        "nombre": "European Indie Music Network",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3696&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/european-indie-music-network"
-            ],
-            "m3u8_url": [
-                "https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1382207095.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/european-indie-music-network",
-        "país": "us",
-        "categoría": "news"
-    },
-    "visit-florida-tv": {
-        "nombre": "Visit Florida TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3352&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/visit-florida"
-            ],
-            "m3u8_url": [
-                "https://30a-tv.com/feeds/720p/57.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/visit-florida",
-        "país": "us",
-        "categoría": "news"
-    },
-    "the-golf-kingdom-tv": {
-        "nombre": "The Golf Kingdom TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2894&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/the-golf-kingdom"
-            ],
-            "m3u8_url": [
-                "https://30a-tv.com/feeds/720p/53.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/the-golf-kingdom",
-        "país": "us",
-        "categoría": "news"
-    },
-    "30a-tv-1": {
-        "nombre": "30a TV 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=998&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/30a-tv-1"
-            ],
-            "m3u8_url": [
-                "https://30a-tv.com/feeds/720p/33.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/30a-tv-1",
-        "país": "us",
-        "categoría": "news"
-    },
-    "2tv": {
-        "nombre": "TV2 INDONESIA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.mana2.my/Tv2/tracks-v3a1/mono.m3u8?token=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-b0883ef30822adcda17c6fbcfe5ba14f&auth_key=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-85931ee7fa38fc11dc6d2620246cd078"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mana2.my/channel/live/tv2",
-        "país": "my",
-        "categoría": "news"
-    },
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "logo": "",
@@ -18830,8 +18718,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://betzta.com/canales.php?stream=movistar",
-                "https://betzta.com/canales.php?stream=atv"
+                "https://www.atv.pe/envivo-atv/",
+                "https://agro-tv.ro/tv-live/"
             ],
             "m3u8_url": [
                 "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
@@ -32543,6 +32431,23 @@
         "país": "mx",
         "categoría": "news"
     },
+    "2tv": {
+        "nombre": "TV2 INDONESIA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.mana2.my/Tv2/tracks-v3a1/mono.m3u8?token=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-b0883ef30822adcda17c6fbcfe5ba14f&auth_key=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-85931ee7fa38fc11dc6d2620246cd078"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mana2.my/channel/live/tv2",
+        "país": "my",
+        "categoría": "news"
+    },
     "viva-nicaragua-noticias": {
         "nombre": "viva nicaragua Noticias",
         "logo": "",
@@ -35458,6 +35363,101 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvlibrehd.com/en-vivo/univision",
+        "país": "us",
+        "categoría": "news"
+    },
+    "investment-pitch": {
+        "nombre": "Investment Pitch FINANCIERO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=1088&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/investment-pitch"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/41.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/investment-pitch",
+        "país": "us",
+        "categoría": "news"
+    },
+    "european-indie-music-network": {
+        "nombre": "European Indie Music Network",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3696&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/european-indie-music-network"
+            ],
+            "m3u8_url": [
+                "https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1382207095.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/european-indie-music-network",
+        "país": "us",
+        "categoría": "news"
+    },
+    "visit-florida-tv": {
+        "nombre": "Visit Florida TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3352&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/visit-florida"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/57.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/visit-florida",
+        "país": "us",
+        "categoría": "news"
+    },
+    "the-golf-kingdom-tv": {
+        "nombre": "The Golf Kingdom TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2894&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/the-golf-kingdom"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/53.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/the-golf-kingdom",
+        "país": "us",
+        "categoría": "news"
+    },
+    "30a-tv-1": {
+        "nombre": "30a TV 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=998&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/30a-tv-1"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/33.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/30a-tv-1",
         "país": "us",
         "categoría": "news"
     },
