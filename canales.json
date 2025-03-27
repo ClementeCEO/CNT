@@ -438,7 +438,11 @@
         "nombre": "Radio Alternativa FM (Huasco)",
         "logo": "https://i0.wp.com/alternativatv.cl/wp-content/uploads/2022/11/cropped-Logo-Red-Alternativa.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://vclassictv.cl/",
+                "http://www.rojadirectaplus.net/en-vivo/vclassic",
+                "https://symphonier.com/tv/vclassic-tv"
+            ],
             "m3u8_url": [
                 "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8"
             ],
@@ -469,11 +473,14 @@
         "país": "cl",
         "categoría": "radio"
     },
-    "tele13radio-chile": {
-        "nombre": "Tele13 Radio",
+    "tele13radio-chile-solo_bailalo": {
+        "nombre": "Tele13 Radio Solo Bailalo",
         "logo": "https://graph.facebook.com/Tele13Radio/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tv.wurtlitzer.com/categoria/musica/?solo_bailalo",
+                "https://tv.wurtlitzer.com/categoria/musica/?toca_hits"
+            ],
             "m3u8_url": [
                 "https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8",
                 "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8"
