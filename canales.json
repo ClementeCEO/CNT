@@ -38721,6 +38721,23 @@
         "país": "in",
         "categoría": "news"
     },
+    "giniko": {
+        "nombre": "Giniko",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.giniko.com/watch.php?id=1559"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.giniko.com/",
+        "país": "in",
+        "categoría": "news"
+    },
     "banglavision-live": {
         "nombre": "BanglaVision LIVE",
         "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
@@ -46138,6 +46155,7 @@
         "logo": "http://www.elahmad.com/tv/images/yemen-tv.jpg",
         "señales": {
             "iframe_url": [
+                "https://yementv.tv/live",
                 "http://www.elahmad.com/tv/yemen-tv.php",
                 "http://www.elahmad.com/tv/watch.php?id=yementv",
                 "http://www.elahmad.com/tv/gin.php?id=yemen_tv",
@@ -46148,7 +46166,7 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "yemen_01"
         },
         "sitio_oficial": "http://www.elahmad.com/tv/yemen-tv.php",
         "país": "ye",
@@ -46159,12 +46177,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.masirahtv.net/live.php",
                 "http://www.elahmad.com/tv/radiant.php?id=almasirah_tv",
                 "http://www.elahmad.com/tv/watch.php?id=almasirah_tv"
             ],
-            "m3u8_url": [
-                "http://azrotv.com/pyr/?id=https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist_dvr.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -46175,10 +46192,11 @@
         "categoría": "news"
     },
     "belqees-tv": {
-        "nombre": "belqees-tv",
+        "nombre": "Belqees TV",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://belqees.net/live",
                 "http://www.elahmad.com/tv/radiant.php?id=belqees_tv",
                 "http://www.elahmad.com/tv/live/live_stream.php?id=belqees_tv",
                 "https://www.youtube.com/embed/YDIcwHOkaqI/?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=http%3A%2F%2Fwww.elahmad.com&widget_referrer=http%3A%2F%2Fwww.elahmad.com%2Ftv%2Fbelqees-tv.php&enablejsapi=1&widgetid=1",
@@ -46194,11 +46212,12 @@
         "país": "ye",
         "categoría": "news"
     },
-    "yemen_today.": {
-        "nombre": "yemen today",
+    "yemen-today.": {
+        "nombre": "Yemen Today",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://yementdy.tv/live.html",
                 "http://www.elahmad.com/tv/radiant.php?id=yementoday"
             ],
             "m3u8_url": [
@@ -46218,10 +46237,17 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://fomnybox.com/live-tv/suhail",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=suhail_tv",
+                "https://sohailtv.com/",
+                "https://www.parsatv.com/name=Sohail-TV",
                 "http://www.elahmad.com/tv/radiant.php?id=suhail",
-                "http://www.elahmad.com/tv/cloudflare.php?id=suhail"
+                "http://www.elahmad.com/tv/cloudflare.php?id=suhail",
+                "https://suhail.net/live.php"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://iptv.sohailtv.com/sohailtv/playlist_low/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -46236,10 +46262,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alsaeedahtv",
+                "https://www.elahmad.com/tv/live/vimeo.php?id=alsaeedahtv",
                 "http://www.elahmad.com/tv/radiant.php?id=alsaeedahtv",
                 "http://www.elahmad.com/tv/live/vimeo.php?id=alsaeedahtv",
                 "https://vimeo.com/event/3358274/embed",
-                "https://vimeo.com/event/3427253/embed"
+                "https://vimeo.com/event/3427253/embed",
+                "https://tlfaz.com/Tv-Channel/alsaeedah-tv/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -46256,6 +46285,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.masirahtv.net/live.php",
+                "https://www.masirahtv.net/mubasher.php",
                 "http://www.elahmad.com/tv/radiant.php?id=almasirah_tv",
                 "http://www.elahmad.com/tv/watch.php?id=almasirah_tv"
             ],
@@ -46267,7 +46298,118 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://www.elahmad.com/tv/almasirahtv.php",
+        "sitio_oficial": "https://eja.tv/?country=ye",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "hadhramaut-tv": {
+        "nombre": "Hadhramaut TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://hadhramaut.tv/live",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=hadramout",
+                "https://www.hadhramaut.tv/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "hadramout1"
+        },
+        "sitio_oficial": "https://www.hadhramaut.tv/",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "Yemen-Shabab-TV": {
+        "nombre": "Yemen Shabab TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://yemenshabab.net/live",
+                "https://eja.tv/play/?https://starmenajo.com/hls/yemenshabab/index.m3u8#124e423dde60ca160f496fdb8135363c274adb68e65973533a2a76c7037f4c8d"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC0tSaXfJ_YIXshmvFlEsUcg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://yemenshabab.net/home",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "aden-tv": {
+        "nombre": "Aden TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://aden-tv.com/",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=aden"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "adentv64"
+        },
+        "sitio_oficial": "https://aden-tv.com/",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "alghad-tv": {
+        "nombre": "Alghad TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.alghad.tv/%D8%A7%D9%84%D8%BA%D8%AF-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+                "https://tlfaz.com/Tv-Channel/mbc-iraq/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCH4UNKBHSNwstan99YDoCVg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alghad.tv/",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "Mekameleen-tv": {
+        "nombre": "قناة مكملين Mekameleen tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mekameleen.tv/",
+                "https://www.akhbaralsabah.com/tv/mekameleen.htm"
+            ],
+            "m3u8_url": [
+                "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mekameleen.tv/",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "mbc5": {
+        "nombre": "mbc5",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://qanawat.taghtia.com/api/player/mbc5",
+                "https://tv.taghtia.com/en/watch/mbc5"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.taghtia.com/",
         "país": "ye",
         "categoría": "news"
     },
