@@ -2581,7 +2581,7 @@
         "categoría": "news"
     },
     "TV8-News-Angola": {
-        "nombre": "TV8 News Angola",
+        "nombre": "TV8 News Angola 1",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -2596,7 +2596,7 @@
         "categoría": "news"
     },
     "itvbd": {
-        "nombre": "Independent Television",
+        "nombre": "Independent Television 1",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2613,7 +2613,7 @@
         "categoría": "news"
     },
     "ekushey-tv": {
-        "nombre": "Ekushey Television ETV",
+        "nombre": "Ekushey Television ETV 1",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2632,7 +2632,7 @@
         "categoría": "news"
     },
     "ekattor": {
-        "nombre": "Ekattor",
+        "nombre": "Ekattor 1",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -2647,7 +2647,7 @@
         "categoría": "news"
     },
     "desh": {
-        "nombre": "Desh",
+        "nombre": "Desh 1",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -2662,7 +2662,7 @@
         "categoría": "news"
     },
     "gazi-tv": {
-        "nombre": "Gazi TV",
+        "nombre": "Gazi TV 1",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -2677,7 +2677,7 @@
         "categoría": "news"
     },
     "tpa-INTERNACIONAL": {
-        "nombre": "TPA INTERNACIONAL",
+        "nombre": "TPA INTERNACIONAL 1",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2695,7 +2695,7 @@
         "categoría": "news"
     },
     "live-tv-angola": {
-        "nombre": "TV Angola",
+        "nombre": "TV Angola 1",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2712,7 +2712,7 @@
         "categoría": "news"
     },
     "tv-zimbo": {
-        "nombre": "Zimbo",
+        "nombre": "Zimbo 1",
         "logo": "https://tvzimbo.ao/carregamentos/2023/07/logotipo-branco.png",
         "señales": {
             "iframe_url": [],
@@ -2729,7 +2729,7 @@
         "categoría": "news"
     },
     "muzangala-tv": {
-        "nombre": "Muzangala",
+        "nombre": "Muzangala 1",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2748,7 +2748,7 @@
         "categoría": "news"
     },
     "tvi-africa": {
-        "nombre": "Tvi Africa",
+        "nombre": "Tvi Africa 1",
         "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp",
         "señales": {
             "iframe_url": [],
@@ -2765,7 +2765,7 @@
         "categoría": "news"
     },
     "KK-TV": {
-        "nombre": "KK TV",
+        "nombre": "KK TV 1",
         "logo": "https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png",
         "señales": {
             "iframe_url": [],
@@ -2779,6 +2779,302 @@
         },
         "sitio_oficial": "https://kktv.co.ao/",
         "país": "ao",
+        "categoría": "news"
+    },
+    "tv-zimbo": {
+        "nombre": "Tv Zimbo Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/embed.html?autoplay=true&muted=true&fullscreen=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvzimbo.ao/tv/ao-vivo/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tvi-africa": {
+        "nombre": "TVI África Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/tvi-africa"
+            ],
+            "m3u8_url": [
+                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-africa",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tpa-internacional": {
+        "nombre": "TPA Internacional Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/67qOGuBiuks?si=o0Pnc4OWuXzVrNzE",
+                "https://www.cxtv.com.br/tv-ao-vivo/tpa-internacional",
+                "https://tpaonline.ao/em-directo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tpaonline.ao/em-directo/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "muzangala-tv": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.logicahost.com.br/muzangala.html",
+                "https://www.cxtv.com.br/tv-ao-vivo/muzangala-tv",
+                "https://muzangala.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://muzangala.tv/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "kk-tv": {
+        "nombre": "KK TV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://kktv.co.ao/",
+                "https://www.cxtv.com.br/tv-ao-vivo/kk-tv"
+            ],
+            "m3u8_url": [
+                "https://w1.manasat.com:443/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kktv.co.ao/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "andorra-difusio": {
+        "nombre": "Andorra Difusió Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://players.cdn.enetres.net/live/56495F77FD124FECA75590A906965F2C021",
+                "https://www.andorradifusio.ad/endirecte/atv",
+                "https://www.cxtv.com.br/tv-ao-vivo/andorra-difusio"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/andorra-difusio",
+        "país": "ad",
+        "categoría": "news"
+    },
+    "loria-tv-andorra-en-directo-online": {
+        "nombre": "Lòria TV Andorra en directo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/v4BNUq5-Edo?rel=0&autoplay=0&cc_lang_pref=en&cc_load_policy=undefined&color=red&controls=0&disablekb=1&enablejsapi=1&fs=1&hl=en&iv_load_policy=3&mute=0&playsinline=1",
+                "https://iteleflix.com/ver/loria-tv-andorra-en-directo-online/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/loria-tv-andorra-en-directo-online/",
+        "país": "ad",
+        "categoría": "news"
+    },
+    "news-24": {
+        "nombre": "News 24 Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.balkanweb.com/tvplayer/news-24.html?v=5",
+                "https://www.cxtv.com.br/tv-ao-vivo/news-24"
+            ],
+            "m3u8_url": [
+                "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.balkanweb.com/#gsc.tab=0",
+        "país": "al",
+        "categoría": "news"
+    },
+    "abc-news-albania": {
+        "nombre": "ABC News Albania Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://abcnews.al/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "abcnewsal"
+        },
+        "sitio_oficial": "https://abcnews.al/",
+        "país": "al",
+        "categoría": "news"
+    },
+    "tvnz-1": {
+        "nombre": "TVNZ 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvnz.co.nz/livetv/tvnz-1",
+                "https://www.tvnz.co.nz/livetv/tvnz-2",
+                "https://www.tvnz.co.nz/livetv/tvnz-duke"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvnz.co.nz",
+        "país": "nz",
+        "categoría": "news"
+    },
+    "areena-yle": {
+        "nombre": "Areena Yle",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://areena.yle.fi/suorat",
+                "https://areena.yle.fi/suorat",
+                "https://areena.yle.fi/suorat"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://areena.yle.fi/tv",
+        "país": "fi",
+        "categoría": "news"
+    },
+    "kronehit-tv": {
+        "nombre": "KroneHIT TV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "/info/alles-ueber-kronehit/tv/?content=1",
+                "https://www.kronehit.at/info/alles-ueber-kronehit/tv/?content=1",
+                "https://www.kronehit.at/info/alles-ueber-kronehit/tv/",
+                "https://www.cxtv.com.br/tv-ao-vivo/kronehit-tv"
+            ],
+            "m3u8_url": [
+                "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kronehit-tv",
+        "país": "at",
+        "categoría": "news"
+    },
+    "expo-channel": {
+        "nombre": "Expo Channel Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/expo-channel"
+            ],
+            "m3u8_url": [
+                "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/expo-channel",
+        "país": "at",
+        "categoría": "news"
+    },
+    "gbnewsonline": {
+        "nombre": "GBNews",
+        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+            ],
+            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gbnews.com/watch/live",
+        "país": "gb-eng",
+        "categoría": "news"
+    },
+    "pronews-tv": {
+        "nombre": "Pronews TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "pronewstv"
+        },
+        "sitio_oficial": "www.pronews.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "extacy-tv": {
+        "nombre": "Extacy TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "extacy_tv"
+        },
+        "sitio_oficial": "https://extacytv.gr/",
+        "país": "gr",
         "categoría": "news"
     },
     "todo-noticias": {
@@ -24860,302 +25156,6 @@
         },
         "sitio_oficial": "https://radiopaixaofm.site/",
         "país": "pt",
-        "categoría": "news"
-    },
-    "andorra-difusio": {
-        "nombre": "Andorra Difusió Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://players.cdn.enetres.net/live/56495F77FD124FECA75590A906965F2C021",
-                "https://www.andorradifusio.ad/endirecte/atv",
-                "https://www.cxtv.com.br/tv-ao-vivo/andorra-difusio"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/andorra-difusio",
-        "país": "ad",
-        "categoría": "news"
-    },
-    "loria-tv-andorra-en-directo-online": {
-        "nombre": "Lòria TV Andorra en directo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/v4BNUq5-Edo?rel=0&autoplay=0&cc_lang_pref=en&cc_load_policy=undefined&color=red&controls=0&disablekb=1&enablejsapi=1&fs=1&hl=en&iv_load_policy=3&mute=0&playsinline=1",
-                "https://iteleflix.com/ver/loria-tv-andorra-en-directo-online/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/loria-tv-andorra-en-directo-online/",
-        "país": "ad",
-        "categoría": "news"
-    },
-    "news-24": {
-        "nombre": "News 24 Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.balkanweb.com/tvplayer/news-24.html?v=5",
-                "https://www.cxtv.com.br/tv-ao-vivo/news-24"
-            ],
-            "m3u8_url": [
-                "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.balkanweb.com/#gsc.tab=0",
-        "país": "al",
-        "categoría": "news"
-    },
-    "abc-news-albania": {
-        "nombre": "ABC News Albania Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://abcnews.al/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "abcnewsal"
-        },
-        "sitio_oficial": "https://abcnews.al/",
-        "país": "al",
-        "categoría": "news"
-    },
-    "tv-zimbo": {
-        "nombre": "Tv Zimbo Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/embed.html?autoplay=true&muted=true&fullscreen=true"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvzimbo.ao/tv/ao-vivo/",
-        "país": "ao",
-        "categoría": "news"
-    },
-    "tvi-africa": {
-        "nombre": "TVI África Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/tvi-africa"
-            ],
-            "m3u8_url": [
-                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-africa",
-        "país": "ao",
-        "categoría": "news"
-    },
-    "tpa-internacional": {
-        "nombre": "TPA Internacional Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/67qOGuBiuks?si=o0Pnc4OWuXzVrNzE",
-                "https://www.cxtv.com.br/tv-ao-vivo/tpa-internacional",
-                "https://tpaonline.ao/em-directo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tpaonline.ao/em-directo/",
-        "país": "ao",
-        "categoría": "news"
-    },
-    "muzangala-tv": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.logicahost.com.br/muzangala.html",
-                "https://www.cxtv.com.br/tv-ao-vivo/muzangala-tv",
-                "https://muzangala.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://muzangala.tv/",
-        "país": "ao",
-        "categoría": "news"
-    },
-    "kk-tv": {
-        "nombre": "KK TV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://kktv.co.ao/",
-                "https://www.cxtv.com.br/tv-ao-vivo/kk-tv"
-            ],
-            "m3u8_url": [
-                "https://w1.manasat.com:443/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://kktv.co.ao/",
-        "país": "ao",
-        "categoría": "news"
-    },
-    "tvnz-1": {
-        "nombre": "TVNZ 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvnz.co.nz/livetv/tvnz-1",
-                "https://www.tvnz.co.nz/livetv/tvnz-2",
-                "https://www.tvnz.co.nz/livetv/tvnz-duke"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvnz.co.nz",
-        "país": "nz",
-        "categoría": "news"
-    },
-    "areena-yle": {
-        "nombre": "Areena Yle",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://areena.yle.fi/suorat",
-                "https://areena.yle.fi/suorat",
-                "https://areena.yle.fi/suorat"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://areena.yle.fi/tv",
-        "país": "fi",
-        "categoría": "news"
-    },
-    "kronehit-tv": {
-        "nombre": "KroneHIT TV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "/info/alles-ueber-kronehit/tv/?content=1",
-                "https://www.kronehit.at/info/alles-ueber-kronehit/tv/?content=1",
-                "https://www.kronehit.at/info/alles-ueber-kronehit/tv/",
-                "https://www.cxtv.com.br/tv-ao-vivo/kronehit-tv"
-            ],
-            "m3u8_url": [
-                "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kronehit-tv",
-        "país": "at",
-        "categoría": "news"
-    },
-    "expo-channel": {
-        "nombre": "Expo Channel Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/expo-channel"
-            ],
-            "m3u8_url": [
-                "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/expo-channel",
-        "país": "at",
-        "categoría": "news"
-    },
-    "gbnewsonline": {
-        "nombre": "GBNews",
-        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
-            ],
-            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gbnews.com/watch/live",
-        "país": "gb-eng",
-        "categoría": "news"
-    },
-    "pronews-tv": {
-        "nombre": "Pronews TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pronewstv"
-        },
-        "sitio_oficial": "www.pronews.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "extacy-tv": {
-        "nombre": "Extacy TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "extacy_tv"
-        },
-        "sitio_oficial": "https://extacytv.gr/",
-        "país": "gr",
         "categoría": "news"
     },
     "ANTV": {
