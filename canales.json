@@ -22,7 +22,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/pLPemlz5ohY?autoplay=1&mute=1&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0",
                 "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=DreChCDH2dNUTFDzveUhHhdFM6QDKJ49HsI1QRqP7K0TaR26K28dKp2RZdRMTyYM7VUozjgPhpx&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
                 "https://www.mega.cl/senal-en-vivo/meganoticias/",
                 "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=1eDv4DotozLvXDbcsFA45qjqgWHWluU2Nll9QIIbrBgV3GNvE7OmIcSf8cmCT5il7N5QSCLV9pq&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
@@ -33,7 +32,7 @@
             ],
             "m3u8_url": [],
             "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
-            "yt_embed": "Wsez4rtB3YA?",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "meganoticiascl"
         },
@@ -2406,6 +2405,144 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.twitch.tv/zonaltv",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "ctv35": {
+        "nombre": "Ctv35",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.ctv35.online/"
+            ],
+            "m3u8_url": [
+                "https://paneltv.online:1936/8040/8040/chunklist_w2108684700.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctv35.online/",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "Rial-TV-Melipilla": {
+        "nombre": "Rial TV Melipilla",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTgMVGU1NasZKIk3DCQCD6YY2Hy15Edqt40tC3kOg88w&s",
+        "señales": {
+            "iframe_url": [
+                "https://m3u.cl/lista-iptv-chile.php"
+            ],
+            "m3u8_url": [
+                "https://5eaccbab48461.streamlock.net:1936/8124/8124/media_w738856437_32157.ts?WebM3UCL"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.facebook.com/p/Rial-TV-Melipilla-61555695482757/",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "Santa-Cruz-HD-telecanal": {
+        "nombre": "Santa Cruz HD telecanal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvsantacruzcr.net/player"
+            ],
+            "m3u8_url": [
+                "https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/media_w2129499339_12815.ts?WebM3UCL",
+                "https://eu1.servers10.com:8081/8194/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.santacruztelecanalhd.cl/",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.streaminghd.cl/video/index.php?s=cncmedia",
+                "https://cncmedia.cl/"
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.facebook.com/CanaldeNoticiasColchagua/?locale=es_LA",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "Maray TV": {
+        "nombre": "Maray TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://video.mediawebchile.com:2000/VideoPlayer/8242?autoplay=1",
+                "https://www.maray.cl/maraytv/"
+            ],
+            "m3u8_url": [
+                "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.maray.cl/maraytv/",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "novatv": {
+        "nombre": "Nova TV Canal 7",
+        "logo": "https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808-1/305250238_515812990544451_2260894766915681891_n.png?stp=dst-png_s200x200&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=EeIhyejiZsgQ7kNvgFOLD_b&_nc_oc=AdlMnnm7NfYiPlfKrT5Az_dmx6fXwZR0mZSPysxyQFqCg5QcYE4al5kwUbTi7_fL1GVGAuwi0pJVCVRhFHo6vTCQ&_nc_zt=24&_nc_ht=scontent.flim31-1.fna&_nc_gid=UMySJGbm3hAq49MI-Wyg4w&oh=00_AYE7FSURkEUEe28O-vQt0VCn6lalfJJ4n5BSVpynWGiSiw&oe=67EB2D3D",
+        "señales": {
+            "iframe_url": [
+                "https://mivideo.pro/live/novatv/",
+                "https://novatv.cl/en-vivo/"
+            ],
+            "m3u8_url": [
+                "https://freya.mivideo.pro/novatv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://novatv.cl/",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "Dodo-TV-gvision": {
+        "nombre": "Dodo TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.gvision.cl/",
+                "https://www.el3deconce.cl/"
+            ],
+            "m3u8_url": [
+                "https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?WebM3UCL"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gvision.cl/",
         "país": "cl",
         "categoría": "news"
     },
