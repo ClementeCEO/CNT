@@ -101,7 +101,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/665782a26a670c089a823d0b?jsapi=true&autoplay=true&access_token=WWaxThcrRgFdzA5e2sEX4zaNz3Ku8hHkU0ddtb6QpfCxNjnEEoltv1L0iGG8fdx0XXkslbHCO0b&custom.categoria_prontus=senal-online&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=-&custom.dfpVidId=665782a26a670c089a823d0b&custom.dfpURLEncoded=https%3A%2F%2Fwww.chilevision.cl%2Fnoticias%2Fsenal-online&custom.dfpRandomNumber=201726274&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.app=false&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D-%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D665782a26a670c089a823d0b%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge&custom.amp=false&custom.appname=",
+                "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&volume=0&access_token=GlgG8dWTpgQw5Q1hM7TVuXHOmArgAtqtZWVBLBzko5bRBIbbcq2uQ4eainh54DBiJ04dlz2kLxa&custom.categoria_prontus=63ee47e1daeeb80a30d98ef4&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=%20&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.viendotele.cl%2Fassets-tele%2Fchv.php%3Fe%3D202403130826&custom.dfpRandomNumber=9320488302&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.amp=false&custom.app=false&custom.appname=&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D%20%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge",
                 "https://rudo.video/live/chvn?autoplay=true&volume=0",
                 "https://television-libre.online/html/clarovideo.html?r=CHVCL",
                 "https://www.tvonlinechile.cl/senal-chv"
@@ -481,7 +481,7 @@
             "yt_id": "UCQcmb3lvx7hZCoOXvcCvgBg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "telefe"
         },
         "sitio_oficial": "https://tele13radio.cl/",
         "país": "cl",
@@ -695,6 +695,72 @@
         "país": "cl",
         "categoría": "general"
     },
+    "TNTSportsCL": {
+        "nombre": "TNTSportsCL",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vdochile.com/hybrid-stream-video-widget/fxztdcgu",
+                "https://tributovalentina.cl/",
+                "https://www.buin.cl/senal-online/",
+                "https://www.monitotv.com/tv.php?action=308",
+                "https://www.itvpatagonia.com/senal-en-vivo/",
+                "https://www.wapptv.cl/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tntsportscl"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tntsportscl",
+        "país": "cl",
+        "categoría": "radio"
+    },
+    "megadeportescl-DGO-latam": {
+        "nombre": "MegaDeportes DGO latam",
+        "logo": "https://graph.facebook.com/MegaDeportesCL/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/63a06468117f42713374addd?autoplay=true&player=63af7b6cc5048f0846557764",
+                "https://rudo.video/live/carolinatv",
+                "https://www.carolina.cl/tv/",
+                "https://tv-online.cl/chilevision-en-vivo.php",
+                "https://www.emol.com/movil/"
+            ],
+            "m3u8_url": [
+                "https://redirector.dps.live/hls-segment/emoltv2/vivohd1_hi/playlist.m3u8"
+            ],
+            "yt_id": "UCS2q6U7sWalPEgdLKx5YzQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "dgo_latam"
+        },
+        "sitio_oficial": "https://www.meganoticias.cl/deportes/",
+        "país": "cl",
+        "categoría": "sports"
+    },
+    "hits-360": {
+        "nombre": "HITS 360 TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
+        "señales": {
+            "iframe_url": [
+                "https://www.coolstreaming.us/channelnew/es/72738/HITS360TV.html",
+                "https://www.vivalivetv.com/channel/hits-360"
+            ],
+            "m3u8_url": [
+                "https://cdn.essastream.com:3023/live/hits360tvlive.m3u8",
+                "https://marine2.miplay.cl/chvchile/index.m3u8"
+            ],
+            "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72738/HITS360TV.html",
+        "país": "cl",
+        "categoría": "general"
+    },
     "canal-13": {
         "nombre": "Canal 13",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Emblema_del_Canal_13_Chile.svg",
@@ -713,26 +779,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.13.cl/en-vivo",
-        "país": "cl",
-        "categoría": "general"
-    },
-    "chilevision": {
-        "nombre": "Chilevisión",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
-        "señales": {
-            "iframe_url": [
-                "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&access_token=WAMg1ZWwWr5Tclu2wXBbUc2OgDnz1VF3eDGucaT5HAy8uJjiyRuJSvc1ZPfPcJBvAAzzcrChSaP&custom.categoria_prontus=senal-online&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=-&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.chilevision.cl%2Fsenal-online&custom.dfpRandomNumber=6291460946&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.app=false&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D-%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge&custom.amp=false&custom.appname=",
-                "https://tvonlinechile.cl/senal-chv"
-            ],
-            "m3u8_url": [
-                "https://marine2.miplay.cl/chvchile/index.m3u8"
-            ],
-            "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.chilevision.cl/senal-online",
         "país": "cl",
         "categoría": "general"
     },
@@ -1610,21 +1656,6 @@
         "país": "cl",
         "categoría": "general"
     },
-    "megadeportescl": {
-        "nombre": "MegaDeportes",
-        "logo": "https://graph.facebook.com/MegaDeportesCL/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCS2q6U7sWalPEgdLKx5YzQA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.meganoticias.cl/deportes/",
-        "país": "cl",
-        "categoría": "sports"
-    },
     "tierradragones": {
         "nombre": "Tierra de Dragones",
         "logo": "https://graph.facebook.com/tierradragones/picture?width=800&height=800",
@@ -2464,17 +2495,15 @@
         "país": "cl",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "cncmedia": {
+        "nombre": "Cncmedia",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://player.streaminghd.cl/video/index.php?s=cncmedia",
                 "https://cncmedia.cl/"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -2484,7 +2513,7 @@
         "país": "cl",
         "categoría": "news"
     },
-    "Maray TV": {
+    "Maray-TV": {
         "nombre": "Maray TV",
         "logo": "",
         "señales": {
