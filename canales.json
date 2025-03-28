@@ -30192,13 +30192,16 @@
         "país": "vn",
         "categoría": "news"
     },
-    "HÀ-NỘI-1": {
-        "nombre": "HÀ NỘI 1",
+    "HÀ-NỘI-1y2": {
+        "nombre": "HÀ NỘI 1y2",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://hanoionline.vn/",
-                "http://xemtruyenhinh.xyz/kenh/hanoi1.php"
+                "https://hanoionline.vn/lich-phat-song",
+                "https://vtvgo.vn/channel/truyen-hinh-ha-noi-1-1,91.html",
+                "https://vtvgo.vn/channel/truyen-hinh-ha-noi-2-1,94.html",
+                "https://xemtruyenhinh.xyz/watch/hanoi2.php",
+                "https://hanoionline.vn/"
             ],
             "m3u8_url": [
                 "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8"
