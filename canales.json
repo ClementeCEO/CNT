@@ -31396,7 +31396,9 @@
         "nombre": "Channel K",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.epicon.in/live-tv/nazara-live-tv"
+            ],
             "m3u8_url": [
                 "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_low/index.m3u8"
             ],
@@ -31430,7 +31432,10 @@
         "nombre": "Channel 7",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.pyoneplay.com/livetv/01gt74n96va764fze83w2959ts",
+                "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he"
+            ],
             "m3u8_url": [
                 "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjAzOjI2IFBNJmhhc2hfdmFsdWU9ZXc4SDVuclU2b2dnd2VNYng0QjZQZz09JnZhbGlkbWludXRlcz0xMCZpZD00NTEyNTI0NzEz"
             ],
@@ -31462,12 +31467,14 @@
         "nombre": "Myanmar International TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.squidtv.net/asia/myanmar/myanmar-004.html"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "mitvlivestream"
+            "twitch_id": "mitvchannel"
         },
         "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
         "país": "mm",
@@ -31567,6 +31574,26 @@
         "país": "mm",
         "categoría": "news"
     },
+    "Mahar-Esports": {
+        "nombre": "Mahar Esports",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://maharesports.com/live/",
+                "https://www.pyoneplay.com/livetv/01gt8f16j1n4mpx1bb1g7sfayw"
+            ],
+            "m3u8_url": [
+                "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mrtvfarmers"
+        },
+        "sitio_oficial": "https://maharesports.com/",
+        "país": "mm",
+        "categoría": "news"
+    },
     "mrtv-entertainment": {
         "nombre": "Mrtv Entertainment",
         "logo": "",
@@ -31588,7 +31615,9 @@
         "nombre": "DVB",
         "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://burmese.dvb.no/"
+            ],
             "m3u8_url": [
                 "https://live-stream.dvb.no/hls/stream_mid/index.m3u8"
             ],
