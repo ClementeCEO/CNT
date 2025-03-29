@@ -25158,6 +25158,26 @@
         "país": "pt",
         "categoría": "news"
     },
+    "RCTI": {
+        "nombre": "RCTI",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/rcti",
+                "https://embed.rctiplus.com/live/rcti/sindonews",
+                "https://video.sindonews.com/tv/rcti/live-streaming",
+                "https://tv.okezone.com/streaming/rcti"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rctiplus.com/tv/rcti",
+        "país": "id",
+        "categoría": "news"
+    },
     "ANTV": {
         "nombre": "ANTV",
         "logo": "",
@@ -25174,6 +25194,24 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.indihometv.com/livetv/antv",
+        "país": "id",
+        "categoría": "news"
+    },
+    "ANTV-l": {
+        "nombre": "ANTV l",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://antv.gov.vn/",
+                "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.antvklik.com/",
         "país": "id",
         "categoría": "news"
     },
@@ -25595,9 +25633,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+                "https://www.cnnindonesia.com/tv",
+                "https://www.cnbcindonesia.com/tv"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+                "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -25607,21 +25649,188 @@
         "país": "id",
         "categoría": "news"
     },
-    "ANTV-l": {
-        "nombre": "ANTV l",
+    "mnctv": {
+        "nombre": "MNCTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://antv.gov.vn/",
-                "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
+                "https://www.rctiplus.com/tv/mnctv",
+                "https://www.inews.id/streaming/mnctv",
+                "https://www.inews.id/streaming/mnctv",
+                "https://video.sindonews.com/tv/mnctv",
+                "https://tv.okezone.com/streaming/mnc_tv"
             ],
             "m3u8_url": [],
-            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.antvklik.com/",
+        "sitio_oficial": "ttps://tv.okezone.com/streaming",
+        "país": "id",
+        "categoría": "news"
+    },
+    "gtv": {
+        "nombre": "GTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/gtv",
+                "https://video.sindonews.com/tv/gtv",
+                "https://tv.okezone.com/streaming/gtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.okezone.com/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "inews-tv": {
+        "nombre": "iNews TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/inews",
+                "https://tv.inews.id/streaming",
+                "https://tv.okezone.com/streaming/inews_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.okezone.com",
+        "país": "id",
+        "categoría": "news"
+    },
+    "idx": {
+        "nombre": "IDX",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.okezone.com/streaming/idx",
+                "https://www.inews.id/streaming/idxchannel"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.idxchannel.com/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "madu-tv-celebes-tv": {
+        "nombre": "Madu TV - Celebes TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.siar.us/player/?link=re1.siar.us/madutv/hd720&autoplay=no",
+                "",
+                "https://celebesmedia.id/celebes-tv",
+                "https://madu.tv/live-streaming/"
+            ],
+            "m3u8_url": [
+                "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://madu.tv/live-streaming/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "GRUPO-ID": {
+        "nombre": "GRUPO ID( ⇒  REGIONAL Y LOCAL )",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://kawanua.tv/",
+                "https://www.pontv.id/",
+                "https://www.pontv.id/",
+                "https://pktvkaltim.com/",
+                "https://balikpapantv.co.id/",
+                "https://padangtv.id/live/",
+                "https://stream.jambitv.co.id/",
+                "http://jektv.co.id/livestreaming/",
+                "http://27.124.75.34:8080/09066008-aca0-490e-ad3e-a00a1362510f.html",
+                "https://www.radarcirebon.tv/livestreaming/",
+                "https://mgstv.co.id/live-streaming/",
+                "http://streaming.bandungtv.tv/",
+                "https://jitv.jogjaprov.go.id/",
+                "https://elshintatv.co.id/live",
+                "https://jak-tv.com/home",
+                "https://arek.tv/arekstreaming.html",
+                "https://madu.tv/live-streaming/",
+                "https://www.sakti.tv/",
+                "https://www.portaljtv.com/video#google_vignette",
+                "https://dmtvmalang.com/",
+                "https://kstv.co.id/",
+                "https://tvku.tv/beranda/live",
+                "https://bantentv.com/live/"
+            ],
+            "m3u8_url": [
+                "https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+                "https://e.siar.us/live/dmtv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "padang_tv"
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/indonesia/#google_vignette",
+        "país": "id",
+        "categoría": "news"
+    },
+    "GRUPO-IND": {
+        "nombre": "GRUPO IND( ⇒  NACIONAL 2 )",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.squidtv.net/asia/indonesia/indonesia-035.html",
+                "https://www.oshop.co.id/live-streaming",
+                "http://mtatv.net/v2/?p=170",
+                "https://seatoday.com/tv",
+                "https://madu.tv/live-streaming/",
+                "https://reformed21.tv/",
+                "https://tv.okezone.com/streaming/LIFE",
+                "https://daaiplus.com/live-streaming-daai-tv/",
+                "https://daaitv.co.id/DAAI-WP/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC9q_4Ljmm0C15j25Bqx1ZOw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/indonesia/#google_vignette",
+        "país": "id",
+        "categoría": "news"
+    },
+    "allplay-ent": {
+        "nombre": "allplay ent",
+        "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/banner_xxhdpi.png",
+        "señales": {
+            "iframe_url": [
+                "https://maxstream.tv/tv-channels/0_psqdb637",
+                "https://maxstream.tv/tv-channels/0_keojjla6",
+                "https://maxstream.tv/tv-channels/0_yfn4kszs"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://maxstream.tv/tv-channels/",
         "país": "id",
         "categoría": "news"
     },
@@ -25642,6 +25851,31 @@
         },
         "sitio_oficial": "https://www.tv8.sk/wp/?p=104",
         "país": "sk",
+        "categoría": "news"
+    },
+    "GRUPO-Republic-Cyprus": {
+        "nombre": "GRUPO ( ⇒ ⦿ Live Republic Cyprus) ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.rik.cy/live-tv/rik-sat/",
+                "https://alphacyprus.com.cy/live",
+                "https://sat7plus.org/live/arabic",
+                "https://sat7plus.org/live/pars",
+                "https://sat7plus.org/live/kids",
+                "https://alphacyprus.com.cy/live",
+                "https://brtk.net/canli-yayinlar/",
+                "https://www.kibristv.com/",
+                "http://www.adatv.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.squidtv.net/europe/cyprus/",
+        "país": "cy",
         "categoría": "news"
     },
     "Rai-News-24": {
