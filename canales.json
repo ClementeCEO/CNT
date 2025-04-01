@@ -8276,6 +8276,23 @@
         "país": "co",
         "categoría": "news"
     },
+    "Noticiero90Minutos-co": {
+        "nombre": "Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://90minutos.co/en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://90minutos.co/",
+        "país": "co",
+        "categoría": "news"
+    },
     "la-fm-colombia": {
         "nombre": "LA FM Colombia",
         "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
