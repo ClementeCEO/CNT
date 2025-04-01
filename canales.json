@@ -37648,6 +37648,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://news.ntv.co.jp/live",
                 "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWhpc3RvcmlhZXM=",
                 "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRhcms="
             ],
@@ -37676,11 +37677,30 @@
         "país": "tr",
         "categoría": "news"
     },
+    "TV8-CANLI-YAYIN": {
+        "nombre": "TV8 CANLI YAYIN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tv8.com.tr/canli-yayin"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tv8.com.tr/canli-yayin",
+        "país": "tr",
+        "categoría": "news"
+    },
     "star-tv": {
         "nombre": "STAR TV",
         "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.startv.com.tr/canli-yayin"
+            ],
             "m3u8_url": [
                 "https://dogus-live.daioncdn.net/startv/startv.m3u8",
                 "https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web&ppid=80f992a83f5f34f93ff8158991702653"
@@ -37699,7 +37719,7 @@
         "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/P5BOJKmWaaI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.tv100.com/canli-yayin"
             ],
             "m3u8_url": [
                 "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
@@ -37719,7 +37739,10 @@
         "nombre": "FM TV100",
         "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.canlitv.me/fm-tv",
+                "https://www.fmtelevizyonu.com/video/canli-yayin/"
+            ],
             "m3u8_url": [
                 "https://live.fm100.gr/hls/tv100/1_2/index.m3u8?sessId=19568"
             ],
@@ -37793,7 +37816,7 @@
         "logo": "https://i.ibb.co/rwnrgFV/a-spor.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/7uBpwcn2ZZ0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.aspor.com.tr/webtv/canli-yayin"
             ],
             "m3u8_url": [
                 "https://github.com/rideordie16/YouTube/raw/main/spor/aspor.m3u8"
@@ -37812,7 +37835,9 @@
         "logo": "https://i.ibb.co/gRR1zpm/ntv.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/-RORLrBwJD0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.ntv.com.tr/canli-yayin/ntv",
+                "https://canlitv.com/ntv-izle",
+                "https://www.canlitv.me/ntvcanli-hd"
             ],
             "m3u8_url": [
                 "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8",
@@ -37833,8 +37858,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/gIdaTOTzZuw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://ecanlitvizle.video/embed.php?kanal=atv-canli-izle-2"
+                "https://www.atv.com.tr/canli-yayin"
             ],
             "m3u8_url": [
                 "https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1727256963&st=pdXfmFQLjW69Ra2zQeGDLg&sid=6rpsy5dy5fjo&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3",
@@ -38156,7 +38180,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ecanlitvizle.video/embed.php?kanal=arb-gunes"
+                "https://canlitv.com/arb-gunes-tv",
+                "https://arbgunesh.az/live"
             ],
             "m3u8_url": [
                 "https://ecanlitv3.etvserver.com/arbgunestv.m3u8?tkn=u3mPuI4ViIfUH-liTne1Mg&tms=1727226492"
@@ -38175,7 +38200,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli"
+                "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli",
+                "https://www.canlitv.vin/arb-tv",
+                "https://canlitv.com/arb-tv"
             ],
             "m3u8_url": [
                 "https://ecanlitv3.etvserver.com/arbaz.m3u8?tkn=Eyw6MhM4K9IjGl1sliYEBA&tms=1727226689"
@@ -38213,7 +38240,7 @@
         "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/-HJwrahoMsQ?si=jc3lZdnMSt1Uin33&autoplay=1&mute=1"
+                "https://halktv.com.tr/canli-yayin"
             ],
             "m3u8_url": [
                 "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
@@ -38232,7 +38259,9 @@
         "nombre": "Trt Haber",
         "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.trthaber.com/canli-yayin-izle.html"
+            ],
             "m3u8_url": [
                 "https://tv-trthaber.medya.trt.com.tr/master.m3u8"
             ],
@@ -38246,10 +38275,12 @@
         "categoría": "news"
     },
     "24-TV": {
-        "nombre": "24 TV",
+        "nombre": "24 TV yayın akışı",
         "logo": "https://i.ibb.co/tHQpWvn/24.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.yirmidort.tv/televizyon/canli-yayin/"
+            ],
             "m3u8_url": [
                 "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
             ],
@@ -38263,10 +38294,12 @@
         "categoría": "news"
     },
     "now-TV": {
-        "nombre": "NOW TV",
+        "nombre": "NOW TV yayın akışı",
         "logo": "https://i.ibb.co/tHQpWvn/24.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.nowtv.com.tr/yayin-akisi"
+            ],
             "m3u8_url": [
                 "https://ecanlitv3.etvserver.com/foxtv.m3u8?tkn=hieUFTuvaW8Z9VtpAT5-PQ&tms=1727220951",
                 "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1727271087&st=gXH7wvdHw2V31iYe5eDdxg"
@@ -38284,7 +38317,9 @@
         "nombre": "SHOW TV",
         "logo": "https://i.ibb.co/tHQpWvn/24.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.showtv.com.tr/canli-yayin"
+            ],
             "m3u8_url": [
                 "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
                 "https://ciner-live.daioncdn.net/showtv/showtv.m3u8?hash=e9bbd409d560406344cf86f5148bb0a4",
@@ -38304,11 +38339,11 @@
         "nombre": "TV8,5",
         "logo": "https://user-images.githubusercontent.com/16838044/195684196-a3405e3d-98fc-41a7-9d79-ec34023ccff8.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
-                "https://cdn900.canlitv.me/tv85.m3u8?tkn=PO9BN2u7nenkPboJTg_YkA&tms=1727228847&hst=www.canlitv.me&ip=2800:200:e640:1a48:f988:442e:4f7d:c560"
+            "iframe_url": [
+                "https://www.canlitv.me/tv85canli-hd",
+                "https://canlitv.com/tv85-izle"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
