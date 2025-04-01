@@ -9417,6 +9417,274 @@
         "país": "co",
         "categoría": "news"
     },
+    "Acuario-Televisión-colombia": {
+        "nombre": "Acuario Televisión (Rionegro | Antioquia)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalacuario"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canalacuario"
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "atntelevision-amordiscosretro-colombia": {
+        "nombre": "Atntelevision Amordiscosretro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://atntelevision.co/en-vivo/",
+                "https://amordiscosretro.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "Avivamiento-TV-colombia": {
+        "nombre": "Avivamiento TV MUSIC (1080p) [Not 24/7]",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://avivamiento.com/avivamiento-tv.php"
+            ],
+            "m3u8_url": [
+                "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "Canal2Alpavision-colombia": {
+        "nombre": "Canal 2 Alpavisión (Neiva | Huila)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://alpavision.com.co/canal-2-senal-en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "CanalDos.co-colombia": {
+        "nombre": "Canal Dos (Yopal | Casanare)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.canal2.co/envivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "CanalPyC-colombia": {
+        "nombre": "Canal PyC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://canalpyc.com/senal-en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "CanalVIP-colombia": {
+        "nombre": "Canal VIP",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://canalvip.co/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "CanalVisionDorada-colombia": {
+        "nombre": "Canal Visión Dorada",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.bumtelevision.com.co/",
+                "https://www.vivalivetv.com/channel/vision-dorada"
+            ],
+            "m3u8_url": [
+                "https://movil.ejeserver.com/live/visiondorada.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "CTV-colombia": {
+        "nombre": "CTV (Barranquilla | Atlántico)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ctvbarranquilla.com/senal-en-vivo-2/"
+            ],
+            "m3u8_url": [
+                "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "HuilaTV-colombia": {
+        "nombre": "Huila TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://server.asilivehd.com/hybrid-stream-video-widget/huilatv",
+                "https://www.huilatv.com/huila-play-video/"
+            ],
+            "m3u8_url": [
+                "https://server.asilivehd.com:3333/live/huilatvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "MelodyChannel-colombia": {
+        "nombre": "Melody Channel Colombia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://my.melody.tv/content/emotion-tv",
+                "https://www.oklivetv.com/melody-channel-live/"
+            ],
+            "m3u8_url": [
+                "https://movil.ejeserver.com/live/teledoradahd.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "MulticanalTelevision-colombia": {
+        "nombre": "Multicanal Televisión (Santiago de Cali | Valle del Cauca)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://multicanaltvcali.com/",
+                "https://www.giniko.com/watch.php?nmid=multicanal"
+            ],
+            "m3u8_url": [
+                "https://cloud2.streaminglivehd.com:1936/8010/8010/playlist.m3u8",
+                "https://cloud2.streaminglivehd.com:1936/8010/8010/chunklist_w995034353.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/f3ae76e5226246d7c29678a96e1a6b9d0ed21d12/IPTV/co.m3u#L4",
+        "país": "co",
+        "categoría": "news"
+    },
+    "MasTV-colombia": {
+        "nombre": "Más TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mastvproducciones.net.co/television/",
+                "https://www.opencaster.com/mastvgt-100-100",
+                "https://panel.lifestreammedia.net:2000/VideoPlayer/mastvpr",
+                "https://mastvpr.com/live-streaming/live-streaming/",
+                "https://cloud5.streaminglivehd.com/hybrid-stream-video-widget/latinomediamaster",
+                "https://www.latinomastv.com/",
+                "https://mastv.gt/"
+            ],
+            "m3u8_url": [
+                "https://cloud5.streaminglivehd.com:3861/live/latinomediamasterlive.m3u8",
+                "https://movil.ejeserver.com/live/teledoradahd.m3u8"
+            ],
+            "yt_id": "UCLTMWDapaj7ognCRP5fvoRg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@canalmastv8470",
+        "país": "co",
+        "categoría": "news"
+    },
+    "surtvparaguay-tvs": {
+        "nombre": "TVS - Sur TV Paraguay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://itapuanoticias.tv/conexion_radio/",
+                "https://www.delsurdiario.com/tv-en-vivo/",
+                "https://www.npy.com.py/en-vivo",
+                "https://tvs.com.py/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC5DwpkiVVgNcS062ebAJDZg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvs_encarnacion"
+        },
+        "sitio_oficial": "https://www.youtube.com/@surtvparaguay/streams",
+        "país": "py",
+        "categoría": "news"
+    },
     "Radio-Progreso-online": {
         "nombre": "Radio Progreso",
         "logo": "",
