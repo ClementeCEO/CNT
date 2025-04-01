@@ -8280,7 +8280,9 @@
         "nombre": "LA FM Colombia",
         "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.colombia.com/tv/cristo-vision-bogota-644"
+            ],
             "m3u8_url": [],
             "yt_id": "UC6GkkHjigCzoVgvtYg8UB9g",
             "yt_embed": "",
@@ -8295,7 +8297,9 @@
         "nombre": "Teleantioquia Noticias",
         "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.teleantioquia.co/al-aire/#"
+            ],
             "m3u8_url": [],
             "yt_id": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
             "yt_embed": "",
@@ -8310,7 +8314,9 @@
         "nombre": "EAtlantico",
         "logo": "https://graph.facebook.com/EmisorAtlantico/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.colombia.com/tv/imagen-universal-tv-san-francisco-de-macoris-5043"
+            ],
             "m3u8_url": [],
             "yt_id": "UCPsO0NrAGNWX518uPPs7M9Q",
             "yt_embed": "",
@@ -8356,6 +8362,7 @@
         "logo": "https://graph.facebook.com/cncquibdo/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://www.canalcncsanta.com/",
                 "https://player.twitch.tv/?channel=canalcncsantarosa&parent=www.colombia.com"
             ],
             "m3u8_url": [],
@@ -8368,29 +8375,15 @@
         "país": "co",
         "categoría": "news"
     },
-    "canal-trece": {
-        "nombre": "Canal Trece",
+    "rcpc-9-tuuniversotv": {
+        "nombre": "RCPC Tuuniversotv",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.instantvideocloud.net/#/embed/c6bf0e38",
-                "https://canaltrece.com.co/canal-trece/"
+                "https://lifestreammedia.net/tuuniversotv/",
+                "https://copamexmusic.com/",
+                "https://www.colombia.com/tv/copamex-music-tv-cancun-6159"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canaltrece.com.co",
-        "país": "co",
-        "categoría": "news"
-    },
-    "rcpc-9": {
-        "nombre": "RCPC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UC9hP6I16d9HouHHf8Fm_9Dw",
             "yt_embed": "",
@@ -8405,7 +8398,9 @@
         "nombre": "Nos Cogió La Noche Noticias",
         "logo": "https://graph.facebook.com/NosCogioLaNocheCosmovision/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.infoncn.com/senal-en-vivo/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCCPvLUrjzOd3bNBMdBryv_w",
             "yt_embed": "",
@@ -8416,11 +8411,15 @@
         "país": "co",
         "categoría": "news"
     },
-    "buenisima-radio-tv": {
-        "nombre": "Buenisima Radio Tv",
+    "buenisima-radio-tv-Canal-8-TV": {
+        "nombre": "Buenisima Radio Tv Canal 8 TV+",
         "logo": "https://graph.facebook.com/buenisimaradiotv/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://play4you.icu/e/wjq945p7lx",
+                "https://livestreamlinks.net/onlinetv/colombia/canal-14-codazzi",
+                "https://livestreamlinks.net/onlinetv/colombia/canal-8-tv-1"
+            ],
             "m3u8_url": [],
             "yt_id": "UCk20PydKzK3giq80G4mqSeg",
             "yt_embed": "",
@@ -8436,7 +8435,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cdn.livewave.co:2020/VideoPlayer/eurekalive"
+                "https://www.canalcapital.gov.co/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -8470,6 +8469,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://eduvision.com.co/tv-online/",
                 "https://playerv.voxtvhd.com.br/video/conex2/1/false/true/V1hwT1UyUkhVbkZVV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZOMFlRPT0rWg==/16:9/nocover/nao"
             ],
             "m3u8_url": [],
@@ -8487,8 +8487,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co"
+                "https://www.tvlibrehd.com/en-vivo/oasistv",
+                "https://www.tvlibrehd.com/en-vivo/oasistv"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -8505,8 +8505,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia"
+                "https://tvfamilia.com/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -8523,8 +8522,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv"
+                "https://www.tuuniversotv.net/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -8563,12 +8561,12 @@
             "m3u8_url": [
                 "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCtqVli8UvwRsRoNo0BCLR7w",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://cablenoticias.tv/portada-cablenoticias-2/",
+        "sitio_oficial": "https://www.cablenoticias.tv/",
         "país": "co",
         "categoría": "news"
     },
@@ -8577,11 +8575,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cdn.chatytvgratis.net/rcn01x.php",
-                "https://s1.fta2024.nl/hls/rhd1-811-1724108877970.ts",
-                "https://www.chatytvgratishd.me/canal.php?id=rcn",
-                "https://www.dailymotion.com/embed/video/x7vyv0z?queue-enable=false&autoplay=true",
-                "https://www.dailymotion.com/embed/video/x7wkq7p?queue-enable=false&autoplay=true"
+                "https://www.canalrcn.com/co/player/67535f2a8e10fec44f483a50",
+                "https://www.canalrcn.com/co/player/6792a762f5f47d50b1d766e4",
+                "https://www.canalrcn.com/co/player/67bd9751e81fc64038adf341",
+                "https://www.canalrcn.com/co/player/6792937ee080cf557d68a76d",
+                "https://www.canalrcn.com/co/player/67bd9834f8170f73bc1ff137",
+                "https://www.canalrcn.com/co"
             ],
             "m3u8_url": [
                 "https://live-c2.cf.dmcdn.net/sec2(orrh0WXSfooBs1TH2ts-Ox47ZOEPch1_wnafVBEzwpgcDrGDLnYHfp_aVeMuCQqp0fcW5dIHnls0UMykPFBLsMV7UBnFRMy223YmaYlwPzM)/cloud/3/x7vyv0z/s/live-480.m3u8#cell=lcfc2",
@@ -8601,7 +8600,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cdn.chatytvgratis.net/unocol01.php"
+                "https://mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2?jsapi=true&autoplay=false&volume=80&player=66fb2eaf32eda61b86362c74&title=Canal%201%20-%20Se%C3%B1al%20en%20vivo&show_title=true&ads[volume]=80",
+                "https://canal1.com.co/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -8609,7 +8609,42 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.chatytvgratishd.me/streaming-canal-uno-1-hd-colombia-vivo-directo-internet/",
+        "sitio_oficial": "https://canal1.com.co/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "canal-trece": {
+        "nombre": "Canal Trece",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.instantvideocloud.net/#/embed/c6bf0e38",
+                "https://canaltrece.com.co/canal-trece/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canaltrece.com.co",
+        "país": "co",
+        "categoría": "news"
+    },
+    "noticiasuno-hd": {
+        "nombre": "Noticiasuno HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.noticiasuno.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC3NUgxBBl05tthfGBS6kPkA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC3NUgxBBl05tthfGBS6kPkA",
         "país": "co",
         "categoría": "news"
     },
@@ -8618,15 +8653,15 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/fzyvVBzAeBI?autoplay=1&mute=1&enablejsapi=1&origin=https%3A%2F%2Fcitytv.eltiempo.com"
+                "https://citytv.eltiempo.com/en-vivo"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://citytv.eltiempo.com/en-vivo",
+        "sitio_oficial": "https://www.youtube.com/c/citytvbogota",
         "país": "co",
         "categoría": "news"
     },
@@ -8653,14 +8688,16 @@
         "nombre": "El Espectador",
         "logo": "https://graph.facebook.com/elespectadorcom/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.elespectador.com/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCFYdMS-M4mRdbxPuErz1CVw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elespectador.com/",
+        "sitio_oficial": "https://www.youtube.com/@ElEspectador",
         "país": "co",
         "categoría": "news"
     },
@@ -8686,9 +8723,7 @@
             "iframe_url": [
                 "https://ejeserver.com/video/user/?user=veotv&vol=no"
             ],
-            "m3u8_url": [
-                "https://us.ejeserver.com/live/veotv.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8705,9 +8740,7 @@
             "iframe_url": [
                 "https://ejeserver.com/video/user/?user=teledoradahd"
             ],
-            "m3u8_url": [
-                "https://us.ejeserver.com/live/teledoradahd.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8721,16 +8754,16 @@
         "nombre": "Canal 2",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8"
+            "iframe_url": [
+                "https://www.canal2.co/"
             ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UCpJN_3WCOtfICbsKKxZcBsg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.colombia.com/tv/canal-2-cali-1467",
+        "sitio_oficial": "https://www.youtube.com/@somoscalientetv/streams",
         "país": "co",
         "categoría": "general"
     },
@@ -8738,10 +8771,10 @@
         "nombre": "Telepetróleo",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmbbG-yzBqhxAAAA/chunklist_w905526554.m3u8"
+            "iframe_url": [
+                "https://telepetroleo.com/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8751,15 +8784,32 @@
         "país": "co",
         "categoría": "general"
     },
+    "telemedellin-tv": {
+        "nombre": "Telemedellin TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://telemedellin.tv/senal-en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCi9thgLbI6E127Vu6Hxp8ug",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telemedellin.tv/",
+        "país": "co",
+        "categoría": "general"
+    },
     "canal-c-cali": {
         "nombre": "Canal C",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmbbHaqzBqhxAAAA/chunklist_w1451093259.m3u8"
+            "iframe_url": [
+                "https://www.canalccali.co/"
             ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UC9L5UOnxy7-lSPRn4NNaIRw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -8772,10 +8822,10 @@
         "nombre": "Barrancabermeja Santander",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmbbHj2zBqhxAAAA/playlist.m3u8"
+            "iframe_url": [
+                "https://enlacetelevision.com/en-vivo/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8790,7 +8840,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://streaming.com.co/clientes/calitv/player.php"
+                "https://streaming.com.co/clientes/calitv/player.php",
+                "https://www.canalcalitv.com/senal-en-vivo/"
             ],
             "m3u8_url": [
                 "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w506478164_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPW95bEM2VVJWWVh4OXE4dnhRUkdxb0dNcWNGQmJLRlJabURiek9vbHZTZTQ9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?179.6.168.113"
@@ -8805,10 +8856,11 @@
         "categoría": "general"
     },
     "tele-vid-medellin": {
-        "nombre": "Tele Vid",
+        "nombre": "Tele Vid Medellin",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://televid.tv/",
                 "https://player.instantvideocloud.net/#/embed/9389408e"
             ],
             "m3u8_url": [
@@ -8819,7 +8871,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.colombia.com/tv/tele-vid-medellin-1660",
+        "sitio_oficial": "https://televid.tv/",
         "país": "co",
         "categoría": "general"
     },
@@ -8828,27 +8880,25 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://play.amelbasoluciones.co:2020/VideoPlayer/tdicolombia?autoplay=1"
+                "https://www.tdicolombia.com.co/senal-en-vivo/"
             ],
-            "m3u8_url": [
-                "https://play.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.colombia.com/tv/tdi-colombia-villavicencio-4397",
+        "sitio_oficial": "https://www.tdicolombia.com.co/",
         "país": "co",
         "categoría": "general"
     },
-    "atv": {
-        "nombre": "ATV",
-        "logo": "",
+    "canal-atv-soacha": {
+        "nombre": "Canal Atv Soacha",
+        "logo": "https://cdn.colombia.com/canales/canal-atv-1694-v1.jpg",
         "señales": {
             "iframe_url": [
                 "https://ejeserver.com/video/user/?user=verteve&vol=no",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co"
+                "https://www.atvcolombia.com/global-radio/"
             ],
             "m3u8_url": [
                 "https://movil.ejeserver.com/live/verteve.m3u8"
@@ -8858,7 +8908,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.colombia.com/tv/canal-atv-soacha-953",
+        "sitio_oficial": "https://www.atvcolombia.com/",
         "país": "co",
         "categoría": "news"
     },
@@ -8867,12 +8917,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://play.amelbasoluciones.co:2020/VideoPlayer/mundodelcampolive"
+                "https://elmundodelcampo.tv/"
             ],
-            "m3u8_url": [
-                "https://play.amelbasoluciones.co:19360/mundodelcampolive/mundodelcampolive.m3u8",
-                "https://play.amelbasoluciones.co:19360/mundodelcampolive/mundodelcampolive.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8882,16 +8929,18 @@
         "país": "co",
         "categoría": "general"
     },
-    "sur-tv-santa-rosa-del-sur": {
-        "nombre": "Sur TV",
+    "sur-tv-santa-rosa-del-sur-CanalTeleislas": {
+        "nombre": "Canal Teleislas - Sur TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge.teveo.com.co/live/AeAAAgAjAANpA1IAyADIUDAAAAAAAAAAAmbbJuCzBqhxAAAA/chunklist_w1363954833.m3u8",
-                "https://edge.teveo.com.co/live/AeAAAgAjAANpA1IAyADIUDAAAAAAAAAAAmbbJ9WzBqhxAAAA/chunklist_w2132509772.m3u8"
+            "iframe_url": [
+                "https://streaming.com.co/clientes/teleislas/index.html",
+                "https://intv.com.co/teleislas-en-vivo/",
+                "https://television-live.com/1968-teleislas.html",
+                "https://teleislas.gov.co/"
             ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UC-ALt3lKEHCsLU1a0hE6MHQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -8919,15 +8968,19 @@
         "país": "co",
         "categoría": "general"
     },
-    "radiotvpj-ambato": {
-        "nombre": "Radiotvpj",
-        "logo": "",
+    "radiotvpj-ambato-ambatv": {
+        "nombre": "Radiotvpj Ambatv",
+        "logo": "https://ambatv.com/wp-content/uploads/2024/06/logomabatvfullcolorweb.png",
         "señales": {
             "iframe_url": [
-                "https://vdo1.panelstreaming.live/hybrid-stream-video-widget/radiotvpj"
+                "https://www.ssh101.com/securelive/index.php?id=streamlatacungatv",
+                "https://vdo1.panelstreaming.live/hybrid-stream-video-widget/radiotvpj",
+                "https://www.colombia.com/tv/radiotvpj-ambato-5582",
+                "https://ambatv.com/",
+                "https://radioambato.com.ec/envivo/"
             ],
             "m3u8_url": [
-                "https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8"
+                "https://ssh101stream.ssh101.com/akamaissh101/ssh101/streamlatacungatv/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -8943,6 +8996,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.canalcncsanta.com/",
                 "https://player.kick.com/canal-cnc-santa-rosa",
                 "https://player.kick.com/animeflixlive",
                 "https://player.twitch.tv/?channel=canalcncsantarosa&parent=www.colombia.com"
@@ -8958,10 +9012,11 @@
         "categoría": "news"
     },
     "telesangil-san-gil": {
-        "nombre": "TeleSangil",
+        "nombre": "Tele San gil",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.colombia.com/tv/telesangil-san-gil-1854",
                 "https://tv.caucaserver.net/video/user/?user=telesangil&vol=no"
             ],
             "m3u8_url": [
@@ -8980,7 +9035,10 @@
         "nombre": "Asucap TV San Jorge",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvsanjorge.tv/senal-en-vivo/",
+                "https://www.salgalu.tv/"
+            ],
             "m3u8_url": [
                 "https://asucap.com/livestream/asucap_envivo.m3u8"
             ],
@@ -8990,6 +9048,24 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvsanjorge.tv/senal-en-vivo/",
+        "país": "co",
+        "categoría": "general"
+    },
+    "canal-12-valle-dupar": {
+        "nombre": "Canal 12 Valle Dupar",
+        "logo": "http://www.canal12valledupar.com/joomla3/templates/JV_Maju_template/images/gray/logo.png",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.com.co/AcAAAgAJAAFFA1IAyADIVKgAAAAAAAAA",
+                "https://www.canal12valledupar.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/iemejia/streamingcolombia/blob/main/DEVELOPMENT.md",
         "país": "co",
         "categoría": "general"
     },
@@ -9016,7 +9092,12 @@
         "nombre": "Salsagorda Televisión",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=qMUAZEy",
+                "https://v2.ssh101.com/detailng.php?id=qMUAZEy",
+                "https://www.5900.tv/salsa-gorda-tv/",
+                "https://ssh101.com/live/qMUAZEy"
+            ],
             "m3u8_url": [
                 "https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8",
                 "https://glb.bozztv.com/glb/ssh101/qMUAZEy/tracks-v1a1/mono.m3u8"
@@ -9035,11 +9116,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://multicanaltvcali.com/",
                 "https://ssh101.com/securelive/index.php?id=KIOCApP"
             ],
-            "m3u8_url": [
-                "https://fl1002.bozztv.com/ssh101/KIOCApP/tracks-v1a1/mono.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -9050,7 +9130,7 @@
         "categoría": "general"
     },
     "tvgracia-bogota": {
-        "nombre": "TVGracia",
+        "nombre": "TVGracia Bogota",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -9073,7 +9153,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://imagenuniversaltv.net/hybrid-stream-video-widget/iutv"
+                "https://imagenuniversaltv.net/hybrid-stream-video-widget/iutv",
+                "https://imagenuniversaltv.com/"
             ],
             "m3u8_url": [
                 "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
@@ -9092,7 +9173,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.instantvideocloud.net/#/embed/efab977c"
+                "https://player.instantvideocloud.net/#/embed/efab977c",
+                "https://telecafe.gov.co/senal-en-vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -9109,24 +9191,27 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro",
+                "https://canaltro.com/canal-tro-2/senal-en-vivo/",
                 "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UC34ir-riqZUiCOy90X5AFjg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/canaltro",
+        "sitio_oficial": "https://canaltro.com/canal-tro-2/senal-en-vivo/",
         "país": "co",
         "categoría": "news"
     },
-    "vida-nueva-tv": {
-        "nombre": "Vida Nueva TV",
+    "vida-nueva-tv2": {
+        "nombre": "Vida Nueva TV2",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.vivalivetv.com/channel/vida-nueva-tv",
+                "https://www.colombia.com/tv/vida-nueva-tv-cali-5114"
+            ],
             "m3u8_url": [
                 "https://video5.servidorderadio.net:3986/stream/play.m3u8"
             ],
@@ -9163,7 +9248,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://media.rtvc.gov.co/kalturartvc/indexCI.html"
+                "https://media.rtvc.gov.co/kalturartvc/indexCI.html",
+                "https://rtvcplay.co/en-vivo/canal-institucional"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -9175,16 +9261,14 @@
         "país": "co",
         "categoría": "news"
     },
-    "mi-tv": {
-        "nombre": "Mi TV",
+    "mi-television": {
+        "nombre": "Mi Television",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.mi-television.com/envivo.php"
             ],
-            "m3u8_url": [
-                "https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=268570016"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -9218,7 +9302,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.instantvideocloud.net/#/embed/44c90db3"
+                "https://player.instantvideocloud.net/#/embed/44c90db3",
+                "https://cristovision.tv/en-vivo"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -9251,7 +9336,9 @@
         "nombre": "Suram TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.suram.com.co/"
+            ],
             "m3u8_url": [
                 "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"
             ],
@@ -9269,7 +9356,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.onestream.live/embed?token=MTg4NDg1OQ==&type=up"
+                "https://www.cmbcolombia.tv/senal-en-vivo"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -9286,7 +9373,7 @@
         "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://player.instantvideocloud.net/#/embed/883515ae"
+                "https://www.teleantioquia.co/al-aire/"
             ],
             "m3u8_url": [],
             "yt_id": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
@@ -9302,9 +9389,11 @@
         "nombre": "Amaga Teve",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://amagatelevision.com/"
+            ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCIMSSGEjYdDWZWW-7jsTJkg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "amagateve"
