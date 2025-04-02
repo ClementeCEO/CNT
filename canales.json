@@ -17565,14 +17565,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "radioselvatv": {
-        "nombre": "RSELVA TV",
+    "selvatv-radioselvatv": {
+        "nombre": "Selvatv - RSELVA TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https:\/\/radio.obslivestream.com\/hls\/radio_selva\/live.m3u8"
+            "iframe_url": [
+                "https://www.selvatv.pe/senal-en-vivo/",
+                "https://radioselvatv.pe/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17582,29 +17583,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "mas1tv": {
-        "nombre": "MAS 1 TV",
+    "mas1tv-uraniotv": {
+        "nombre": "URANIOTV - Mas 1 Televisión",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tvgratisperu.com/pages/peru/re/mas1tv_op1.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvgratisperu.com/pages/peru/mas1tv.php",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "uraniotv": {
-        "nombre": "URANIOTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvgratisperu.com/pages/peru/re/uraniotv_op1.php"
+                "https://tvgratisperu.com/pages/peru/re/uraniotv_op1.php",
+                "https://playmax.tv/mas1/",
+                "https://tvgratisperu.com/pages/peru/mas1tv.php"
             ],
             "m3u8_url": [
                 "https://live.obslivestream.com/uraniotv/index.m3u8"
@@ -17655,18 +17641,19 @@
         "categoría": "news"
     },
     "wtv-WTVCanal20": {
-        "nombre": "wtv WTV Canal 20 (NI)",
+        "nombre": "WTV CANAL 20 NICARAGUA(NI)",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://webmedialive.com/WTV/",
                 "https://iptv-web.app/NI/WTVCanal20.ni/",
+                "https://wtvnicaragua.com/player/tv-player.html",
+                "https://wtvnicaragua.com/",
                 "https://wtvhn.com/",
                 "https://www.coolstreaming.us/channelnew/es/64475/WTVCanal20.html"
             ],
             "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8",
-                "https://mediacp.us:8081/wtvhn/tracks-v1a1/mono.m3u8"
+                "https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -17674,7 +17661,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.hispanatv.com/c/1/wtv",
-        "país": "pe",
+        "país": "ni",
         "categoría": "news"
     },
     "cnrnoticias": {
@@ -17692,7 +17679,7 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "cnr_73"
         },
         "sitio_oficial": "https://www.cnrnoticias.tv/",
         "país": "pe",
@@ -17728,7 +17715,7 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "tvhuarmey"
         },
         "sitio_oficial": "https://telejahs.com/",
         "país": "pe",
@@ -17738,10 +17725,16 @@
         "nombre": "Tropical Tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8"
+            "iframe_url": [
+                "https://www.corporaciontropicalpuerto.com/",
+                "https://tropicalmusictv.com/",
+                "https://corporaciontropicalpuerto.com/tv",
+                "https://tropicalmoontv.com/plus-tv/",
+                "https://radiotropical.pe/television/",
+                "https://www.corporaciontropicalpuerto.com/tv",
+                "https://symphonier.com/tv/tropical-tv"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17755,7 +17748,9 @@
         "nombre": "telecoloryurimaguas",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://telecolortv.pe/"
+            ],
             "m3u8_url": [
                 "https://live.obslivestream.com/telecolormux/index.m3u8",
                 "https://live.obslivestream.com/telecolormux/index.m3u8"
@@ -17769,31 +17764,18 @@
         "país": "pe",
         "categoría": "news"
     },
-    "matices-tv": {
-        "nombre": "Matices Tv",
+    "matices-tv-oktelevisionhd": {
+        "nombre": "Matices Tv - Oktelevisionhd",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vdo.grupolimalive.com/live-stream-video-widget/maticestv",
-                "https://symphonier.com/reproductor.php?canal=9022"
+                "https://oklivetv.com/axs-tv-live/",
+                "https://tv.wurtlitzer.com/categoria/internacional/?bolivia_tv",
+                "https://vclassictv.cl/",
+                "https://www.repretel.com/programa/matices/",
+                "https://tvgratisperu.com/pages/peru/maticestv.php",
+                "https://aldiaconmatices.com/"
             ],
-            "m3u8_url": [
-                "https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://aldiaconmatices.com/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "oktelevisionhd": {
-        "nombre": "Oktelevisionhd",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://vdo.grupolimalive.com:3005/live/oktvlive.m3u8"
             ],
@@ -17811,7 +17793,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vdo.grupolimalive.com/live-stream-video-widget/liketv"
+                "https://vdo.grupolimalive.com/live-stream-video-widget/liketv",
+                "https://liketv.pe/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -17819,7 +17802,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "hhttps://liketv.pe/",
+        "sitio_oficial": "https://liketv.pe/",
         "país": "pe",
         "categoría": "news"
     },
@@ -17828,7 +17811,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=MilenialTV.pe",
+                "https://www.milenial.news/",
                 "rtmp://www.milenial.news:1935/live"
             ],
             "m3u8_url": [
@@ -17844,33 +17827,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "inkatropical": {
-        "nombre": "inkatropical",
+    "inkatropical-limalive": {
+        "nombre": "LimaLive - inkatropical",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://playerv.streamingvip.click/video/inkatropical/2/false/false/c3Rtdi5zdHJlYW1pbmd2aXAuY2xpY2srMQ==/16:9/"
+                "https://grupolimalive.com/",
+                "https://inkatropical.pe/"
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://inkatropical.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "limalive": {
-        "nombre": "LimaLive",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vdo.grupolimalive.com/hybrid-stream-video-widget/limalive"
-            ],
-            "m3u8_url": [
-                "https://vdo.grupolimalive.com:3245/stream/play.m3u8"
-            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17880,12 +17845,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "unifetv": {
-        "nombre": "Unifetv",
+    "RadioUnoTacna-unifetv": {
+        "nombre": "RadioUnoTacna - Unifetv",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/live_stream?enablejsapi=1&channel=UCK0lpuL9PQb3I5CDcu7Y7bA&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&",
                 "https://constantestimulo.mycloudstream.io/player/xundwjvp",
+                "https://radiouno.pe/",
                 "https://iframe.dacast.com/live/928203024202811fc3bc6cbe26866ebf/29cb9799-7763-c3f9-5e01-ec1acaa0f9d5"
             ],
             "m3u8_url": [
@@ -17900,12 +17867,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "RadioUnoTacna": {
-        "nombre": "RadioUnoTacna",
+    "USIL-vzmayotv": {
+        "nombre": "USIL - VZ TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?enablejsapi=1&channel=UCK0lpuL9PQb3I5CDcu7Y7bA&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&"
+                "https://playmax.tv/vz/",
+                "https://per01-lim01.servidor.stream/usiltv/embed.html",
+                "https://usil.tv/index.php/channel/12/se%C3%B1al-en-vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -17913,41 +17882,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://radiouno.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "vzmayotv": {
-        "nombre": "VZ TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https:\/\/live.obslivestream.com\/vztv\/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.facebook.com/vzmayotv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "usil": {
-        "nombre": "USIL",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://per01-lim01.servidor.stream/usiltv/embed.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://usil.tv/index.php/channel/12/se%C3%B1al-en-vivo/",
+        "sitio_oficial": "https://www.facebook.com/VZTELEVISION/",
         "país": "pe",
         "categoría": "news"
     },
@@ -17964,9 +17899,7 @@
                 "https://telesur.com.pe/streaming/stramingarequipa.html",
                 "https://telesur.com.pe/streaming/indexexp.html"
             ],
-            "m3u8_url": [
-                "https://1667517699.rsc.cdn77.org/hls/ilo.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17976,14 +17909,18 @@
         "país": "pe",
         "categoría": "news"
     },
-    "hoynet": {
-        "nombre": "HOYNET",
+    "CUMO-hoynet-OVACION": {
+        "nombre": "CUMO TV - HOYNET - OVACION TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://cumo.pe/",
+                "https://ovacion.pe/radio",
+                "https://www.ujjina.info/cdn/ovaciontv1.html",
+                "https://www.ujjina.info/cdn/ovacionradio1.html"
+            ],
             "m3u8_url": [
-                "https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8",
-                "https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8"
+                "https://live.obslivestream.com/cumo/index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -17994,30 +17931,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "cumo": {
-        "nombre": "CUMO TV",
+    "nazarenas-radiotvtendencias": {
+        "nombre": "Radio TVTendencias - Nazarenas TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.obslivestream.com/cumo/index.m3u8"
+            "iframe_url": [
+                "https://nazarenas.tv/envivo",
+                "https://www.radiotvtendencias.com/"
             ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cumo.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "radiotvtendencias": {
-        "nombre": "Radio TVTendencias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
-                "https://s1.tvdatta.com:3950/multi_web/play.m3u8"
+                "https://s1.tvdatta.com:3950/multi_web/play.m3u8",
+                "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -18028,48 +17952,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "nazarenas": {
-        "nombre": "Nazarenas TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://nazarenas.tv/envivo",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "ovacion": {
-        "nombre": "OVACION TV",
+    "televisiontarapoto-teleamazonas": {
+        "nombre": "TELEVISIONTARAPOTO - Teleamazonas",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.ujjina.info/cdn/ovaciontv1.html",
-                "https://www.ujjina.info/cdn/ovacionradio1.html"
+                "https://www.televisiontarapoto.pe/",
+                "https://www.teleamazonas.com/teleamazonas-en-vivo/"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ovacion.pe/radio",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "teleamazonas": {
-        "nombre": "Teleamazonas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
-                "https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8"
+                "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8",
+                "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -18080,34 +17973,19 @@
         "país": "pe",
         "categoría": "news"
     },
-    "televisiontarapoto": {
-        "nombre": "TELEVISIONTARAPOTO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8",
-                "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisiontarapoto.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "tumpis-tv": {
-        "nombre": "UMPIS TV",
+    "tumpis-tv-tvperuanisima": {
+        "nombre": "UMPIS TV - Tvperuanisima",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tumpistv.pe/transmision-en-vivo-tumpis-tv/",
                 "https://servilive.com/hybrid-stream-video-widget/tumpistv",
-                "https://servilive.com/hybrid-stream-video-widget/tumpistv"
+                "https://servilive.com/hybrid-stream-video-widget/tumpistv",
+                "https://tvperuanisima.com/"
             ],
             "m3u8_url": [
-                "https://servilive.com:3531/stream/play.m3u8"
+                "https://servilive.com:3531/stream/play.m3u8",
+                "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -18115,24 +17993,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tumpistv.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "tvperuanisima": {
-        "nombre": "Tvperuanisima",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
-                "https://k10.usastreams.com:1936/tvperuanisima/tvperuanisima/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvperuanisima.com/",
         "país": "pe",
         "categoría": "news"
     },
@@ -19499,14 +19359,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "shumac-tv-peru": {
-        "nombre": "Shumac PERU",
+    "ucayalitv-shumac-tv-peru": {
+        "nombre": "Ucayalitv Shumac PERU",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://vdo.grupolimalive.com:3399/stream/play.m3u8"
+            "iframe_url": [
+                "https://www.ucayalitv.com/",
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -19538,11 +19398,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://la10hd.com/vivo/canal.php?stream=golperu",
-                "https://la10hd.com/vivo/canal.php?stream=golperu",
-                "https://deporte-libre.top/en-vivo-online/gol-peru/embed.php",
-                "https://deporte-libre.top/en-vivo-online/gol-peru/embed2.php",
-                "https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L2hsc19qd3AuaHRtbD9nZXQ9THk5aGJXY3dNREE1TUMxaWJIVmxZVzUwYldWa2FXRXRibUYwZFhKbGRHbHRaUzF6WVcxemRXNW5abkl0ZVdGclltWXVZVzFoWjJrdWRIWXZjR3hoZVd4cGMzUXZZVzFuTURBd09UQXRZbXgxWldGdWRHMWxaR2xoTFc1aGRIVnlaWFJwYldVdGMyRnRjM1Z1WjJaeUwzQnNZWGxzYVhOMExtMHpkVGc9"
+                "https://golperuenvivoperutv.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
@@ -19576,28 +19432,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "Topmix-tv": {
-        "nombre": "Topmix TV",
+    "Topmix-tv-Radio-Navez-MIX": {
+        "nombre": "Radio Navez MIX - Topmix TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.logicahost.com.br/player.php?player=6/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://laucadigital.blogspot.com/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "Radio-Navez-MIX": {
-        "nombre": "Radio Navez MIX",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
+                "https://67d0b8a1afbba639973865da--willowy-pasca-101fd1.netlify.app/",
+                "https://player.logicahost.com.br/player.php?player=6/",
+                "https://laucadigital.blogspot.com/",
                 "https://stream.zeno.fm/vq4s9m2sg48uv"
             ],
             "m3u8_url": [
