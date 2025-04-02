@@ -31875,7 +31875,9 @@
         "nombre": "ImagenTV",
         "logo": "https://graph.facebook.com/ImagenTVMex/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.imagentv.com/en-vivo"
+            ],
             "m3u8_url": [],
             "yt_id": "UCl5JKSQsl-_WSU1rz7_BCJA",
             "yt_embed": "",
@@ -31890,7 +31892,12 @@
         "nombre": "Imagen Televisión Puebla",
         "logo": "https://graph.facebook.com/ImagenTVPuebla/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.imagentv.com/en-vivo",
+                "https://sicompuebla.mx/television/envivo/",Ç
+                "https://tv.buap.mx/video/en-vivo",
+                "https://www.canalesdemexicoenvivo.com/2021/08/canal-puebla-tv-en-vivo.html#google_vignette"
+            ],
             "m3u8_url": [],
             "yt_id": "UChA9u7JJzC4sCqegZeEoe9w",
             "yt_embed": "",
@@ -31923,8 +31930,7 @@
         "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://player.vimeo.com/video/1009701588?autoplay=1",
-                "https://player.vimeo.com/video/947887635"
+                "https://binoticias.com/tv-en-vivo"
             ],
             "m3u8_url": [],
             "yt_id": "UCi3NQkTEifKs_j6IuKxVOMA",
@@ -31936,11 +31942,14 @@
         "país": "mx",
         "categoría": "news"
     },
-    "oro-noticias-puebla": {
-        "nombre": "Oro Noticias Puebla",
+    "telesecundaria-oro-noticias-puebla": {
+        "nombre": "telesecundaria - Oro Noticias Puebla",
         "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://aprende.gob.mx/telesecundaria/",
+                "https://www.canalesdemexicoenvivo.com/2021/08/telesecundaria-tv-mexico-en-vivo.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UCiJ9v3AalnGScbn9VrhDF7A",
             "yt_embed": "",
@@ -31951,11 +31960,14 @@
         "país": "mx",
         "categoría": "news"
     },
-    "cps-noticias-puerto-vallarta": {
-        "nombre": "CPS Noticias Puerto Vallarta",
+    "quiero-tv-guadalajar-cps-noticias-puerto-vallarta": {
+        "nombre": "QuieroTV Guadalajar - CPS Noticias Puerto Vallarta",
         "logo": "https://graph.facebook.com/tribunadelabahiaoficial/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://quierotv.mx/videoenvivo",
+                "https://www.canalesdemexicoenvivo.com/2021/08/quiero-tv-guadalajara-en-vivo.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UC6CrPzMg2u-TRvNvb4sSu7w",
             "yt_embed": "",
@@ -31966,11 +31978,14 @@
         "país": "mx",
         "categoría": "news"
     },
-    "ahora-noticias3274": {
-        "nombre": "Ahora Noticias",
+    "tmtv-ahora-noticias3274": {
+        "nombre": "TMTV - Ahora Noticias",
         "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tmtv.live/",
+                "https://www.canalesdemexicoenvivo.com/2021/08/sqcs-tv-en-vivo.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UCn161AaU20-UcYeDEvDJyyA",
             "yt_embed": "",
@@ -31985,7 +32000,9 @@
         "nombre": "VA+ Noticias",
         "logo": "https://graph.facebook.com/RyTAgs/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://ryta.com.mx/envivo/"
+            ],
             "m3u8_url": [
                 "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
             ],
@@ -32018,7 +32035,7 @@
         "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/d-4kSPg70jE?autoplay=1&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.milenio.com&widgetid=1"
+                "https://www.milenio.com/mileniotv"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
@@ -32051,10 +32068,12 @@
         "nombre": "Amas TV",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvazteca.com/cine/envivo"
+            ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "zbJc2aPyIGg?",
+            "yt_id": "UC__aHR3xDkwx0Q8CgoyVUVA",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -32066,7 +32085,9 @@
         "nombre": "TV Migrante",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://mxplus.tv/television/tv-migrante"
+            ],
             "m3u8_url": [
                 "https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1911119574.m3u8"
             ],
@@ -32084,7 +32105,8 @@
         "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/p2AzyIEuFak?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.youtube.com/embed/p2AzyIEuFak?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.nmas.com.mx/en-vivo/?canal=forotv"
             ],
             "m3u8_url": [],
             "yt_id": "UCUsm-fannqOY02PNN67C0KA",
@@ -32101,7 +32123,8 @@
         "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&volume=0&player=607868647ef7d607f13d0adb&show_title=false&poster=&cust_params=device%3Dweb%26idusuario%3Dnull&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FAztecaUno%2FVenga-La-Alegria%2FVenga-La-Alegria-EnVivo%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22"
+                "https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&volume=0&player=607868647ef7d607f13d0adb&show_title=false&poster=&cust_params=device%3Dweb%26idusuario%3Dnull&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FAztecaUno%2FVenga-La-Alegria%2FVenga-La-Alegria-EnVivo%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22",
+                "https://live.adn40.mx/"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
@@ -32145,15 +32168,18 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://telever.tv/",
+        "sitio_oficial": "https://www.youtube.com/c/televisaveracruzoficial",
         "país": "mx",
         "categoría": "news"
     },
-    "jcarlos_valerio": {
-        "nombre": "Juan Carlos Valerio",
+    "excelsior-jcarlos_valerio": {
+        "nombre": "Excélsior - Juan Carlos Valerio",
         "logo": "https://graph.facebook.com/JCarlosValerioNoticias/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.excelsior.com.mx/tv",
+                "https://heraldodemexico.com.mx/tv.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UCCETFebKrX0wIkA9lbqvoNA",
             "yt_embed": "",
@@ -32164,11 +32190,13 @@
         "país": "mx",
         "categoría": "news"
     },
-    "aztecanoticias": {
-        "nombre": "Azteca Noticias",
+    "tv-ujat-aztecanoticias": {
+        "nombre": "TV UJAT - Azteca Noticias",
         "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.ujat.tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
             "yt_embed": "",
@@ -32179,11 +32207,13 @@
         "país": "mx",
         "categoría": "news"
     },
-    "gamavisionmx": {
-        "nombre": "Gamavisión Noticias",
+    "sintesistv-gamavisionmx": {
+        "nombre": "Sintesistv - Gamavisión Noticias",
         "logo": "https://pbs.twimg.com/profile_images/1560373776109277184/17qG3Ktj_400x400.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://sintesistv.com.mx/en-vivo/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
             "yt_embed": "",
@@ -32211,11 +32241,13 @@
         "país": "mx",
         "categoría": "radio"
     },
-    "dk1250am": {
-        "nombre": "DK 1250 AM",
+    "capital21-dk1250am": {
+        "nombre": "Capital21 - DK 1250 AM",
         "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.capital21.cdmx.gob.mx/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
             "yt_embed": "",
@@ -32250,8 +32282,6 @@
         "logo": "https://graph.facebook.com/TelevisaPuebla/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.cablevisionhd.com/stream/lasestrellas.php",
-                "https://www.cablevisionhd.com/stream2/lasestrellas.php",
                 "https://embed.sdfgnksbounce.com/embed2/lasestrellas.html",
                 "https://embed.sdfgnksbounce.com/embed/lasestrellas.html"
             ],
@@ -32270,8 +32300,7 @@
         "logo": "https://graph.facebook.com/TelevisaSON/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.cablevisionhd.com/stream4/lasestrellas.php",
-                "https://www.cablevisionhd.com/stream5/lasestrellas.php"
+                "https://diretelemexico.com/televisa-sonora-en-vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "UCyzWMHGS7bs0sot6KZk5EZg",
@@ -32303,7 +32332,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vimeo.com/event/4146302/embed/interaction?muted=1",
+                "https://b15.com.mx/canal15fresnillo/",
                 "https://vimeo.com/event/4400240/embed/interaction?muted=1"
             ],
             "m3u8_url": [],
