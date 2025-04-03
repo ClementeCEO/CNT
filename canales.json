@@ -15464,7 +15464,9 @@
         "nombre": "Me Gustan Las Series Turcas",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/bad5HyO2SGo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UCb8uLCUMNE5eiBhwa-Jmo9g",
             "yt_embed": "",
@@ -15539,7 +15541,9 @@
         "nombre": "MangoTV Drama Official",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/Ncr3qnGBUgY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UCTulSfEm1c14WWRbSN-CNAQ",
             "yt_embed": "",
