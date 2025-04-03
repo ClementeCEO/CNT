@@ -15428,14 +15428,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "radio-uno": {
-        "nombre": "Radio Uno 93.7 FM",
+    "reformatv-radio-uno": {
+        "nombre": "Reformatv - Radio Uno 93.7 FM",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://radiouno.pe/radiolive8/index.php"
+                "https://radiouno.pe/radiolive8/index.php",
+                "https://www.reformatv.net/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8"
+            ],
             "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -15489,7 +15492,47 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@DDIndia",
-        "país": "pe",
+        "país": "in",
+        "categoría": "radio"
+    },
+    "Zee-Tamil-Sunnewstamil-India": {
+        "nombre": "Sun News சன் டிவி லைவ் தமிழ்",
+        "logo": "https://tatalogo.pages.dev/521.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.sunnewslive.in/"
+            ],
+            "m3u8_url": [
+                "http://ckfdagk.megakomo.xyz:900/live/8457027811/8672671710/355372.m3u8",
+                "http://extraott-iptv.com:88/live/0229477349/8104258135/355366.m3u8"
+            ],
+            "yt_id": "UCYlh4lH762HvHt6mmiecyWQ",
+            "yt_embed": "9M02G5c6x6w?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ",
+        "país": "in",
+        "categoría": "radio"
+    },
+    "Jaya TV - thanthitv-India": {
+        "nombre": "Jaya TV - Thanthi TV சன் டிவி லைவ் தமிழ்",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.thanthitv.com/",
+                "https://www.youtube.com/embed/j1nzTy5q_1Y?rand=44734.38558136262&enablejsapi=1&origin=https%3A%2F%2Fwww.thanthitv.com&widgetid=1&forigin=https%3A%2F%2Fwww.thanthitv.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com.pe%2F&vf=6"
+            ],
+            "m3u8_url": [
+                "http://extraott-iptv.com:88/live/0229477349/8104258135/355366.m3u8"
+            ],
+            "yt_id": "UC-JFyL0zDFOsPMpuWu39rPA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA",
+        "país": "in",
         "categoría": "radio"
     },
     "El-Salvador-Noticia": {
