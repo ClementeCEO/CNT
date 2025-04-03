@@ -8365,23 +8365,26 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.rcntotal.com/epg/en_vivo/winsports-1446100",
+                "https://www.rcntotal.com/epg/en_vivo/laviudadelamafiarcnmas-1446680",
                 "https://www.canalrcn.com/co/player/67535f2a8e10fec44f483a50",
                 "https://www.canalrcn.com/co/player/6792a762f5f47d50b1d766e4",
                 "https://www.canalrcn.com/co/player/67bd9751e81fc64038adf341",
                 "https://www.canalrcn.com/co/player/6792937ee080cf557d68a76d",
                 "https://www.canalrcn.com/co/player/67bd9834f8170f73bc1ff137",
+                "https://vix.com/es-es/canales/destacados/channel-callsign-RCN_Noticias",
+                "https://www.canalrcn.com/senal-en-vivo/",
                 "https://www.canalrcn.com/co"
             ],
             "m3u8_url": [
-                "https://live-c2.cf.dmcdn.net/sec2(orrh0WXSfooBs1TH2ts-Ox47ZOEPch1_wnafVBEzwpgcDrGDLnYHfp_aVeMuCQqp0fcW5dIHnls0UMykPFBLsMV7UBnFRMy223YmaYlwPzM)/cloud/3/x7vyv0z/s/live-480.m3u8#cell=lcfc2",
-                "https://dcs3-live.mp.lura.live/server/podserve/7nEeEwswV9WQIgOj/rendition.m3u8?track=video-2&ts=1724105653&psi=d35c73f6f72d91c8f49d2de9a30d9f1d&encp=GoWtVCQgcoUVw2mfG9Pgaw:FLVv9tp-X2zejZuSTq6ucNZTJwrO9k4NinDKv7tGx23oYLI2u_AXu8v4gx6wUsVlzwzVWQxUHYDZ72UcLS_GEfr61pSG2diq31G9V3x_8h-ceT-2C8oSGGaBrH7XKO35P_eGPIc0-Nf2mPMXi_xNLyp5xDMTE4xu7s0Khc43yP0u-mM_b5TRp6u5oFuHbw6NuuhdpfAOlzl9jETUMgjYyQDuJ13zOZuZIP4H-vRjROmjXj8vlYQU85d9d4ToxNvNTJws0AVsKsOQHmhNWRRXWEe45cscIrIhU0GKNQHX0XVtMvlWdBpey3-9sezMZjcqpD2kG3K4L1PDIj70S2csDURSf5whqjn5C8cLs3yi7t_cgQdaZae51vp1omvPqr4XzqOENehq9aAFZC-Qb0KiMAyFnSNY1__LbD24uwoDVjPAocaWFvr_KRohL5cDC6xiky51F3MUjmB-0VbMt9By8dVsZq5wTnRdmjq2vwqHVfbxLE_sxj17SpLLumtJ1cDsqtC_0H8CMF09HZzp-NQZ-lcwO9-LqRLgzk1o_yTndC7WE3QaOUTR_0yr2ShNv6c0niimWvX47P1JTMZKwwaVwwLVV7nvX_Amu4zUCCjBd-YV3gq_F6Zc0wA1Dfy0yPKSb9tw0IErvnBFPgjmjp_jVc4je0851zGTT6B0GMmmawA3U6P9bIoJENYGU4YjyT_oxzkp2-Yck_kNcYTzThfJBRxXZgJERtjIjA-a8CXO_xtBb-N6cbz0nqqCd4jnu1dk1ZTm392FNR_rR0G3GrLdcdHkQk0uTccOYFwQhwveAnOQZR8j1qqSB8oRG3tfvy0R65YU_jHt_IEGLZSoz0BHLr1Yrxj3bv5o1i5lNIUUtYaCtMYlgI4RT6DB8-5acPhxCRMlEQ9bVlE-wmkP0uZVNJxV7kON699nzKUWtDF9h1LZhEolAVAXp3o5nUI4H3j8oMY5guxY-QbZWUoeMzn0NkX2HOvzYStMZrap2N_olfCJYqS3_OIt3MUnwz_lNPeAaRUkwf6mbuxICuUpfbq504_RfEmjm3VvJXlZuGM5AvUO3eAB3AwkS0fV7KUPyStj&pcqx=fc5d7ea646047eaa2cacbf1ea4fa1a68&sid=6622671d-bbcd-45b3-8a16-5a56bf881468:SCL"
+                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://vix.com/es-es/canales/destacados/channel-callsign-RCN_Noticias",
+        "sitio_oficial": "https://www.youtube.com/canalrcn",
         "país": "co",
         "categoría": "news"
     },
@@ -8471,6 +8474,52 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://redmas.com.co/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "ONTV-RADIO-BACAN-TV-PLUS": {
+        "nombre": "ONTV - RADIO BACAN TV PLUS",
+        "logo": "https://xhateaec.com/tv/logos/ON%20TV.jpeg",
+        "señales": {
+            "iframe_url": [
+                "https://bacanplus.com/index.php/tv/",
+                "https://www.radiobacan.com/",
+                "https://radiomaxlomaximo.blogspot.com/",
+                "https://radioapocalipsis38.com/radio-en-directo/",
+                "https://apocalipsisnetwork.net/sitio/index.php/tv",
+                "https://apocalipsis.vip/",
+                "https://peru.apocalipsisnetwork.info/index.php/tv",
+                "https://casinotvlimon.com/"
+            ],
+            "m3u8_url": [
+                "https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/1f91c90f45ec84fe307d44e3fd12fdde/index.m3u8",
+                "https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/06b6eadab14ad5bd7334a2fc3adab45f/index.m3u8",
+                "https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/19f839bf84d313a8f3eba6f6b7c5e52d/index.m3u8",
+                "https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/2e68eeb4f04d3117d38c7d8ebe7bdaf4/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Pibyto/pibytotv.m3u/blob/main/XhateaecPRO",
+        "país": "co",
+        "categoría": "news"
+    },
+    "lamega-noticias": {
+        "nombre": "Lamega",
+        "logo": "https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.lamega.com.co/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lamega.com.co/",
         "país": "co",
         "categoría": "news"
     },
@@ -32370,7 +32419,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.conceptoweb-studio.com/radio/video/tv4/"
+                "https://www.conceptoweb-studio.com/radio/video/tv4/",
+                "https://tvcuatro.tv/4-2/"
             ],
             "m3u8_url": [
                 "https://5ca3e84a76d30.streamlock.net/tv42/videotv42_240p/playlist.m3u8",
@@ -32388,29 +32438,20 @@
         "país": "mx",
         "categoría": "news"
     },
-    "RCN": {
-        "nombre": "RCN",
+    "MVS-Noticias": {
+        "nombre": "MVS Noticias",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://tele-libre.com/en-vivo-online/rcn/embed.php",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-xtra",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas",
-                "https://embed.sdfgnksbounce.com/embed2/rcn.html",
-                "https://embed.sdfgnksbounce.com/embed/rcn.html",
-                "https://www.cablevisionhd.com/stream/rcn.php"
+                "https://mvsnoticias.com/"
             ],
-            "m3u8_url": [
-                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
-            ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UCckBTKevnC_JOB_q0OO9dgg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.canalrcn.com/senal-en-vivo/",
+        "sitio_oficial": "https://www.youtube.com/@MVSNoticiasOficial/streams",
         "país": "mx",
         "categoría": "news"
     },
