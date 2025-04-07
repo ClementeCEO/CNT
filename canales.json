@@ -3045,58 +3045,6 @@
         "país": "gb-eng",
         "categoría": "news"
     },
-    "EUROTV": {
-        "nombre": "EUROTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=eurochgreece",
-                "https://www.eurotv.gr/live-tv/"
-            ],
-            "m3u8_url": [
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eurotv.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "pronews-tv": {
-        "nombre": "Pronews TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pronewstv"
-        },
-        "sitio_oficial": "www.pronews.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "extacy-tv": {
-        "nombre": "Extacy TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "extacy_tv"
-        },
-        "sitio_oficial": "https://extacytv.gr/",
-        "país": "gr",
-        "categoría": "news"
-    },
     "ebenezer-online": {
         "nombre": "Ebenezer",
         "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
@@ -3116,6 +3064,334 @@
         "sitio_oficial": "https://ebenezer.hn/",
         "país": "hn",
         "categoría": "cristiana"
+    },
+    "EUROTV-hnl": {
+        "nombre": "EUROTV - HNL",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=eurochgreece",
+                "https://www.eurotv.gr/live-tv/",
+                "https://www.parsatv.com/name=HLN#news",
+                "http://www.parsatv.com/embed.php?name=HLN&auto=false",
+                "https://www.hln.be/videos/productie/webstream-3-103242-103242"
+            ],
+            "m3u8_url": [
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8",
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.eurotv.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "pronews-tv-MEGA": {
+        "nombre": "PronewsTV - MEGA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
+                "https://www.megatv.com/live/",
+                "https://www.tvopen.gr/ethnoslive",
+                "https://www.tvopen.gr/live",
+                "https://www.grlivetv.com/p/open.html",
+                "https://www.skai.gr/tv/live",
+                "https://stasinos.tv/Greek/Greek-TV-Online1.aspx",
+                "https://netnix.tv/countries/gr/channels/skai-hd-bup2",
+                "https://www.antenna.gr/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "pronewstv"
+        },
+        "sitio_oficial": "www.pronews.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "extacytv-alpha-ertnews": {
+        "nombre": "ExtacyTV - Alpha - Ertnews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://fr.crystalweb.net:2020/VideoPlayer/extacytv?autoplay=1&muted=1",
+                "https://extacytv.gr/",
+                "https://www.ertflix.gr/embed/index.html?codename=ert-news",
+                "https://netnix.tv/countries/gr/channels/ert-news#google_vignette",
+                "https://www.ertnews.gr/live-tv/",
+                "https://kontra.siliconweb.com/webtv/kontrachannel/iframe.jsp",
+                "https://kontrachannel.gr/livetv-kontrachannel.html#google_vignette",
+                "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
+                "https://www.alphatv.gr/live/",
+                "https://www.grlivetv.com/p/alpha.html",
+                "https://www.star.gr/tv/live-stream",
+                "https://digitalstar.gr/",
+                "https://www.star.gr/tv/live-stream",
+                "https://parltv.live.grnet.gr/webtv/",
+                "https://www.grlivetv.com/p/vouli.html",
+                "https://parltv.live.grnet.gr/webtv/"
+            ],
+            "m3u8_url": [
+                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8",
+                "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "extacy_tv"
+        },
+        "sitio_oficial": "https://extacytv.gr/",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "tv100-blueskytv-action24": {
+        "nombre": "TV100 - Blueskytv - Action24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://deliver2.siliconweb.com/besttv/live_abr.html?2",
+                "https://www.youtube.com/embed/uWIhV9gQClg",
+                "https://fm100.gr/live/tv100",
+                "https://blueskytv.gr/live-tv/",
+                "https://www.grlivetv.com/p/tv100.html#google_vignette",
+                "https://www.action24.gr/live-stream/",
+                "https://stasinos.tv/Greek-Live-TV/Action24.aspx",
+                "https://netnix.tv/countries/gr/channels/action-24#google_vignette",
+                "https://www.attica-tv.gr/live-stream/",
+                "https://www.cretetv.gr/live-stream/",
+                "https://netnix.tv/countries/gr/channels/creta#google_vignette",
+                "https://netnix.tv/countries/gr/channels/krhth-tv",
+                "https://www.neatv.gr/live-broadcast/",
+                "https://netnix.tv/countries/gr/channels/nea-tv",
+                "https://epirustv1.eu/",
+                "https://aeolos.tv/live/",
+                "https://enachannel.gr/webtv/",
+                "https://netnix.tv/countries/gr/channels/ena-channel",
+                "https://best-tv.gr/home/best-live-tv/"
+            ],
+            "m3u8_url": [
+                "https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8",
+                "https://bestTV.siliconweb.com/bestTV/live_abr/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://webtv.gr/live/",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "maktv-tv4e-ioniantv": {
+        "nombre": "Maktv - Tv4e - Ioniantv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rumble.com/embed/v6p0jb8/?pub=kjm83",
+                "https://watch.antennaplus.gr/#/live/maktv",
+                "http://www.tv4e.gr/livestreaming.php",
+                "https://ioniantv.gr/live/",
+                "https://tv.rik.cy/live-tv/rik-sat/",
+                "https://www.arttv.info/p/art.html",
+                "https://onechannel.gr/live-tv/",
+                "https://www.sigmatv.com/live",
+                "https://www.alphacyprus.com.cy/live",
+                "https://www.ant1live.com/webtv/live",
+                "https://tvcreta.gr/live/",
+                "https://www.mesogeiostv.gr/live-tv/",
+                "https://www.omegatv.com.cy/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "thrakinet-syrostv1-egnatia": {
+        "nombre": "Thrakinet - Syrostv1 - Egnatia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://eco.streams.ovh:2000/VideoPlayer/syrostv1",
+                "https://www.thrakinet.tv/thrakinet-live/",
+                "https://syrostv1.gr/live-tv/",
+                "https://www.egnatia.tv/live",
+                "https://www.verginanews.gr/web-tv-2/",
+                "https://www.alerttv.com.gr/webtv",
+                "https://trttv.gr/web-tv/",
+                "https://www.astratv.gr/live-streaming/",
+                "http://213.16.128.6:8101/deltatv/live.php",
+                "https://www.pronews.gr/live/"
+            ],
+            "m3u8_url": [
+                "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "astratv2021"
+        },
+        "sitio_oficial": "https://netnix.tv/countries/gr/channels/m-tv-hd",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "dhras-pellatv-extra3": {
+        "nombre": "Dhras - Pellatv - Extra3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dhras.gr/live-tv",
+                "https://www.tvkosmos.gr/",
+                "https://www.dhras.gr/",
+                "http://www.elladatv.gr/",
+                "https://pellatv.gr/live",
+                "https://www.extra3.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvkosmosgr"
+        },
+        "sitio_oficial": "https://www.grlivetv.com/#google_vignette",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "iview-tv-lampsi-tv-village-world": {
+        "nombre": "Iviewtv - Lampsi-tv - Village world",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ellastvmax.com/village-world/",
+                "https://netnix.tv/countries/gr/channels/iview-tv",
+                "https://ellastvmax.com/ellasworld-tv-live/",
+                "https://netnix.tv/countries/gr/channels/lampsi-tv",
+                "https://www.gamostv.eu/%CE%BB%CE%AC%CE%BC%CF%88%CE%B7-tv-live%21/",
+                "https://ellastvmax.com/madworld-tv-live/",
+                "https://netnix.tv/countries/gr/channels/level",
+                "https://netnix.tv/countries/gr/channels/zeys",
+                "https://netnix.tv/countries/gr/channels/omikron-tv",
+                "https://omikrontv.gr/",
+                "https://netnix.tv/countries/gr/channels/ns-tv#google_vignette",
+                "https://www.nstv.gr/nstvlive/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.greek-web-tv.com/p/live-tv_5.html",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "flash-tv-samiaki-thessaliatv": {
+        "nombre": "Flashtv - Samiaki - Thessaliatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/watch",
+                "https://flash-tv.gr/live/#google_vignette",
+                "https://diontv.gr/webtv/",
+                "https://www.startmediacorfu.gr/kerkyra-starttv-webtv/",
+                "https://epiloges.tv/tileorasi/",
+                "https://samiaki.tv/web-tv/#google_vignette",
+                "https://www.thessaliatv.gr/live/",
+                "https://www.startvfm.gr/live/",
+                "https://www.zougla.gr/live/",
+                "https://centertv.gr/live-tv",
+                "https://www.acheloostv.gr/news/achelooswebtvlive/",
+                "https://netnix.tv/countries/gr/channels/pro-news#google_vignette"
+            ],
+            "m3u8_url": [
+                "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "orestidatv"
+        },
+        "sitio_oficial": "https://newsinmax.blogspot.com/",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "opap-stent-tv-gnomi-tv": {
+        "nombre": "Opap - Stenttv - Gnomitv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://horseraces.pamestoixima.gr/el/live-stream",
+                "https://netnix.tv/countries/gr/channels/opap-tv#google_vignette",
+                "https://netnix.tv/countries/gr/channels/argolida-sport",
+                "https://argolidasport.gr/?page_id=1777",
+                "https://netnix.tv/countries/gr/channels/stent-tv",
+                "https://stent.net.gr/",
+                "https://netnix.tv/countries/gr/channels/tv-dipso",
+                "https://netnix.tv/countries/gr/channels/ekklhsia-tv-hd#google_vignette",
+                "https://ecclesiatv.gr/live",
+                "https://netnix.tv/countries/gr/channels/gnomi-tv",
+                "https://www.gnomi.eu/live.html",
+                "https://netnix.tv/countries/gr/channels/alfa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "alfatv-rodopi-tv-super-b": {
+        "nombre": "Alfatv - Rodopitv - Super-b",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vectromdigital.com/netveurope.html",
+                "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
+                "https://alfatv.com/en/watch-live",
+                "https://netnix.tv/countries/gr/channels/rodopi-tv",
+                "https://stasinos.tv/Greek/RodopiTV.aspx",
+                "https://netnix.tv/countries/gr/channels/super-b",
+                "https://netnix.tv/countries/gr/channels/groovy",
+                "https://babaktv.com/groovy-tv/",
+                "https://www.parsatv.com/name=Groovy-TV",
+                "https://eja.tv/?country=gr",
+                "https://www.newtv.click/gr/groovy-tv-gr/",
+                "https://netnix.tv/countries/gr/channels/netmax-tv",
+                "https://www.newtv.click/gr/netmax-tv-gr/",
+                "https://netmaxtv.com/live/",
+                "https://netnix.tv/countries/gr/channels/netv-europe-hd",
+                "https://netnix.tv/countries/gr/channels/netv-toronto-hd",
+                "https://www.netvtoronto.com/",
+                "https://netnix.tv/countries/gr/channels/village-world",
+                "https://www.wpbt2.org/live-tv/",
+                "https://worldstvmobile.com/country/GR/Choice.gr/Choice",
+                "https://www.wmht.org/live/",
+                "https://bx-tv.com/kiss-tv/",
+                "https://www.kissfm.ro/kisstv",
+                "https://netnix.tv/countries/gr/channels/kiss-tv",
+                "https://netnix.tv/countries/gr/channels/music-web-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
+        "país": "gr",
+        "categoría": "news"
     },
     "ebenezer2-online": {
         "nombre": "Ebenezer2",
