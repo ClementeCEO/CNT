@@ -15642,6 +15642,28 @@
         "país": "pe",
         "categoría": "news"
     },
+    "grupo-atv": {
+        "nombre": "GRUPO ATV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.atv.pe/envivo-atv/",
+                "https://agro-tv.ro/tv-live/"
+            ],
+            "m3u8_url": [
+                "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
+                "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvmas.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22899f0546-7931-4b1c-aa65-998f285569bb%22",
+                "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22b2b556a3-7342-4627-87d7-64efeb128e38%22"
+            ],
+            "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://agro-tv.ro/tv-live/",
+        "país": "pe",
+        "categoría": "news"
+    },
     "latina-pe": {
         "nombre": "Latina PE",
         "logo": "",
@@ -19642,28 +19664,6 @@
         "país": "pe",
         "categoría": "news"
     },
-    "grupo-atv": {
-        "nombre": "GRUPO ATV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.atv.pe/envivo-atv/",
-                "https://agro-tv.ro/tv-live/"
-            ],
-            "m3u8_url": [
-                "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
-                "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvmas.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22899f0546-7931-4b1c-aa65-998f285569bb%22",
-                "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22b2b556a3-7342-4627-87d7-64efeb128e38%22"
-            ],
-            "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://agro-tv.ro/tv-live/",
-        "país": "pe",
-        "categoría": "news"
-    },
     "Topmix-tv-Radio-Navez-MIX": {
         "nombre": "Radio Navez MIX - Topmix TV",
         "logo": "",
@@ -19691,7 +19691,10 @@
         "nombre": "Diario El Comercio Videos",
         "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.distro.tv/live/black-enterprise/",
+                "https://www.distro.tv/live/cindie-tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCLtGUPjKLqa3zgdmhKCZONg",
             "yt_embed": "",
@@ -19706,7 +19709,9 @@
         "nombre": "N60 Noticias",
         "logo": "https://graph.facebook.com/n60noticias/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.distro.tv/live/newsx-world/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCa5H2yRYfOlUH4c22uY5JsQ",
             "yt_embed": "",
@@ -19758,8 +19763,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/A5H00Bu3N-k?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.youtube.com/embed/dQhPgF7FOrk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.distro.tv/live/romance-channel/",
+                "https://www.tivify.tv/inicio"
             ],
             "m3u8_url": [],
             "yt_id": "UCgp4A6I8LCWrhUzn-5SbKvA",
@@ -19791,6 +19796,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
                 "https://www.tvonline123.com/embed/prima-sport-1",
                 "https://www.tvonline123.com/epg/prima-sport-1"
             ],
@@ -19809,6 +19815,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.tvonline123.com/tvlive/?url=prima-sport-3",
                 "https://www.tvonline123.com/embed/prima-sport-3",
                 "https://www.tvonline123.com/epg/prima-sport-3" 
             ],
@@ -19827,6 +19834,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.tvonline123.com/tvlive/?url=prima-tv",
                 "https://www.tvonline123.com/embed/prima-tv",
                 "https://www.tvonline123.com/epg/prima-tv"
             ],
@@ -19845,6 +19853,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.tvonline123.com/tvlive/?url=pro-arena",
                 "https://www.tvonline123.com/embed/pro-arena",
                 "https://www.tvonline123.com/epg/pro-arena"
             ],
@@ -19863,10 +19872,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tvron.org/digi-sport-1/",
                 "https://tvcanale.live/embed.php?id=62"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "https://tvron.org/digi-sport-1/",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -19880,6 +19890,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tvron.org/digi-sport-2/",
                 "https://tvcanale.live/embed.php?id=63"
             ],
             "m3u8_url": [],
@@ -19896,10 +19907,10 @@
         "nombre": "Digi 24",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/55a238b7-ab0e-4b5d-b289-64a6b2b089e5:SCL/variant/328325f5494203c31438adcc52e30a46/bandwidth/1477770.m3u8"
+            "iframe_url": [
+                "https://www.digi24.ro/live/digi24",
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -19913,7 +19924,9 @@
         "nombre": "Observatornews",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://observatornews.ro/live/",
+            ],
             "m3u8_url": [
                 "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
                 "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews_1400k.m3u8"
@@ -20083,11 +20096,14 @@
         "nombre": "Freetv Saber Mas",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-saber-mas/98a0f297-654c-41d2-8717-5c28bdc2e89a/3.m3u8",
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-saber-mas/98a0f297-654c-41d2-8717-5c28bdc2e89a/2.m3u8"
+            "iframe_url": [
+                "https://www.distro.tv/live/freetv-saber-mas/",
+                "https://www.distro.tv/live/freetv-drama-latam/",
+                "https://www.distro.tv/live/freetv-terror/",
+                "https://www.distro.tv/live/freetv-accion-latam/",
+                "https://www.distro.tv/live/freetv-estelar-latam/",
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -20097,87 +20113,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "freetv-drama-latam": {
-        "nombre": "Freetv Drama Latam",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-drama-latam/b24205a6-1de6-4819-b851-83d6c0b65f93/3.m3u8",
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-drama-latam/b24205a6-1de6-4819-b851-83d6c0b65f93/2.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.distro.tv/live/freetv-drama-latam/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "freetv-terror": {
-        "nombre": "Freetv Terror",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-terror/0162688c-92eb-4e3e-8971-d8eaa44b27be/3.m3u8",
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-terror/0162688c-92eb-4e3e-8971-d8eaa44b27be/2.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.distro.tv/live/freetv-terror/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "freetv-accion-latam": {
-        "nombre": "Freetv Accion Latam",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/4c49a70c-c24f-40aa-84e8-d293bfe5ede2/3.m3u8",
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/4c49a70c-c24f-40aa-84e8-d293bfe5ede2/2.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.distro.tv/live/freetv-accion-latam/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "freetv-estelar-latam": {
-        "nombre": "Freetv Estelar Latam",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-estelar-latam/5df68a2b-e914-4465-bf24-1cafd85faac4/3.m3u8",
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-estelar-latam/5df68a2b-e914-4465-bf24-1cafd85faac4/2.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.distro.tv/live/freetv-estelar-latam/",
-        "país": "pe",
-        "categoría": "news"
-    },
     "galxy-tv": {
         "nombre": "Galxy TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream-us-east-1.getpublica.com/cl/240909crfloba2r59gtacfsqj0/960x540_1952280_0_f.m3u8?i=513_2254",
-                "https://stream-us-east-1.getpublica.com/cl/240909crfloba2r59gtacfsqj0/960x540_1952280_0_f.m3u8?i=513_2254"
+            "iframe_url": [
+                "https://www.distro.tv/live/galxy-tv/",
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -20191,10 +20134,10 @@
         "nombre": "zee bollyworld",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream.ads.ottera.tv/cl/240909crflp8rbmkd4jgsavchg/1280x720_2300000_0_f.m3u8?i=475_6640"
+            "iframe_url": [
+                "https://www.distro.tv/live/zee-bollyworld/",
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -20209,12 +20152,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tvone.pe/tv/tvmobil.html"
+                "https://tvone.pe/"
             ],
-            "m3u8_url": [
-                "https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1904423739.m3u8",
-                "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -20329,12 +20269,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "Canal-Norte-tv": {
-        "nombre": "Canal Norte TV",
+    "Canal-Norte-tv-nortevision": {
+        "nombre": "Canal Norte TV - Nortevision",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://kcnawatch.org/korea-central-tv-livestream/",
+                "https://www.nortevision.es/directo/"
+            ],
+            "m3u8_url": [
+                "http://nortevision.dyndns.org:8870/0.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -20423,7 +20368,11 @@
         "nombre": "Loveliferadio TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://anacon.org/app/chans/cy/pluscy.php",
+                "https://www.tvlibrehd.com/en-vivo/playboy/",
+                "https://lakatamia.tv/ellada-tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -20438,7 +20387,11 @@
         "nombre": "Diabata TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://diavatatv.weebly.com/live.html",
+                "https://www.webcameras.gr/loc_wc/webcameras.asp?ID=303",
+                "https://diavatatv.weebly.com/radio-live.html"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -20467,11 +20420,13 @@
         "país": "pe",
         "categoría": "news"
     },
-    "jemora70-tv": {
-        "nombre": "Jemora70 TV",
+    "jemora70-tv-veeps": {
+        "nombre": "Jemora70 TV - Veeps",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://veeps.com/live"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -20497,11 +20452,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "bestb4-tv": {
-        "nombre": "Bestb4 TV",
+    "nova-bestb4-tv": {
+        "nombre": "Nova - Bestb4 TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://teleonline.org/canal/nova/",
+                "https://teleonline.org/canal/bon-dia-tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -20516,7 +20474,9 @@
         "nombre": "TV Popular",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://app.plex.tv/desktop/#!/live-tv"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -20527,11 +20487,13 @@
         "país": "pe",
         "categoría": "news"
     },
-    "danec-tv": {
-        "nombre": "Danec TV",
+    "PlaneaTv-danec-tv": {
+        "nombre": "Planea Tv - Danec TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://planeatvamazonas.com/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -20546,7 +20508,12 @@
         "nombre": "Camara Comercio Lima",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://regionteve.com/",
+                "https://radiochalaca.pe/chalaca-tv/",
+                "https://tvpe15.com/callao",
+                "https://www.facebook.com/ElCallaoTv/?locale=es_LA"
+            ],
             "m3u8_url": [],
             "yt_id": "UCX9RI-nZ79S6Ibjc7qSWHQg",
             "yt_embed": "",
@@ -20557,11 +20524,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "Wayka": {
-        "nombre": "Wayka",
+    "tvpresencia-Wayka": {
+        "nombre": "Tvpresencia - Wayka",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvpresencia.blogspot.com/",
+                "https://tvpe15.com/junin/presencia-tv"
+            ],
             "m3u8_url": [],
             "yt_id": "UCQmo59tWId4OHTdl4W320DQ",
             "yt_embed": "",
@@ -20576,7 +20546,9 @@
         "nombre": "Radio Titanka Apurímac",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://radiotitanka.pe/envivo-abancay/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCzfqmhtDhv8NrLeNHmEvz5g",
             "yt_embed": "",
@@ -20587,11 +20559,13 @@
         "país": "pe",
         "categoría": "news"
     },
-    "nzk-television": {
-        "nombre": "NZK Televisión",
+    "nzk-television-cpn": {
+        "nombre": "NZK Televisión - cpn",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://cableperu.pe/ver-cpn"
+            ],
             "m3u8_url": [],
             "yt_id": "UCE7mMrSeXxOnIAJK9eBen6Q",
             "yt_embed": "",
@@ -20602,11 +20576,16 @@
         "país": "pe",
         "categoría": "news"
     },
-    "ENCONTRADOS-RADIOTV": {
-        "nombre": "ENCONTRADOS RADIOTV",
+    "ENCONTRADOS-RADIOTV-Mega-Cine-FHD": {
+        "nombre": "ENCONTRADOS RADIOTV - Mega Cine FHD",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://serenotv.com/video/canal-mega-cine-hd/embed/",
+                "https://tvpe15.com/internacional/mega-cine-fhd",
+                "https://serenotv.com/video/canal-mega-cine-hd/",
+                "https://www.vivalivetv.com/channel/mega-cine"
+            ],
             "m3u8_url": [],
             "yt_id": "UC9sojE9O8NGPJw3aLxHwBMw",
             "yt_embed": "",
@@ -20617,11 +20596,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "Mundo-Tuerca-Peru": {
-        "nombre": "Mundo Tuerca",
+    "Mundo-Tuerca-Peru-GlobalTv": {
+        "nombre": "Mundo Tuerca - Global Tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvpe15.com/nacional/global-tv",
+                "https://radioexpresion.com.pe/expresion/streaming",
+                "https://www.vivalivetv.com/channel/global-tv",
+                "https://visionglobaltv.net/",
+                "https://globaltvplay.com/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCdRCFCJ-1phTJrVHlimhG8A",
             "yt_embed": "",
@@ -20632,11 +20617,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "OD-futbol-Bolivia": {
-        "nombre": "OD mas que futbol Bolivia",
+    "TV-en-Linea-OD-futbol-Bolivia": {
+        "nombre": "TV en Linea - OD mas que futbol Bolivia",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvenlineaoficial.com/",
+                "https://tvpe15.com/cusco/tv-en-linea"
+            ],
             "m3u8_url": [],
             "yt_id": "UCzJYKpr3ObyFZImL0aenXBQ",
             "yt_embed": "",
@@ -20666,7 +20654,10 @@
         "nombre": "TPA Online",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tpaonline.ao/em-directo/",
+                "https://www.rtpa.es/tpa-television"
+            ],
             "m3u8_url": [],
             "yt_id": "UCpf7-LhTbmKk11p4nqw5LYA",
             "yt_embed": "",
@@ -20682,6 +20673,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://gacetaperutv.pe/envivo",
                 "https://player.twitch.tv/?channel=gacetaperutv&parent=gacetaperutv.pe&muted=true",
                 "https://vk.com/video_ext.php?oid=710509469&id=456239043&hd=2&autoplay=1&quot;"
             ],
