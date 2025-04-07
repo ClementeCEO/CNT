@@ -3045,6 +3045,26 @@
         "país": "gb-eng",
         "categoría": "news"
     },
+    "EUROTV": {
+        "nombre": "EUROTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=eurochgreece",
+                "https://www.eurotv.gr/live-tv/"
+            ],
+            "m3u8_url": [
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.eurotv.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
     "pronews-tv": {
         "nombre": "Pronews TV",
         "logo": "",
@@ -3076,6 +3096,118 @@
         "sitio_oficial": "https://extacytv.gr/",
         "país": "gr",
         "categoría": "news"
+    },
+    "ebenezer-online": {
+        "nombre": "Ebenezer",
+        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+        "señales": {
+            "iframe_url": [
+                "https://ebenezer.hn/envivo",
+                "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
+            ],
+            "m3u8_url": [
+                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ebenezer.hn/",
+        "país": "hn",
+        "categoría": "cristiana"
+    },
+    "ebenezer2-online": {
+        "nombre": "Ebenezer2",
+        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+        "señales": {
+            "iframe_url": [
+                "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
+                "https://ebenezer.hn/envivo"
+            ],
+            "m3u8_url": [
+                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
+        "país": "gt",
+        "categoría": "cristiana"
+    },
+    "canal-27G": {
+        "nombre": "Canal 27G",
+        "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
+        "señales": {
+            "iframe_url": [
+                "https://emisorasgt.com/embed/tv2/canal-27.html?v=1"
+            ],
+            "m3u8_url": [
+                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://emisorasgt.com/canal-27/",
+        "país": "gt",
+        "categoría": "cristiana"
+    },
+    "rnn-canal-27": {
+        "nombre": "RNN Canal 27",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalesdominicanos.live/rnn-canal-27/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "avivamiento-tv-online": {
+        "nombre": "Avivamiento TV Cristiana",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s1.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
+            ],
+            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
+        "país": "co",
+        "categoría": "cristiana"
+    },
+    "abn-avivamiento": {
+        "nombre": "Abn Avivamiento AR Cristiana",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://musicacristiana.com.ar/tv/abn-avivamiento-tv.htm"
+            ],
+            "m3u8_url": [
+                "https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://musicacristiana.com.ar/abn-avivamiento.html",
+        "país": "ar",
+        "categoría": "cristiana"
     },
     "todo-noticias": {
         "nombre": "Todo noticias",
@@ -10681,6 +10813,25 @@
         "país": "hn",
         "categoría": "news"
     },
+    "asomavision-online": {
+        "nombre": "Asomavision",
+        "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
+        "señales": {
+            "iframe_url": [
+                "https://asomatv.duckdns.org/"
+            ],
+            "m3u8_url": [
+                "//asomatv.duckdns.org/livestream/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.asomavision.com/",
+        "país": "ec",
+        "categoría": "cristiana"
+    },
     "alhayat-tv": {
         "nombre": "Alhayat Tv",
         "logo": "",
@@ -12452,6 +12603,25 @@
         "país": "cy",
         "categoría": "news"
     },
+    "asomavision-online": {
+        "nombre": "Asomavision",
+        "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
+        "señales": {
+            "iframe_url": [
+                "https://asomatv.duckdns.org/"
+            ],
+            "m3u8_url": [
+                "//asomatv.duckdns.org/livestream/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.asomavision.com/",
+        "país": "ec",
+        "categoría": "cristiana"
+    },
     "oromartv-ecuador": {
         "nombre": "Oromartv ecuador",
         "logo": "",
@@ -12940,7 +13110,6 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/gis9h2yeor",
-                "",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/fm-mundo"
             ],
             "m3u8_url": [],
@@ -20317,137 +20486,6 @@
         "sitio_oficial": "https://soyradioinc.com/close-radio-tv/",
         "país": "pe",
         "categoría": "news"
-    },
-    "asomavision-online": {
-        "nombre": "Asomavision",
-        "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
-        "señales": {
-            "iframe_url": [
-                "https://asomatv.duckdns.org/"
-            ],
-            "m3u8_url": [
-                "//asomatv.duckdns.org/livestream/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.asomavision.com/",
-        "país": "ec",
-        "categoría": "cristiana"
-    },
-    "ebenezer-online": {
-        "nombre": "Ebenezer",
-        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-        "señales": {
-            "iframe_url": [
-                "https://ebenezer.hn/envivo",
-                "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ebenezer.hn/",
-        "país": "hn",
-        "categoría": "cristiana"
-    },
-    "ebenezer2-online": {
-        "nombre": "Ebenezer2",
-        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-        "señales": {
-            "iframe_url": [
-                "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
-                "https://ebenezer.hn/envivo"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
-        "país": "gt",
-        "categoría": "cristiana"
-    },
-    "canal-27G": {
-        "nombre": "Canal 27G",
-        "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
-        "señales": {
-            "iframe_url": [
-                "https://emisorasgt.com/embed/tv2/canal-27.html?v=1"
-            ],
-            "m3u8_url": [
-                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://emisorasgt.com/canal-27/",
-        "país": "gt",
-        "categoría": "cristiana"
-    },
-    "rnn-canal-27": {
-        "nombre": "RNN Canal 27",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalesdominicanos.live/rnn-canal-27/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "avivamiento-tv-online": {
-        "nombre": "Avivamiento TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s1.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
-            ],
-            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
-        "país": "co",
-        "categoría": "cristiana"
-    },
-    "abn-avivamiento": {
-        "nombre": "Abn Avivamiento AR Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/abn-avivamiento-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/abn-avivamiento.html",
-        "país": "ar",
-        "categoría": "cristiana"
     },
     "movie-fe-online": {
         "nombre": "movie fe Cristiana",
@@ -36339,26 +36377,6 @@
         },
         "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
         "país": "fr",
-        "categoría": "news"
-    },
-    "EUROTV": {
-        "nombre": "EUROTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=eurochgreece",
-                "https://www.eurotv.gr/live-tv/"
-            ],
-            "m3u8_url": [
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eurotv.gr",
-        "país": "gr",
         "categoría": "news"
     },
     "hln-be": {
