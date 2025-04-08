@@ -19908,7 +19908,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.digi24.ro/live/digi24",
+                "https://www.digi24.ro/live/digi24"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19925,7 +19925,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://observatornews.ro/live/",
+                "https://observatornews.ro/live/"
             ],
             "m3u8_url": [
                 "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
@@ -19990,30 +19990,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "canela-kids": {
-        "nombre": "Canela kids",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/HelmerLuzo/CanelaTV_HL/blob/47210803073703dba16ea1b438c641e5a5464ec3/tv/m3u/CanelaTV_tv.m3u",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "canela-Canela-TV": {
-        "nombre": "Canela Canela TV",
+    "canela-Canela-TV-canela-kids": {
+        "nombre": "Canela Canela TV - Canela kids",
         "logo": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canelatv-16x9_4.jpg",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654",
                 "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654"
+                
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -20058,40 +20043,6 @@
         "país": "pe",
         "categoría": "news"
     },
-    "crema-tv": {
-        "nombre": "Crema TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/7fb85a61-3ea7-4548-b723-45ec4ec18168/0.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.distro.tv/live/crematv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "kids-tv-espanol": {
-        "nombre": "Kids TV Español",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/37c013c6-cad1-4f09-aca0-183d9dd42060/1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.distro.tv/live/crematv/",
-        "país": "pe",
-        "categoría": "news"
-    },
     "freetv-saber-mas": {
         "nombre": "Freetv Saber Mas",
         "logo": "",
@@ -20101,6 +20052,8 @@
                 "https://www.distro.tv/live/freetv-drama-latam/",
                 "https://www.distro.tv/live/freetv-terror/",
                 "https://www.distro.tv/live/freetv-accion-latam/",
+                "https://www.distro.tv/live/crematv/",
+                "https://www.distro.tv/live/crematv/",
                 "https://www.distro.tv/live/freetv-estelar-latam/"
             ],
             "m3u8_url": [],
