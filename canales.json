@@ -18731,6 +18731,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://xtv.pe/",
                 "https://bradm.ax/build/202403/22/7f3ef98516bf62a2f18d05db9e0b2b9099705a66/index.html?mediaUrl=https%3A%2F%2Flive.obslivestream.com%2Fxtv%2Findex.m3u8",
                 "https://bradm.ax/build/202403/22/7f3ef98516bf62a2f18d05db9e0b2b9099705a66/index.html?mediaUrl=https%3A%2F%2Flive.obslivestream.com%2Fxtvplus%2Findex.m3u8"
             ],
@@ -18744,11 +18745,16 @@
         "país": "pe",
         "categoría": "news"
     },
-    "gol-peru": {
-        "nombre": "Gol PERU",
+    "history2-peru": {
+        "nombre": "History2 PERU",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://www.tvlibreonline.co/en-vivo/player/embed.php?r=history2-op2",
+                "https://www.tvlibreonline.co/en-vivo/player/embed.php?r=history-op2",
+                "https://www.photocalltv.me/cv/embed.php?r=history-op2",
+                "https://www.enlatele.tv/player/embed.php?r=natgeo-op2",
                 "https://tucanaldeportivo.org/golperu.php"
             ],
             "m3u8_url": [],
@@ -18757,7 +18763,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/golperu-en-vivo.html",
+        "sitio_oficial": "https://www.tvlibreonline.co/en-vivo/history-mx/",
         "país": "pe",
         "categoría": "news"
     },
@@ -18766,6 +18772,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=space-op2",
+                "",
+                "",
                 "https://www.tvgratishd.com/2024/07/odisea-en-vivo.html"
             ],
             "m3u8_url": [],
@@ -18782,17 +18791,19 @@
         "nombre": "novelisima PERU",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.novelisima.com/player/channel/6762e742266509002439fefc",
+                "https://watch.plex.tv/es/live-tv/channel/novelisima?_gl=1*uq2kx5*_ga*MTA4MDY2NzY1NC4xNzA3OTQwOTc4*_ga_G6FQWNSENB*MTcwOTEzNTIxNi4yLjAuMTcwOTEzNTIxNi42MC4wLjA."
+            ],
             "m3u8_url": [
-                "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8",
-                "https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/688d0752-79a0-4488-9c7d-db7e900fdb4d:SCL/master.m3u8"
+                "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/novelisima-en-vivo.html",
+        "sitio_oficial": "https://www.novelisima.com/page/646792d82a19035a166745f6",
         "país": "pe",
         "categoría": "news"
     },
@@ -18800,7 +18811,13 @@
         "nombre": "Telemundo PERU",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://esfutbollibre.com/ver-directo.php?id=5&code=117&evento=Argentina",
+                "https://esfutbollibre.com/ver-directo.php?id=5&code=119&evento=Argentina",
+                "https://esfutbollibre.com/ver-directo.php?id=5&code=119&evento=Argentina",
+                "https://esfutbollibre.com/ver-directo.php?id=5&code=158&evento=Argentina",
+                "https://esfutbollibre.com//"
+            ],
             "m3u8_url": [
                 "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
             ],
@@ -18818,6 +18835,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tipotv.com/streams/embed/j2csabkgztqw0i6i4dlwuszb",
+                "https://tipotv.com/streams/watch/j2csabkgztqw0i6i4dlwuszb",
+                "https://tipotv.com/streams/watch/hj6xeheyqsbgr320t9kisk2x",
+                "https://tipotv.com/streams/watch/d51pb089z3xkcisl1v3ha11r",
                 "https://nebunexa.co/canal/?id=TNTNOVELAS"
             ],
             "m3u8_url": [],
@@ -18835,7 +18856,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tutlehd4.com//pro3.php?a=387"
+                "https://tipotv.com/streams/embed/dqq29neczee6wduamiucbk9m",
+                "https://tipotv.com/streams/watch/dqq29neczee6wduamiucbk9m",
+                "https://tipotv.com/streams/watch/z92sfxvz9sobn9zffaorqpkv"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -18870,7 +18893,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tele-libre.com/en-vivo-online/pasiones/embed.php"
+                "https://tele-libre.com/en-vivo-online/pasiones/embed.php",
+                "https://tele-libre.org/en-vivo-online/history/embed.php",
+                "https://www.enlatele.tv/player/embed.php?r=tnt-op2",
+                "https://www.enlatele.tv/player/embed.php?r=warner-op2"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -18882,13 +18908,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "sony-canal-novelas-peru": {
-        "nombre": "sony canal novelas",
+    "grupo-sony-canal-novelas-peru": {
+        "nombre": "GRUPO sony canal novelas",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=sony-op2",
+                "https://www.enlatele.tv/player/embed.php?r=cinecanal-op2",
+                "https://www.enlatele.tv/player/embed.php?r=cinemax-op2",
+                "https://www.enlatele.tv/player/embed.php?r=fx-op2"
+            ],
             "m3u8_url": [
-                "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/4c9e2b5b-843e-4c64-8a9d-306a688e0cef/5.m3u8",
                 "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
             ],
             "yt_id": "",
@@ -18900,15 +18930,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "espn-4": {
-        "nombre": "Espn 4",
+    "GRUPO-espn-4": {
+        "nombre": "GRUPO Espn 4",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.enlatele.tv/player/embed.php?r=espn4-op2",
-                "https://deporte-libre.top/en-vivo-online/espn-4/embed.php",
-                "https://deporte-libre.top/en-vivo-online/espn-4/embed2.php",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn4-op2"
+                "https://www.enlatele.tv/player/embed.php?r=espn3-op2",
+                "https://www.enlatele.tv/player/embed.php?r=espn2-op2",
+                "https://www.enlatele.tv/player/embed.php?r=espn-op2"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -18924,7 +18954,9 @@
         "nombre": "Itv Deportes",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.itvdeportes.com/"
+            ],
             "m3u8_url": [
                 "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
             ],
@@ -18934,271 +18966,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvgratishd.com/2024/04/itv-deportes.html",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "deportv": {
-        "nombre": "Deportv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://streamtp.live/global2.php?stream=dsports"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/deportv-en-vivo.html",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "laliga": {
-        "nombre": "laliga",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/laliga/embed.php",
-                "https://deporte-libre.top/en-vivo-online/laliga/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/laliga/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/laliga/embed4.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/laliga/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "liga-hipermotion": {
-        "nombre": "liga hipermotion",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/liga-hipermotion/embed.php",
-                "https://deporte-libre.top/en-vivo-online/liga-hipermotion/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/liga-hipermotion/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/liga-hipermotion/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "m-deportes": {
-        "nombre": "m deportes",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/m-deportes/embed.php",
-                "https://deporte-libre.top/en-vivo-online/m-deportes/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/m-deportes/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/m-deportes-2/",
-                "https://deporte-libre.top/en-vivo-online/m-deportes-3/",
-                "https://deporte-libre.top/en-vivo-online/m-deportes-4/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/m-deportes/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "arena-premium": {
-        "nombre": "arena premium",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/arena-premium/embed.php",
-                "https://deporte-libre.top/en-vivo-online/arena-premium/2embed.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/arena-premium/2.php",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dazn-1-es": {
-        "nombre": "Dazn 1 Es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dazn-1-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-1-es/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-1-es/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-1-es/embed4.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dazn-1-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dazn-2-es": {
-        "nombre": "Dazn 2 Es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dazn-2-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-2-es/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-2-es/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dazn-2-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dazn-3-es": {
-        "nombre": "Dazn 3 Es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dazn-3-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-3-es/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dazn-3-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dazn-4-es": {
-        "nombre": "Dazn 4 Es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dazn-4-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-4-es/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dazn-4-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dazn-formula-1-es": {
-        "nombre": "Dazn Formula 1 Es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dazn-formula-1-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-formula-1-es/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-formula-1-es/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/formula1-multipantalla/embed.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dazn-formula-1-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dazn-laliga": {
-        "nombre": "D Laliga",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dazn-laliga/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-laliga/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-laliga/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/dazn-laliga/embed4.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dazn-laliga/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "sky-sports-premier-league": {
-        "nombre": "sky sports premier league",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/sky-sports-premier-league/embed.php",
-                "https://deporte-libre.top/en-vivo-online/sky-sports-premier-league/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/sky-sports-premier-league/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "sky-sports-main-event": {
-        "nombre": "sky sports main event",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/sky-sports-main-event/embed.php",
-                "https://deporte-libre.top/en-vivo-online/sky-sports-main-event/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/sky-sports-main-event/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "sky-sports-formula-1": {
-        "nombre": "Sky Sports Formula 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/sky-sports-formula-1/embed.php",
-                "https://deporte-libre.top/en-vivo-online/sky-sports-formula-1/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/sky-sports-formula-1/",
         "país": "pe",
         "categoría": "news"
     },
@@ -19219,14 +18986,12 @@
         "país": "pe",
         "categoría": "news"
     },
-    "nbc-universo-usa": {
-        "nombre": "nbc universo usa",
+    "grupo-gen-universo": {
+        "nombre": "GRUPO GEN universo",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/nbc-universo-usa/embed.php",
-                "https://deporte-libre.top/en-vivo-online/nbc-universo-usa/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/nbc-universo-usa/embed3.php"
+                "https://www.gen.com.py/live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19234,140 +18999,8 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/nbc-universo-usa/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "tyc-sports": {
-        "nombre": "tyc sports",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/tyc-sports/embed.php",
-                "https://deporte-libre.top/en-vivo-online/tyc-sports/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/tyc-sports/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/tyc-sports/embed4.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/tyc-sports/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "bein-Ñ": {
-        "nombre": "bein Ñ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/bein-%C3%B1/embed.php",
-                "https://deporte-libre.top/en-vivo-online/bein-%C3%B1/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/bein-%C3%B1/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/bein-%C3%B1/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "win-sports-premium": {
-        "nombre": "Win Sports Premium",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/win-sports-premium/embed.php",
-                "https://deporte-libre.top/en-vivo-online/win-sports-premium/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/win-sports-premium/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/win-sports-premium/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dsports": {
-        "nombre": "Dsports",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dsports/embed.php",
-                "https://deporte-libre.top/en-vivo-online/dsports/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dsports/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dsports/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dsports-2": {
-        "nombre": "Dsports 2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dsports-2/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dsports-2/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dsports-2/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "dsports-plus": {
-        "nombre": "Dsports plus",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/dsports-plus/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/dsports-plus/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/dsports-plus/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "zona-tudn": {
-        "nombre": "Zona Tudn",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/tudn/embed.php",
-                "https://deporte-libre.top/en-vivo-online/tudn/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/tudn/embed3.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/tudn/",
-        "país": "pe",
+        "sitio_oficial": "https://www.gen.com.py/live/",
+        "país": "py",
         "categoría": "news"
     },
     "liga1maxpe": {
@@ -19375,11 +19008,6 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://la10hd.com/vivo/canal.php?stream=liga1max",
-                "https://la10hd.com/vivo/canal.php?stream=liga1max",
-                "https://deporte-libre.top/en-vivo-online/liga1max/embed.php",
-                "https://deporte-libre.top/en-vivo-online/liga1max/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/liga1max/embed3.php",
                 "https://tucanaldeportivo.org/liga1maxpe.php"
             ],
             "m3u8_url": [],
@@ -19397,13 +19025,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/espn-premium/embed.php",
-                "https://tucanaldeportivo.org/espnpremium.php",
-                "https://deporte-libre.top/en-vivo-online/espn-premium/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/espn-premium/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/espn-premium/embed4.php",
-                "https://deporte-libre.top/en-vivo-online/espn-7/embed.php",
-                "https://deporte-libre.top/en-vivo-online/espn-7/embed2.php"
+                "https://tucanaldeportivo.org/espnpremium.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19415,46 +19037,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "win-sport-mas-peru": {
-        "nombre": "Win Sport Mas PERU",
+    "grupo-golf-M": {
+        "nombre": "GRUPO GOLF M",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://fullchannels.online/canales.php?id=winsports-op3"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/win-sport-mas-en-vivo.html",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "bein-sport-xtra": {
-        "nombre": "Bein Sportxtra PERU",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://fullchannels.online/canales.php?id=bein-op3"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/05/bein-sport-xtra-n-en-vivo.html",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "golf-M": {
-        "nombre": "GOLF M",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://miztv.shop/tele/stream-528.php"
+                "https://miztv.shop/tele/stream-528.php",
+                "https://miztv.shop/tele/stream-525.php",
+                "https://miztv.shop/tele/stream-524.php",
+                "https://miztv.shop/tele/stream-523.php",
+                "https://miztv.shop/tele/stream-522.php",
+                "https://miztv.shop/tele/stream-521.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19466,84 +19059,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "goltv-es": {
-        "nombre": "GOLF ES",
+    "GRUPO-SSC-4": {
+        "nombre": "GRUPO SSC 5",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/goltv-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/goltv-es/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/goltv-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "teledeporte-es": {
-        "nombre": "Teledeporte ES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/teledeporte/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/teledeporte/embed.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/teledeporte/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "eurosport-1-es": {
-        "nombre": "Eurosport 1 ES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/eurosport-1-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/eurosport-1-es/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/eurosport-1-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "eurosport-2-es": {
-        "nombre": "Eurosport 2 ES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/eurosport-2-es/embed.php",
-                "https://deporte-libre.top/en-vivo-online/eurosport-2-es/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/eurosport-2-es/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "SSC-4": {
-        "nombre": "SSC 5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/ssc/4embed.php"
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5",
+                "https://astvlive.weebly.com/ssc-5.html",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2",
+                "https://astvlive.weebly.com/",
+                "https://www.elahmad.com/tv/ssc-sport-live.php",
+                "https://azrotv.com/local/tv/ch/ssc.php?id=extra2#google_vignette"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19555,53 +19081,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "SSC-5": {
-        "nombre": "SSC 5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/ssc/5embed.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/ssc/5.php",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "bein-sports-max4": {
-        "nombre": "bein sports max4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed.php",
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed2.php",
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed3.php",
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed4.php",
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed5.php",
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed6.php",
-                "https://deporte-libre.top/en-vivo-online/bein-sports-max4/embed7.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deporte-libre.top/en-vivo-online/bein-sports-max4/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "EL-TORO": {
-        "nombre": "EL TORO 5",
+    "GRUPO-EL-TORO": {
+        "nombre": "GRUPO EL TORO 5",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://miztv.shop/tele/stream-749.php",
-                "https://tutlehd4.com//online.php?a=56"
+                "https://miztv.shop/tele/stream-849.php",
+                "https://miztv.shop/tele/stream-899.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19643,7 +19130,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/loreto-tv-en-vivo.html",
+        "sitio_oficial": "https://www.facebook.com/loreto.tv/",
         "país": "pe",
         "categoría": "news"
     },
@@ -19672,6 +19159,8 @@
                 "https://67d0b8a1afbba639973865da--willowy-pasca-101fd1.netlify.app/",
                 "https://player.logicahost.com.br/player.php?player=6/",
                 "https://laucadigital.blogspot.com/",
+                "https://topmixtv.com.br/",
+                "https://www.turbomix.com.pe/innovatestream_turbomixTV.php",
                 "https://stream.zeno.fm/vq4s9m2sg48uv"
             ],
             "m3u8_url": [
