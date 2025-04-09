@@ -12083,8 +12083,21 @@
         "nombre": "Málaga 24h TV Noticias",
         "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://canalmalaga.es/tv-directo",
+                "https://www.canalsur.es/tv_directo-1193.html",
+                "https://iteleflix.com/ver/7-tv-sevilla-en-directo-online/",
+                "https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html",
+                "https://www.ptvtelecom.com/tv-en-directo/",
+                "https://www.101tv.es/sevilla/directosevilla/",
+                "https://ondacadiz.es/television-directo",
+                "http://test.jawaltv.com/spain/watch/tv/m95.php",
+                "https://tv.libertaddigital.com/directo.html",
+                "https://www.101tv.es/endirecto101tv/"
+            ],
+            "m3u8_url": [
+                "https://streaming004.gestec-video.com/hls/7TVSEVILLA.m3u8"
+            ],
             "yt_id": "UCoMWImnPAur6JhXDK63dpAg",
             "yt_embed": "",
             "yt_playlist": "",
