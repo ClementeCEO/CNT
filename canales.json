@@ -3432,23 +3432,6 @@
         "país": "gt",
         "categoría": "cristiana"
     },
-    "rnn-canal-27": {
-        "nombre": "RNN Canal 27",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalesdominicanos.live/rnn-canal-27/",
-        "país": "do",
-        "categoría": "news"
-    },
     "avivamiento-tv-online": {
         "nombre": "Avivamiento TV Cristiana",
         "logo": "",
@@ -5698,42 +5681,6 @@
         },
         "sitio_oficial": "https://www.youtube.com/@Am610Directos",
         "país": "ar",
-        "categoría": "news"
-    },
-    "vtv-g": {
-        "nombre": "VTV HN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vtv.com.hn/envivo/",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "vtv-g": {
-        "nombre": "VTV Canal32",
-        "logo": "//vtvcanal32.com.do/wp-content/uploads/2019/06/VTV-Logo-horizontal.png",
-        "señales": {
-            "iframe_url": [
-                "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
-            ],
-            "yt_id": "UC1toBK5z40-8rfxKGB1QCwg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vtvcanal32.com.do/envivo/",
-        "país": "do",
         "categoría": "news"
     },
     "tv-miraflores": {
@@ -10450,6 +10397,59 @@
         },
         "sitio_oficial": "https://proceso.com.do/en-vivo/",
         "país": "do",
+        "categoría": "news"
+    },
+    "rnn-canal-27": {
+        "nombre": "RNN Canal 27",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalesdominicanos.live/rnn-canal-27/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "vtv-g": {
+        "nombre": "VTV Canal32",
+        "logo": "//vtvcanal32.com.do/wp-content/uploads/2019/06/VTV-Logo-horizontal.png",
+        "señales": {
+            "iframe_url": [
+                "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
+            ],
+            "yt_id": "UC1toBK5z40-8rfxKGB1QCwg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vtvcanal32.com.do/envivo/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "vtv-g": {
+        "nombre": "VTV HN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vtv.com.hn/envivo/",
+        "país": "hn",
         "categoría": "news"
     },
     "canal-algerie-tv": {
