@@ -18504,7 +18504,11 @@
         "nombre": "GALACTICA TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://galacticatv.com/",
+                "https://telefullhd.com/canales/sex23/",
+                "https://telefullhd.com/sex13/"
+            ],
             "m3u8_url": [
                 "https://stream.galacticatv.online//live/moxstreamlive/index.m3u8"
             ],
@@ -18538,7 +18542,9 @@
         "nombre": "RCR",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.rcrperu.com/"
+            ],
             "m3u8_url": [
                 "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
             ],
@@ -18555,7 +18561,9 @@
         "nombre": "NorSelvaR TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://symphonier.com/tv/norselvar-tv"
+            ],
             "m3u8_url": [
                 "https://live.obslivestream.com/norselvatv/index.m3u8"
             ],
@@ -18590,6 +18598,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://www.radioilucan.com/",
                 "https://playervideo.zcastbr.com/video/jorgetv/1/true/false/VlROU2RHUnFSWFZsYlU1b1l6TlNhV05wTldwaU1qQTkrMw==/16:9/YUhSMGNEb3ZMM0poWkdsdmFXeDFZMkZ1TG1OdmJRPT0rWg=="
             ],
             "m3u8_url": [],
@@ -18602,13 +18611,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "lariberena": {
-        "nombre": "LaRiberenaTv",
+    "tvone-peruvianradiotv-lariberena": {
+        "nombre": "TVONE - PERUVIANRADIOTV - LaRiberenaTv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvone.pe/tv/tvmobil.html",
+                "tvone.pe",
+                "https://www.livestreamtvhub.com/pe/general/peruvianradio-tv-peruvianradiotvpe-k70"
+            ],
             "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+                "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -18619,52 +18632,18 @@
         "país": "pe",
         "categoría": "news"
     },
-    "peruvianradio-tv": {
-        "nombre": "PERUVIANRADIO TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://vdo.grupolimalive.com:3399/stream/play.m3u8",
-                "https://vdo.grupolimalive.com:3399/stream/play.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livestreamtvhub.com/pe/general/peruvianradio-tv-peruvianradiotvpe-k70",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "tvone": {
-        "nombre": "TVONE",
+    "ventanillatv-teleselva": {
+        "nombre": "Ventanillatv - Teleselva",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tvone.pe/tv/tvmobil.html"
+                "https://ventanillatv.pe/",
+                "https://iptv-web.app/PE/#Teleselva.pe"
             ],
-            "m3u8_url": [
-                "https://streamtv.onliv3.online:1936/karibtv/karibtv_320p/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "tvone.pe",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "teleselva": {
-        "nombre": "teleselva",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCqpdD4rn4GIYsARnYFwcV2w",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -18673,28 +18652,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "UcayalinadeTelevision": {
-        "nombre": "UcayalinadeTelevision",
+    "UcayalinadeTelevision-AtmosferaTelevision": {
+        "nombre": "UcayalinadeTelevision - AtmosferaTelevision",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://video.agenciastreaming.com/live-stream-video-widget/utv"
+                "https://video.agenciastreaming.com/live-stream-video-widget/utv",
+                "https://www.facebook.com/SomosUTV/?locale=es_LA",
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.facebook.com/SomosUTV/?locale=es_LA",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "AtmosferaTelevision": {
-        "nombre": "AtmosferaTelevision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8",
                 "http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8"
@@ -18705,21 +18670,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.facebook.com/AtmosferaRadioyTv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "ventanillatv": {
-        "nombre": "ventanillatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCqpdD4rn4GIYsARnYFwcV2w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ventanillatv.pe/",
         "país": "pe",
         "categoría": "news"
     },
@@ -18740,82 +18690,40 @@
         "país": "pe",
         "categoría": "news"
     },
-    "RadioElPueblo": {
-        "nombre": "RadioElPueblo",
+    "radiovamisa-RadioElPueblo-VNP": {
+        "nombre": "VamisaTV - RadioElPueblo - VNP",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://radiovamisa.tv/tv/",
+                "https://symphonier.com/tv/vnp",
+                "https://radioelpueblo.com/el-pueblo-tv/",
                 "https://tv.mediacp.eu:2020/VideoPlayer/radioelpueblo?autoplay=1"
             ],
             "m3u8_url": [
-                "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radioelpueblo.com/el-pueblo-tv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "radiovamisa": {
-        "nombre": "Vamisa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://inliveserver.com:1936/10024/10024/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiovamisa.tv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "vnp": {
-        "nombre": "VNP",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
+                "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
+                "https://inliveserver.com:1936/10024/10024/playlist.m3u8",
                 "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "radiotvelpueblo"
         },
-        "sitio_oficial": "https://symphonier.com/tv/vnp",
+        "sitio_oficial": "https://radioelpueblo.com/el-pueblo-tv/",
         "país": "pe",
         "categoría": "news"
     },
-    "RWTelevisionTarapoto": {
-        "nombre": "RWTelevisionTarapoto",
+    "RWTelevisionTarapoto-ImpactoTelevision": {
+        "nombre": "RWTelevisionTarapoto - ImpactoTelevision",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
+            "iframe_url": [
+                "https://cloudvideo.servers10.com:2020/VideoPlayer/impactotv?autoplay=1",
+                "https://radioimpactodecajamarca.com.pe/impacto-tv/",
             ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "RWTelevisionTarapoto": {
-        "nombre": "RWTelevisionTarapoto",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
                 "https://live.obslivestream.com/rwtv/index.m3u8"
             ],
             "yt_id": "",
@@ -18827,30 +18735,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "ImpactoTelevision": {
-        "nombre": "ImpactoTelevision",
+    "TVO-OrientalTVpucallpa": {
+        "nombre": "TVO - OrientalTV Pucallpa",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cloudvideo.servers10.com:2020/VideoPlayer/impactotv?autoplay=1"
+                "https://conceptoweb-studio.com/radio/video/tvo/",
+                "https://tvocanal23.com/tvo-en-vivo/"
             ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radioimpactodecajamarca.com.pe/impacto-tv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "OrientalTVpucallpa": {
-        "nombre": "Oriental TV Pucallpa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8"
             ],
@@ -18860,25 +18752,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.facebook.com/OrientalTV.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "tvo": {
-        "nombre": "TVO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/tvo/"
-            ],
-            "m3u8_url": [
-                "https://5fc584f3f19c9.streamlock.net:443/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDI0IDM6NTg6MDcgUE0maGFzaF92YWx1ZT1BSGlnSWNvM2FmVnNvU1E3b1ZJOEVRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==&DVR"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvocanal23.com/tvo-en-vivo/",
         "país": "pe",
         "categoría": "news"
     },
@@ -18946,8 +18819,6 @@
         "señales": {
             "iframe_url": [
                 "https://www.enlatele.tv/player/embed.php?r=space-op2",
-                "",
-                "",
                 "https://www.tvgratishd.com/2024/07/odisea-en-vivo.html"
             ],
             "m3u8_url": [],
@@ -18985,11 +18856,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://esfutbollibre.com/ver-directo.php?id=5&code=117&evento=Argentina",
-                "https://esfutbollibre.com/ver-directo.php?id=5&code=119&evento=Argentina",
-                "https://esfutbollibre.com/ver-directo.php?id=5&code=119&evento=Argentina",
-                "https://esfutbollibre.com/ver-directo.php?id=5&code=158&evento=Argentina",
-                "https://esfutbollibre.com//"
+                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/telemundopuertorico.html",
+                "https://streamtp4.com/global1.php?stream=fox1ar",
+                "https://www.photocalltv.me/en-vivo/player/embed.php?r=novelas-turcas",
+                "https://streamtp4.com/global1.php?stream=dsports",
+                "https://streamtp4.com/global1.php?stream=fox2ar",
+                ""
             ],
             "m3u8_url": [
                 "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
@@ -18999,7 +18871,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/telemundo-en-vivo.html",
+        "sitio_oficial": "https://streamtp4.com/",
         "país": "pe",
         "categoría": "news"
     },
@@ -19008,11 +18880,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tipotv.com/streams/embed/j2csabkgztqw0i6i4dlwuszb",
-                "https://tipotv.com/streams/watch/j2csabkgztqw0i6i4dlwuszb",
-                "https://tipotv.com/streams/watch/hj6xeheyqsbgr320t9kisk2x",
-                "https://tipotv.com/streams/watch/d51pb089z3xkcisl1v3ha11r",
-                "https://nebunexa.co/canal/?id=TNTNOVELAS"
+                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/tntseries.html",
+                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/tnt.html",
+                "https://streamtp4.com/global1.php?stream=univision_usa",
+                "https://streamtp4.com/global1.php?stream=tntsports",
+                "https://streamtp4.com/global1.php?stream=azteca_deportes",
+                "https://streamtp4.com/global1.php?stream=tnt_2_gb",
+                "https://streamtp4.com/global1.php?stream=eventos2"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19020,7 +18894,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/tnt-novelas-en-vivo.html",
+        "sitio_oficial": "https://github.com/jhonzArnold/canales/blob/main/tv.auto.html",
         "país": "pe",
         "categoría": "news"
     },
@@ -19029,9 +18903,16 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tipotv.com/streams/embed/dqq29neczee6wduamiucbk9m",
+                "<iframe src="https://embed.sdfgnksbounce.com/embed2/univision.html" width="100%" height="100%"  scrolling="no" frameborder="0" allowfullscreen="true"></iframe>",
                 "https://tipotv.com/streams/watch/dqq29neczee6wduamiucbk9m",
-                "https://tipotv.com/streams/watch/z92sfxvz9sobn9zffaorqpkv"
+                "https://tipotv.com/streams/watch/z92sfxvz9sobn9zffaorqpkv",
+                "https://embed.sdfgnksbounce.com/embed2/univision.html",
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://www.cablevisionhd.com/",
+                "https://urlscan.io/domain/www.cablevisionhd.com",
+                "https://embed.sdfgnksbounce.com/"
             ],
             "m3u8_url": [],
             "yt_id": "",
