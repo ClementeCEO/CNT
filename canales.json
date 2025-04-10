@@ -18658,7 +18658,7 @@
         "señales": {
             "iframe_url": [
                 "https://video.agenciastreaming.com/live-stream-video-widget/utv",
-                "https://www.facebook.com/SomosUTV/?locale=es_LA",
+                "https://www.facebook.com/SomosUTV/?locale=es_LA"
             ],
             "m3u8_url": [
                 "https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8",
@@ -18720,7 +18720,7 @@
         "señales": {
             "iframe_url": [
                 "https://cloudvideo.servers10.com:2020/VideoPlayer/impactotv?autoplay=1",
-                "https://radioimpactodecajamarca.com.pe/impacto-tv/",
+                "https://radioimpactodecajamarca.com.pe/impacto-tv/"
             ],
             "m3u8_url": [
                 "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
@@ -18860,8 +18860,7 @@
                 "https://streamtp4.com/global1.php?stream=fox1ar",
                 "https://www.photocalltv.me/en-vivo/player/embed.php?r=novelas-turcas",
                 "https://streamtp4.com/global1.php?stream=dsports",
-                "https://streamtp4.com/global1.php?stream=fox2ar",
-                ""
+                "https://streamtp4.com/global1.php?stream=fox2ar"
             ],
             "m3u8_url": [
                 "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
