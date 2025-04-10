@@ -15846,7 +15846,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0"
+                "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
+                "https://willax.pe/en-vivo"
             ],
             "m3u8_url": [],
             "yt_id": "UCort3mldTtMErPqprSlSfng",
@@ -15970,12 +15971,18 @@
         "país": "pe",
         "categoría": "news"
     },
-    "avance-social-noticias4816": {
-        "nombre": "Avance Social Noticias",
+    "CharapaTV-avance-social-noticias4816": {
+        "nombre": "CharapaTV (Pucallpa) - Avance Social Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://play.agenciastreaming.com:8081/charapatv/embed.html",
+                "https://charaparadio.com/",
+                "https://www.facebook.com/p/Charapa-TV-canal-digital-100037144987138/"
+            ],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8168/index.m3u8"
+            ],
             "yt_id": "UCo75W2AP1hnjUF4V_ovOAsg",
             "yt_embed": "",
             "yt_playlist": "",
@@ -16024,9 +16031,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://radiosanborjatv.com/",
                 "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
+            ],
             "yt_id": "UCRdGjpVs7vnyDXcEs6W8hkA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -16061,7 +16071,8 @@
         "señales": {
             "iframe_url": [
                 "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1",
-                "https://reproductor.tmcreativos.com/radiotropical/"
+                "https://reproductor.tmcreativos.com/radiotropical/",
+                "https://radiotropical.pe/television/"
             ],
             "m3u8_url": [
                 "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
@@ -16075,13 +16086,15 @@
         "país": "pe",
         "categoría": "radio"
     },
-    "radio-la-luz": {
-        "nombre": "Radio La Luz",
+    "HuachoPeruTV-radio-la-luz": {
+        "nombre": "HuachoPeruTV - Radio La Luz",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.huachotv.com/",
                 "https://ott.streann.com/streaming/player.html?U2FsdGVkX19EHB5+1aUJEMrE+WomqLCdpnQH8FSQ6lfrlLKOLqA6N+3PbNBYWdDWLsUzEISIrehK8N1jsyVe8NGmea9uH+ppSntnU+uQRGKDMl6WPIAiJbqUqhEqWYXQirkDZyJX+OBfUTgRhv+15k2L+iKRodEEtF4hkBKjui9mfmmP2eQbtr/1bHapfhQd/u2KppU9VQ7kGKtrcOBa14rbsf+wjYpuPaeDB12yCdnjExU1rB4VcXlPX2jJD4EHTlCMVD8jkHfcRKsEy+aKiIYd3A0lfHr/IfASyRjQRJCDXJe04DLbHptDmVoLSz7+hD5XUl8G5WRBcZ3O9oxifw==",
-                "http://radiolaluz.com/tv-en-vivo/"
+                "http://radiolaluz.com/tv-en-vivo/",
+                "https://www.facebook.com/huachotvperu/?locale=es_LA"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -16116,6 +16129,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://radiouno.pe/",
                 "https://radiouno.pe/radiolive8/index.php",
                 "https://www.reformatv.net/"
             ],
@@ -16161,76 +16175,6 @@
         },
         "sitio_oficial": "https://www.youtube.com/@lasseriestv",
         "país": "pe",
-        "categoría": "radio"
-    },
-    "DD-India": {
-        "nombre": "DD India",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCGDQNvybfDDeGTf4GtigXaw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@DDIndia",
-        "país": "in",
-        "categoría": "radio"
-    },
-    "Zee-Tamil-Sunnewstamil-India": {
-        "nombre": "Sun News சன் டிவி லைவ் தமிழ்",
-        "logo": "https://tatalogo.pages.dev/521.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.sunnewslive.in/"
-            ],
-            "m3u8_url": [
-                "http://ckfdagk.megakomo.xyz:900/live/8457027811/8672671710/355372.m3u8",
-                "http://extraott-iptv.com:88/live/0229477349/8104258135/355366.m3u8"
-            ],
-            "yt_id": "UCYlh4lH762HvHt6mmiecyWQ",
-            "yt_embed": "9M02G5c6x6w?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ",
-        "país": "in",
-        "categoría": "radio"
-    },
-    "Jaya TV - thanthitv-India": {
-        "nombre": "Jaya TV - Thanthi TV சன் டிவி லைவ் தமிழ்",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.thanthitv.com/",
-                "https://www.youtube.com/embed/j1nzTy5q_1Y?rand=44734.38558136262&enablejsapi=1&origin=https%3A%2F%2Fwww.thanthitv.com&widgetid=1&forigin=https%3A%2F%2Fwww.thanthitv.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com.pe%2F&vf=6"
-            ],
-            "m3u8_url": [
-                "http://extraott-iptv.com:88/live/0229477349/8104258135/355366.m3u8"
-            ],
-            "yt_id": "UC-JFyL0zDFOsPMpuWu39rPA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA",
-        "país": "in",
-        "categoría": "radio"
-    },
-    "El-Salvador-Noticia": {
-        "nombre": "El Salvador Noticia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCQta9-R9uTND_oZG6aY5qqQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@ElSalvadorNoticia",
-        "país": "sv",
         "categoría": "radio"
     },
     "Como-dice-el-dicho": {
@@ -16822,11 +16766,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "teleplustv50-tv": {
-        "nombre": "Teleplustv50",
+    "radiorumbaperu-teleplustv50-tv": {
+        "nombre": "Radiorumbaperu - Teleplustv50",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://radiorumbaperu.com/",
+                "https://telefullhd.com/sex11/",
+                "https://liketv.pe/?ref=tv.ahmetcadirci.com"
+            ],
             "m3u8_url": [],
             "yt_id": "UCVzVLFKCzYPKZPdW1o-NINw",
             "yt_embed": "",
@@ -16899,12 +16847,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "grupo-tvl": {
-        "nombre": "Grupo Tvl",
+    "grupo-altonivelperuradio-tvl": {
+        "nombre": "Grupo Altonivelperuradio - radiostereotv - Tvl",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://teocom.org/tvl/"
+                "https://teocom.org/tvl/",
+                "https://altonivelperuradio.com/",
+                "https://radiostereotv.com/radio"
             ],
             "m3u8_url": [],
             "yt_id": "UCf_-4eeBv8niKFWOmEQL9-g",
@@ -16916,14 +16866,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "radio-nacional": {
-        "nombre": "Radio nacional",
+    "enfoquetv25-radio-nacional": {
+        "nombre": "Enfoquetv25 - Radio nacional",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.radionacional.gob.pe/",
                 "https://irtp-player.iblups.com/radionacional",
-                "https://s1.tvdatta.com/live-stream-video-widget/nacionaltv",
-                "https://tvgratisperu.com/pages/peru/re/nacionaltvperu_op1.php",
+                "https://iblups.com/enfoquetv25",
+                "https://radiokalientequiquijana.blogspot.com/?ref=tv.ahmetcadirci.com",
                 "https://iblups.com/e_radionacional"
             ],
             "m3u8_url": [
@@ -16938,16 +16889,20 @@
         "país": "pe",
         "categoría": "news"
     },
-    "andina": {
-        "nombre": "andina",
+    "telelima-calortv-andina": {
+        "nombre": "TelelimaPE - calortv - andina",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.telelima.pe/?ref=tv.ahmetcadirci.com",
+                "https://tv.ahmetcadirci.com/pe/telelima.html",
+                "https://radiocalorfm.com/?ref=tv.ahmetcadirci.com"
+            ],
             "m3u8_url": [],
             "yt_id": "UCZHgA_ORVMB4N6vuOhx8_Cg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "calortv"
         },
         "sitio_oficial": "https://andina.pe",
         "país": "pe",
@@ -16959,6 +16914,7 @@
         "señales": {
             "iframe_url": [
                 "https://componentes.enlace.org/live/#/player",
+                "https://www.enlace.org/envivo/",
                 "https://componentes.enlace.org/live/#/player?enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false"
             ],
             "m3u8_url": [],
@@ -16977,7 +16933,7 @@
         "señales": {
             "iframe_url": [
                 "https://mc.servidor.stream:2020/VideoPlayer/megatv?autoplay=1",
-                "https://mc.servidor.stream:2020/VideoPlayer/megatv?autoplay=1"
+                "https://www.megatvarequipa.com/television-en-vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -17012,6 +16968,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.cultura24.tv/",
                 "https://www.opencaster.com/clients/cultura24/index.php?ancho=100&alto=100",
                 "https://www.opencaster.com/clients/cultura24/index.php?ancho=100%&amp;alto=100%"
             ],
@@ -17030,7 +16987,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vdo.grupolimalive.com/live-stream-video-widget/bhtv",
+                "https://bhtv.pe/",
                 "https://vdo.grupolimalive.com/live-stream-video-widget/bhtv"
             ],
             "m3u8_url": [],
@@ -17087,6 +17044,7 @@
         "señales": {
             "iframe_url": [
                 "https://videoserver.tmcreativos.com:2020/VideoPlayer/visionnoticias?autoplay=1",
+                "https://www.cablevisiontv.pe/en-vivo/",
                 "https://videoserver.tmcreativos.com:2020/VideoPlayer/visionnoticias?autoplay=1"
             ],
             "m3u8_url": [],
@@ -17176,6 +17134,7 @@
         "señales": {
             "iframe_url": [
                 "https://videoserver.tmcreativos.com:2020/VideoPlayer/cablerasvia?autoplay=1",
+                "https://viatelevision.pe/envivo",
                 "https://player.tmcreativos.app/viaradiotarapoto/",
                 "https://videoserver.tmcreativos.com:2020/VideoPlayer/cablerasvia?autoplay=1"
             ],
@@ -17185,7 +17144,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://viatelevision.pe/envivo",
+        "sitio_oficial": "https://viatelevision.pe/tema/goresam",
         "país": "pe",
         "categoría": "news"
     },
@@ -17550,9 +17509,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3322%2Flive%2Fidentidadtvlive.m3u8&splashImgUrl=https%3A%2F%2Fidentidad.tv%2Fidentidadtv.jpg",
-                "https://tvgratisperu.com/pages/peru/re/identidadtv_op1.php",
-                "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3322%2Flive%2Fidentidadtvlive.m3u8&splashImgUrl=https%3A%2F%2Fidentidad.tv%2Fidentidadtv.jpg"
+                "https://www.identidad.tv/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -38321,6 +38278,61 @@
         "país": "tr",
         "categoría": "news"
     },
+    "DD-India": {
+        "nombre": "DD India",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGDQNvybfDDeGTf4GtigXaw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@DDIndia",
+        "país": "in",
+        "categoría": "radio"
+    },
+    "Zee-Tamil-Sunnewstamil-India": {
+        "nombre": "Sun News சன் டிவி லைவ் தமிழ்",
+        "logo": "https://tatalogo.pages.dev/521.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.sunnewslive.in/"
+            ],
+            "m3u8_url": [
+                "http://ckfdagk.megakomo.xyz:900/live/8457027811/8672671710/355372.m3u8",
+                "http://extraott-iptv.com:88/live/0229477349/8104258135/355366.m3u8"
+            ],
+            "yt_id": "UCYlh4lH762HvHt6mmiecyWQ",
+            "yt_embed": "9M02G5c6x6w?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ",
+        "país": "in",
+        "categoría": "radio"
+    },
+    "Jaya TV - thanthitv-India": {
+        "nombre": "Jaya TV - Thanthi TV சன் டிவி லைவ் தமிழ்",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.thanthitv.com/",
+                "https://www.youtube.com/embed/j1nzTy5q_1Y?rand=44734.38558136262&enablejsapi=1&origin=https%3A%2F%2Fwww.thanthitv.com&widgetid=1&forigin=https%3A%2F%2Fwww.thanthitv.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com.pe%2F&vf=6"
+            ],
+            "m3u8_url": [
+                "http://extraott-iptv.com:88/live/0229477349/8104258135/355366.m3u8"
+            ],
+            "yt_id": "UC-JFyL0zDFOsPMpuWu39rPA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA",
+        "país": "in",
+        "categoría": "radio"
+    },
     "Tsports-variant-Mastiii-Indias": {
         "nombre": "Tsports variant Mastiii - India's",
         "logo": "https://graph.facebook.com/abpmajha/picture?width=800&height=800",
@@ -48844,6 +48856,21 @@
         "sitio_oficial": "https://megavision.univtec.com/#!/",
         "país": "sv",
         "categoría": "news"
+    },
+    "El-Salvador-Noticia": {
+        "nombre": "El Salvador Noticia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCQta9-R9uTND_oZG6aY5qqQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@ElSalvadorNoticia",
+        "país": "sv",
+        "categoría": "radio"
     },
     "tvo-en-vivo": {
         "nombre": "Tvo Canal 23",
