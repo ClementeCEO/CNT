@@ -20446,8 +20446,7 @@
         "logo": "https://tv.abn.pe/wp-content/uploads/2021/08/ABN-TV.png",
         "señales": {
             "iframe_url": [
-                "https://tv.abn.pe/",
-                
+                "https://tv.abn.pe/"   
             ],
             "m3u8_url": [
                 "https://xhateaec.com:8800/hls/abnradio/abnradio/9579e25b705387298999b6fa6f3ceb75/index.m3u8"
