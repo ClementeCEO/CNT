@@ -22897,7 +22897,7 @@
         "categoría": "news"
     },
     "MiTV-OviedoTV-ñanduti-tv": {
-        "nombre": "MiTV -OviedoTV - Ñanduti-tv",
+        "nombre": "MiTV - OviedoTV - Ñandutitv",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -22923,7 +22923,7 @@
         "señales": {
             "iframe_url": [
                 "https://www-republicafmtv-com-py.filesusr.com/html/0365c0_67ee5259d812b1c4a9573ff7d7668993.html",
-                "https://www.republicafmtv.com.py/",
+                "https://www.republicafmtv.com.py/"
             ],
             "m3u8_url": [],
             "yt_id": "",
