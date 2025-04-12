@@ -20198,11 +20198,25 @@
         "país": "pe",
         "categoría": "news"
     },
-    "TRIVU": {
-        "nombre": "TRIVU",
+    "GRUPO-DISCOVERY-TRIVU": {
+        "nombre": "GRUPO DISCOVERY TRIVU",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://miztv.shop/tele/stream-317.php",
+                "https://miztv.shop/tele/stream-322.php",
+                "https://miztv.shop/tele/stream-325.php",
+                "https://miztv.shop/tele/stream-313.php",
+                "https://miztv.shop/tele/stream-321.php",
+                "https://miztv.shop/tele/stream-315.php",
+                "https://miztv.shop/tele/stream-324.php",
+                "https://miztv.shop/tele/stream-320.php",
+                "https://miztv.shop/tele/stream-344.php",
+                "https://miztv.shop/tele/stream-535.php",
+                "https://miztv.shop/tele/stream-541.php",
+                "https://miztv.shop/tele/stream-570.php",
+                "https://miztv.shop/tele/stream-398.php"
+            ],
             "m3u8_url": [],
             "yt_id": "UCEgNxyXXpArM8F368uJjF-Q",
             "yt_embed": "",
@@ -20231,102 +20245,42 @@
         "país": "pe",
         "categoría": "news"
     },
-    "gaceta-peru": {
-        "nombre": "Gaceta Peru",
+    "emanuel7tv-es-emmanuel-gaceta-peru": {
+        "nombre": "Emmanuel - Gaceta Peru",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://playerv.voxtvhd.com.br/video/emanueltv/1/true/false/V1hwT1UyUkhVbkZYV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZFOVBTc3orMQ==/16:9/nocover/sim",
+                "https://www.stream.emmanuel.tv/main",
+                "https://www.emanuel7tv.es/",
+                "https://emmanuel.pe/",
                 "https://gacetaperutv.pe/envivo",
                 "https://player.twitch.tv/?channel=gacetaperutv&parent=gacetaperutv.pe&muted=true",
                 "https://vk.com/video_ext.php?oid=710509469&id=456239043&hd=2&autoplay=1&quot;"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://gacetaperutv.pe/envivo",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "emmanuel-Peru": {
-        "nombre": "Emmanuel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge.streann.com/emmanueltvlive_abr/emmanueltvlive/emmanueltvlive/emmanueltvlive_3/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzAyMjQ0MDMsInJpZCI6IjYzNTg4NTAwZTRiMGEzZWZkZmZjZDdhZSIsImtleSI6ImtleTEiLCJjaWQiOiI2NjI5NDhhOThmMDg1MTEzNzZlMGZkMTYifQ.rYyOMquHM_ZzrLVm2DcNbDA7xtgiqimSuTrz9G0vjuM"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.stream.emmanuel.tv/main",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "emanuel7tv-es-online": {
-        "nombre": "Emanuel7tv es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://playerv.voxtvhd.com.br/video/emanueltv/1/true/false/V1hwT1UyUkhVbkZYV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZFOVBTc3orMQ==/16:9/nocover/sim"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.emanuel7tv.es/",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "emmanuel-pe-online": {
-        "nombre": "Emmanuel pe",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UCGimexax_xNysi9QkR7Pzmw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://emmanuel.pe/",
+        "sitio_oficial": "https://gacetaperutv.pe/envivo",
         "país": "pe",
         "categoría": "cristiana"
     },
-    "close-radio-tv": {
-        "nombre": "Close Radio",
+    "close-radio-tv-movie-fe-online": {
+        "nombre": "Close Radio - movie fe Cristiana",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "//www.alsolnet.com/stream/quebuenaatlanta/player.htm"
+                "//www.alsolnet.com/stream/quebuenaatlanta/player.htm",
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3438&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/movie-fe",
+                "https://www.vivalivetv.com/channel/movie-fe",
+                "https://soyradioinc.com/close-radio-tv/"
             ],
             "m3u8_url": [
+                "https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1515187058.m3u8",
                 "//streamyes.alsolnet.com/quebuenaatlanta/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://soyradioinc.com/close-radio-tv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "movie-fe-online": {
-        "nombre": "movie fe Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3438&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/movie-fe"
-            ],
-            "m3u8_url": [
-                "https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1515187058.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -20337,41 +20291,27 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "unsion-online": {
-        "nombre": "Unsion Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.restream.io/?token=6d91a00ed7bb4434a40d12d1179792bd&vwrs=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCOw8ehobkl3mW8PE1GqkIrQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://unsion.tv/envivo/",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "canal27-online": {
-        "nombre": "Canal 27 Cristiana",
+    "unsion-online-canal27-online": {
+        "nombre": "Unsion - Canal 27 Cristiana",
         "logo": "https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944-1024x576.png",
         "señales": {
             "iframe_url": [
-                "https://live.canal27.tv/live-stream-video-widget/canal27online"
+                "https://player.restream.io/?token=6d91a00ed7bb4434a40d12d1179792bd&vwrs=1",
+                "https://live.canal27.tv/live-stream-video-widget/canal27online",
+                "https://unsion.tv/envivo/",
+                "https://www.canal27.org/"
             ],
             "m3u8_url": [
                 "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCOw8ehobkl3mW8PE1GqkIrQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.canal27.org/",
         "país": "pe",
-        "categoría": "cristiana"
+        "categoría": "Unsion Cristiana - cristiana"
     },
     "tu-universo-tv": {
         "nombre": "Tu Universo TV Cristiana",
@@ -20397,7 +20337,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://lifestreammedia.net/embed/player/player.html?c=tu_universo_tv&v=1709909572"
+                "https://lifestreammedia.net/embed/player/player.html?c=tu_universo_tv&v=1709909572",
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2872&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/tu-universo",
+                "https://www.vivalivetv.com/channel/tu-universo",
+                "https://tuuniversotv.net/"
             ],
             "m3u8_url": [
                 "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w681499673.m3u8"
@@ -20411,29 +20354,15 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "tu-universo": {
-        "nombre": "Tu Universo Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2872&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/tu-universo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/tu-universo",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "canalluz-online": {
-        "nombre": "Canalluz Cristiana",
+    "canal-luz-television-canalluz-online": {
+        "nombre": "Canal Luz Television - Canalluz Cristiana",
         "logo": "https://canalluz.org/assets/images/canalluz-303x103.png",
         "señales": {
             "iframe_url": [
-                "https://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=0&loop=0"
+                "https://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=0&loop=0",
+                "https://stream.azhr.tv/canalluztv",
+                "https://canalluztelevision.es/en-directo/",
+                "https://canalluz.org/index.html"
             ],
             "m3u8_url": [
                 "https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8"
@@ -20447,30 +20376,14 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "canal-luz-television": {
-        "nombre": "Canal Luz Television Cristiana",
-        "logo": "https://canalluztelevision.es/wp-content/uploads/2023/04/logo-canal-luz-color-degradado.svg",
-        "señales": {
-            "iframe_url": [
-                "https://stream.azhr.tv/canalluztv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalluztelevision.es/en-directo/",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
     "radiolaluz-online": {
         "nombre": "Radiolaluz Cristiana",
         "logo": "http://radiolaluz.com/wp-content/themes/laluz/images/logo_tv.png",
         "señales": {
             "iframe_url": [
                 "http://radiolaluz.com/tv-en-vivo/",
-                "http://www.radiolaluz.com/audioenvivo/"
+                "http://www.radiolaluz.com/audioenvivo/",
+                "http://radiolaluz.com/television/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -20486,7 +20399,10 @@
         "nombre": "ABN Online Cristiana",
         "logo": "https://tv.abn.pe/wp-content/uploads/2021/08/ABN-TV.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tv.abn.pe/",
+                
+            ],
             "m3u8_url": [
                 "https://xhateaec.com:8800/hls/abnradio/abnradio/9579e25b705387298999b6fa6f3ceb75/index.m3u8"
             ],
@@ -20504,6 +20420,7 @@
         "logo": "https://3abnlatino.tv/img/Latino-Logo-2015.svg",
         "señales": {
             "iframe_url": [
+                "https://3abnlatino.tv/tv/",
                 "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
             ],
             "m3u8_url": [],
@@ -20521,7 +20438,8 @@
         "logo": "https://abn.pe/wp-content/uploads/2022/12/abn-radio-logo-mobil.png",
         "señales": {
             "iframe_url": [
-                "https://tv.abn.pe/abn-tv-en-directo/"
+                "https://tv.abn.pe/abn-tv-en-directo/",
+                "https://abn.pe/"
             ],
             "m3u8_url": [
                 "https://xhateaec.com:8800/hls/abnradio/abnradio/9579e25b705387298999b6fa6f3ceb75/index.m3u8"
@@ -20548,7 +20466,8 @@
                 "https://www.naciontv.org/nacion-tv-intenacional/",
                 "https://musicacristiana.com.ar/television-celestial-tv.html",
                 "https://cielotv.do/",
-                "https://www.fcntelevision.tv/senalenvivo.html"
+                "https://www.fcntelevision.tv/senalenvivo.html",
+                "https://tvcristiana.net/abn-television-avivamiento-television-cristiana-en-vivo/"
             ],
             "m3u8_url": [
                 "https://s3.abntelevision.com:443/avivamientosd/avivamientosd/playlist.m3u8"
@@ -20562,11 +20481,19 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "abnnewswire-online": {
-        "nombre": "Abnnewswire Cristiana",
+    "Abnnewswire-ABNSAT-online": {
+        "nombre": "Abnnewswire - ABNSAT Canal arameo Cristiana",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://vidmgr.abnvideos.com/embed/nilesat",
+                "https://vidmgr.abnvideos.com/embed/surath",
+                "https://vidmgr.abnvideos.com/embed/abnsat",
+                "https://vidmgr.abnvideos.com/embed/trinitychannel",
+                "https://vidmgr.abnvideos.com/embed/abnurdu",
+                "https://www.abnsat.com/es/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+                "https://www.abnnewswire.net/index.asp?lang=_es"
+            ],
             "m3u8_url": [
                 "https://66b5bf5782311.streamlock.net/live/_definst_/spanish/chunklist_w2092562209.m3u8",
                 "https://66b5bf5782311.streamlock.net:443/live/_definst_/spanish/playlist.m3u8"
@@ -20576,7 +20503,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.abnnewswire.net/index.asp?lang=_es",
+        "sitio_oficial": "https://www.abnsat.com/es/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
         "país": "pe",
         "categoría": "cristiana"
     },
@@ -20585,7 +20512,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://musicacristiana.com.ar/cdm-internacional.html"
+                "https://musicacristiana.com.ar/cdm-internacional.html",
+                "https://cdminternacional.com/"
             ],
             "m3u8_url": [
                 "https://s2.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
@@ -20599,32 +20527,12 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "ABNSAT-online": {
-        "nombre": "ABNSAT Canal arameo Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vidmgr.abnvideos.com/embed/nilesat",
-                "https://vidmgr.abnvideos.com/embed/surath",
-                "https://vidmgr.abnvideos.com/embed/abnsat",
-                "https://vidmgr.abnvideos.com/embed/trinitychannel",
-                "https://vidmgr.abnvideos.com/embed/abnurdu"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.abnsat.com/es/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
     "avivamiento-online": {
         "nombre": "Avivamiento Cristiana",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.avivamiento.com/avivamiento-tv.php",
                 "https://www.avivamiento.com/avivamiento-tv.php"
             ],
             "m3u8_url": [
@@ -20645,7 +20553,8 @@
         "señales": {
             "iframe_url": [
                 "https://www.jbntv.org/reprotv/",
-                "https://www.musicacristiana.com.ar/tv/jbn-internacional-tv.htm"
+                "https://www.musicacristiana.com.ar/tv/jbn-internacional-tv.htm",
+                "https://www.jbntv.org/"
             ],
             "m3u8_url": [
                 "https://mediacp.us:8081/jbntv/tracks-v1a1/mono.m3u8",
@@ -20665,7 +20574,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cdn.jwplayer.com/players/MOHGQfxE-mtWT23eN.html"
+                "https://cdn.jwplayer.com/players/MOHGQfxE-mtWT23eN.html",,
+                "https://ritmocelestial.com/?page_id=19"
             ],
             "m3u8_url": [
                 "https://59a564764e2b6.streamlock.net/ritmoteve/ritmocelestial/chunklist_w1702949432.m3u8"
@@ -33189,7 +33099,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.telemundosanantonio.com/ver/"
+                "https://www.telemundosanantonio.com/ver/",
+                "https://miztv.shop/tele/stream-131.php",
+                "https://miztv.shop/stream/stream-131.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -34161,11 +34073,15 @@
         "categoría": "science"
     },
     "cnn-TVmas": {
-        "nombre": "cnn TV+",
+        "nombre": "CNN - TV+",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://seenow.tv/api-v1/embed/channel/cnn"
+                "https://seenow.tv/api-v1/embed/channel/cnn",
+                "https://miztv.shop/tele/stream-345.php",
+                "https://miztv.shop/tele/stream-300.php",
+                "https://miztv.shop/tele/stream-112.php",
+                "https://miztv.shop/stream/stream-359.php"
             ],
             "m3u8_url": [
                 "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
