@@ -12603,28 +12603,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
                 "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/"
             ],
             "m3u8_url": [
-                "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "tvr-la-rioja": {
-        "nombre": "Tvr La Rioja",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/"
-            ],
-            "m3u8_url": [
+                "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8",
                 "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8"
             ],
             "yt_id": "",
@@ -12655,12 +12640,16 @@
         "país": "es",
         "categoría": "news"
     },
-    "tv-hellin": {
-        "nombre": "TV Hellin",
+    "Canales-Adventistas-hellin": {
+        "nombre": "Canales Adventistas - TV Hellin",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/"
+                "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/",
+                "https://logostv.es/directo",
+                "https://3abnplus.tv/programs/live-ya80hrvnrp0",
+                "https://www.esperanzatv.org/",
+                "https://delanceysdachurch.com/canales-adventistas"
             ],
             "m3u8_url": [
                 "https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8"
@@ -12949,6 +12938,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://telegratuita.com/en-vivo/odisea.php",
+                "https://www.telegratishd.com/odisea-en-vivo.html",
                 "https://nebunexa.co/clappr/?id=ODISEA",
                 "https://www.cope.es/directos/trece",
                 "https://www.cope.es",
