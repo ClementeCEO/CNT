@@ -18941,13 +18941,21 @@
         "país": "pe",
         "categoría": "news"
     },
-    "pasiones-peru": {
-        "nombre": "Pasiones PERU",
+    "history-pasiones-tv2-dr": {
+        "nombre": "History - Pasiones - TV2 - DR",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://miztv.shop/tele/stream-322.php",
+                "https://miztv.shop/tele/stream-534.php",
+                "https://www.tv2ostjylland.dk/live-tv",
+                "https://www.tv2fyn.dk/live-tv",
                 "https://tele-libre.com/en-vivo-online/pasiones/embed.php",
-                "https://tele-libre.org/en-vivo-online/history/embed.php",
+                "https://www.tv2fyn.dk/live-tv",
+                "https://www.tv2kosmopol.dk/live",
+                "https://www.tv2east.dk/live",
+                "https://www.dr.dk/drtv/kanal/drtv_192099",
+                "https://www.dr.dk/drtv/kanal/dr1_20875",
                 "https://www.enlatele.tv/player/embed.php?r=tnt-op2",
                 "https://www.enlatele.tv/player/embed.php?r=warner-op2"
             ],
@@ -18957,8 +18965,8 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvgratishd.com/2024/04/pasiones-en-vivo.html",
-        "país": "pe",
+        "sitio_oficial": "https://tvchannels.live/denmark/",
+        "país": "dk",
         "categoría": "news"
     },
     "grupo-sony-canal-novelas-peru": {
@@ -19003,12 +19011,36 @@
         "país": "pe",
         "categoría": "news"
     },
-    "itv-deportes": {
-        "nombre": "Itv Deportes",
+    "GRUPO-itv-deportes-Fox-Business": {
+        "nombre": "GRUPO Itv Deportes - Fox Business",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.itvdeportes.com/"
+                "https://www.itvdeportes.com/",
+                "https://miztv.shop/tele/stream-534.php",
+                "https://miztv.shop/tele/stream-435.php",
+                "https://miztv.shop/tele/stream-528.php",
+                "https://miztv.shop/tele/stream-728.php",
+                "https://miztv.shop/tele/stream-314.php",
+                "https://miztv.shop/tele/stream-445.php",
+                "https://miztv.shop/tele/stream-43.php",
+                "https://miztv.shop/tele/stream-332.php",
+                "https://miztv.shop/tele/stream-858.php",
+                "https://miztv.shop/tele/stream-850.php",
+                "https://miztv.shop/tele/stream-440.php",
+                "https://miztv.shop/tele/stream-438.php",
+                "https://miztv.shop/tele/stream-312.php",
+                "https://miztv.shop/tele/stream-788.php",
+                "https://miztv.shop/tele/stream-297.php",
+                "https://miztv.shop/tele/stream-485.php",
+                "https://miztv.shop/tele/stream-403.php",
+                "https://miztv.shop/tele/stream-447.php",
+                "https://miztv.shop/tele/stream-602.php",
+                "https://miztv.shop/tele/stream-304.php",
+                "https://miztv.shop/tele/stream-363.php",
+                "https://miztv.shop/tele/stream-745.php",
+                "https://miztv.shop/tele/stream-769.php",
+                "https://miztv.shop/tele/stream-530.php"
             ],
             "m3u8_url": [
                 "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
@@ -19027,7 +19059,15 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://miztv.shop/tele/stream-870.php"
+                "https://miztv.shop/tele/stream-870.php",
+                "https://miztv.shop/tele/stream-878.php",
+                "https://miztv.shop/tele/stream-879.php",
+                "https://miztv.shop/tele/stream-979.php",
+                "https://miztv.shop/tele/stream-982.php",
+                "https://miztv.shop/tele/stream-103.php",
+                "https://miztv.shop/tele/stream-102.php",
+                "https://miztv.shop/tele/stream-3.php",
+                "https://miztv.shop/tele/stream-2.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19039,12 +19079,38 @@
         "país": "pe",
         "categoría": "news"
     },
-    "grupo-gen-universo": {
-        "nombre": "GRUPO GEN universo",
+    "grupo-gen-universo-Sport-5-PLUS-Israel": {
+        "nombre": "GRUPO GEN universo - Sport 5 PLUS Israel",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.gen.com.py/live/"
+                "https://www.gen.com.py/live/",
+                "https://miztv.shop/tele/stream-501.php",
+                "https://miztv.shop/tele/stream-502.php",
+                "https://miztv.shop/tele/stream-503.php",
+                "https://miztv.shop/tele/stream-504.php",
+                "https://miztv.shop/tele/stream-505.php",
+                "https://miztv.shop/tele/stream-506.php",
+                "https://miztv.shop/tele/stream-507.php",
+                "https://miztv.shop/tele/stream-508.php",
+                "https://miztv.shop/tele/stream-509.php",
+                "https://miztv.shop/tele/stream-510.php",
+                "https://miztv.shop/tele/stream-511.php",
+                "https://miztv.shop/tele/stream-512.php",
+                "https://miztv.shop/tele/stream-513.php",
+                "https://miztv.shop/tele/stream-514.php",
+                "https://miztv.shop/tele/stream-515.php",
+                "https://miztv.shop/tele/stream-516.php",
+                "https://miztv.shop/tele/stream-517.php",
+                "https://miztv.shop/tele/stream-518.php",
+                "https://miztv.shop/tele/stream-519.php",
+                "https://miztv.shop/tele/stream-520.php",
+                "https://miztv.shop/tele/stream-727.php",
+                "https://miztv.shop/tele/stream-543.php",
+                "https://miztv.shop/tele/stream-360.php",
+                "https://miztv.shop/tele/stream-392.php",
+                "https://miztv.shop/tele/stream-378.php",
+                "https://miztv.shop/tele/stream-145.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
