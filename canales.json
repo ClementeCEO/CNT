@@ -13132,12 +13132,115 @@
         "país": "cy",
         "categoría": "news"
     },
+    "duendetvec-oromartv-ecuador": {
+        "nombre": "Oromartv - DuendeTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://oromartv.com/tv-en-vivo/",
+                "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
+                "https://www.vostv.com.ni/directo/#google_vignette",
+                "https://www.vosytv.com/",
+                "https://duendetv.com/en-vivo/",
+                "https://www.trodi.dev/tv/EC/AntenaUnoRadiovideo.ec",
+                "https://www.antenauno.com/",
+                "https://monseteve.com/monseteve-en-vivo/"
+            ],
+            "m3u8_url": [
+                "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+                "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://oromartv.com",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuavisa-LaPipolTvec": {
+        "nombre": "Ecuavisa - LaPipolTv.ec",
+        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/ecuavisa?dXNlcj1udWxs",
+                "https://www.ecuavisa.com/envivo",
+                "https://livestreamlinks.net/onlinetv/ecuador/la-pipol-tv-sangolqui",
+                "https://livestreamlinks.net/onlinetv/ecuador/tv-color-canal-36#google_vignette",
+                "https://www.trodi.dev/tv/EC/TVColorCanal36.ec",
+                "https://tvcolorcanal36.com/tv-color-canal-36-en-vivo/"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
+            ],
+            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecuavisa.com/envivo",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecoteltv": {
+        "nombre": "Ecotel TV",
+        "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://playerhd.eu/tv/ecoteltv/",
+                "https://serenotv.com/video/canal-ecotel-tv/",
+                "https://livestreamlinks.net/onlinetv/ecuador/uniandes-tv",
+                "http://www.radiofantasticatulcan.com/",
+                "https://www.trodi.dev/tv/EC/RadioCuencaEstereo.ec",
+                "https://www.trodi.dev/tv/EC/RadioBonita1067.ec",
+                "https://player.streamseguro.com/radio/ecotelradio/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCGgJIShx7nSBzuI4JeT5aew",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecotel.tv/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "EcuadorTVec-capricho-tv": {
+        "nombre": "channels EcuadorTV.ec Capricho TV ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.ecuadortv.ec/",
+                "https://v2.ssh101.com/detailng.php?id=tv3ad1",
+                "https://v2.ssh101.com/detailng.php?id=niggerstv",
+                "https://play4you.icu/e/7tzynch5ex",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/capricho-tv",
+                "https://livestreamlinks.net/onlinetv/ecuador/sono-onda-tv#google_vignette",
+                "https://livestreamlinks.net/onlinetv/ecuador/uka-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.caprichotvradio.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
     "asomavision-online": {
         "nombre": "Asomavision",
         "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
         "señales": {
             "iframe_url": [
-                "https://asomatv.duckdns.org/"
+                "https://asomatv.duckdns.org/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/asomavision",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-monumental-tv",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-fantastica-989-fm",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-cuenca-estereo",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-bonita-1067",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-alegria-985-fm"
             ],
             "m3u8_url": [
                 "//asomatv.duckdns.org/livestream/stream.m3u8"
@@ -13151,25 +13254,6 @@
         "país": "ec",
         "categoría": "cristiana"
     },
-    "oromartv-ecuador": {
-        "nombre": "Oromartv ecuador",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://oromartv.com/tv-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://oromartv.com",
-        "país": "ec",
-        "categoría": "news"
-    },
     "hechos-ecuador": {
         "nombre": "hechos ecuador",
         "logo": "",
@@ -13177,7 +13261,10 @@
             "iframe_url": [
                 "https://www.hechosecuador.com/",
                 "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php",
-                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8"
+                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8",
+                "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
+                "https://latinamixradio.com/tv-online/",
+                "https://www.trodi.dev/tv/EC/LoretoTV.ec"
             ],
             "m3u8_url": [
                 "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
@@ -13187,7 +13274,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
+        "sitio_oficial": "https://github.com/iptv-org/iptv/pull/15774/commits/521ca0fe19d39604ce76f90b41f54666b287e27a",
         "país": "ec",
         "categoría": "news"
     },
@@ -13209,50 +13296,13 @@
         "país": "ec",
         "categoría": "news"
     },
-    "ecuavisa": {
-        "nombre": "Ecuavisa",
-        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/ecuavisa?dXNlcj1udWxs"
-            ],
-            "m3u8_url": [
-                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
-            ],
-            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ecuavisa.com/envivo",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecoteltv": {
-        "nombre": "Ecotel TV",
-        "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://playerhd.eu/tv/ecoteltv/",
-                "https://serenotv.com/video/canal-ecotel-tv/",
-                "https://player.streamseguro.com/radio/ecotelradio/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCGgJIShx7nSBzuI4JeT5aew",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ecotel.tv/",
-        "país": "ec",
-        "categoría": "news"
-    },
     "catomedia-ucsg": {
         "nombre": "Catomedia UCSG U CHANNEL UHF Canal 42",
         "logo": "https://graph.facebook.com/catomediaucsg/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://catomedia.net/#home"
+                "https://catomedia.net/#home",
+                "https://catomedia.net/"
             ],
             "m3u8_url": [
                 "https://stream.catomedia.net/catomedia-app/index.m3u8"
@@ -13271,7 +13321,8 @@
         "logo": "https://graph.facebook.com/tvdigitalonline.ecu/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/novelas-turcas"
+                "https://www.cxtv.com.br/tv-ao-vivo/novelas-turcas",
+                "https://canaltvdigitalonline.com/"
             ],
             "m3u8_url": [
                 "https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8"
@@ -13459,25 +13510,6 @@
         "país": "ec",
         "categoría": "news"
     },
-    "capricho-tv": {
-        "nombre": "channels Capricho TV ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/7tzynch5ex",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/capricho-tv",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/asomavision"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "ec",
-        "categoría": "news"
-    },
     "todo-novelas-mas-pasiones": {
         "nombre": "Novelas Inolvidables Ao Vivo",
         "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp",
@@ -13620,7 +13652,6 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/69g1xnrayu",
-                "",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/educatv"
             ],
             "m3u8_url": [],
