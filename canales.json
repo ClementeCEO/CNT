@@ -25643,7 +25643,11 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
         "señales": {
             "iframe_url": [
-                "https://www.la7.it/dirette-tv"
+                "https://www.la7.it/dirette-tv",
+                "https://www.retetvitalia.it/#google_vignette",
+                "https://www.tvsei.it/live/",
+                "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html",
+                "https://www.ondatv.tv/#google_vignette"
             ],
             "m3u8_url": [
                 "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
