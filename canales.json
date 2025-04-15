@@ -2949,44 +2949,6 @@
         "país": "al",
         "categoría": "news"
     },
-    "tvnz-1": {
-        "nombre": "TVNZ 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvnz.co.nz/livetv/tvnz-1",
-                "https://www.tvnz.co.nz/livetv/tvnz-2",
-                "https://www.tvnz.co.nz/livetv/tvnz-duke"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvnz.co.nz",
-        "país": "nz",
-        "categoría": "news"
-    },
-    "areena-yle": {
-        "nombre": "Areena Yle",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://areena.yle.fi/suorat",
-                "https://areena.yle.fi/suorat",
-                "https://areena.yle.fi/suorat"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://areena.yle.fi/tv",
-        "país": "fi",
-        "categoría": "news"
-    },
     "kronehit-tv": {
         "nombre": "KroneHIT TV Ao Vivo",
         "logo": "",
@@ -3027,427 +2989,6 @@
         "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/expo-channel",
         "país": "at",
         "categoría": "news"
-    },
-    "gbnewsonline": {
-        "nombre": "GBNews",
-        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
-            ],
-            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gbnews.com/watch/live",
-        "país": "gb-eng",
-        "categoría": "news"
-    },
-    "ebenezer-online": {
-        "nombre": "Ebenezer",
-        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-        "señales": {
-            "iframe_url": [
-                "https://ebenezer.hn/envivo",
-                "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ebenezer.hn/",
-        "país": "hn",
-        "categoría": "cristiana"
-    },
-    "EUROTV-hnl": {
-        "nombre": "EUROTV - HNL",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=eurochgreece",
-                "https://www.eurotv.gr/live-tv/",
-                "https://www.parsatv.com/name=HLN#news",
-                "http://www.parsatv.com/embed.php?name=HLN&auto=false",
-                "https://www.hln.be/videos/productie/webstream-3-103242-103242"
-            ],
-            "m3u8_url": [
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8",
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eurotv.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "pronews-tv-MEGA": {
-        "nombre": "PronewsTV - MEGA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
-                "https://www.megatv.com/live/",
-                "https://www.tvopen.gr/ethnoslive",
-                "https://www.tvopen.gr/live",
-                "https://www.grlivetv.com/p/open.html",
-                "https://www.skai.gr/tv/live",
-                "https://stasinos.tv/Greek/Greek-TV-Online1.aspx",
-                "https://netnix.tv/countries/gr/channels/skai-hd-bup2",
-                "https://www.antenna.gr/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pronewstv"
-        },
-        "sitio_oficial": "www.pronews.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "extacytv-alpha-ertnews": {
-        "nombre": "ExtacyTV - Alpha - Ertnews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://fr.crystalweb.net:2020/VideoPlayer/extacytv?autoplay=1&muted=1",
-                "https://extacytv.gr/",
-                "https://www.ertflix.gr/embed/index.html?codename=ert-news",
-                "https://netnix.tv/countries/gr/channels/ert-news#google_vignette",
-                "https://www.ertnews.gr/live-tv/",
-                "https://kontra.siliconweb.com/webtv/kontrachannel/iframe.jsp",
-                "https://kontrachannel.gr/livetv-kontrachannel.html#google_vignette",
-                "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
-                "https://www.alphatv.gr/live/",
-                "https://www.grlivetv.com/p/alpha.html",
-                "https://www.star.gr/tv/live-stream",
-                "https://digitalstar.gr/",
-                "https://www.star.gr/tv/live-stream",
-                "https://parltv.live.grnet.gr/webtv/",
-                "https://www.grlivetv.com/p/vouli.html",
-                "https://parltv.live.grnet.gr/webtv/"
-            ],
-            "m3u8_url": [
-                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8",
-                "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "extacy_tv"
-        },
-        "sitio_oficial": "https://extacytv.gr/",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "tv100-blueskytv-action24": {
-        "nombre": "TV100 - Blueskytv - Action24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deliver2.siliconweb.com/besttv/live_abr.html?2",
-                "https://www.youtube.com/embed/uWIhV9gQClg",
-                "https://fm100.gr/live/tv100",
-                "https://blueskytv.gr/live-tv/",
-                "https://www.grlivetv.com/p/tv100.html#google_vignette",
-                "https://www.action24.gr/live-stream/",
-                "https://stasinos.tv/Greek-Live-TV/Action24.aspx",
-                "https://netnix.tv/countries/gr/channels/action-24#google_vignette",
-                "https://www.attica-tv.gr/live-stream/",
-                "https://www.cretetv.gr/live-stream/",
-                "https://netnix.tv/countries/gr/channels/creta#google_vignette",
-                "https://netnix.tv/countries/gr/channels/krhth-tv",
-                "https://www.neatv.gr/live-broadcast/",
-                "https://netnix.tv/countries/gr/channels/nea-tv",
-                "https://epirustv1.eu/",
-                "https://aeolos.tv/live/",
-                "https://enachannel.gr/webtv/",
-                "https://netnix.tv/countries/gr/channels/ena-channel",
-                "https://best-tv.gr/home/best-live-tv/"
-            ],
-            "m3u8_url": [
-                "https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8",
-                "https://bestTV.siliconweb.com/bestTV/live_abr/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://webtv.gr/live/",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "maktv-tv4e-ioniantv": {
-        "nombre": "Maktv - Tv4e - Ioniantv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rumble.com/embed/v6p0jb8/?pub=kjm83",
-                "https://watch.antennaplus.gr/#/live/maktv",
-                "http://www.tv4e.gr/livestreaming.php",
-                "https://ioniantv.gr/live/",
-                "https://tv.rik.cy/live-tv/rik-sat/",
-                "https://www.arttv.info/p/art.html",
-                "https://onechannel.gr/live-tv/",
-                "https://www.sigmatv.com/live",
-                "https://www.alphacyprus.com.cy/live",
-                "https://www.ant1live.com/webtv/live",
-                "https://tvcreta.gr/live/",
-                "https://www.mesogeiostv.gr/live-tv/",
-                "https://www.omegatv.com.cy/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "thrakinet-syrostv1-egnatia": {
-        "nombre": "Thrakinet - Syrostv1 - Egnatia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eco.streams.ovh:2000/VideoPlayer/syrostv1",
-                "https://www.thrakinet.tv/thrakinet-live/",
-                "https://syrostv1.gr/live-tv/",
-                "https://www.egnatia.tv/live",
-                "https://www.verginanews.gr/web-tv-2/",
-                "https://www.alerttv.com.gr/webtv",
-                "https://trttv.gr/web-tv/",
-                "https://www.astratv.gr/live-streaming/",
-                "http://213.16.128.6:8101/deltatv/live.php",
-                "https://www.pronews.gr/live/"
-            ],
-            "m3u8_url": [
-                "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "astratv2021"
-        },
-        "sitio_oficial": "https://netnix.tv/countries/gr/channels/m-tv-hd",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "dhras-pellatv-extra3": {
-        "nombre": "Dhras - Pellatv - Extra3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dhras.gr/live-tv",
-                "https://www.tvkosmos.gr/",
-                "https://www.dhras.gr/",
-                "http://www.elladatv.gr/",
-                "https://pellatv.gr/live",
-                "https://www.extra3.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvkosmosgr"
-        },
-        "sitio_oficial": "https://www.grlivetv.com/#google_vignette",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "iview-tv-lampsi-tv-village-world": {
-        "nombre": "Iviewtv - Lampsi-tv - Village world",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ellastvmax.com/village-world/",
-                "https://netnix.tv/countries/gr/channels/iview-tv",
-                "https://ellastvmax.com/ellasworld-tv-live/",
-                "https://netnix.tv/countries/gr/channels/lampsi-tv",
-                "https://www.gamostv.eu/%CE%BB%CE%AC%CE%BC%CF%88%CE%B7-tv-live%21/",
-                "https://ellastvmax.com/madworld-tv-live/",
-                "https://netnix.tv/countries/gr/channels/level",
-                "https://netnix.tv/countries/gr/channels/zeys",
-                "https://netnix.tv/countries/gr/channels/omikron-tv",
-                "https://omikrontv.gr/",
-                "https://netnix.tv/countries/gr/channels/ns-tv#google_vignette",
-                "https://www.nstv.gr/nstvlive/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.greek-web-tv.com/p/live-tv_5.html",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "flash-tv-samiaki-thessaliatv": {
-        "nombre": "Flashtv - Samiaki - Thessaliatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://livestream.com/watch",
-                "https://flash-tv.gr/live/#google_vignette",
-                "https://diontv.gr/webtv/",
-                "https://www.startmediacorfu.gr/kerkyra-starttv-webtv/",
-                "https://epiloges.tv/tileorasi/",
-                "https://samiaki.tv/web-tv/#google_vignette",
-                "https://www.thessaliatv.gr/live/",
-                "https://www.startvfm.gr/live/",
-                "https://www.zougla.gr/live/",
-                "https://centertv.gr/live-tv",
-                "https://www.acheloostv.gr/news/achelooswebtvlive/",
-                "https://netnix.tv/countries/gr/channels/pro-news#google_vignette"
-            ],
-            "m3u8_url": [
-                "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "orestidatv"
-        },
-        "sitio_oficial": "https://newsinmax.blogspot.com/",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "opap-stent-tv-gnomi-tv": {
-        "nombre": "Opap - Stenttv - Gnomitv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://horseraces.pamestoixima.gr/el/live-stream",
-                "https://netnix.tv/countries/gr/channels/opap-tv#google_vignette",
-                "https://netnix.tv/countries/gr/channels/argolida-sport",
-                "https://argolidasport.gr/?page_id=1777",
-                "https://netnix.tv/countries/gr/channels/stent-tv",
-                "https://stent.net.gr/",
-                "https://netnix.tv/countries/gr/channels/tv-dipso",
-                "https://netnix.tv/countries/gr/channels/ekklhsia-tv-hd#google_vignette",
-                "https://ecclesiatv.gr/live",
-                "https://netnix.tv/countries/gr/channels/gnomi-tv",
-                "https://www.gnomi.eu/live.html",
-                "https://netnix.tv/countries/gr/channels/alfa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "alfatv-rodopi-tv-super-b": {
-        "nombre": "Alfatv - Rodopitv - Super-b",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vectromdigital.com/netveurope.html",
-                "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
-                "https://alfatv.com/en/watch-live",
-                "https://netnix.tv/countries/gr/channels/rodopi-tv",
-                "https://stasinos.tv/Greek/RodopiTV.aspx",
-                "https://netnix.tv/countries/gr/channels/super-b",
-                "https://netnix.tv/countries/gr/channels/groovy",
-                "https://babaktv.com/groovy-tv/",
-                "https://www.parsatv.com/name=Groovy-TV",
-                "https://eja.tv/?country=gr",
-                "https://www.newtv.click/gr/groovy-tv-gr/",
-                "https://netnix.tv/countries/gr/channels/netmax-tv",
-                "https://www.newtv.click/gr/netmax-tv-gr/",
-                "https://netmaxtv.com/live/",
-                "https://netnix.tv/countries/gr/channels/netv-europe-hd",
-                "https://netnix.tv/countries/gr/channels/netv-toronto-hd",
-                "https://www.netvtoronto.com/",
-                "https://netnix.tv/countries/gr/channels/village-world",
-                "https://www.wpbt2.org/live-tv/",
-                "https://worldstvmobile.com/country/GR/Choice.gr/Choice",
-                "https://www.wmht.org/live/",
-                "https://bx-tv.com/kiss-tv/",
-                "https://www.kissfm.ro/kisstv",
-                "https://netnix.tv/countries/gr/channels/kiss-tv",
-                "https://netnix.tv/countries/gr/channels/music-web-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "ebenezer2-online": {
-        "nombre": "Ebenezer2",
-        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-        "señales": {
-            "iframe_url": [
-                "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
-                "https://ebenezer.hn/envivo"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
-        "país": "gt",
-        "categoría": "cristiana"
-    },
-    "canal-27G": {
-        "nombre": "Canal 27G",
-        "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
-        "señales": {
-            "iframe_url": [
-                "https://emisorasgt.com/embed/tv2/canal-27.html?v=1"
-            ],
-            "m3u8_url": [
-                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://emisorasgt.com/canal-27/",
-        "país": "gt",
-        "categoría": "cristiana"
-    },
-    "avivamiento-tv-online": {
-        "nombre": "Avivamiento TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s1.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
-            ],
-            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
-        "país": "co",
-        "categoría": "cristiana"
     },
     "abn-avivamiento": {
         "nombre": "Abn Avivamiento AR Cristiana",
@@ -3663,8 +3204,7 @@
         "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/VGmbqJR1yug?si=sElPWWTskcAvL-13?mute=1&rel=0&autoplay=1&wmode=transparent&showinfo=0&enablejsapi=1",
-                ""
+                "https://www.youtube.com/embed/VGmbqJR1yug?si=sElPWWTskcAvL-13?mute=1&rel=0&autoplay=1&wmode=transparent&showinfo=0&enablejsapi=1"
             ],
             "m3u8_url": [],
             "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
@@ -7652,6 +7192,490 @@
         "país": "br",
         "categoría": "news"
     },
+    "gbnewsonline": {
+        "nombre": "GBNews",
+        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+            ],
+            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gbnews.com/watch/live",
+        "país": "gb-eng",
+        "categoría": "news"
+    },
+    "EUROTV-hnl": {
+        "nombre": "EUROTV - HNL",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=eurochgreece",
+                "https://www.eurotv.gr/live-tv/",
+                "https://www.parsatv.com/name=HLN#news",
+                "http://www.parsatv.com/embed.php?name=HLN&auto=false",
+                "https://www.hln.be/videos/productie/webstream-3-103242-103242"
+            ],
+            "m3u8_url": [
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8",
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.eurotv.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "pronews-tv-MEGA": {
+        "nombre": "PronewsTV - MEGA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
+                "https://www.megatv.com/live/",
+                "https://www.tvopen.gr/ethnoslive",
+                "https://www.tvopen.gr/live",
+                "https://www.grlivetv.com/p/open.html",
+                "https://www.skai.gr/tv/live",
+                "https://stasinos.tv/Greek/Greek-TV-Online1.aspx",
+                "https://netnix.tv/countries/gr/channels/skai-hd-bup2",
+                "https://www.antenna.gr/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "pronewstv"
+        },
+        "sitio_oficial": "www.pronews.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "extacytv-alpha-ertnews": {
+        "nombre": "ExtacyTV - Alpha - Ertnews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://fr.crystalweb.net:2020/VideoPlayer/extacytv?autoplay=1&muted=1",
+                "https://extacytv.gr/",
+                "https://www.ertflix.gr/embed/index.html?codename=ert-news",
+                "https://netnix.tv/countries/gr/channels/ert-news#google_vignette",
+                "https://www.ertnews.gr/live-tv/",
+                "https://kontra.siliconweb.com/webtv/kontrachannel/iframe.jsp",
+                "https://kontrachannel.gr/livetv-kontrachannel.html#google_vignette",
+                "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
+                "https://www.alphatv.gr/live/",
+                "https://www.grlivetv.com/p/alpha.html",
+                "https://www.star.gr/tv/live-stream",
+                "https://digitalstar.gr/",
+                "https://www.star.gr/tv/live-stream",
+                "https://parltv.live.grnet.gr/webtv/",
+                "https://www.grlivetv.com/p/vouli.html",
+                "https://parltv.live.grnet.gr/webtv/"
+            ],
+            "m3u8_url": [
+                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8",
+                "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "extacy_tv"
+        },
+        "sitio_oficial": "https://extacytv.gr/",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "tv100-blueskytv-action24": {
+        "nombre": "TV100 - Blueskytv - Action24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://deliver2.siliconweb.com/besttv/live_abr.html?2",
+                "https://www.youtube.com/embed/uWIhV9gQClg",
+                "https://fm100.gr/live/tv100",
+                "https://blueskytv.gr/live-tv/",
+                "https://www.grlivetv.com/p/tv100.html#google_vignette",
+                "https://www.action24.gr/live-stream/",
+                "https://stasinos.tv/Greek-Live-TV/Action24.aspx",
+                "https://netnix.tv/countries/gr/channels/action-24#google_vignette",
+                "https://www.attica-tv.gr/live-stream/",
+                "https://www.cretetv.gr/live-stream/",
+                "https://netnix.tv/countries/gr/channels/creta#google_vignette",
+                "https://netnix.tv/countries/gr/channels/krhth-tv",
+                "https://www.neatv.gr/live-broadcast/",
+                "https://netnix.tv/countries/gr/channels/nea-tv",
+                "https://epirustv1.eu/",
+                "https://aeolos.tv/live/",
+                "https://enachannel.gr/webtv/",
+                "https://netnix.tv/countries/gr/channels/ena-channel",
+                "https://best-tv.gr/home/best-live-tv/"
+            ],
+            "m3u8_url": [
+                "https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8",
+                "https://bestTV.siliconweb.com/bestTV/live_abr/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://webtv.gr/live/",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "maktv-tv4e-ioniantv": {
+        "nombre": "Maktv - Tv4e - Ioniantv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rumble.com/embed/v6p0jb8/?pub=kjm83",
+                "https://watch.antennaplus.gr/#/live/maktv",
+                "http://www.tv4e.gr/livestreaming.php",
+                "https://ioniantv.gr/live/",
+                "https://tv.rik.cy/live-tv/rik-sat/",
+                "https://www.arttv.info/p/art.html",
+                "https://onechannel.gr/live-tv/",
+                "https://www.sigmatv.com/live",
+                "https://www.alphacyprus.com.cy/live",
+                "https://www.ant1live.com/webtv/live",
+                "https://tvcreta.gr/live/",
+                "https://www.mesogeiostv.gr/live-tv/",
+                "https://www.omegatv.com.cy/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "thrakinet-syrostv1-egnatia": {
+        "nombre": "Thrakinet - Syrostv1 - Egnatia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://eco.streams.ovh:2000/VideoPlayer/syrostv1",
+                "https://www.thrakinet.tv/thrakinet-live/",
+                "https://syrostv1.gr/live-tv/",
+                "https://www.egnatia.tv/live",
+                "https://www.verginanews.gr/web-tv-2/",
+                "https://www.alerttv.com.gr/webtv",
+                "https://trttv.gr/web-tv/",
+                "https://www.astratv.gr/live-streaming/",
+                "http://213.16.128.6:8101/deltatv/live.php",
+                "https://www.pronews.gr/live/"
+            ],
+            "m3u8_url": [
+                "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "astratv2021"
+        },
+        "sitio_oficial": "https://netnix.tv/countries/gr/channels/m-tv-hd",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "dhras-pellatv-extra3": {
+        "nombre": "Dhras - Pellatv - Extra3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dhras.gr/live-tv",
+                "https://www.tvkosmos.gr/",
+                "https://www.dhras.gr/",
+                "http://www.elladatv.gr/",
+                "https://pellatv.gr/live",
+                "https://www.extra3.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvkosmosgr"
+        },
+        "sitio_oficial": "https://www.grlivetv.com/#google_vignette",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "iview-tv-lampsi-tv-village-world": {
+        "nombre": "Iviewtv - Lampsi-tv - Village world",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ellastvmax.com/village-world/",
+                "https://netnix.tv/countries/gr/channels/iview-tv",
+                "https://ellastvmax.com/ellasworld-tv-live/",
+                "https://netnix.tv/countries/gr/channels/lampsi-tv",
+                "https://www.gamostv.eu/%CE%BB%CE%AC%CE%BC%CF%88%CE%B7-tv-live%21/",
+                "https://ellastvmax.com/madworld-tv-live/",
+                "https://netnix.tv/countries/gr/channels/level",
+                "https://netnix.tv/countries/gr/channels/zeys",
+                "https://netnix.tv/countries/gr/channels/omikron-tv",
+                "https://omikrontv.gr/",
+                "https://netnix.tv/countries/gr/channels/ns-tv#google_vignette",
+                "https://www.nstv.gr/nstvlive/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.greek-web-tv.com/p/live-tv_5.html",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "flash-tv-samiaki-thessaliatv": {
+        "nombre": "Flashtv - Samiaki - Thessaliatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/watch",
+                "https://flash-tv.gr/live/#google_vignette",
+                "https://diontv.gr/webtv/",
+                "https://www.startmediacorfu.gr/kerkyra-starttv-webtv/",
+                "https://epiloges.tv/tileorasi/",
+                "https://samiaki.tv/web-tv/#google_vignette",
+                "https://www.thessaliatv.gr/live/",
+                "https://www.startvfm.gr/live/",
+                "https://www.zougla.gr/live/",
+                "https://centertv.gr/live-tv",
+                "https://www.acheloostv.gr/news/achelooswebtvlive/",
+                "https://netnix.tv/countries/gr/channels/pro-news#google_vignette"
+            ],
+            "m3u8_url": [
+                "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "orestidatv"
+        },
+        "sitio_oficial": "https://newsinmax.blogspot.com/",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "opap-stent-tv-gnomi-tv": {
+        "nombre": "Opap - Stenttv - Gnomitv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://horseraces.pamestoixima.gr/el/live-stream",
+                "https://netnix.tv/countries/gr/channels/opap-tv#google_vignette",
+                "https://netnix.tv/countries/gr/channels/argolida-sport",
+                "https://argolidasport.gr/?page_id=1777",
+                "https://netnix.tv/countries/gr/channels/stent-tv",
+                "https://stent.net.gr/",
+                "https://netnix.tv/countries/gr/channels/tv-dipso",
+                "https://netnix.tv/countries/gr/channels/ekklhsia-tv-hd#google_vignette",
+                "https://ecclesiatv.gr/live",
+                "https://netnix.tv/countries/gr/channels/gnomi-tv",
+                "https://www.gnomi.eu/live.html",
+                "https://netnix.tv/countries/gr/channels/alfa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "alfatv-rodopi-tv-super-b": {
+        "nombre": "Alfatv - Rodopitv - Super-b",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vectromdigital.com/netveurope.html",
+                "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
+                "https://alfatv.com/en/watch-live",
+                "https://netnix.tv/countries/gr/channels/rodopi-tv",
+                "https://stasinos.tv/Greek/RodopiTV.aspx",
+                "https://netnix.tv/countries/gr/channels/super-b",
+                "https://netnix.tv/countries/gr/channels/groovy",
+                "https://babaktv.com/groovy-tv/",
+                "https://www.parsatv.com/name=Groovy-TV",
+                "https://eja.tv/?country=gr",
+                "https://www.newtv.click/gr/groovy-tv-gr/",
+                "https://netnix.tv/countries/gr/channels/netmax-tv",
+                "https://www.newtv.click/gr/netmax-tv-gr/",
+                "https://netmaxtv.com/live/",
+                "https://netnix.tv/countries/gr/channels/netv-europe-hd",
+                "https://netnix.tv/countries/gr/channels/netv-toronto-hd",
+                "https://www.netvtoronto.com/",
+                "https://netnix.tv/countries/gr/channels/village-world",
+                "https://www.wpbt2.org/live-tv/",
+                "https://worldstvmobile.com/country/GR/Choice.gr/Choice",
+                "https://www.wmht.org/live/",
+                "https://bx-tv.com/kiss-tv/",
+                "https://www.kissfm.ro/kisstv",
+                "https://netnix.tv/countries/gr/channels/kiss-tv",
+                "https://netnix.tv/countries/gr/channels/music-web-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "ebenezer2-online": {
+        "nombre": "Ebenezer2",
+        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+        "señales": {
+            "iframe_url": [
+                "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
+                "https://ebenezer.hn/envivo"
+            ],
+            "m3u8_url": [
+                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
+        "país": "gt",
+        "categoría": "cristiana"
+    },
+    "canal-27G": {
+        "nombre": "Canal 27G",
+        "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
+        "señales": {
+            "iframe_url": [
+                "https://emisorasgt.com/embed/tv2/canal-27.html?v=1"
+            ],
+            "m3u8_url": [
+                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://emisorasgt.com/canal-27/",
+        "país": "gt",
+        "categoría": "cristiana"
+    },
+    "GRUPO-alphatv": {
+        "nombre": "GRUPO Alphatv GR",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.alphatv.gr/live/",
+                "https://tvstanici.net/alfa-vo-zivo/",
+                "https://ioniantv.gr/live/",
+                "https://www.skai.gr/tv/live",
+                "https://www.ant1live.com/webtv/live",
+                "https://diontv.gr/webtv/",
+                "https://www.attica-tv.gr/live-stream/",
+                "https://www.tvopen.gr/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://greek-movies.com/livetv",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "city-btvplus-tiankov-TV": {
+        "nombre": "CITY - Btvplus - Tiankov TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.neterra.tv/tiankov/tiankov-folk.php",
+                "https://tiankov.com/watch-online/",
+                "https://www.city.bg/live",
+                "https://www.radiocity.tv/",
+                "https://tv1.bg/",
+                "http://gleday.com/",
+                "https://btvplus.bg/live/",
+                "https://alfatv.com/en/watch-live",
+                "https://tiankov.com/watch-online/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.predavatel.com/bg/livetv/#google_vignette",
+        "país": "bg",
+        "categoría": "news"
+    },
+    "nova-diema-axs-tv-now": {
+        "nombre": "NOVA - DAIMA- Axs TV Now",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://nova.bg/live",
+                "https://www.tikilive.com/channel/the-first",
+                "https://www.tikilive.com/channel/axs-tv-now",
+                "https://bx-tv.com/axs-tv-now/",
+                "https://tv.bnt.bg/bnt4",
+                "https://iptv-bg.com/diema-online/",
+                "https://www.tikilive.com/channel/tiki-drama",
+                "https://www.gledaitv.live/watch-tv/39/planeta-folk-online",
+                "https://www.gledaitv.live/watch-tv/42/bnt-4-online",
+                "https://www.gledaitv.live/watch-tv/80/eurocom-online"
+            ],
+            "m3u8_url": [
+                "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
+                "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvdream.net/web-tv/bnt-4/#google_vignette",
+        "país": "bg",
+        "categoría": "news"
+    },
+    "ctv-news-channel": {
+        "nombre": "CTV News Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268",
+                "https://www.ctv.ca/on-air?tab=on-air",
+                "https://www.ctvchannel.tv/live-tv?day=5",
+                "https://www.ctvnews.ca/video/live/",
+                "https://www.ctvnews.ca/toronto/video/live/",
+                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctvnews.ca/video/c64268-ctv-news-channel-live",
+        "país": "ca",
+        "categoría": "news"
+    },
     "global-news": {
         "nombre": "Global News",
         "logo": "",
@@ -8432,6 +8456,25 @@
         "sitio_oficial": "https://90minutos.co/",
         "país": "co",
         "categoría": "news"
+    },
+    "avivamiento-tv-online": {
+        "nombre": "Avivamiento TV Cristiana",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://avivamiento.com/avivamiento-tv.php"
+            ],
+            "m3u8_url": [
+                "https://s1.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
+            ],
+            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
+        "país": "co",
+        "categoría": "cristiana"
     },
     "la-fm-colombia": {
         "nombre": "LA FM Colombia",
@@ -10036,6 +10079,23 @@
         "país": "cu",
         "categoría": "news"
     },
+    "omegatv-Chipre": {
+        "nombre": "Omega TV Ao Vivo Chipre",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.omegatv.com.cy/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.omegatv.com.cy",
+        "país": "cy",
+        "categoría": "news"
+    },
     "rnn-canal-27": {
         "nombre": "RNN Canal 27",
         "logo": "",
@@ -11171,46 +11231,6 @@
         "país": "dz",
         "categoría": "news"
     },
-    "une-tv-hn": {
-        "nombre": "Une TV HN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.unetvhn.com/"
-            ],
-            "m3u8_url": [
-                "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
-                "https://catv.amixtv.live:3058/live/unetvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.unetvhn.com/",
-        "país": "hn",
-        "categoría": "general"
-    },
-    "teleprogreso-online": {
-        "nombre": "Telepais",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://webmedialive.com/ReproTelePais/live/",
-                "https://www.teleprogreso.net/"
-            ],
-            "m3u8_url": [
-                "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.teleprogreso.net/",
-        "país": "hn",
-        "categoría": "news"
-    },
     "asomavision-online": {
         "nombre": "Asomavision",
         "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
@@ -11230,6 +11250,883 @@
         "sitio_oficial": "https://www.asomavision.com/",
         "país": "ec",
         "categoría": "cristiana"
+    },
+    "Vivatvonline": {
+        "nombre": "Vivatvonline",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
+                "https://www.vivatvonline.com/tv-en-vivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivatvonline.com/tv-en-vivo",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "maraotv": {
+        "nombre": "Maraotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televizia.org/marao/",
+                "https://www.televizia.org/rioni/",
+                "https://www.televizia.org/comedy-arxi/",
+                "https://www.televizia.org/tvpirveli/",
+                "https://www.televizia.org/silk-universal/",
+                "https://www.televizia.org/gds/",
+                "https://www.televizia.org/formula/",
+                "https://www.televizia.org/pirveli-arxi-hd/",
+                "https://www.televizia.org/pirveli-arxi/",
+                "https://www.televizia.org/imedihq/",
+                "https://www.televizia.org/rustavi2/",
+                "https://www.televizia.org/mtavari-arxi/",
+                "https://www.televizia.live/ge/maraotv"
+            ],
+            "m3u8_url": [
+                "https://streaming-hls3.televizia.org/hls/marao.m3u8",
+                "https://streaming-hls4.televizia.org/hls/rioni.m3u8",
+                "https://streaming-hls1.televizia.org/hls/comedy.m3u8",
+                "https://streaming-hls2.televizia.org/hls/tvpirveli.m3u8",
+                "https://streaming-hls1.televizia.org/hls/silk.m3u8",
+                "https://streaming-hls4.televizia.org/hls/gds.m3u8",
+                "https://streaming-hls3.televizia.org/hls/formula.m3u8",
+                "https://streaming-hls4.televizia.org/hls/pirveliarxi.m3u8",
+                "https://streaming-hls2.televizia.org/hls/pirveliarxi.m3u8",
+                "https://streaming-hls1.televizia.org/hls/imedi.m3u8",
+                "https://streaming-hls4.televizia.org/hls/imedi.m3u8",
+                "https://streaming-hls3.televizia.org/hls/mtavari.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televizia.org/marao/",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "rustavi2": {
+        "nombre": "Rustavi2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.myvideo.ge/embed.html?chan=rustavi2hqnew&epg=false",
+                "https://rustavi2.ge/en/dvr1",
+                "https://tv.myvideo.ge/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustavi2.ge/en/dvr1",
+        "país": "ge",
+        "categoría": "news"
+    },
+    "duendetvec-oromartv-ecuador": {
+        "nombre": "Oromartv - DuendeTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://oromartv.com/tv-en-vivo/",
+                "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
+                "https://www.vostv.com.ni/directo/#google_vignette",
+                "https://www.vosytv.com/",
+                "https://duendetv.com/en-vivo/",
+                "https://www.trodi.dev/tv/EC/AntenaUnoRadiovideo.ec",
+                "https://www.antenauno.com/",
+                "https://monseteve.com/monseteve-en-vivo/"
+            ],
+            "m3u8_url": [
+                "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+                "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://oromartv.com",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuavisa-LaPipolTvec": {
+        "nombre": "Ecuavisa - LaPipolTv.ec",
+        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/ecuavisa?dXNlcj1udWxs",
+                "https://www.ecuavisa.com/envivo",
+                "https://livestreamlinks.net/onlinetv/ecuador/la-pipol-tv-sangolqui",
+                "https://livestreamlinks.net/onlinetv/ecuador/tv-color-canal-36#google_vignette",
+                "https://www.trodi.dev/tv/EC/TVColorCanal36.ec",
+                "https://tvcolorcanal36.com/tv-color-canal-36-en-vivo/"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
+            ],
+            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecuavisa.com/envivo",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecoteltv": {
+        "nombre": "Ecotel TV",
+        "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://playerhd.eu/tv/ecoteltv/",
+                "https://serenotv.com/video/canal-ecotel-tv/",
+                "https://livestreamlinks.net/onlinetv/ecuador/uniandes-tv",
+                "http://www.radiofantasticatulcan.com/",
+                "https://www.trodi.dev/tv/EC/RadioCuencaEstereo.ec",
+                "https://www.trodi.dev/tv/EC/RadioBonita1067.ec",
+                "https://player.streamseguro.com/radio/ecotelradio/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCGgJIShx7nSBzuI4JeT5aew",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecotel.tv/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "EcuadorTVec-capricho-tv": {
+        "nombre": "channels EcuadorTV.ec Capricho TV ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.ecuadortv.ec/",
+                "https://v2.ssh101.com/detailng.php?id=tv3ad1",
+                "https://v2.ssh101.com/detailng.php?id=niggerstv",
+                "https://play4you.icu/e/7tzynch5ex",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/capricho-tv",
+                "https://livestreamlinks.net/onlinetv/ecuador/sono-onda-tv#google_vignette",
+                "https://livestreamlinks.net/onlinetv/ecuador/uka-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.caprichotvradio.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "asomavision-online": {
+        "nombre": "Asomavision",
+        "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
+        "señales": {
+            "iframe_url": [
+                "https://asomatv.duckdns.org/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/asomavision",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-monumental-tv",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-fantastica-989-fm",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-cuenca-estereo",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-bonita-1067",
+                "https://livestreamlinks.net/onlinetv/ecuador/radio-alegria-985-fm"
+            ],
+            "m3u8_url": [
+                "//asomatv.duckdns.org/livestream/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.asomavision.com/",
+        "país": "ec",
+        "categoría": "cristiana"
+    },
+    "hechos-ecuador": {
+        "nombre": "hechos ecuador",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.hechosecuador.com/",
+                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php",
+                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8",
+                "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
+                "https://latinamixradio.com/tv-online/",
+                "https://www.trodi.dev/tv/EC/LoretoTV.ec"
+            ],
+            "m3u8_url": [
+                "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/iptv-org/iptv/pull/15774/commits/521ca0fe19d39604ce76f90b41f54666b287e27a",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "4dmas": {
+        "nombre": "4dmas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=admasnoticias",
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/4dmas/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "catomedia-ucsg": {
+        "nombre": "Catomedia UCSG U CHANNEL UHF Canal 42",
+        "logo": "https://graph.facebook.com/catomediaucsg/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://catomedia.net/#home",
+                "https://catomedia.net/"
+            ],
+            "m3u8_url": [
+                "https://stream.catomedia.net/catomedia-app/index.m3u8"
+            ],
+            "yt_id": "UCH5499PHqkqKPsGEUJl5lZg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://catomedia.net/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "canaltvdigital-novelas-turcas": {
+        "nombre": "Canal Tv Digital Novelas Turcas Ao Vivo",
+        "logo": "https://graph.facebook.com/tvdigitalonline.ecu/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/novelas-turcas",
+                "https://canaltvdigitalonline.com/"
+            ],
+            "m3u8_url": [
+                "https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8"
+            ],
+            "yt_id": "UCzfV4_Fh7BEZxYsqe-vUjNw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canaltvdigitalonline.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "periodicodeunaec-Austral-TV": {
+        "nombre": "Periódico D'Una ",
+        "logo": "https://graph.facebook.com/periodicodeuna/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/h8cze2n4ij",
+                "https://www.tvlibreonline.co/en-vivo/player/embed2.php?r=australtv",
+                "https://www.tvlibreonline.co/en-vivo/player/embed2.php?r=australtv",
+                "https://www.tvlibreonline.co/en-vivo/australtv/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/austral-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCT9O240oe9HhC0VSSBgrPug",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://deunanoticias.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "radiocentroec": {
+        "nombre": "Radio Centro 101.3 FM",
+        "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://radiocentro.com.ec/en-vivo/",
+                "https://iframe.dacast.com/live/39c589fa-9f5d-d0e1-2ef9-29706cb6c8ae/29b6339a-d7e4-099c-a9be-0a9bcb074382"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCA_UqlgBTc824rRCLv6J_xA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiocentro.com.ec/en-vivo/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radioelite99-7tv5": {
+        "nombre": "Radio Elite 99.7 TV tvcnetwork SALVADOR",
+        "logo": "https://graph.facebook.com/Radioelite997/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75",
+                "https://www.tvcnetwork.net/prueba-de-web/",
+                "https://streamingecuador.net/AudioPlayer/radioelite"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCaFfXFnXsMJKtsmoouxmFVQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radioelite997.com/online/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radiosonoonda997": {
+        "nombre": "Radio Sono Onda",
+        "logo": "https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://sonoonda.com/tv-online/"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/sonoondatv/index.m3u8"
+            ],
+            "yt_id": "UCvNwkves6FXLMpdNDwR81lg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sonoonda.com/tv-online/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radiorumbaec": {
+        "nombre": "Radio Rumba 107.3 FM SEÑAL POSITIVA TV",
+        "logo": "https://graph.facebook.com/RadioRumbaEc/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://streamingecuador.net:2020/AudioPlayer/radiorumba",
+                "https://senalpositiva.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCSucprhsPUKXMYzxnO2_zvQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiorumba.fm/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radiopichincha-infinita-tv": {
+        "nombre": "Radio Pichincha Multimedia Infinita TV",
+        "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/nxtu0d6mkj",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/infinita-tv",
+                "https://icecast.radiopichincha.com/radiopichincha"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.radiopichincha.com/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "sonoramatv900-america-estereo-guayaquil": {
+        "nombre": "Sonorama TV América Estéreo",
+        "logo": "https://graph.facebook.com/radio.sonorama/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/u1yqlvorfz",
+                "https://www.americaestereo.com/america-tv-guayaquil/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-guayaquil"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCGOHw6AjriiGhkJnDAhJsRA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sonorama.com.ec/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "café-la-posta-america-estereo-ibarra": {
+        "nombre": "Café la Posta América Estéreo Ibarra",
+        "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/rmfw6j83iv",
+                "https://www.americaestereo.com/america-tv-ibarra/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-ibarra"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCLCCMz3exOqYc59IN0VOLlA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.laposta.ec/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "america-estereo": {
+        "nombre": "Tv channels América Estéreo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/26zyh3nj5d",
+                "https://www.americaestereo.com/america-tv-tulcan/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-tulcan",
+                "https://play4you.icu/e/z8ovr5jphm",
+                "https://www.americaestereo.com/america-tv-quito/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-quito"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.americaestereo.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "todo-novelas-mas-pasiones": {
+        "nombre": "Novelas Inolvidables Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.cxtv.com.br/tv-ao-vivo/todo-cine",
+                "https://www.cxtv.com.br/tv-ao-vivo/novelas-inolvidables",
+                "https://www.cxtv.com.br/tv-ao-vivo/todo-novelas-mas-pasiones"
+            ],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
+                "https://ov.ottera.tv/channels/cnm_niv/master.m3u8",
+                "https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canela.tv/player/channel/todo-cine",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "clic": {
+        "nombre": "Clic Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp",
+        "señales": {
+            "iframe_url": [
+                "https://canela.tv/player/channel/clic",
+                "https://www.cxtv.com.br/tv-ao-vivo/clic"
+            ],
+            "m3u8_url": [
+                "https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/clic",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "planeta-channel": {
+        "nombre": "Planeta Channel Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee677c334aa6df2c9a215349a766c630.webp",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=planeta55tv",
+                "https://planetaradiotv.com/index.php/tv-en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://planetaradiotv.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "unsion": {
+        "nombre": "Unsion TV Ao Vivo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.restream.io/?token=6d91a00ed7bb4434a40d12d1179792bd&vwrs=1",
+                "https://unsion.tv/envivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://unsion.tv",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ciracu-tv": {
+        "nombre": "Ciracu TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/r2sxpkcizu",
+                "",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/ciracu-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/ciracu-tv",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "curiquingue-tv": {
+        "nombre": "Curiquingue TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/639go1xa8s",
+                "",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/curiquingue-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/curiquingue-tv",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecua-stereo-radio-tv": {
+        "nombre": "Ecua Stereo Radio TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/2831azwsgv",
+                "",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/ecua-stereo-radio-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/ecua-stereo-radio-tv",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "educatv": {
+        "nombre": "EducaTV live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/69g1xnrayu",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/educatv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/educatv",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "fm-mundo": {
+        "nombre": "FM Mundo live stream",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/gis9h2yeor",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/fm-mundo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/fm-mundo",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ieanjesus-ecuador": {
+        "nombre": "IeanJesus Ecuador live stream",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/iv79wmrb82",
+                "",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/ieanjesus-ecuador"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/ieanjesus-ecuador",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "la-nueva-radio-tv-977": {
+        "nombre": "La Nueva Radio TV 97.7 live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.lanuevaradiotv.com/",
+                "https://play4you.icu/e/bmz349oj6c",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/la-nueva-radio-tv-977"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/la-nueva-radio-tv-977",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "la-perla-radio-tv": {
+        "nombre": "La Perla Radio TV live stream",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=streamlatacungatv",
+                "https://play4you.icu/e/81ej4fms93",
+                "https://play4you.icu/e/3svkt19aj0",
+                "https://play4you.icu/e/f1e43io6tu",
+                "https://metropolimedios.net/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/metropoli-medios-tv",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/marca-tv",
+                "https://manavision.ec/",
+                "https://play4you.icu/e/lwuab0zdxy",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/manavision",
+                "https://v2.ssh101.com/detailng.php?id=streamlatacungatv",
+                "https://www.latacungatv.com/",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/latacungatv",
+                "https://livestreamlinks.net/en/onlinetv/ecuador/la-pipol-tv-sangolqui"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/la-perla-radio-tv",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "majestad-tv": {
+        "nombre": "Majestad TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/majestadtv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://majestadtv.ec/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "majestad-ttelevision": {
+        "nombre": "Majestad 56-5 Los Angeles CA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livetv.305streamhd.com/live-stream-video-widget/majestadtv"
+            ],
+            "m3u8_url": [
+                "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.majestadtelevision.com/index.html#/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "canal-rtu": {
+        "nombre": "Canal Rtu",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://makrodigital.com/makrostreaming/rtutv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalrtu.tv/envivo/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuastereo": {
+        "nombre": "Ecuastereo",
+        "logo": "https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png",
+        "señales": {
+            "iframe_url": [
+                "https://video.misistemareseller.com:2000/VideoPlayer/ecuastereotv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://video.misistemareseller.com:1936/ecuastereotv/ecuastereotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecuastereo.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "puruwa-tv": {
+        "nombre": "Puruwatv Music",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.tvcontrolcp.com:2020/VideoPlayer/puruwatv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://puruwatv.com/en-vivo/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "Educa-TV": {
+        "nombre": "Educa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://educa.streamingcnt.net"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.educa.ec/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "canal-uno-ecuador": {
+        "nombre": "Canal Uno Ecuador",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://movil.ejeserver.com/video/user/?user=canaluno&vol=no"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalunoecuador.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuador-Comunicacion": {
+        "nombre": "Ecuador Comunicacion",
+        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+        "señales": {
+            "iframe_url": [
+                "https://eu1.servers10.com:2020/VideoPlayer/8298?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://eu1.servers10.com:8081/8298/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecuadorcomunicacion.com/tv-en-vivo/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuador-ZaracayTV": {
+        "nombre": "Ecuador ZaracayTV",
+        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?nimblesessionid=457019584"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/64156/ZaracayTV.html",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuador-WuanPlus": {
+        "nombre": "Ecuador WuanPlus",
+        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72252/WuanPlus.html",
+        "país": "ec",
+        "categoría": "news"
     },
     "alhayat-tv": {
         "nombre": "Alhayat Tv",
@@ -13029,85 +13926,6 @@
         "país": "es",
         "categoría": "news"
     },
-    "Vivatvonline": {
-        "nombre": "Vivatvonline",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
-                "https://www.vivatvonline.com/tv-en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivatvonline.com/tv-en-vivo",
-        "país": "ge",
-        "categoría": "news"
-    },
-    "maraotv": {
-        "nombre": "Maraotv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televizia.org/marao/",
-                "https://www.televizia.org/rioni/",
-                "https://www.televizia.org/comedy-arxi/",
-                "https://www.televizia.org/tvpirveli/",
-                "https://www.televizia.org/silk-universal/",
-                "https://www.televizia.org/gds/",
-                "https://www.televizia.org/formula/",
-                "https://www.televizia.org/pirveli-arxi-hd/",
-                "https://www.televizia.org/pirveli-arxi/",
-                "https://www.televizia.org/imedihq/",
-                "https://www.televizia.org/rustavi2/",
-                "https://www.televizia.org/mtavari-arxi/",
-                "https://www.televizia.live/ge/maraotv"
-            ],
-            "m3u8_url": [
-                "https://streaming-hls3.televizia.org/hls/marao.m3u8",
-                "https://streaming-hls4.televizia.org/hls/rioni.m3u8",
-                "https://streaming-hls1.televizia.org/hls/comedy.m3u8",
-                "https://streaming-hls2.televizia.org/hls/tvpirveli.m3u8",
-                "https://streaming-hls1.televizia.org/hls/silk.m3u8",
-                "https://streaming-hls4.televizia.org/hls/gds.m3u8",
-                "https://streaming-hls3.televizia.org/hls/formula.m3u8",
-                "https://streaming-hls4.televizia.org/hls/pirveliarxi.m3u8",
-                "https://streaming-hls2.televizia.org/hls/pirveliarxi.m3u8",
-                "https://streaming-hls1.televizia.org/hls/imedi.m3u8",
-                "https://streaming-hls4.televizia.org/hls/imedi.m3u8",
-                "https://streaming-hls3.televizia.org/hls/mtavari.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televizia.org/marao/",
-        "país": "ge",
-        "categoría": "news"
-    },
-    "rustavi2": {
-        "nombre": "Rustavi2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.myvideo.ge/embed.html?chan=rustavi2hqnew&epg=false",
-                "https://rustavi2.ge/en/dvr1",
-                "https://tv.myvideo.ge/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustavi2.ge/en/dvr1",
-        "país": "ge",
-        "categoría": "news"
-    },
     "martv": {
         "nombre": "Martv",
         "logo": "",
@@ -13127,12 +13945,14 @@
         "país": "es",
         "categoría": "news"
     },
-    "omegatv-Chipre": {
-        "nombre": "Omega TV Ao Vivo Chipre",
+    "areena-yle": {
+        "nombre": "Areena Yle",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.omegatv.com.cy/live/"
+                "https://areena.yle.fi/suorat",
+                "https://areena.yle.fi/suorat",
+                "https://areena.yle.fi/suorat"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -13140,377 +13960,78 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.omegatv.com.cy",
-        "país": "cy",
+        "sitio_oficial": "https://areena.yle.fi/tv",
+        "país": "fi",
         "categoría": "news"
     },
-    "duendetvec-oromartv-ecuador": {
-        "nombre": "Oromartv - DuendeTV",
-        "logo": "",
+    "ebenezer-online": {
+        "nombre": "Ebenezer",
+        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
         "señales": {
             "iframe_url": [
-                "https://oromartv.com/tv-en-vivo/",
-                "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
-                "https://www.vostv.com.ni/directo/#google_vignette",
-                "https://www.vosytv.com/",
-                "https://duendetv.com/en-vivo/",
-                "https://www.trodi.dev/tv/EC/AntenaUnoRadiovideo.ec",
-                "https://www.antenauno.com/",
-                "https://monseteve.com/monseteve-en-vivo/"
+                "https://ebenezer.hn/envivo",
+                "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
             ],
             "m3u8_url": [
-                "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
-                "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://oromartv.com",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuavisa-LaPipolTvec": {
-        "nombre": "Ecuavisa - LaPipolTv.ec",
-        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/ecuavisa?dXNlcj1udWxs",
-                "https://www.ecuavisa.com/envivo",
-                "https://livestreamlinks.net/onlinetv/ecuador/la-pipol-tv-sangolqui",
-                "https://livestreamlinks.net/onlinetv/ecuador/tv-color-canal-36#google_vignette",
-                "https://www.trodi.dev/tv/EC/TVColorCanal36.ec",
-                "https://tvcolorcanal36.com/tv-color-canal-36-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
-            ],
-            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ecuavisa.com/envivo",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecoteltv": {
-        "nombre": "Ecotel TV",
-        "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://playerhd.eu/tv/ecoteltv/",
-                "https://serenotv.com/video/canal-ecotel-tv/",
-                "https://livestreamlinks.net/onlinetv/ecuador/uniandes-tv",
-                "http://www.radiofantasticatulcan.com/",
-                "https://www.trodi.dev/tv/EC/RadioCuencaEstereo.ec",
-                "https://www.trodi.dev/tv/EC/RadioBonita1067.ec",
-                "https://player.streamseguro.com/radio/ecotelradio/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCGgJIShx7nSBzuI4JeT5aew",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ecotel.tv/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "EcuadorTVec-capricho-tv": {
-        "nombre": "channels EcuadorTV.ec Capricho TV ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.ecuadortv.ec/",
-                "https://v2.ssh101.com/detailng.php?id=tv3ad1",
-                "https://v2.ssh101.com/detailng.php?id=niggerstv",
-                "https://play4you.icu/e/7tzynch5ex",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/capricho-tv",
-                "https://livestreamlinks.net/onlinetv/ecuador/sono-onda-tv#google_vignette",
-                "https://livestreamlinks.net/onlinetv/ecuador/uka-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.caprichotvradio.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "asomavision-online": {
-        "nombre": "Asomavision",
-        "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
-        "señales": {
-            "iframe_url": [
-                "https://asomatv.duckdns.org/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/asomavision",
-                "https://livestreamlinks.net/onlinetv/ecuador/radio-monumental-tv",
-                "https://livestreamlinks.net/onlinetv/ecuador/radio-fantastica-989-fm",
-                "https://livestreamlinks.net/onlinetv/ecuador/radio-cuenca-estereo",
-                "https://livestreamlinks.net/onlinetv/ecuador/radio-bonita-1067",
-                "https://livestreamlinks.net/onlinetv/ecuador/radio-alegria-985-fm"
-            ],
-            "m3u8_url": [
-                "//asomatv.duckdns.org/livestream/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.asomavision.com/",
-        "país": "ec",
+        "sitio_oficial": "https://ebenezer.hn/",
+        "país": "hn",
         "categoría": "cristiana"
     },
-    "hechos-ecuador": {
-        "nombre": "hechos ecuador",
+    "une-tv-hn": {
+        "nombre": "Une TV HN",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.hechosecuador.com/",
-                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php",
-                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8",
-                "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
-                "https://latinamixradio.com/tv-online/",
-                "https://www.trodi.dev/tv/EC/LoretoTV.ec"
+                "http://www.unetvhn.com/"
             ],
             "m3u8_url": [
-                "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
+                "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
+                "https://catv.amixtv.live:3058/live/unetvlive.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://github.com/iptv-org/iptv/pull/15774/commits/521ca0fe19d39604ce76f90b41f54666b287e27a",
-        "país": "ec",
-        "categoría": "news"
+        "sitio_oficial": "http://www.unetvhn.com/",
+        "país": "hn",
+        "categoría": "general"
     },
-    "4dmas": {
-        "nombre": "4dmas",
+    "teleprogreso-online": {
+        "nombre": "Telepais",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.enlatele.tv/player/embed.php?r=admasnoticias",
-                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/4dmas/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "catomedia-ucsg": {
-        "nombre": "Catomedia UCSG U CHANNEL UHF Canal 42",
-        "logo": "https://graph.facebook.com/catomediaucsg/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://catomedia.net/#home",
-                "https://catomedia.net/"
+                "https://webmedialive.com/ReproTelePais/live/",
+                "https://www.teleprogreso.net/"
             ],
             "m3u8_url": [
-                "https://stream.catomedia.net/catomedia-app/index.m3u8"
+                "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
             ],
-            "yt_id": "UCH5499PHqkqKPsGEUJl5lZg",
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://catomedia.net/",
-        "país": "ec",
+        "sitio_oficial": "https://www.teleprogreso.net/",
+        "país": "hn",
         "categoría": "news"
     },
-    "canaltvdigital-novelas-turcas": {
-        "nombre": "Canal Tv Digital Novelas Turcas Ao Vivo",
-        "logo": "https://graph.facebook.com/tvdigitalonline.ecu/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/novelas-turcas",
-                "https://canaltvdigitalonline.com/"
-            ],
-            "m3u8_url": [
-                "https://amg00658-amg00658c22-canelatv-international-5047.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelanovelasturcas-canelatvinternational/playlist.m3u8"
-            ],
-            "yt_id": "UCzfV4_Fh7BEZxYsqe-vUjNw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canaltvdigitalonline.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "periodicodeunaec-Austral-TV": {
-        "nombre": "Periódico D'Una ",
-        "logo": "https://graph.facebook.com/periodicodeuna/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/h8cze2n4ij",
-                "https://www.tvlibreonline.co/en-vivo/player/embed2.php?r=australtv",
-                "https://www.tvlibreonline.co/en-vivo/player/embed2.php?r=australtv",
-                "https://www.tvlibreonline.co/en-vivo/australtv/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/austral-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCT9O240oe9HhC0VSSBgrPug",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deunanoticias.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "radiocentroec": {
-        "nombre": "Radio Centro 101.3 FM",
-        "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://radiocentro.com.ec/en-vivo/",
-                "https://iframe.dacast.com/live/39c589fa-9f5d-d0e1-2ef9-29706cb6c8ae/29b6339a-d7e4-099c-a9be-0a9bcb074382"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCA_UqlgBTc824rRCLv6J_xA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiocentro.com.ec/en-vivo/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radioelite99-7tv5": {
-        "nombre": "Radio Elite 99.7 TV tvcnetwork SALVADOR",
-        "logo": "https://graph.facebook.com/Radioelite997/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75",
-                "https://www.tvcnetwork.net/prueba-de-web/",
-                "https://streamingecuador.net/AudioPlayer/radioelite"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCaFfXFnXsMJKtsmoouxmFVQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radioelite997.com/online/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radiosonoonda997": {
-        "nombre": "Radio Sono Onda",
-        "logo": "https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://sonoonda.com/tv-online/"
-            ],
-            "m3u8_url": [
-                "https://live.obslivestream.com/sonoondatv/index.m3u8"
-            ],
-            "yt_id": "UCvNwkves6FXLMpdNDwR81lg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://sonoonda.com/tv-online/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radiorumbaec": {
-        "nombre": "Radio Rumba 107.3 FM SEÑAL POSITIVA TV",
-        "logo": "https://graph.facebook.com/RadioRumbaEc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://streamingecuador.net:2020/AudioPlayer/radiorumba",
-                "https://senalpositiva.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCSucprhsPUKXMYzxnO2_zvQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiorumba.fm/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radiopichincha-infinita-tv": {
-        "nombre": "Radio Pichincha Multimedia Infinita TV",
-        "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/nxtu0d6mkj",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/infinita-tv",
-                "https://icecast.radiopichincha.com/radiopichincha"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radiopichincha.com/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "sonoramatv900-america-estereo-guayaquil": {
-        "nombre": "Sonorama TV América Estéreo",
-        "logo": "https://graph.facebook.com/radio.sonorama/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/u1yqlvorfz",
-                "https://www.americaestereo.com/america-tv-guayaquil/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-guayaquil"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCGOHw6AjriiGhkJnDAhJsRA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://sonorama.com.ec/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "café-la-posta-america-estereo-ibarra": {
-        "nombre": "Café la Posta América Estéreo Ibarra",
-        "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/rmfw6j83iv",
-                "https://www.americaestereo.com/america-tv-ibarra/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-ibarra"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCLCCMz3exOqYc59IN0VOLlA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.laposta.ec/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "america-estereo": {
-        "nombre": "Tv channels América Estéreo",
+    "tvnz-1": {
+        "nombre": "TVNZ 1",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://play4you.icu/e/26zyh3nj5d",
-                "https://www.americaestereo.com/america-tv-tulcan/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-tulcan",
-                "https://play4you.icu/e/z8ovr5jphm",
-                "https://www.americaestereo.com/america-tv-quito/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-quito"
+                "https://www.tvnz.co.nz/livetv/tvnz-1",
+                "https://www.tvnz.co.nz/livetv/tvnz-2",
+                "https://www.tvnz.co.nz/livetv/tvnz-duke"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -13518,428 +14039,8 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.americaestereo.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "todo-novelas-mas-pasiones": {
-        "nombre": "Novelas Inolvidables Ao Vivo",
-        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/todo-cine",
-                "https://www.cxtv.com.br/tv-ao-vivo/novelas-inolvidables",
-                "https://www.cxtv.com.br/tv-ao-vivo/todo-novelas-mas-pasiones"
-            ],
-            "m3u8_url": [
-                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
-                "https://ov.ottera.tv/channels/cnm_niv/master.m3u8",
-                "https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canela.tv/player/channel/todo-cine",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "clic": {
-        "nombre": "Clic Ao Vivo",
-        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp",
-        "señales": {
-            "iframe_url": [
-                "https://canela.tv/player/channel/clic",
-                "https://www.cxtv.com.br/tv-ao-vivo/clic"
-            ],
-            "m3u8_url": [
-                "https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/clic",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "planeta-channel": {
-        "nombre": "Planeta Channel Ao Vivo",
-        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee677c334aa6df2c9a215349a766c630.webp",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=planeta55tv",
-                "https://planetaradiotv.com/index.php/tv-en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://planetaradiotv.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "unsion": {
-        "nombre": "Unsion TV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.restream.io/?token=6d91a00ed7bb4434a40d12d1179792bd&vwrs=1",
-                "https://unsion.tv/envivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://unsion.tv",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ciracu-tv": {
-        "nombre": "Ciracu TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/r2sxpkcizu",
-                "",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/ciracu-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/ciracu-tv",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "curiquingue-tv": {
-        "nombre": "Curiquingue TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/639go1xa8s",
-                "",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/curiquingue-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/curiquingue-tv",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecua-stereo-radio-tv": {
-        "nombre": "Ecua Stereo Radio TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/2831azwsgv",
-                "",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/ecua-stereo-radio-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/ecua-stereo-radio-tv",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "educatv": {
-        "nombre": "EducaTV live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/69g1xnrayu",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/educatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/educatv",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "fm-mundo": {
-        "nombre": "FM Mundo live stream",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/gis9h2yeor",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/fm-mundo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/fm-mundo",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ieanjesus-ecuador": {
-        "nombre": "IeanJesus Ecuador live stream",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/iv79wmrb82",
-                "",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/ieanjesus-ecuador"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/ieanjesus-ecuador",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "la-nueva-radio-tv-977": {
-        "nombre": "La Nueva Radio TV 97.7 live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.lanuevaradiotv.com/",
-                "https://play4you.icu/e/bmz349oj6c",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/la-nueva-radio-tv-977"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/la-nueva-radio-tv-977",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "la-perla-radio-tv": {
-        "nombre": "La Perla Radio TV live stream",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=streamlatacungatv",
-                "https://play4you.icu/e/81ej4fms93",
-                "https://play4you.icu/e/3svkt19aj0",
-                "https://play4you.icu/e/f1e43io6tu",
-                "https://metropolimedios.net/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/metropoli-medios-tv",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/marca-tv",
-                "https://manavision.ec/",
-                "https://play4you.icu/e/lwuab0zdxy",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/manavision",
-                "https://v2.ssh101.com/detailng.php?id=streamlatacungatv",
-                "https://www.latacungatv.com/",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/latacungatv",
-                "https://livestreamlinks.net/en/onlinetv/ecuador/la-pipol-tv-sangolqui"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/ecuador/la-perla-radio-tv",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "majestad-tv": {
-        "nombre": "Majestad TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://videoserver.tmcreativos.com:2020/VideoPlayer/majestadtv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://majestadtv.ec/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "majestad-ttelevision": {
-        "nombre": "Majestad 56-5 Los Angeles CA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://livetv.305streamhd.com/live-stream-video-widget/majestadtv"
-            ],
-            "m3u8_url": [
-                "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.majestadtelevision.com/index.html#/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "canal-rtu": {
-        "nombre": "Canal Rtu",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://makrodigital.com/makrostreaming/rtutv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalrtu.tv/envivo/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuastereo": {
-        "nombre": "Ecuastereo",
-        "logo": "https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png",
-        "señales": {
-            "iframe_url": [
-                "https://video.misistemareseller.com:2000/VideoPlayer/ecuastereotv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://video.misistemareseller.com:1936/ecuastereotv/ecuastereotv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ecuastereo.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "puruwa-tv": {
-        "nombre": "Puruwatv Music",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://live.tvcontrolcp.com:2020/VideoPlayer/puruwatv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://puruwatv.com/en-vivo/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "Educa-TV": {
-        "nombre": "Educa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://educa.streamingcnt.net"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.educa.ec/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "canal-uno-ecuador": {
-        "nombre": "Canal Uno Ecuador",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://movil.ejeserver.com/video/user/?user=canaluno&vol=no"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalunoecuador.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuador-Comunicacion": {
-        "nombre": "Ecuador Comunicacion",
-        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
-        "señales": {
-            "iframe_url": [
-                "https://eu1.servers10.com:2020/VideoPlayer/8298?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://eu1.servers10.com:8081/8298/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ecuadorcomunicacion.com/tv-en-vivo/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuador-ZaracayTV": {
-        "nombre": "Ecuador ZaracayTV",
-        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?nimblesessionid=457019584"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/64156/ZaracayTV.html",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuador-WuanPlus": {
-        "nombre": "Ecuador WuanPlus",
-        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72252/WuanPlus.html",
-        "país": "ec",
+        "sitio_oficial": "https://www.tvnz.co.nz",
+        "país": "nz",
         "categoría": "news"
     },
     "elwatania2-tv": {
@@ -33703,66 +33804,6 @@
         },
         "sitio_oficial": "https://www.parsatv.com/name=Sky-Folk-TV",
         "país": "us",
-        "categoría": "news"
-    },
-    "tiankov-TV": {
-        "nombre": "Tiankov TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.neterra.tv/tiankov/tiankov-folk.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tiankov.com/watch-online/",
-        "país": "bg",
-        "categoría": "news"
-    },
-    "axs-tv-now": {
-        "nombre": "Axs TV Now",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tikilive.com/channel/the-first",
-                "https://www.tikilive.com/channel/axs-tv-now"
-            ],
-            "m3u8_url": [
-                "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
-                "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/axs-tv-now/",
-        "país": "bg",
-        "categoría": "news"
-    },
-    "ctv-news-channel": {
-        "nombre": "CTV News Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268",
-                "https://www.ctv.ca/on-air?tab=on-air",
-                "https://www.ctvchannel.tv/live-tv?day=5",
-                "https://www.ctvnews.ca/video/live/",
-                "https://www.ctvnews.ca/toronto/video/live/",
-                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ctvnews.ca/video/c64268-ctv-news-channel-live",
-        "país": "ca",
         "categoría": "news"
     },
     "The-Wall-Street-Journal-Live": {
