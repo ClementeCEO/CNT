@@ -11378,6 +11378,7 @@
         "señales": {
             "iframe_url": [
                 "https://tv.myvideo.ge/embed.html?chan=rustavi2hqnew&epg=false",
+                "https://tv.myvideo.ge/embed.html?chan=imedihd&epg=false",
                 "https://rustavi2.ge/en/dvr1",
                 "https://tv.myvideo.ge/"
             ],
@@ -11494,6 +11495,7 @@
         "señales": {
             "iframe_url": [
                 "https://asomatv.duckdns.org/",
+                "https://www.asomavision.com/",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/asomavision",
                 "https://livestreamlinks.net/onlinetv/ecuador/radio-monumental-tv",
                 "https://livestreamlinks.net/onlinetv/ecuador/radio-fantastica-989-fm",
@@ -11543,7 +11545,8 @@
         "señales": {
             "iframe_url": [
                 "https://www.enlatele.tv/player/embed.php?r=admasnoticias",
-                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+                "https://4dmasnoticias.com.py/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -11715,6 +11718,8 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/u1yqlvorfz",
+                "http://play4you.icu/e/jq1gv65i42",
+                "https://www.parsatv.com/name=Bahar-TV",
                 "https://www.americaestereo.com/america-tv-guayaquil/",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/america-estereo-guayaquil"
             ],
@@ -11854,7 +11859,6 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/r2sxpkcizu",
-                "",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/ciracu-tv"
             ],
             "m3u8_url": [],
@@ -11873,7 +11877,6 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/639go1xa8s",
-                "",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/curiquingue-tv"
             ],
             "m3u8_url": [],
@@ -11892,7 +11895,6 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/2831azwsgv",
-                "",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/ecua-stereo-radio-tv"
             ],
             "m3u8_url": [],
@@ -11947,7 +11949,6 @@
         "señales": {
             "iframe_url": [
                 "https://play4you.icu/e/iv79wmrb82",
-                "",
                 "https://livestreamlinks.net/en/onlinetv/ecuador/ieanjesus-ecuador"
             ],
             "m3u8_url": [],
@@ -12159,10 +12160,10 @@
         "nombre": "Ecuador ZaracayTV",
         "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?nimblesessionid=457019584"
+            "iframe_url": [
+                "https://zaracaytv.com/?page_id=4888"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -12176,16 +12177,16 @@
         "nombre": "Ecuador WuanPlus",
         "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8"
+            "iframe_url": [
+                "https://www.wuanplus.tv/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72252/WuanPlus.html",
+        "sitio_oficial": "http://www.movilocho.com/tv/ec-tv-wuan-plus.html",
         "país": "ec",
         "categoría": "news"
     },
@@ -24512,25 +24513,6 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "cbn-tv-en-espanol": {
-        "nombre": "CBN Español Live Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/cbn-en-espa%C3%B1ol-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/cbn-tv-en-espanol.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
     "esperanza-tv": {
         "nombre": "Esperanza TV Cristiana",
         "logo": "",
@@ -25004,26 +24986,6 @@
         "sitio_oficial": "https://3abnkids.tv/watch_3abnkids.html",
         "país": "pe",
         "categoría": "cristiana"
-    },
-    "cbn-television-online": {
-        "nombre": "CBN Television Live Cristiana INGLES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www1.cbn.com/sites/all/libraries/html5player/html5player.php?videoId=5721815535001&auto_play=true&live=true",
-                "https://musicacristiana.com.ar/tv/cbn-en-ingles-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/cbn-television.html",
-        "país": "pe",
-        "categoría": "cristiana INGLES"
     },
     "hope-channel": {
         "nombre": "Hope Channel Cristiana",
@@ -35396,22 +35358,31 @@
         "país": "us",
         "categoría": "news"
     },
-    "cbn-news-tv": {
-        "nombre": "CBN News",
+    "cbn-news-cristiana-us-es": {
+        "nombre": "CBN News Cristiana us-es",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/CG2XDTgvZPo"
+                "https://www1.cbn.com/sites/all/libraries/html5player/html5player.php?videoId=5721815535001&auto_play=true&live=true",
+                "https://musicacristiana.com.ar/tv/cbn-en-ingles-tv.htm",
+                "https://musicacristiana.com.ar/tv/cbn-en-espa%C3%B1ol-tv.htm",
+                "https://musicacristiana.com.ar/cbn-tv-en-espanol.html",
+                "https://musicacristiana.com.ar/cbn-television.html",
+                "https://www.youtube.com/embed/CG2XDTgvZPo",
+                "https://www2.cbn.com/video/cbn-live-https",
+                "https://cbn.com/video/cbn-espanol-channel-live-https"
             ],
             "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8"
+                "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8",
+                "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8",
+                "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www2.cbn.com/video/cbn-live-https",
+        "sitio_oficial": "http://www.movilocho.com/tv/us-tv-cbn.html",
         "país": "us",
         "categoría": "news"
     },
