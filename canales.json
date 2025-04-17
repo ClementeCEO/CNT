@@ -5982,7 +5982,7 @@
                 "https://www.tvlibrehd.com/en-vivo/fox-sports",
                 "https://www.cxtv.com.br/tv-ao-vivo/tv-feliz",
                 "https://www.teveglobo.live/#live",
-                "http://bccdn.xyz:80/4387701968208/945823895687/420"
+                "https://globoplay.globo.com/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -6148,6 +6148,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "país": "br",
+        "categoría": "news"
+    },
+    "florida-tv": {
+        "nombre": "Florida",
+        "logo": "https://xn--vivaespaa-s6a.tv/user/upload/source/tvflorida.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://xn--vivaespaa-s6a.tv/user/live-tv/tv-florida/32"
+            ],
+            "m3u8_url": [
+                "https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w1587853849.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://xn--vivaespaa-s6a.tv/user/live-tv/tv-florida/32",
         "país": "br",
         "categoría": "news"
     },
@@ -14107,23 +14126,6 @@
         "país": "in",
         "categoría": "news"
     },
-    "florida-tv": {
-        "nombre": "Florida",
-        "logo": "https://xn--vivaespaa-s6a.tv/user/upload/source/tvflorida.jpg",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w1587853849.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://xn--vivaespaa-s6a.tv/user/live-tv/tv-florida/32",
-        "país": "br",
-        "categoría": "news"
-    },
     "KAN-11": {
         "nombre": "KAN 11",
         "logo": "",
@@ -14261,6 +14263,683 @@
         },
         "sitio_oficial": "https://www.i24news.tv/en",
         "país": "il",
+        "categoría": "news"
+    },
+    "RCTI": {
+        "nombre": "RCTI",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/rcti",
+                "https://embed.rctiplus.com/live/rcti/sindonews",
+                "https://video.sindonews.com/tv/rcti/live-streaming",
+                "https://tv.okezone.com/streaming/rcti"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rctiplus.com/tv/rcti",
+        "país": "id",
+        "categoría": "news"
+    },
+    "ANTV": {
+        "nombre": "ANTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
+                "https://www.indihometv.com/livetv/antv"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=tjy-gEFtzvi4YxrqkyLQlA&exp=1727799350&encp=ZuxN9WYHaefK8gtm5Ay3Ww&expp=1727809850"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.indihometv.com/livetv/antv",
+        "país": "id",
+        "categoría": "news"
+    },
+    "ANTV-l": {
+        "nombre": "ANTV l",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://antv.gov.vn/",
+                "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.antvklik.com/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "TVOne": {
+        "nombre": "TVOne",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8?enc=vgfIXchugKgzKWhIaINm8A&exp=1727799613&encp=hI5x3tvviQ5mQbnF7x7Q1g&expp=1727810113"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/783",
+        "país": "id",
+        "categoría": "news"
+    },
+    "tvonenews": {
+        "nombre": "Tvonenews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/yNKvkPJl-tg?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.tvonenews.com"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvonenews.com/live",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Tawaf-TV": {
+        "nombre": "Tawaf TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/tawaftv/playlist.m3u8?enc=5V1dpYh6N4Jsktf7Hj0jBQ&exp=1727799907&encp=UIHYU_yuYTc3pC8edO9T5w&expp=1727810407"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/12607",
+        "país": "id",
+        "categoría": "news"
+    },
+    "TRAX": {
+        "nombre": "TRAX",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "XOq7ui",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/7055",
+        "país": "id",
+        "categoría": "news"
+    },
+    "DAAI-TV": {
+        "nombre": "DAAI TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/joss/134/daaitv/playlist.m3u8?enc=OUv3q_KryepxK-i7nq-O2w&exp=1727800227&encp=ZcZ6k0oWYtaCFvi53Y8C7g&expp=1727808927"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/6482",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Kompas-TV": {
+        "nombre": "Kompas TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8?enc=qnyGYsh12ppaLssT3dj6Sg&exp=1727800308&encp=4Vecbdnd9y_jNnj0grH0CQ&expp=1727810808"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "'https://www.vidio.com/live/6441",
+        "país": "id",
+        "categoría": "news"
+    },
+    "BTV": {
+        "nombre": "BTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8?enc=B7KLb86oYSmWSFnN-iAZOw&exp=1727800352&encp=B7PrlyAuU3gexK3XIgld0Q&expp=1727810852"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/6165",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Metro-TV-news": {
+        "nombre": "Metro TV news",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/nfgnpM28xDA?rel=0&autoplay=1",
+                "https://www.youtube.com/embed/XKueVSGTk2o?rel=0&autoplay=1",
+                "https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.metrotvnews.com/live",
+        "país": "id",
+        "categoría": "news"
+    },
+    "TVRI": {
+        "nombre": "TVRI",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8?enc=HJ2BN1MQ_TPoMKB-HEBRsg&exp=1727800766&encp=TFf4wq3HAhX06mcVSXZ96w&expp=1727811266"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/6441",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Trans7": {
+        "nombre": "Trans7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8?enc=hjU78AufEGguD8DbFPz0zQ&exp=1727800950&encp=0lopz16SiMAxLVTmnHaEyA&expp=1727811450"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/206",
+        "país": "id",
+        "categoría": "news"
+    },
+    "TRANS-tv": {
+        "nombre": "TRANS TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/733",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Ardan-Radio": {
+        "nombre": "Ardan Radio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/7184/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/7184",
+        "país": "id",
+        "categoría": "news"
+    },
+    "TVN": {
+        "nombre": "TVN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/6362",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Zee-Bioskop": {
+        "nombre": "Zee Bioskop",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/6399",
+        "país": "id",
+        "categoría": "news"
+    },
+    "RANS-tv": {
+        "nombre": "RANS TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/8241",
+        "país": "id",
+        "categoría": "news"
+    },
+    "AJWA-TV": {
+        "nombre": "AJWA TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/7464",
+        "país": "id",
+        "categoría": "news"
+    },
+    "rtv": {
+        "nombre": "RTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8?enc=RIJtgeWdV-8aeHYXNIw07g&exp=1727801261&encp=bggGBQIY9uAiVYRCjdOF6w&expp=1727811761"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/5415",
+        "país": "id",
+        "categoría": "news"
+    },
+    "netv": {
+        "nombre": "NETV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/joss/133/bumperslate/playlist.m3u8?enc=12wDH6cjc3KcHDlDttEyPQ&exp=1727801304&encp=dr64_cjrleyMi7mUaJ4CmQ&expp=1727810004"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/5415",
+        "país": "id",
+        "categoría": "news"
+    },
+    "jaktv": {
+        "nombre": "JAKTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8?enc=k_4mUajY33CS_rVbhevDrA&exp=1727801367&encp=mM5aGtWaqHG4ExshdOdmoQ&expp=1727811867"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.indihometv.com/tv/live",
+        "país": "id",
+        "categoría": "news"
+    },
+    "Moji": {
+        "nombre": "Moji",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/206",
+        "país": "id",
+        "categoría": "news"
+    },
+    "sctv": {
+        "nombre": "SCTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/204-sctv?schedule_id=3249308",
+        "país": "id",
+        "categoría": "news"
+    },
+    "indosiar": {
+        "nombre": "Indosiar",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.indosiar.com/#streaming",
+        "país": "id",
+        "categoría": "news"
+    },
+    "cnn-cl00": {
+        "nombre": "CNN Chile00",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vidio.com/live/733-trans-tv?schedule_id=3245518",
+        "país": "id",
+        "categoría": "news"
+    },
+    "cnn-cl0": {
+        "nombre": "CNN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cnnindonesia.com/tv",
+                "https://www.cnbcindonesia.com/tv"
+            ],
+            "m3u8_url": [
+                "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+                "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cnnchile.com/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "mnctv": {
+        "nombre": "MNCTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/mnctv",
+                "https://www.inews.id/streaming/mnctv",
+                "https://www.inews.id/streaming/mnctv",
+                "https://video.sindonews.com/tv/mnctv",
+                "https://tv.okezone.com/streaming/mnc_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "ttps://tv.okezone.com/streaming",
+        "país": "id",
+        "categoría": "news"
+    },
+    "gtv": {
+        "nombre": "GTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/gtv",
+                "https://video.sindonews.com/tv/gtv",
+                "https://tv.okezone.com/streaming/gtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.okezone.com/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "inews-tv": {
+        "nombre": "iNews TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.rctiplus.com/tv/inews",
+                "https://tv.inews.id/streaming",
+                "https://tv.okezone.com/streaming/inews_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.okezone.com",
+        "país": "id",
+        "categoría": "news"
+    },
+    "idx": {
+        "nombre": "IDX",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.okezone.com/streaming/idx",
+                "https://www.inews.id/streaming/idxchannel"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.idxchannel.com/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "madu-tv-celebes-tv": {
+        "nombre": "Madu TV - Celebes TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.siar.us/player/?link=re1.siar.us/madutv/hd720&autoplay=no",
+                "",
+                "https://celebesmedia.id/celebes-tv",
+                "https://madu.tv/live-streaming/"
+            ],
+            "m3u8_url": [
+                "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://madu.tv/live-streaming/",
+        "país": "id",
+        "categoría": "news"
+    },
+    "GRUPO-ID": {
+        "nombre": "GRUPO ID( ⇒  REGIONAL Y LOCAL )",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://kawanua.tv/",
+                "https://www.pontv.id/",
+                "https://www.pontv.id/",
+                "https://pktvkaltim.com/",
+                "https://balikpapantv.co.id/",
+                "https://padangtv.id/live/",
+                "https://stream.jambitv.co.id/",
+                "http://jektv.co.id/livestreaming/",
+                "http://27.124.75.34:8080/09066008-aca0-490e-ad3e-a00a1362510f.html",
+                "https://www.radarcirebon.tv/livestreaming/",
+                "https://mgstv.co.id/live-streaming/",
+                "http://streaming.bandungtv.tv/",
+                "https://jitv.jogjaprov.go.id/",
+                "https://elshintatv.co.id/live",
+                "https://jak-tv.com/home",
+                "https://arek.tv/arekstreaming.html",
+                "https://madu.tv/live-streaming/",
+                "https://www.sakti.tv/",
+                "https://www.portaljtv.com/video#google_vignette",
+                "https://dmtvmalang.com/",
+                "https://kstv.co.id/",
+                "https://tvku.tv/beranda/live",
+                "https://bantentv.com/live/"
+            ],
+            "m3u8_url": [
+                "https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+                "https://e.siar.us/live/dmtv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "padang_tv"
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/indonesia/#google_vignette",
+        "país": "id",
+        "categoría": "news"
+    },
+    "GRUPO-IND": {
+        "nombre": "GRUPO IND( ⇒  NACIONAL 2 )",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.squidtv.net/asia/indonesia/indonesia-035.html",
+                "https://www.oshop.co.id/live-streaming",
+                "http://mtatv.net/v2/?p=170",
+                "https://seatoday.com/tv",
+                "https://madu.tv/live-streaming/",
+                "https://reformed21.tv/",
+                "https://tv.okezone.com/streaming/LIFE",
+                "https://daaiplus.com/live-streaming-daai-tv/",
+                "https://daaitv.co.id/DAAI-WP/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC9q_4Ljmm0C15j25Bqx1ZOw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/indonesia/#google_vignette",
+        "país": "id",
+        "categoría": "news"
+    },
+    "allplay-ent": {
+        "nombre": "allplay ent",
+        "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/banner_xxhdpi.png",
+        "señales": {
+            "iframe_url": [
+                "https://maxstream.tv/tv-channels/0_psqdb637",
+                "https://maxstream.tv/tv-channels/0_keojjla6",
+                "https://maxstream.tv/tv-channels/0_yfn4kszs"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://maxstream.tv/tv-channels/",
+        "país": "id",
         "categoría": "news"
     },
     "new-tv-hd": {
@@ -14862,6 +15541,776 @@
         },
         "sitio_oficial": "https://elwataniatv.dz/",
         "país": "ly",
+        "categoría": "news"
+    },
+    "aloula1-tv": {
+        "nombre": "Aloula1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aloula1",
+                "https://www.elahmad.com/tv/radiant.php?id=laayoune",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alaoulaeurope"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/rtm_maroc.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "2M-tv": {
+        "nombre": "2M",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
+                "https://ok.ru/videoembed/8053965659722?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "2m-tv": {
+        "nombre": "2M+",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
+                "https://ok.ru/video/8053965659722",
+                "https://www.web24iptv.online/player/phpar/fas2m.php",
+                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
+            ],
+            "m3u8_url": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "arryadia3-tv": {
+        "nombre": "Arryadia 3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=arryadia1",
+                "/tv/cloudflare.php?id=arryadia1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arryadia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCRN5ho3UGhUi7ZCBe2G2f2w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/arryadia_maroc.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "Aarrabiaa4-tv": {
+        "nombre": "Arrabiaa 4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=arrabia",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arrabiaa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/arrabia-maroc.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "almaghribia5-tv": {
+        "nombre": "Almaghribia 5",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=al_maghribia",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almaghribia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/almaghribia-tv.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "assadissa-tv": {
+        "nombre": "Assadissa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=assadissatv",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=assadissa",
+                "https://qanawat.taghtia.com/api/player/assadissa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.taghtia.com/en/watch/assadissa",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "aflam-maroc-tv": {
+        "nombre": "Aflam Maroc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aflam_maroc"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "tamazight-tv": {
+        "nombre": "Tamazight",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=tamazight",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=tamazight"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/tamazight-live-tv.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "medi1tv-tv": {
+        "nombre": "Medi1tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=medi1tv",
+                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_arabia",
+                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_afrique",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=medi1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/medi1tv.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "maptvnews-tv": {
+        "nombre": "Maptv News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=maptvnews"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "telemaroc-tv": {
+        "nombre": "Telemaroc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
+                "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemaroc.tv/liveTV",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "Rasd-tv": {
+        "nombre": "Rasd TV Directo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rasd.tv/embed.php?id=3931"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://xn--vivaespaa-s6a.tv/user/live-tv/rasd-tv/28",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "athaqafia-tv": {
+        "nombre": "athaqafia",
+        "logo": "https://iteleflix.com/archivos/Athaqafia-1.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=saudi_thaqafiya",
+                "https://qanawat.taghtia.com/api/player/athaqafia",
+                "https://www.snrt.ma/dummy/snrt_token_al_aoula.php",
+                "https://www.snrt.ma/dummy/snrt_token_athaqafia.php"
+            ],
+            "m3u8_url": [
+                "https://utlils433.pro/pr_mar.php?url=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.snrt.ma/",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "Al-Aoula-Maroc-tv": {
+        "nombre": "Al Aoula Maroc",
+        "logo": "http://www.casasat.com/pics/1552707_1one.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/RVycDPf6iRI?fs=1&autoplay=1&iv_load_policy=3&showinfo=0&showsearch=0&modestbranding=1&rel=0&autohide=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.casasat.com/tv50.htm",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "tdm-Macau": {
+        "nombre": "TDM Macau",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+                "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+                "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+                "https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+                "https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+                "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+                "https://live5.tdm.com.mo/tv/ch22.live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tdm.com.mo/en/live?Channel=2&type=tv",
+        "país": "mo",
+        "categoría": "news"
+    },
+    "lotustv-mo-tv": {
+        "nombre": "Lotus Macau HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/lotustv-mo",
+        "país": "mo",
+        "categoría": "news"
+    },
+    "abnafrica-us-tv": {
+        "nombre": "ABN Africa TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fyt3.googleusercontent.com%2FBhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ%3Ds512-c-k-c0x00ffffff-no-rj&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
+                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/abnafrica-us",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "africa24-tv": {
+        "nombre": "Africa 24 TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+                "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w502688109.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/africa24-fr",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "africa24english-tv": {
+        "nombre": "Africa 24 English TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w291946696.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/africa24english-fr",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "africa24sport-tv": {
+        "nombre": "Africa 24 Sport TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1089583992.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/africa24sport-fr",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "africanewsenglish-fr-tv": {
+        "nombre": "Africanews TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
+                "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/aa470ffe77fc77b53f028fb6d9a9fe0f.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/africanewsenglish-fr",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "africanewsfrench-fr-tv": {
+        "nombre": "AfricaNews Français TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+                "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/88a90c2249d6ed2ee545719c3d991465.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/africanewsfrench-fr",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "amanitv-sn-tv": {
+        "nombre": "Amani TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://goccn.cloud/hls/amanitv/index.m3u8",
+                "https://goccn.cloud/hls/amanitv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/amanitv-sn",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "angeltvafrica-in-tv": {
+        "nombre": "Angel TV Africa",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FqKLEGU7.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
+                "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/angeltvafrica-in",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "bloombergtvemealiveevent-uk-tv": {
+        "nombre": "Bloomberg TV EMEA Live Event",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FOuogLHx.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+                "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/bloombergtvemealiveevent-uk",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "canal2international-cm-tv": {
+        "nombre": "Canal 2 International TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBzA2z7m.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xpnus.html?video=x8t0282"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal2international.net/live.php",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "cnbcafrica-za-tv": {
+        "nombre": "CNBC Africa TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBnNYzWI.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8",
+                "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/cnbcafrica-za",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "ewtnafricaasia-us-tv": {
+        "nombre": "EWTN Africa Asia",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FF8ZM25a.png&w=828&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+                "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/jj7jpjyr/720/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/ewtnafricaasia-us",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "godtvafrica-za-tv": {
+        "nombre": "GOD TV Africa TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FhW4g2oe.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8",
+                "https://webstreaming.viewmedia.tv/web_006/Stream/live6_3/high/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/godtvafrica-za",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "qwest-fr-tv": {
+        "nombre": "Qwest TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FDjgNNHK.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
+                "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/cb563d19726c63909bcc3778d5f262eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c46d872a1af1c56953d51e4864bc8d51db9d4c9529c16876bf015c8c4edd9da17d79b9236aa55e065595c2178cdd24ba7a332de7278f958e61318635c31d6a681eb3c44ec25707d88314f2207857efd86309568779a0d9d5d8d338b11ca43c7b30dc839d8ae9eb7c9cbde2d2987d9a5811bf899128ec6b1cec8d0766e90f515376bc060d9188c59fae0e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db67db7ca723cc7764ab6343bfa4a3ccf17afef62a6f19bc0023cfa8f9412b13fa1e544828477c3070b500cb7fd3b4c051d2da28948397028930bb4a9858b1e2409efe5c2edcf552c75503a5b0f99edf47f9d9aba473812c656662d34271e9800d97ecc422e242bda15c7a3197ee450394c06c6b2dfd4b4f073a49dd5c36ff1567636444a1c351cec/6/1280x720_3329040/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/qwesttv-fr",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "reflettv-ci-tv": {
+        "nombre": "REFLET TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FEauXR22.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8",
+                "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/video_10801920_p_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/reflettv-ci",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "romanzaplusafrica-ke-tv": {
+        "nombre": "Romanza+ Africa TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FHYg75w2.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
+                "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/romanzaplusafrica-ke",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "rtvyahoshuah-mg-tv": {
+        "nombre": "RTV Yahoshuah TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2F0mq5NXQ%2Flog.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ythls.armelin.one/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8",
+                "https://ythls.armelin.one/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/rtvyahoshuah-mg",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "tbnafrica-za-tv": {
+        "nombre": "TBN Africa TV",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F6VjLFmR.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8",
+                "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/live-audio_1=128000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tbnafrica.org/vod/webcast",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "tvbricsafrica-za-tv": {
+        "nombre": "BRICS Africa TV",
+        "logo": "https://tvbrics.com/local/templates/tvbrics/dest/img/logo_brics.svg",
+        "señales": {
+            "iframe_url": [
+                "https://public.mediacdn.ru/brics/eng/"
+            ],
+            "m3u8_url": [
+                "https://engbrics2.mediacdn.ru/cdn/brics/english/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bricsafricachannel.com/",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "bric-tv": {
+        "nombre": "BRICS TV",
+        "logo": "https://tvbrics.com/local/templates/tvbrics/dest/img/logo_brics.svg",
+        "señales": {
+            "iframe_url": [
+                "https://public.mediacdn.ru/brics/eng/"
+            ],
+            "m3u8_url": [
+                "https://engbrics2.mediacdn.ru/cdn/brics/english/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvbrics.com/en/live/",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "tviafrica-pt-tv": {
+        "nombre": "TVI África",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2FvBbSHB4%2FTvi-africa.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
+                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?nimblesessionid=525593292"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/tviafrica-pt",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "zaroktv-iq-tv": {
+        "nombre": "Zarok TV Sorani TV en vivo",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2Fo0eevnb.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+                "https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/zaroktv-iq",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "times-now-news-tv": {
+        "nombre": "Times Now News",
+        "logo": "https://www.timesnownews.com/assets/icons/svg/times-now.svg",
+        "señales": {
+            "iframe_url": [
+                "https://www.timesnownews.com/live-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.timesnownews.com/live-tv",
+        "país": "mg",
+        "categoría": "news"
+    },
+    "Maldives-tv": {
+        "nombre": "Maldives TV en vivo",
+        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FZl2FmFC.png&w=1920&q=75",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.maldivestv.mv/hls/stream/index.m3u8",
+                "https://live.maldivestv.mv/hls/stream/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.fun2k.com/es/country/maldives",
+        "país": "mv",
+        "categoría": "news"
+    },
+    "tv2-tv": {
+        "nombre": "MBC TV Malawi",
+        "logo": "https://mbc.mw/live/assets/images/logo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ssh101-fl.bozztv.com/ssh101/mbctv2mw/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mbc.mw/live/",
+        "país": "mw",
         "categoría": "news"
     },
     "Watania-Replay": {
@@ -24900,682 +26349,6 @@
         "país": "pt",
         "categoría": "news"
     },
-    "RCTI": {
-        "nombre": "RCTI",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rctiplus.com/tv/rcti",
-                "https://embed.rctiplus.com/live/rcti/sindonews",
-                "https://video.sindonews.com/tv/rcti/live-streaming",
-                "https://tv.okezone.com/streaming/rcti"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rctiplus.com/tv/rcti",
-        "país": "id",
-        "categoría": "news"
-    },
-    "ANTV": {
-        "nombre": "ANTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=tjy-gEFtzvi4YxrqkyLQlA&exp=1727799350&encp=ZuxN9WYHaefK8gtm5Ay3Ww&expp=1727809850"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.indihometv.com/livetv/antv",
-        "país": "id",
-        "categoría": "news"
-    },
-    "ANTV-l": {
-        "nombre": "ANTV l",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://antv.gov.vn/",
-                "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.antvklik.com/",
-        "país": "id",
-        "categoría": "news"
-    },
-    "TVOne": {
-        "nombre": "TVOne",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8?enc=vgfIXchugKgzKWhIaINm8A&exp=1727799613&encp=hI5x3tvviQ5mQbnF7x7Q1g&expp=1727810113"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/783",
-        "país": "id",
-        "categoría": "news"
-    },
-    "tvonenews": {
-        "nombre": "Tvonenews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/yNKvkPJl-tg?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.tvonenews.com"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvonenews.com/live",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Tawaf-TV": {
-        "nombre": "Tawaf TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/tawaftv/playlist.m3u8?enc=5V1dpYh6N4Jsktf7Hj0jBQ&exp=1727799907&encp=UIHYU_yuYTc3pC8edO9T5w&expp=1727810407"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/12607",
-        "país": "id",
-        "categoría": "news"
-    },
-    "TRAX": {
-        "nombre": "TRAX",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "XOq7ui",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/7055",
-        "país": "id",
-        "categoría": "news"
-    },
-    "DAAI-TV": {
-        "nombre": "DAAI TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/joss/134/daaitv/playlist.m3u8?enc=OUv3q_KryepxK-i7nq-O2w&exp=1727800227&encp=ZcZ6k0oWYtaCFvi53Y8C7g&expp=1727808927"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/6482",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Kompas-TV": {
-        "nombre": "Kompas TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8?enc=qnyGYsh12ppaLssT3dj6Sg&exp=1727800308&encp=4Vecbdnd9y_jNnj0grH0CQ&expp=1727810808"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "'https://www.vidio.com/live/6441",
-        "país": "id",
-        "categoría": "news"
-    },
-    "BTV": {
-        "nombre": "BTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8?enc=B7KLb86oYSmWSFnN-iAZOw&exp=1727800352&encp=B7PrlyAuU3gexK3XIgld0Q&expp=1727810852"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/6165",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Metro-TV-news": {
-        "nombre": "Metro TV news",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/nfgnpM28xDA?rel=0&autoplay=1",
-                "https://www.youtube.com/embed/XKueVSGTk2o?rel=0&autoplay=1",
-                "https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.metrotvnews.com/live",
-        "país": "id",
-        "categoría": "news"
-    },
-    "TVRI": {
-        "nombre": "TVRI",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8?enc=HJ2BN1MQ_TPoMKB-HEBRsg&exp=1727800766&encp=TFf4wq3HAhX06mcVSXZ96w&expp=1727811266"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/6441",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Trans7": {
-        "nombre": "Trans7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8?enc=hjU78AufEGguD8DbFPz0zQ&exp=1727800950&encp=0lopz16SiMAxLVTmnHaEyA&expp=1727811450"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/206",
-        "país": "id",
-        "categoría": "news"
-    },
-    "TRANS-tv": {
-        "nombre": "TRANS TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/733",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Ardan-Radio": {
-        "nombre": "Ardan Radio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/7184/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/7184",
-        "país": "id",
-        "categoría": "news"
-    },
-    "TVN": {
-        "nombre": "TVN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/6362",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Zee-Bioskop": {
-        "nombre": "Zee Bioskop",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/6399",
-        "país": "id",
-        "categoría": "news"
-    },
-    "RANS-tv": {
-        "nombre": "RANS TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/8241",
-        "país": "id",
-        "categoría": "news"
-    },
-    "AJWA-TV": {
-        "nombre": "AJWA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/7464",
-        "país": "id",
-        "categoría": "news"
-    },
-    "rtv": {
-        "nombre": "RTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8?enc=RIJtgeWdV-8aeHYXNIw07g&exp=1727801261&encp=bggGBQIY9uAiVYRCjdOF6w&expp=1727811761"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/5415",
-        "país": "id",
-        "categoría": "news"
-    },
-    "netv": {
-        "nombre": "NETV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/joss/133/bumperslate/playlist.m3u8?enc=12wDH6cjc3KcHDlDttEyPQ&exp=1727801304&encp=dr64_cjrleyMi7mUaJ4CmQ&expp=1727810004"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/5415",
-        "país": "id",
-        "categoría": "news"
-    },
-    "jaktv": {
-        "nombre": "JAKTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8?enc=k_4mUajY33CS_rVbhevDrA&exp=1727801367&encp=mM5aGtWaqHG4ExshdOdmoQ&expp=1727811867"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.indihometv.com/tv/live",
-        "país": "id",
-        "categoría": "news"
-    },
-    "Moji": {
-        "nombre": "Moji",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/206",
-        "país": "id",
-        "categoría": "news"
-    },
-    "sctv": {
-        "nombre": "SCTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/204-sctv?schedule_id=3249308",
-        "país": "id",
-        "categoría": "news"
-    },
-    "indosiar": {
-        "nombre": "Indosiar",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.indosiar.com/#streaming",
-        "país": "id",
-        "categoría": "news"
-    },
-    "cnn-cl00": {
-        "nombre": "CNN Chile00",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vidio.com/live/733-trans-tv?schedule_id=3245518",
-        "país": "id",
-        "categoría": "news"
-    },
-    "cnn-cl0": {
-        "nombre": "CNN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cnnindonesia.com/tv",
-                "https://www.cnbcindonesia.com/tv"
-            ],
-            "m3u8_url": [
-                "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-                "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cnnchile.com/",
-        "país": "id",
-        "categoría": "news"
-    },
-    "mnctv": {
-        "nombre": "MNCTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rctiplus.com/tv/mnctv",
-                "https://www.inews.id/streaming/mnctv",
-                "https://www.inews.id/streaming/mnctv",
-                "https://video.sindonews.com/tv/mnctv",
-                "https://tv.okezone.com/streaming/mnc_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "ttps://tv.okezone.com/streaming",
-        "país": "id",
-        "categoría": "news"
-    },
-    "gtv": {
-        "nombre": "GTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rctiplus.com/tv/gtv",
-                "https://video.sindonews.com/tv/gtv",
-                "https://tv.okezone.com/streaming/gtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.okezone.com/",
-        "país": "id",
-        "categoría": "news"
-    },
-    "inews-tv": {
-        "nombre": "iNews TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rctiplus.com/tv/inews",
-                "https://tv.inews.id/streaming",
-                "https://tv.okezone.com/streaming/inews_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.okezone.com",
-        "país": "id",
-        "categoría": "news"
-    },
-    "idx": {
-        "nombre": "IDX",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.okezone.com/streaming/idx",
-                "https://www.inews.id/streaming/idxchannel"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.idxchannel.com/",
-        "país": "id",
-        "categoría": "news"
-    },
-    "madu-tv-celebes-tv": {
-        "nombre": "Madu TV - Celebes TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.siar.us/player/?link=re1.siar.us/madutv/hd720&autoplay=no",
-                "",
-                "https://celebesmedia.id/celebes-tv",
-                "https://madu.tv/live-streaming/"
-            ],
-            "m3u8_url": [
-                "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://madu.tv/live-streaming/",
-        "país": "id",
-        "categoría": "news"
-    },
-    "GRUPO-ID": {
-        "nombre": "GRUPO ID( ⇒  REGIONAL Y LOCAL )",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://kawanua.tv/",
-                "https://www.pontv.id/",
-                "https://www.pontv.id/",
-                "https://pktvkaltim.com/",
-                "https://balikpapantv.co.id/",
-                "https://padangtv.id/live/",
-                "https://stream.jambitv.co.id/",
-                "http://jektv.co.id/livestreaming/",
-                "http://27.124.75.34:8080/09066008-aca0-490e-ad3e-a00a1362510f.html",
-                "https://www.radarcirebon.tv/livestreaming/",
-                "https://mgstv.co.id/live-streaming/",
-                "http://streaming.bandungtv.tv/",
-                "https://jitv.jogjaprov.go.id/",
-                "https://elshintatv.co.id/live",
-                "https://jak-tv.com/home",
-                "https://arek.tv/arekstreaming.html",
-                "https://madu.tv/live-streaming/",
-                "https://www.sakti.tv/",
-                "https://www.portaljtv.com/video#google_vignette",
-                "https://dmtvmalang.com/",
-                "https://kstv.co.id/",
-                "https://tvku.tv/beranda/live",
-                "https://bantentv.com/live/"
-            ],
-            "m3u8_url": [
-                "https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
-                "https://e.siar.us/live/dmtv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "padang_tv"
-        },
-        "sitio_oficial": "https://www.squidtv.net/asia/indonesia/#google_vignette",
-        "país": "id",
-        "categoría": "news"
-    },
-    "GRUPO-IND": {
-        "nombre": "GRUPO IND( ⇒  NACIONAL 2 )",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.squidtv.net/asia/indonesia/indonesia-035.html",
-                "https://www.oshop.co.id/live-streaming",
-                "http://mtatv.net/v2/?p=170",
-                "https://seatoday.com/tv",
-                "https://madu.tv/live-streaming/",
-                "https://reformed21.tv/",
-                "https://tv.okezone.com/streaming/LIFE",
-                "https://daaiplus.com/live-streaming-daai-tv/",
-                "https://daaitv.co.id/DAAI-WP/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC9q_4Ljmm0C15j25Bqx1ZOw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.squidtv.net/asia/indonesia/#google_vignette",
-        "país": "id",
-        "categoría": "news"
-    },
-    "allplay-ent": {
-        "nombre": "allplay ent",
-        "logo": "https://vmp-cms.telkomsel.com/sites/default/files/entry/0_psqdb637/banner_xxhdpi.png",
-        "señales": {
-            "iframe_url": [
-                "https://maxstream.tv/tv-channels/0_psqdb637",
-                "https://maxstream.tv/tv-channels/0_keojjla6",
-                "https://maxstream.tv/tv-channels/0_yfn4kszs"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://maxstream.tv/tv-channels/",
-        "país": "id",
-        "categoría": "news"
-    },
     "tv8-sk": {
         "nombre": "TV8 SK",
         "logo": "",
@@ -27234,776 +28007,6 @@
         },
         "sitio_oficial": "https://www.youtube.com/@BelqeesTV",
         "país": "iq",
-        "categoría": "news"
-    },
-    "aloula1-tv": {
-        "nombre": "Aloula1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aloula1",
-                "https://www.elahmad.com/tv/radiant.php?id=laayoune",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alaoulaeurope"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/rtm_maroc.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "2M-tv": {
-        "nombre": "2M",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
-                "https://ok.ru/videoembed/8053965659722?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "2m-tv": {
-        "nombre": "2M+",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
-                "https://ok.ru/video/8053965659722",
-                "https://www.web24iptv.online/player/phpar/fas2m.php",
-                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
-            ],
-            "m3u8_url": [
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "arryadia3-tv": {
-        "nombre": "Arryadia 3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=arryadia1",
-                "/tv/cloudflare.php?id=arryadia1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arryadia"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCRN5ho3UGhUi7ZCBe2G2f2w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/arryadia_maroc.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "Aarrabiaa4-tv": {
-        "nombre": "Arrabiaa 4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=arrabia",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arrabiaa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/arrabia-maroc.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "almaghribia5-tv": {
-        "nombre": "Almaghribia 5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=al_maghribia",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almaghribia"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/almaghribia-tv.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "assadissa-tv": {
-        "nombre": "Assadissa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=assadissatv",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=assadissa",
-                "https://qanawat.taghtia.com/api/player/assadissa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.taghtia.com/en/watch/assadissa",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "aflam-maroc-tv": {
-        "nombre": "Aflam Maroc",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aflam_maroc"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "tamazight-tv": {
-        "nombre": "Tamazight",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=tamazight",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=tamazight"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/tamazight-live-tv.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "medi1tv-tv": {
-        "nombre": "Medi1tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=medi1tv",
-                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_arabia",
-                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_afrique",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=medi1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/medi1tv.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "maptvnews-tv": {
-        "nombre": "Maptv News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=maptvnews"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "telemaroc-tv": {
-        "nombre": "Telemaroc",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
-                "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemaroc.tv/liveTV",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "Rasd-tv": {
-        "nombre": "Rasd TV Directo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rasd.tv/embed.php?id=3931"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://xn--vivaespaa-s6a.tv/user/live-tv/rasd-tv/28",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "athaqafia-tv": {
-        "nombre": "athaqafia",
-        "logo": "https://iteleflix.com/archivos/Athaqafia-1.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=saudi_thaqafiya",
-                "https://qanawat.taghtia.com/api/player/athaqafia",
-                "https://www.snrt.ma/dummy/snrt_token_al_aoula.php",
-                "https://www.snrt.ma/dummy/snrt_token_athaqafia.php"
-            ],
-            "m3u8_url": [
-                "https://utlils433.pro/pr_mar.php?url=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.snrt.ma/",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "Al-Aoula-Maroc-tv": {
-        "nombre": "Al Aoula Maroc",
-        "logo": "http://www.casasat.com/pics/1552707_1one.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/RVycDPf6iRI?fs=1&autoplay=1&iv_load_policy=3&showinfo=0&showsearch=0&modestbranding=1&rel=0&autohide=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.casasat.com/tv50.htm",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "tdm-Macau": {
-        "nombre": "TDM Macau",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/tv/ch22.live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tdm.com.mo/en/live?Channel=2&type=tv",
-        "país": "mo",
-        "categoría": "news"
-    },
-    "lotustv-mo-tv": {
-        "nombre": "Lotus Macau HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/lotustv-mo",
-        "país": "mo",
-        "categoría": "news"
-    },
-    "abnafrica-us-tv": {
-        "nombre": "ABN Africa TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fyt3.googleusercontent.com%2FBhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ%3Ds512-c-k-c0x00ffffff-no-rj&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
-                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/abnafrica-us",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "africa24-tv": {
-        "nombre": "Africa 24 TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
-                "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w502688109.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africa24-fr",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "africa24english-tv": {
-        "nombre": "Africa 24 English TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w291946696.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africa24english-fr",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "africa24sport-tv": {
-        "nombre": "Africa 24 Sport TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1089583992.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africa24sport-fr",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "africanewsenglish-fr-tv": {
-        "nombre": "Africanews TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-                "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/aa470ffe77fc77b53f028fb6d9a9fe0f.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africanewsenglish-fr",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "africanewsfrench-fr-tv": {
-        "nombre": "AfricaNews Français TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-                "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/88a90c2249d6ed2ee545719c3d991465.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africanewsfrench-fr",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "amanitv-sn-tv": {
-        "nombre": "Amani TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://goccn.cloud/hls/amanitv/index.m3u8",
-                "https://goccn.cloud/hls/amanitv/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/amanitv-sn",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "angeltvafrica-in-tv": {
-        "nombre": "Angel TV Africa",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FqKLEGU7.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
-                "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/angeltvafrica-in",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "bloombergtvemealiveevent-uk-tv": {
-        "nombre": "Bloomberg TV EMEA Live Event",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FOuogLHx.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
-                "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/bloombergtvemealiveevent-uk",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "canal2international-cm-tv": {
-        "nombre": "Canal 2 International TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBzA2z7m.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/xpnus.html?video=x8t0282"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal2international.net/live.php",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "cnbcafrica-za-tv": {
-        "nombre": "CNBC Africa TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBnNYzWI.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8",
-                "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/cnbcafrica-za",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "ewtnafricaasia-us-tv": {
-        "nombre": "EWTN Africa Asia",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FF8ZM25a.png&w=828&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
-                "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/jj7jpjyr/720/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/ewtnafricaasia-us",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "godtvafrica-za-tv": {
-        "nombre": "GOD TV Africa TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FhW4g2oe.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8",
-                "https://webstreaming.viewmedia.tv/web_006/Stream/live6_3/high/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/godtvafrica-za",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "qwest-fr-tv": {
-        "nombre": "Qwest TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FDjgNNHK.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8",
-                "https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/cb563d19726c63909bcc3778d5f262eda65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b02bf7a8fe5c46d872a1af1c56953d51e4864bc8d51db9d4c9529c16876bf015c8c4edd9da17d79b9236aa55e065595c2178cdd24ba7a332de7278f958e61318635c31d6a681eb3c44ec25707d88314f2207857efd86309568779a0d9d5d8d338b11ca43c7b30dc839d8ae9eb7c9cbde2d2987d9a5811bf899128ec6b1cec8d0766e90f515376bc060d9188c59fae0e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db67db7ca723cc7764ab6343bfa4a3ccf17afef62a6f19bc0023cfa8f9412b13fa1e544828477c3070b500cb7fd3b4c051d2da28948397028930bb4a9858b1e2409efe5c2edcf552c75503a5b0f99edf47f9d9aba473812c656662d34271e9800d97ecc422e242bda15c7a3197ee450394c06c6b2dfd4b4f073a49dd5c36ff1567636444a1c351cec/6/1280x720_3329040/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/qwesttv-fr",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "reflettv-ci-tv": {
-        "nombre": "REFLET TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FEauXR22.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8",
-                "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/video_10801920_p_0.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/reflettv-ci",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "romanzaplusafrica-ke-tv": {
-        "nombre": "Romanza+ Africa TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FHYg75w2.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
-                "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/romanzaplusafrica-ke",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "rtvyahoshuah-mg-tv": {
-        "nombre": "RTV Yahoshuah TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2F0mq5NXQ%2Flog.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ythls.armelin.one/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8",
-                "https://ythls.armelin.one/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/rtvyahoshuah-mg",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "tbnafrica-za-tv": {
-        "nombre": "TBN Africa TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F6VjLFmR.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8",
-                "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/live-audio_1=128000.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tbnafrica.org/vod/webcast",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "tvbricsafrica-za-tv": {
-        "nombre": "BRICS Africa TV",
-        "logo": "https://tvbrics.com/local/templates/tvbrics/dest/img/logo_brics.svg",
-        "señales": {
-            "iframe_url": [
-                "https://public.mediacdn.ru/brics/eng/"
-            ],
-            "m3u8_url": [
-                "https://engbrics2.mediacdn.ru/cdn/brics/english/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bricsafricachannel.com/",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "bric-tv": {
-        "nombre": "BRICS TV",
-        "logo": "https://tvbrics.com/local/templates/tvbrics/dest/img/logo_brics.svg",
-        "señales": {
-            "iframe_url": [
-                "https://public.mediacdn.ru/brics/eng/"
-            ],
-            "m3u8_url": [
-                "https://engbrics2.mediacdn.ru/cdn/brics/english/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvbrics.com/en/live/",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "tviafrica-pt-tv": {
-        "nombre": "TVI África",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2FvBbSHB4%2FTvi-africa.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-                "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?nimblesessionid=525593292"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/tviafrica-pt",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "zaroktv-iq-tv": {
-        "nombre": "Zarok TV Sorani TV en vivo",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2Fo0eevnb.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
-                "https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/zaroktv-iq",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "times-now-news-tv": {
-        "nombre": "Times Now News",
-        "logo": "https://www.timesnownews.com/assets/icons/svg/times-now.svg",
-        "señales": {
-            "iframe_url": [
-                "https://www.timesnownews.com/live-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.timesnownews.com/live-tv",
-        "país": "mg",
-        "categoría": "news"
-    },
-    "Maldives-tv": {
-        "nombre": "Maldives TV en vivo",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FZl2FmFC.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.maldivestv.mv/hls/stream/index.m3u8",
-                "https://live.maldivestv.mv/hls/stream/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/country/maldives",
-        "país": "mv",
-        "categoría": "news"
-    },
-    "tv2-tv": {
-        "nombre": "MBC TV Malawi",
-        "logo": "https://mbc.mw/live/assets/images/logo.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ssh101-fl.bozztv.com/ssh101/mbctv2mw/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://mbc.mw/live/",
-        "país": "mw",
         "categoría": "news"
     },
     "Bukedde-fr-tv": {
