@@ -4652,23 +4652,6 @@
         "país": "ar",
         "categoría": "news"
     },
-    "Metro-TV": {
-        "nombre": "Metro TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://s.emisoras.tv:2020/VideoPlayer/metrotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lametrohn.com/Metro-TV",
-        "país": "hn",
-        "categoría": "news"
-    },
     "CN3-Pinamar-HD-Pinamar": {
         "nombre": "CN3 Pinamar HD Pinamar",
         "logo": "https://canal3pinamar.com/webapp/imagenes/mosca.gif",
@@ -5223,6 +5206,23 @@
         "país": "ar",
         "categoría": "news"
     },
+    "abnews-business": {
+        "nombre": "ABNews business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://abnews.am/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC4JBub7CJc8KYMiXhRaYf8g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://onlinetvplayer.com/category/business/",
+        "país": "am",
+        "categoría": "news"
+    },
     "tv-miraflores": {
         "nombre": "TV Miraflores",
         "logo": "",
@@ -5238,6 +5238,23 @@
         },
         "sitio_oficial": "https://miraflorestv.com.ve/en-vivo/vtv/",
         "país": "ve",
+        "categoría": "news"
+    },
+    "Metro-TV": {
+        "nombre": "Metro TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://s.emisoras.tv:2020/VideoPlayer/metrotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lametrohn.com/Metro-TV",
+        "país": "hn",
         "categoría": "news"
     },
     "bakutv": {
@@ -16711,12 +16728,16 @@
         "país": "mx",
         "categoría": "news"
     },
-    "bi-noticias": {
-        "nombre": "BI NOTICIAS",
+    "8ntv-bi-noticias": {
+        "nombre": "8ntv - BI NOTICIAS",
         "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://binoticias.com/tv-en-vivo"
+                "https://binoticias.com/tv-en-vivo",
+                "https://onlinetvplayer.com/player/#r12lkpw0",
+                "https://teleon.tv/do/watch-free-christian-tv-online/alcance-tv-mx/",
+                "http://antenatele.com.mx/",
+                "https://www.ntv.com.mx/8ntv/en-vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "UCi3NQkTEifKs_j6IuKxVOMA",
@@ -16724,7 +16745,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://binoticias.com/tv-en-vivo",
+        "sitio_oficial": "https://github.com/strikeinthehouse/1/blob/main/lista1.M3U",
         "país": "mx",
         "categoría": "news"
     },
