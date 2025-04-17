@@ -5758,11 +5758,12 @@
         "país": "bo",
         "categoría": "news"
     },
-    "evo-quaere": {
-        "nombre": "EVO Quaere",
+    "agendaminera-evo-quaere": {
+        "nombre": "Agendaminera- EVO - Quaere",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
+                "https://www.agendaminera.com/",
                 "https://iblups.com/quaere",
                 "https://iblups.com/onondiveh",
                 "https://iblups.com/estacion1013",
@@ -7226,6 +7227,27 @@
         },
         "sitio_oficial": "https://www.twitch.tv/noticiasdiariasgt",
         "país": "br",
+        "categoría": "news"
+    },
+    "bmgtv-news": {
+        "nombre": "BMgtv Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://bm.ge/tv",
+                "https://www.bmgtv.com/"
+            ],
+            "m3u8_url": [
+                "https://www.30a-tv.com/InvPit.m3u8",
+                "https://www.30a-tv.com/InvPit.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://onlinetvplayer.com/category/business/",
+        "país": "ge",
         "categoría": "news"
     },
     "gbnewsonline": {
@@ -11209,13 +11231,16 @@
         "país": "dz",
         "categoría": "news"
     },
-    "al24news-tv": {
-        "nombre": "Al24news",
+    "alaqariatv-al24news-business": {
+        "nombre": "Alaqariatv - Al24news Business",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "/tv/algeria_live.php?id=al24news",
-                "https://al24news.com/en/live/"
+                "https://al24news.com/en/live/",
+                "https://www.alcarria.tv/ver-en-directo/",
+                "https://www.alcarria.tv/ver-en-directo/",
+                "https://alaqariatv.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UC2TJu-b6OCHIxW-TvoF5NSQ",
@@ -24839,12 +24864,13 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "bethel-tv": {
-        "nombre": "Bethel TV Cristiana",
+    "sqala-bethel-tv": {
+        "nombre": "Sqala - Bethel TV Cristiana",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://musicacristiana.com.ar/tv/bethel-tv.htm"
+                "https://musicacristiana.com.ar/tv/bethel-tv.htm",
+                "https://sqala.tv/"
             ],
             "m3u8_url": [
                 "https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8"
@@ -33576,7 +33602,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.bloomberg.com/live/us"
+                "https://www.bloomberg.com/live/us",
+                "https://onlinetvplayer.com/play/#nzllqxzm",
+                "https://www.bloomberght.com/tv",
+                "https://www.bloomberg.com/originals/live",
+                "https://onlinetvplayer.com/play/#x1b5jl18",
+                "https://www.bloomberg.com/live/us/btv",
+                "https://www.bloombergtv.bg/video"
             ],
             "m3u8_url": [
                 "https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/eb23b6661b4b9b51df70e2df164f9e3a.m3u8",
@@ -33589,7 +33621,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.bloomberg.com/live/us",
+        "sitio_oficial": "https://onlinetvplayer.com/category/business/",
         "país": "us",
         "categoría": "news"
     },
