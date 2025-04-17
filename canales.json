@@ -18912,10 +18912,12 @@
         "nombre": "RPP Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/channel/UC5j8-2FT0ZMMBkmK72R4aeA/live"
+            ],
             "m3u8_url": [],
             "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
-            "yt_embed": "36EbAg4YluU?",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -19204,12 +19206,17 @@
         "país": "pe",
         "categoría": "news"
     },
-    "ideeleradionhd": {
-        "nombre": "Ideeleradio",
+    "orbit-tv-MyTimeMovieNetworkes-ideeleradionhd": {
+        "nombre": "Orbit - MyTimeMovieNetwork.es - Ideeleradio",
         "logo": "https://graph.facebook.com/idlradio/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://player.teleon.tv/do/channel/orbit-tv",
+                "https://player.teleon.tv/en/channel/daystar-uk"
+            ],
+            "m3u8_url": [
+                "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+            ],
             "yt_id": "UCqURueAPBefOz3YhpfDErmw",
             "yt_embed": "",
             "yt_playlist": "",
