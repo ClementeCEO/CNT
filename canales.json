@@ -20167,15 +20167,25 @@
         "país": "pe",
         "categoría": "news"
     },
-    "ewtn": {
-        "nombre": " EWTN",
+    "extra-watch-live-online-ewtn": {
+        "nombre": " EWTN Africa Cristiana",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.ewtn.com/api/live-player/spas",
-                "https://www.ewtn.com/api/live-player/dome"
+                "https://www.ewtn.com/api/live-player/dome",
+                "https://www.ewtn.com/es/tv/extra-en-vivo",
+                "https://www.ewtn.com/api/live-player/cane",
+                "https://www.ewtn.com/tv/extra-watch-live/",
+                "https://musicacristiana.com.ar/tv/ewnt-tv.htm",
+                "https://musicacristiana.com.ar/ewtn-tv.html",
+                "https://crtn.org/catholic-tv-stations/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8",
+                "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8",
+                "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -24360,25 +24370,6 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "ewtn-tv-online": {
-        "nombre": "EWTN TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/ewnt-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/l4hjmzyf/720/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/ewtn-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
     "enlace-tv-cristiana-online": {
         "nombre": "Enlace TV Cristiana",
         "logo": "",
@@ -24794,26 +24785,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://canal11delzulia.com/",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "extra-watch-live-online": {
-        "nombre": "Ewtn Africa Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.ewtn.com/api/live-player/cane",
-                "https://www.ewtn.com/tv/extra-watch-live/"
-            ],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://crtn.org/catholic-tv-stations/",
         "país": "pe",
         "categoría": "cristiana"
     },
