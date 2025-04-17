@@ -18908,11 +18908,12 @@
         "país": "pe",
         "categoría": "news"
     },
-    "RPP-Noticias": {
-        "nombre": "RPP Noticias",
+    "lamegamundial-RPP-Noticias": {
+        "nombre": "Lamegamundial - RPP Noticias",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://lamegamundial.com/",
                 "https://www.youtube.com/embed/gzxom5TeXO0?si=UC5j8-2FT0ZMMBkmK72R4aeA/live",
                 "https://www.youtube.com/embed/gzxom5TeXO0?si=ER2qs4JdQZTTMjHy"
             ],
