@@ -18913,7 +18913,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/channel/UC5j8-2FT0ZMMBkmK72R4aeA/live"
+                "https://www.youtube.com/embed/gzxom5TeXO0?si=UC5j8-2FT0ZMMBkmK72R4aeA/live",
+                "https://www.youtube.com/embed/gzxom5TeXO0?si=ER2qs4JdQZTTMjHy"
             ],
             "m3u8_url": [],
             "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
