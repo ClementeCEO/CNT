@@ -14043,6 +14043,76 @@
         "país": "hn",
         "categoría": "news"
     },
+    "hch-vivo": {
+        "nombre": "HCH",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
+            ],
+            "m3u8_url": [
+                "https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8"
+            ],
+            "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hch.tv/live/",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "metro-tv-choluteca": {
+        "nombre": "METRO TV CHOLUTECA HONDURAS",
+        "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://s.emisoras.tv:2020/VideoPlayer/cholutecatv",
+                "https://s.emisoras.tv:2020/stream/metro",
+                "https://s.emisoras.tv:2020/stream/ilusion"
+            ],
+            "m3u8_url": [
+                "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+            ],
+            "yt_id": "UCblZy4UUsMlqv4gSCNslpWw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lametrohn.com/",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "multicabletv-tv": {
+        "nombre": "Multicabletv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "multicabletv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/multicabletv",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "laverdadtvhn-tv": {
+        "nombre": "laverdadtvhn TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "laverdadtvhn"
+        },
+        "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
+        "país": "hn",
+        "categoría": "news"
+    },
     "tvnz-1": {
         "nombre": "TVNZ 1",
         "logo": "",
@@ -16311,6 +16381,1472 @@
         },
         "sitio_oficial": "https://mbc.mw/live/",
         "país": "mw",
+        "categoría": "news"
+    },
+    "channel-k": {
+        "nombre": "Channel K",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.epicon.in/live-tv/nazara-live-tv"
+            ],
+            "m3u8_url": [
+                "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_low/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2721-channel-k.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "channel9": {
+        "nombre": "Channel9",
+        "logo": "assets/templates/basic/icon2020/apple-touch-icon.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.myanmartvchannels.com/channel9.html#SD%201"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/channel9.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "channel-7": {
+        "nombre": "Channel 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.pyoneplay.com/livetv/01gt74n96va764fze83w2959ts",
+                "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he"
+            ],
+            "m3u8_url": [
+                "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjAzOjI2IFBNJmhhc2hfdmFsdWU9ZXc4SDVuclU2b2dnd2VNYng0QjZQZz09JnZhbGlkbWludXRlcz0xMCZpZD00NTEyNTI0NzEz"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/channel-7.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-HD": {
+        "nombre": "MRTV HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "livestreamingmrtv"
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/myanmar/myanmar-007.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "Myanmar-International-TV": {
+        "nombre": "Myanmar International TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.squidtv.net/asia/myanmar/myanmar-004.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mitvchannel"
+        },
+        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-News": {
+        "nombre": "MRTV News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mrtvnewslive"
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/myanmar/myanmar-008.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-FARMERS": {
+        "nombre": "MRTV FARMERS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "channel_mrtv"
+        },
+        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-SPORTS": {
+        "nombre": "MRTV SPORTS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "arrkasarrchannel"
+        },
+        "sitio_oficial": "",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-4": {
+        "nombre": "MRTV 4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "mizzimanewsTV": {
+        "nombre": "mizzimanewsTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/-TStOFqZwHo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=1&rel=1&fs=1&playsinline=1&autohide=2&theme=dark&color=red&controls=1&"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCk9f0cLiMmtchQySOogzoig",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-NRC": {
+        "nombre": "MRTV NRC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mrtvfarmers"
+        },
+        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "Mahar-Esports": {
+        "nombre": "Mahar Esports",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://maharesports.com/live/",
+                "https://www.pyoneplay.com/livetv/01gt8f16j1n4mpx1bb1g7sfayw"
+            ],
+            "m3u8_url": [
+                "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mrtvfarmers"
+        },
+        "sitio_oficial": "https://maharesports.com/",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "mrtv-entertainment": {
+        "nombre": "Mrtv Entertainment",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w192916607.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjM5OjQ3IFBNJmhhc2hfdmFsdWU9QTVZY0tCQUJUUzQvYlZ0R2JONXZudz09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/mrtv-entertainment.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "DVB": {
+        "nombre": "DVB",
+        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://burmese.dvb.no/"
+            ],
+            "m3u8_url": [
+                "https://live-stream.dvb.no/hls/stream_mid/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/dvb.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "education-channel": {
+        "nombre": "Education Channel",
+        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/education-120x120-88e.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1932121421.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjQ0OjE3IFBNJmhhc2hfdmFsdWU9WEZrSWgvZW5aNWRHNENobS80MFhmQT09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/education-channel.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "mntv-channel": {
+        "nombre": "Mntv Channel",
+        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjQ3OjU1IFBNJmhhc2hfdmFsdWU9Qk9YakhQdG9ON0xaVjA5MWhRMUNuZz09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx",
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_lowest/index.m3u8",
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_standard/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/mntv-channel.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "imagentv": {
+        "nombre": "ImagenTV",
+        "logo": "https://graph.facebook.com/ImagenTVMex/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.imagentv.com/en-vivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCl5JKSQsl-_WSU1rz7_BCJA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.imagentv.com/en-vivo",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "imagen-television-puebla": {
+        "nombre": "Imagen Televisión Puebla",
+        "logo": "https://graph.facebook.com/ImagenTVPuebla/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.imagentv.com/en-vivo",
+                "https://sicompuebla.mx/television/envivo/",
+                "https://tv.buap.mx/video/en-vivo",
+                "https://www.canalesdemexicoenvivo.com/2021/08/canal-puebla-tv-en-vivo.html#google_vignette"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UChA9u7JJzC4sCqegZeEoe9w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.imagentv.com/en-vivo",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "telediarioMX": {
+        "nombre": "TelediarioMx",
+        "logo": "https://graph.facebook.com/TelediarioMx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5f2d9d6ff17144074bd8a284?jsapi=true&autoplay=true&mse=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCKuAmo9OGf8kw2jrPWCpHdA",
+            "yt_embed": "vOoTbys9htg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telediario.mx/television",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "bi-noticias": {
+        "nombre": "BI NOTICIAS",
+        "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://binoticias.com/tv-en-vivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCi3NQkTEifKs_j6IuKxVOMA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://binoticias.com/tv-en-vivo",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "telesecundaria-oro-noticias-puebla": {
+        "nombre": "telesecundaria - Oro Noticias Puebla",
+        "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://aprende.gob.mx/telesecundaria/",
+                "https://www.canalesdemexicoenvivo.com/2021/08/telesecundaria-tv-mexico-en-vivo.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCiJ9v3AalnGScbn9VrhDF7A",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://oronoticiaspuebla.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "quiero-tv-guadalajar-cps-noticias-puerto-vallarta": {
+        "nombre": "QuieroTV Guadalajar - CPS Noticias Puerto Vallarta",
+        "logo": "https://graph.facebook.com/tribunadelabahiaoficial/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://quierotv.mx/videoenvivo",
+                "https://www.canalesdemexicoenvivo.com/2021/08/quiero-tv-guadalajara-en-vivo.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC6CrPzMg2u-TRvNvb4sSu7w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tribunadelabahia.com.mx/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tmtv-ahora-noticias3274": {
+        "nombre": "TMTV - Ahora Noticias",
+        "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://tmtv.live/",
+                "https://www.canalesdemexicoenvivo.com/2021/08/sqcs-tv-en-vivo.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCn161AaU20-UcYeDEvDJyyA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "vamas-noticiasags26": {
+        "nombre": "VA+ Noticias",
+        "logo": "https://graph.facebook.com/RyTAgs/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://ryta.com.mx/envivo/"
+            ],
+            "m3u8_url": [
+                "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCHGuWaXCZMoRn8QV9pimEsw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ryta.com.mx/envivo/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisa-aguascalients": {
+        "nombre": "Televisa Aguascalientes Oficial",
+        "logo": "https://graph.facebook.com/Nu9veAgs/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5ZtV3bu3bjSuOLoA6oCFIg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "milenio": {
+        "nombre": "MILENIO",
+        "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.milenio.com/mileniotv"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
+            ],
+            "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.milenio.com/mileniotv",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisa-monterreytv": {
+        "nombre": "Televisa Monterrey",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGDJLLphnP0zQQaE3kgo5Wg",
+            "yt_embed": "zbJc2aPyIGg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "amas-tv": {
+        "nombre": "Amas TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvazteca.com/cine/envivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC__aHR3xDkwx0Q8CgoyVUVA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvazteca.com/amastv/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "Migrante-tv": {
+        "nombre": "TV Migrante",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mxplus.tv/television/tv-migrante"
+            ],
+            "m3u8_url": [
+                "https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1911119574.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mxplus.tv/television/tv-migrante",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "nmas": {
+        "nombre": "NMás",
+        "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/p2AzyIEuFak?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.nmas.com.mx/en-vivo/?canal=forotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCUsm-fannqOY02PNN67C0KA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.nmas.com.mx/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "adn40mx": {
+        "nombre": "adn40Mx",
+        "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&volume=0&player=607868647ef7d607f13d0adb&show_title=false&poster=&cust_params=device%3Dweb%26idusuario%3Dnull&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FAztecaUno%2FVenga-La-Alegria%2FVenga-La-Alegria-EnVivo%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22",
+                "https://live.adn40.mx/"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+            ],
+            "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.adn40.mx/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tv-mar-puerto-vallarta": {
+        "nombre": "tv mar puerto vallarta",
+        "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/tvmar.html"
+            ],
+            "m3u8_url": [
+                "https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
+            ],
+            "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/tv-mar-puerto-vallarta-mexico/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisaveracruzoficial": {
+        "nombre": "Televisa Veracruz Oficial",
+        "logo": "https://graph.facebook.com/televertv/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5EnLdE7ASjYzWt7wvT-QSg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/c/televisaveracruzoficial",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "excelsior-jcarlos_valerio": {
+        "nombre": "Excélsior - Juan Carlos Valerio",
+        "logo": "https://graph.facebook.com/JCarlosValerioNoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.excelsior.com.mx/tv",
+                "https://heraldodemexico.com.mx/tv.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCCETFebKrX0wIkA9lbqvoNA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCCETFebKrX0wIkA9lbqvoNA",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tv-ujat-aztecanoticias": {
+        "nombre": "TV UJAT - Azteca Noticias",
+        "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.ujat.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvazteca.com/aztecanoticias/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "sintesistv-gamavisionmx": {
+        "nombre": "Sintesistv - Gamavisión Noticias",
+        "logo": "https://pbs.twimg.com/profile_images/1560373776109277184/17qG3Ktj_400x400.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://sintesistv.com.mx/en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gamavision.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "grupo-formula": {
+        "nombre": "Grupo Fórmula",
+        "logo": "https://graph.facebook.com/RadioFormulaMX/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/62f2c855f7981b5a5a2d8763?autoplay=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCzmd9Aj2wmPggWZJpLdBB8Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.radioformula.com.mx/",
+        "país": "mx",
+        "categoría": "radio"
+    },
+    "capital21-dk1250am": {
+        "nombre": "Capital21 - DK 1250 AM",
+        "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.capital21.cdmx.gob.mx/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://dk1250.mx/en-vivo-por-youtube/",
+        "país": "mx",
+        "categoría": "radio"
+    },
+    "ryta": {
+        "nombre": "Ryta",
+        "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://ryta.com.mx/envivo/"
+            ],
+            "m3u8_url": [
+                "//60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ryta.com.mx",
+        "país": "mx",
+        "categoría": "radio"
+    },
+    "televisa-puebla": {
+        "nombre": "Televisa Puebla",
+        "logo": "https://graph.facebook.com/TelevisaPuebla/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/lasestrellas.html",
+                "https://embed.sdfgnksbounce.com/embed/lasestrellas.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC-HNztluSQSffhIWJTL-LUw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw",
+        "país": "mx",
+        "categoría": "general"
+    },
+    "televisa-sonora-oficial": {
+        "nombre": "Televisa Sonora Oficial",
+        "logo": "https://graph.facebook.com/TelevisaSON/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://diretelemexico.com/televisa-sonora-en-vivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCyzWMHGS7bs0sot6KZk5EZg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg",
+        "país": "mx",
+        "categoría": "general"
+    },
+    "fpfch": {
+        "nombre": "Fideicomiso de Puentes Fronterizos de Chihuahua",
+        "logo": "https://graph.facebook.com/fideicomisodepuentesfronterizos/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCfulDPjKRU81YWWdtFpivEg",
+            "yt_embed": "sOHFG6_3zAs",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://puentesfronterizos.gob.mx/",
+        "país": "mx",
+        "categoría": "camera"
+    },
+    "psn": {
+        "nombre": "Psn",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://b15.com.mx/canal15fresnillo/",
+                "https://vimeo.com/event/4400240/embed/interaction?muted=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.psn.si/en-vivo/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "canal10": {
+        "nombre": "Canal 10",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/canal10durango/",
+                "https://canal10.com.mx/sitio/tvonline.html"
+            ],
+            "m3u8_url": [
+                "https://5ca9af4645e15.streamlock.net:443/canal10durango/videocanal10durango/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal10.com.mx/sitio/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tv4": {
+        "nombre": "TV4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.conceptoweb-studio.com/radio/video/tv4/",
+                "https://tvcuatro.tv/4-2/"
+            ],
+            "m3u8_url": [
+                "https://5ca3e84a76d30.streamlock.net/tv42/videotv42_240p/playlist.m3u8",
+                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv4/smil:tv4.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv43/smil:tv43.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcuatro.tv/4-2/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "MVS-Noticias": {
+        "nombre": "MVS Noticias",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://mvsnoticias.com/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCckBTKevnC_JOB_q0OO9dgg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@MVSNoticiasOficial/streams",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-1": {
+        "nombre": "azteca 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/aztecauno.html",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=aztecauno",
+                "https://embed.sdfgnksbounce.com/embed/aztecauno.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/aztecauno",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-7": {
+        "nombre": "azteca 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/azteca7.html",
+                "https://tele-libre.com/en-vivo-online/azteca-7/embed.php",
+                "https://tele-libre.com/en-vivo-online/azteca-7/embed2.php",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca7",
+                "https://embed.sdfgnksbounce.com/embed/azteca7.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.com/en-vivo-online/azteca-7/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "univision": {
+        "nombre": "Univision Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/univision.html",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=univision",
+                "https://embed.sdfgnksbounce.com/embed/univision.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/univision",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "unimas": {
+        "nombre": "Unimas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php",
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-internacional": {
+        "nombre": "Azteca Internacional",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca-int",
+                "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9hcGktb3R0LWF6dGVjYS1henQub3R0ZXJhLnR2L2xvZ2dpbmdtZWRpYXVybHBhc3N0aHJvdWdoL2EubTN1OD92ZXJzaW9uPTEyLjUmaWQ9NjQ4JmRldmljZV90eXBlPWRlc2t0b3AmcGxhdGZvcm09d2ViJnBhcnRuZXI9aW50ZXJuYWwmbGFuZ3VhZ2U9ZXMmY29ubmVjdGlvbj13aWZpJm1heF9iaXRyYXRlPTEwMDAwJmdldGFkcz1nZXRhZHMmY3VzdG9tX3BhcmFtXzA9JmN1c3RvbV9wYXJhbV8xPWRlc2t0b3AmY3VzdG9tX3BhcmFtXzI9JmN1c3RvbV9wYXJhbV8zPSZjdXN0b21fcGFyYW1fND1pbnRlcm5hbCZjdXN0b21fcGFyYW1fNT13ZWImY3VzdG9tX3BhcmFtXzY9U291dGglMjUyMEFtZXJpY2EmdGltZXN0YW1wPTE2ODA1MDA3NzMmaXA9MTUyLjE3My4yMjEuMjQ2Jm92ZXJyaWRlX2V4cGlyYXRpb249MTUwMCZzaWduPUN3UyUyQnRCSml2TkpXd095MjFnMklERHEzSUc0NzElMkJLQ3Iyc0M5ZlNXekhBJTNE"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.goltvgo.com/en-vivo/azteca-internacional/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "canal5": {
+        "nombre": "canal5",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cablevisionhd.com/stream/canal5.php",
+                "https://www.cablevisionhd.com/stream2/canal5.php",
+                "https://www.cablevisionhd.com/stream4/canal5.php",
+                "https://www.cablevisionhd.com/stream5/canal5.php",
+                "https://embed.sdfgnksbounce.com/embed2/canal5.html",
+                "https://embed.sdfgnksbounce.com/embed.js",
+                "https://embed.sdfgnksbounce.com/embed/canal5.html",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=canal5-mx"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/canal5",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "espn": {
+        "nombre": "espn",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn-op2",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn1-ar",
+                "https://tele-libre.com/en-vivo-online/espn/embed.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed2.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed3.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed4.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed5.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/espn",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "unimas2": {
+        "nombre": "Unimas2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php",
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "televisaChihuahua": {
+        "nombre": "Televisa Chihuahua",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/@televisachihuahua/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCjfxDe7In59Jbfw2HmIh_Vg",
+            "yt_embed": "53UC-83qadg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@televisachihuahua",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "aristegui-noticias": {
+        "nombre": "Aristegui Noticias",
+        "logo": "https://graph.facebook.com/AristeguiOnline/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCafNntv_qTQB26AvbEQNHPw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aristeguinoticias.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "espn3mexico-noticias": {
+        "nombre": "espn mexico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/espnmexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/espn2mexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/espn3mexico.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisiongratishd2.com/espn-mexico-en-vivo.html",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "galavision-noticias": {
+        "nombre": "galavision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/galavision.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://embed.sdfgnksbounce.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "fox-sports-mexico-noticias": {
+        "nombre": "Fox Sports Mexico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/foxsportsmexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/foxsports2mexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/foxsports3mexico.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "telemundo51-noticias": {
+        "nombre": "Telemundo 51",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/telemundo51.html",
+                "https://embed.sdfgnksbounce.com/embed/telemundo51.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "univision-tlnovelas-noticias": {
+        "nombre": "Univision Tlnovelas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.org/en-vivo-online/tlnovelas/embed.php",
+                "https://tele-libre.org/en-vivo-online/tlnovelas/embed2.php",
+                "https://www.cablevisionhd.com/stream/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream2/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream3/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream4/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream5/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream6/univisiontlnovelas.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/univision-tlnovelas-en-vivo.html",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "cartoonnetwork-noticias": {
+        "nombre": "Cartoon Network",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html",
+                "https://embed.sdfgnksbounce.com/embed/cartoonnetwork.html",
+                "https://www.cablevisionhd.com/dtv/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream2/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream3/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream4/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream5/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream6/cartoonnetwork.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tooncast-noticias": {
+        "nombre": "Tooncast",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/tooncast.html",
+                "https://embed.sdfgnksbounce.com/embed/tooncast.html",
+                "https://www.cablevisionhd.com/stream/tooncast.php",
+                "https://www.cablevisionhd.com/stream2/tooncast.php",
+                "https://www.cablevisionhd.com/stream3/tooncast.php",
+                "https://www.cablevisionhd.com/stream4/tooncast.php",
+                "https://www.cablevisionhd.com/stream5/tooncast.php",
+                "https://www.cablevisionhd.com/stream6/tooncast.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "cartoonito-noticias": {
+        "nombre": "Cartoonito",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/cartoonito.html",
+                "https://embed.sdfgnksbounce.com/embed/cartoonito.html",
+                "https://www.cablevisionhd.com/dtv/cartoonito.php",
+                "https://www.cablevisionhd.com/stream/cartoonito.php",
+                "https://www.cablevisionhd.com/stream2/cartoonito.php",
+                "https://www.cablevisionhd.com/stream4/cartoonito.php",
+                "https://www.cablevisionhd.com/stream5/cartoonito.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "disneychannel-noticias": {
+        "nombre": "Disneychannel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/disneychannel.html",
+                "https://embed.sdfgnksbounce.com/embed/disneychannel.html",
+                "https://www.cablevisionhd.com/dtv/disneychannel.php",
+                "https://www.cablevisionhd.com/stream/disneychannel.php",
+                "https://www.cablevisionhd.com/stream2/disneychannel.php",
+                "https://www.cablevisionhd.com/stream4/disneychannel.php",
+                "https://www.cablevisionhd.com/stream5/disneychannel.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "disneyjr-noticias": {
+        "nombre": "Disneyjr",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/disneyjr.html",
+                "https://embed.sdfgnksbounce.com/embed/disneyjr.html",
+                "https://www.cablevisionhd.com/dtv/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream2/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream4/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream5/disneyjunior.php",
+                "https://embed.sdfgnksbounce.com/embed.js"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "nick-noticias": {
+        "nombre": "Nick",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/nick.html",
+                "https://embed.sdfgnksbounce.com/embed/nick.html",
+                "https://www.cablevisionhd.com/dtv/nick.php",
+                "https://www.cablevisionhd.com/stream/nick.php",
+                "https://www.cablevisionhd.com/stream2/nick.php",
+                "https://www.cablevisionhd.com/stream4/nick.php",
+                "https://www.cablevisionhd.com/stream5/nick.php",
+                "https://embed.sdfgnksbounce.com/embed.js"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "TV4": {
+        "nombre": "TV4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvcuatro.tv/4-1/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcuatro.tv/4-1/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "2tv": {
+        "nombre": "TV2 INDONESIA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.mana2.my/Tv2/tracks-v3a1/mono.m3u8?token=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-b0883ef30822adcda17c6fbcfe5ba14f&auth_key=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-85931ee7fa38fc11dc6d2620246cd078"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mana2.my/channel/live/tv2",
+        "país": "my",
+        "categoría": "news"
+    },
+    "viva-nicaragua-noticias": {
+        "nombre": "viva nicaragua Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7u200z"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivanicaragua.com.ni/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal4-noticias": {
+        "nombre": "Canal4 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7rwv8c?ui-highlight&start&endscreen-enable=0&controls=1&mute=0&ui-start-screen-info=0&ui-logo=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal4.com.ni/en-vivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal10-noticias": {
+        "nombre": "Canal10 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal10.com.ni/envivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal6-noticias": {
+        "nombre": "Canal6 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player.html?video=x9533vq"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal6.com.ni/en-vivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "tn8-noticias": {
+        "nombre": "Tn8 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/tn8/",
+                "https://conceptoweb-studio.com/radio/video/tn8/"
+            ],
+            "m3u8_url": [
+                "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1806088154.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjQgNDoxMjo1NSBQTSZoYXNoX3ZhbHVlPVhNWjdleHB6Z2U0UWhLY2RsOVRZQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tn8.tv/en-vivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "vostv-noticias": {
+        "nombre": "Vostv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX1/XDC34GHKBhb4RZGFEa3mRB0ZGzvOuidKuZGT6OLhSxtHgwjp27r38d8DZbvPfeiRqr0/WvaLx09RshKkBi+RqIcMiEgN16l6NP86sEoF6oEfhyXEJft1d2vIKYzRG3/Ra10xosbq0+LdDoWe91y6NZ33cpbN1wBK5mIFGjbPYTcd9augnAp6IfPo1jhTHKOjK87NJJAlR3dprvIWtDpR59WJx9mll7t8zqaWGZEzF+7PeXUswG1pAE8wLxT+NOrxWFobNJAmw9i2geVpRGWwrIs+ZBdXVCQZ4jFoVX+8OKhAiORoIEfy7Q1GzYu4X7y43YhCQUgKF/w=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vostv.com.ni/directo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal2tv-noticias": {
+        "nombre": "Canal2tv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCX2i6sAexuDAbHMztLnfnKg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal2tv.com/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "telenorte-noticias": {
+        "nombre": "Telenorte Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://odysee.com/$/embed/@telenorte:e/telenorte35:7?r=AdurHBZ9UzckWVFKFxZ3pQBYH6QshGnm&autoplay=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://television-planet.tv/es/canales-tv/nicaragua/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "WTV-Canal-20-noticias": {
+        "nombre": "WTV Canal 20",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/64475/WTVCanal20.html",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "enlace-noticias": {
+        "nombre": "Enlace",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://componentes.enlace.org/live#/player?enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false",
+                "https://www.enlace.org/envivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.enlace.org/envivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "El-Histonauta-TV-noticias": {
+        "nombre": "El Histonauta TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72256/ElHistonautaTV.html",
+        "país": "ni",
         "categoría": "news"
     },
     "Watania-Replay": {
@@ -31370,1542 +32906,6 @@
         },
         "sitio_oficial": "https://www.youtube.com/c/Chuy%E1%BB%83n%C4%90%E1%BB%99ng360",
         "país": "vn",
-        "categoría": "news"
-    },
-    "hch-vivo": {
-        "nombre": "HCH",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
-            ],
-            "m3u8_url": [
-                "https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8"
-            ],
-            "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hch.tv/live/",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "metro-tv-choluteca": {
-        "nombre": "METRO TV CHOLUTECA HONDURAS",
-        "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://s.emisoras.tv:2020/VideoPlayer/cholutecatv",
-                "https://s.emisoras.tv:2020/stream/metro",
-                "https://s.emisoras.tv:2020/stream/ilusion"
-            ],
-            "m3u8_url": [
-                "https://s.emisoras.tv:8081/metrotv/index.m3u8"
-            ],
-            "yt_id": "UCblZy4UUsMlqv4gSCNslpWw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lametrohn.com/",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "multicabletv-tv": {
-        "nombre": "Multicabletv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "multicabletv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/multicabletv",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "laverdadtvhn-tv": {
-        "nombre": "laverdadtvhn TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "laverdadtvhn"
-        },
-        "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "channel-k": {
-        "nombre": "Channel K",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.epicon.in/live-tv/nazara-live-tv"
-            ],
-            "m3u8_url": [
-                "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_low/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://id.trefoil.tv/2721-channel-k.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "channel9": {
-        "nombre": "Channel9",
-        "logo": "assets/templates/basic/icon2020/apple-touch-icon.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.myanmartvchannels.com/channel9.html#SD%201"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.myanmartvchannels.com/channel9.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "channel-7": {
-        "nombre": "Channel 7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.pyoneplay.com/livetv/01gt74n96va764fze83w2959ts",
-                "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he"
-            ],
-            "m3u8_url": [
-                "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjAzOjI2IFBNJmhhc2hfdmFsdWU9ZXc4SDVuclU2b2dnd2VNYng0QjZQZz09JnZhbGlkbWludXRlcz0xMCZpZD00NTEyNTI0NzEz"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.myanmartvchannels.com/channel-7.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "MRTV-HD": {
-        "nombre": "MRTV HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "livestreamingmrtv"
-        },
-        "sitio_oficial": "https://www.squidtv.net/asia/myanmar/myanmar-007.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "Myanmar-International-TV": {
-        "nombre": "Myanmar International TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.squidtv.net/asia/myanmar/myanmar-004.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "mitvchannel"
-        },
-        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "MRTV-News": {
-        "nombre": "MRTV News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "mrtvnewslive"
-        },
-        "sitio_oficial": "https://www.squidtv.net/asia/myanmar/myanmar-008.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "MRTV-FARMERS": {
-        "nombre": "MRTV FARMERS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "channel_mrtv"
-        },
-        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "MRTV-SPORTS": {
-        "nombre": "MRTV SPORTS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "arrkasarrchannel"
-        },
-        "sitio_oficial": "",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "MRTV-4": {
-        "nombre": "MRTV 4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "mizzimanewsTV": {
-        "nombre": "mizzimanewsTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/-TStOFqZwHo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=1&rel=1&fs=1&playsinline=1&autohide=2&theme=dark&color=red&controls=1&"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCk9f0cLiMmtchQySOogzoig",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "MRTV-NRC": {
-        "nombre": "MRTV NRC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "mrtvfarmers"
-        },
-        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "Mahar-Esports": {
-        "nombre": "Mahar Esports",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://maharesports.com/live/",
-                "https://www.pyoneplay.com/livetv/01gt8f16j1n4mpx1bb1g7sfayw"
-            ],
-            "m3u8_url": [
-                "https://tv.mahar.live/esports/mahar.stream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "mrtvfarmers"
-        },
-        "sitio_oficial": "https://maharesports.com/",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "mrtv-entertainment": {
-        "nombre": "Mrtv Entertainment",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w192916607.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjM5OjQ3IFBNJmhhc2hfdmFsdWU9QTVZY0tCQUJUUzQvYlZ0R2JONXZudz09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.myanmartvchannels.com/mrtv-entertainment.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "DVB": {
-        "nombre": "DVB",
-        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://burmese.dvb.no/"
-            ],
-            "m3u8_url": [
-                "https://live-stream.dvb.no/hls/stream_mid/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.myanmartvchannels.com/dvb.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "education-channel": {
-        "nombre": "Education Channel",
-        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/education-120x120-88e.jpg",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1932121421.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjQ0OjE3IFBNJmhhc2hfdmFsdWU9WEZrSWgvZW5aNWRHNENobS80MFhmQT09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.myanmartvchannels.com/education-channel.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "mntv-channel": {
-        "nombre": "Mntv Channel",
-        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjQ3OjU1IFBNJmhhc2hfdmFsdWU9Qk9YakhQdG9ON0xaVjA5MWhRMUNuZz09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx",
-                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_lowest/index.m3u8",
-                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_standard/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.myanmartvchannels.com/mntv-channel.html",
-        "país": "mm",
-        "categoría": "news"
-    },
-    "imagentv": {
-        "nombre": "ImagenTV",
-        "logo": "https://graph.facebook.com/ImagenTVMex/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.imagentv.com/en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCl5JKSQsl-_WSU1rz7_BCJA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.imagentv.com/en-vivo",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "imagen-television-puebla": {
-        "nombre": "Imagen Televisión Puebla",
-        "logo": "https://graph.facebook.com/ImagenTVPuebla/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.imagentv.com/en-vivo",
-                "https://sicompuebla.mx/television/envivo/",
-                "https://tv.buap.mx/video/en-vivo",
-                "https://www.canalesdemexicoenvivo.com/2021/08/canal-puebla-tv-en-vivo.html#google_vignette"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UChA9u7JJzC4sCqegZeEoe9w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.imagentv.com/en-vivo",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "telediarioMX": {
-        "nombre": "TelediarioMx",
-        "logo": "https://graph.facebook.com/TelediarioMx/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://mdstrm.com/live-stream/5f2d9d6ff17144074bd8a284?jsapi=true&autoplay=true&mse=true"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCKuAmo9OGf8kw2jrPWCpHdA",
-            "yt_embed": "vOoTbys9htg?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telediario.mx/television",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "bi-noticias": {
-        "nombre": "BI NOTICIAS",
-        "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://binoticias.com/tv-en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCi3NQkTEifKs_j6IuKxVOMA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://binoticias.com/tv-en-vivo",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "telesecundaria-oro-noticias-puebla": {
-        "nombre": "telesecundaria - Oro Noticias Puebla",
-        "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://aprende.gob.mx/telesecundaria/",
-                "https://www.canalesdemexicoenvivo.com/2021/08/telesecundaria-tv-mexico-en-vivo.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCiJ9v3AalnGScbn9VrhDF7A",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://oronoticiaspuebla.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "quiero-tv-guadalajar-cps-noticias-puerto-vallarta": {
-        "nombre": "QuieroTV Guadalajar - CPS Noticias Puerto Vallarta",
-        "logo": "https://graph.facebook.com/tribunadelabahiaoficial/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://quierotv.mx/videoenvivo",
-                "https://www.canalesdemexicoenvivo.com/2021/08/quiero-tv-guadalajara-en-vivo.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC6CrPzMg2u-TRvNvb4sSu7w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tribunadelabahia.com.mx/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "tmtv-ahora-noticias3274": {
-        "nombre": "TMTV - Ahora Noticias",
-        "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://tmtv.live/",
-                "https://www.canalesdemexicoenvivo.com/2021/08/sqcs-tv-en-vivo.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCn161AaU20-UcYeDEvDJyyA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCn161AaU20-UcYeDEvDJyyA",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "vamas-noticiasags26": {
-        "nombre": "VA+ Noticias",
-        "logo": "https://graph.facebook.com/RyTAgs/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://ryta.com.mx/envivo/"
-            ],
-            "m3u8_url": [
-                "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
-            ],
-            "yt_id": "UCHGuWaXCZMoRn8QV9pimEsw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ryta.com.mx/envivo/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "televisa-aguascalients": {
-        "nombre": "Televisa Aguascalientes Oficial",
-        "logo": "https://graph.facebook.com/Nu9veAgs/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC5ZtV3bu3bjSuOLoA6oCFIg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "milenio": {
-        "nombre": "MILENIO",
-        "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.milenio.com/mileniotv"
-            ],
-            "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
-            ],
-            "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.milenio.com/mileniotv",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "televisa-monterreytv": {
-        "nombre": "Televisa Monterrey",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCGDJLLphnP0zQQaE3kgo5Wg",
-            "yt_embed": "zbJc2aPyIGg?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "amas-tv": {
-        "nombre": "Amas TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvazteca.com/cine/envivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC__aHR3xDkwx0Q8CgoyVUVA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvazteca.com/amastv/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "Migrante-tv": {
-        "nombre": "TV Migrante",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://mxplus.tv/television/tv-migrante"
-            ],
-            "m3u8_url": [
-                "https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1911119574.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://mxplus.tv/television/tv-migrante",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "nmas": {
-        "nombre": "NMás",
-        "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/p2AzyIEuFak?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.nmas.com.mx/en-vivo/?canal=forotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCUsm-fannqOY02PNN67C0KA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.nmas.com.mx/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "adn40mx": {
-        "nombre": "adn40Mx",
-        "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&volume=0&player=607868647ef7d607f13d0adb&show_title=false&poster=&cust_params=device%3Dweb%26idusuario%3Dnull&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FAztecaUno%2FVenga-La-Alegria%2FVenga-La-Alegria-EnVivo%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22",
-                "https://live.adn40.mx/"
-            ],
-            "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
-            ],
-            "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://live.adn40.mx/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "tv-mar-puerto-vallarta": {
-        "nombre": "tv mar puerto vallarta",
-        "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://5900.tv/webcam/tvmar.html"
-            ],
-            "m3u8_url": [
-                "https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
-            ],
-            "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.5900.tv/tv-mar-puerto-vallarta-mexico/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "televisaveracruzoficial": {
-        "nombre": "Televisa Veracruz Oficial",
-        "logo": "https://graph.facebook.com/televertv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC5EnLdE7ASjYzWt7wvT-QSg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/c/televisaveracruzoficial",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "excelsior-jcarlos_valerio": {
-        "nombre": "Excélsior - Juan Carlos Valerio",
-        "logo": "https://graph.facebook.com/JCarlosValerioNoticias/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.excelsior.com.mx/tv",
-                "https://heraldodemexico.com.mx/tv.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCCETFebKrX0wIkA9lbqvoNA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCCETFebKrX0wIkA9lbqvoNA",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "tv-ujat-aztecanoticias": {
-        "nombre": "TV UJAT - Azteca Noticias",
-        "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.ujat.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvazteca.com/aztecanoticias/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "sintesistv-gamavisionmx": {
-        "nombre": "Sintesistv - Gamavisión Noticias",
-        "logo": "https://pbs.twimg.com/profile_images/1560373776109277184/17qG3Ktj_400x400.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://sintesistv.com.mx/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gamavision.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "grupo-formula": {
-        "nombre": "Grupo Fórmula",
-        "logo": "https://graph.facebook.com/RadioFormulaMX/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://mdstrm.com/live-stream/62f2c855f7981b5a5a2d8763?autoplay=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCzmd9Aj2wmPggWZJpLdBB8Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radioformula.com.mx/",
-        "país": "mx",
-        "categoría": "radio"
-    },
-    "capital21-dk1250am": {
-        "nombre": "Capital21 - DK 1250 AM",
-        "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.capital21.cdmx.gob.mx/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://dk1250.mx/en-vivo-por-youtube/",
-        "país": "mx",
-        "categoría": "radio"
-    },
-    "ryta": {
-        "nombre": "Ryta",
-        "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://ryta.com.mx/envivo/"
-            ],
-            "m3u8_url": [
-                "//60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
-            ],
-            "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ryta.com.mx",
-        "país": "mx",
-        "categoría": "radio"
-    },
-    "televisa-puebla": {
-        "nombre": "Televisa Puebla",
-        "logo": "https://graph.facebook.com/TelevisaPuebla/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/lasestrellas.html",
-                "https://embed.sdfgnksbounce.com/embed/lasestrellas.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC-HNztluSQSffhIWJTL-LUw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw",
-        "país": "mx",
-        "categoría": "general"
-    },
-    "televisa-sonora-oficial": {
-        "nombre": "Televisa Sonora Oficial",
-        "logo": "https://graph.facebook.com/TelevisaSON/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://diretelemexico.com/televisa-sonora-en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCyzWMHGS7bs0sot6KZk5EZg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg",
-        "país": "mx",
-        "categoría": "general"
-    },
-    "fpfch": {
-        "nombre": "Fideicomiso de Puentes Fronterizos de Chihuahua",
-        "logo": "https://graph.facebook.com/fideicomisodepuentesfronterizos/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCfulDPjKRU81YWWdtFpivEg",
-            "yt_embed": "sOHFG6_3zAs",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://puentesfronterizos.gob.mx/",
-        "país": "mx",
-        "categoría": "camera"
-    },
-    "psn": {
-        "nombre": "Psn",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://b15.com.mx/canal15fresnillo/",
-                "https://vimeo.com/event/4400240/embed/interaction?muted=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.psn.si/en-vivo/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "canal10": {
-        "nombre": "Canal 10",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/canal10durango/",
-                "https://canal10.com.mx/sitio/tvonline.html"
-            ],
-            "m3u8_url": [
-                "https://5ca9af4645e15.streamlock.net:443/canal10durango/videocanal10durango/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canal10.com.mx/sitio/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "tv4": {
-        "nombre": "TV4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.conceptoweb-studio.com/radio/video/tv4/",
-                "https://tvcuatro.tv/4-2/"
-            ],
-            "m3u8_url": [
-                "https://5ca3e84a76d30.streamlock.net/tv42/videotv42_240p/playlist.m3u8",
-                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net:443/tv4/smil:tv4.smil/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net:443/tv43/smil:tv43.smil/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvcuatro.tv/4-2/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "MVS-Noticias": {
-        "nombre": "MVS Noticias",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://mvsnoticias.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCckBTKevnC_JOB_q0OO9dgg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@MVSNoticiasOficial/streams",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "azteca-1": {
-        "nombre": "azteca 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/aztecauno.html",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=aztecauno",
-                "https://embed.sdfgnksbounce.com/embed/aztecauno.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/aztecauno",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "azteca-7": {
-        "nombre": "azteca 7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/azteca7.html",
-                "https://tele-libre.com/en-vivo-online/azteca-7/embed.php",
-                "https://tele-libre.com/en-vivo-online/azteca-7/embed2.php",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca7",
-                "https://embed.sdfgnksbounce.com/embed/azteca7.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tele-libre.com/en-vivo-online/azteca-7/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "univision": {
-        "nombre": "Univision Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/univision.html",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=univision",
-                "https://embed.sdfgnksbounce.com/embed/univision.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/univision",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "unimas": {
-        "nombre": "Unimas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.com/en-vivo-online/unimas/embed.php",
-                "https://tele-libre.com/en-vivo-online/unimas/embed.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "azteca-internacional": {
-        "nombre": "Azteca Internacional",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca-int",
-                "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9hcGktb3R0LWF6dGVjYS1henQub3R0ZXJhLnR2L2xvZ2dpbmdtZWRpYXVybHBhc3N0aHJvdWdoL2EubTN1OD92ZXJzaW9uPTEyLjUmaWQ9NjQ4JmRldmljZV90eXBlPWRlc2t0b3AmcGxhdGZvcm09d2ViJnBhcnRuZXI9aW50ZXJuYWwmbGFuZ3VhZ2U9ZXMmY29ubmVjdGlvbj13aWZpJm1heF9iaXRyYXRlPTEwMDAwJmdldGFkcz1nZXRhZHMmY3VzdG9tX3BhcmFtXzA9JmN1c3RvbV9wYXJhbV8xPWRlc2t0b3AmY3VzdG9tX3BhcmFtXzI9JmN1c3RvbV9wYXJhbV8zPSZjdXN0b21fcGFyYW1fND1pbnRlcm5hbCZjdXN0b21fcGFyYW1fNT13ZWImY3VzdG9tX3BhcmFtXzY9U291dGglMjUyMEFtZXJpY2EmdGltZXN0YW1wPTE2ODA1MDA3NzMmaXA9MTUyLjE3My4yMjEuMjQ2Jm92ZXJyaWRlX2V4cGlyYXRpb249MTUwMCZzaWduPUN3UyUyQnRCSml2TkpXd095MjFnMklERHEzSUc0NzElMkJLQ3Iyc0M5ZlNXekhBJTNE"
-            ],
-            "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.goltvgo.com/en-vivo/azteca-internacional/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "canal5": {
-        "nombre": "canal5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cablevisionhd.com/stream/canal5.php",
-                "https://www.cablevisionhd.com/stream2/canal5.php",
-                "https://www.cablevisionhd.com/stream4/canal5.php",
-                "https://www.cablevisionhd.com/stream5/canal5.php",
-                "https://embed.sdfgnksbounce.com/embed2/canal5.html",
-                "https://embed.sdfgnksbounce.com/embed.js",
-                "https://embed.sdfgnksbounce.com/embed/canal5.html",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=canal5-mx"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/canal5",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "espn": {
-        "nombre": "espn",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn-op2",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn1-ar",
-                "https://tele-libre.com/en-vivo-online/espn/embed.php",
-                "https://tele-libre.com/en-vivo-online/espn/embed2.php",
-                "https://tele-libre.com/en-vivo-online/espn/embed3.php",
-                "https://tele-libre.com/en-vivo-online/espn/embed4.php",
-                "https://tele-libre.com/en-vivo-online/espn/embed5.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/espn",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "unimas2": {
-        "nombre": "Unimas2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.com/en-vivo-online/unimas/embed.php",
-                "https://tele-libre.com/en-vivo-online/unimas/embed.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "televisaChihuahua": {
-        "nombre": "Televisa Chihuahua",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/@televisachihuahua/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCjfxDe7In59Jbfw2HmIh_Vg",
-            "yt_embed": "53UC-83qadg?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@televisachihuahua",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "aristegui-noticias": {
-        "nombre": "Aristegui Noticias",
-        "logo": "https://graph.facebook.com/AristeguiOnline/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCafNntv_qTQB26AvbEQNHPw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aristeguinoticias.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "espn3mexico-noticias": {
-        "nombre": "espn mexico",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/espnmexico.html",
-                "https://embed.sdfgnksbounce.com/embed2/espn2mexico.html",
-                "https://embed.sdfgnksbounce.com/embed2/espn3mexico.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisiongratishd2.com/espn-mexico-en-vivo.html",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "galavision-noticias": {
-        "nombre": "galavision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/galavision.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://embed.sdfgnksbounce.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "fox-sports-mexico-noticias": {
-        "nombre": "Fox Sports Mexico",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/foxsportsmexico.html",
-                "https://embed.sdfgnksbounce.com/embed2/foxsports2mexico.html",
-                "https://embed.sdfgnksbounce.com/embed2/foxsports3mexico.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "telemundo51-noticias": {
-        "nombre": "Telemundo 51",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/telemundo51.html",
-                "https://embed.sdfgnksbounce.com/embed/telemundo51.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "univision-tlnovelas-noticias": {
-        "nombre": "Univision Tlnovelas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/tlnovelas/embed.php",
-                "https://tele-libre.org/en-vivo-online/tlnovelas/embed2.php",
-                "https://www.cablevisionhd.com/stream/univisiontlnovelas.php",
-                "https://www.cablevisionhd.com/stream2/univisiontlnovelas.php",
-                "https://www.cablevisionhd.com/stream3/univisiontlnovelas.php",
-                "https://www.cablevisionhd.com/stream4/univisiontlnovelas.php",
-                "https://www.cablevisionhd.com/stream5/univisiontlnovelas.php",
-                "https://www.cablevisionhd.com/stream6/univisiontlnovelas.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cablevisionhd.com/univision-tlnovelas-en-vivo.html",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "cartoonnetwork-noticias": {
-        "nombre": "Cartoon Network",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html",
-                "https://embed.sdfgnksbounce.com/embed/cartoonnetwork.html",
-                "https://www.cablevisionhd.com/dtv/cartoonnetwork.php",
-                "https://www.cablevisionhd.com/stream/cartoonnetwork.php",
-                "https://www.cablevisionhd.com/stream2/cartoonnetwork.php",
-                "https://www.cablevisionhd.com/stream3/cartoonnetwork.php",
-                "https://www.cablevisionhd.com/stream4/cartoonnetwork.php",
-                "https://www.cablevisionhd.com/stream5/cartoonnetwork.php",
-                "https://www.cablevisionhd.com/stream6/cartoonnetwork.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cablevisionhd.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "tooncast-noticias": {
-        "nombre": "Tooncast",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/tooncast.html",
-                "https://embed.sdfgnksbounce.com/embed/tooncast.html",
-                "https://www.cablevisionhd.com/stream/tooncast.php",
-                "https://www.cablevisionhd.com/stream2/tooncast.php",
-                "https://www.cablevisionhd.com/stream3/tooncast.php",
-                "https://www.cablevisionhd.com/stream4/tooncast.php",
-                "https://www.cablevisionhd.com/stream5/tooncast.php",
-                "https://www.cablevisionhd.com/stream6/tooncast.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cablevisionhd.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "cartoonito-noticias": {
-        "nombre": "Cartoonito",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/cartoonito.html",
-                "https://embed.sdfgnksbounce.com/embed/cartoonito.html",
-                "https://www.cablevisionhd.com/dtv/cartoonito.php",
-                "https://www.cablevisionhd.com/stream/cartoonito.php",
-                "https://www.cablevisionhd.com/stream2/cartoonito.php",
-                "https://www.cablevisionhd.com/stream4/cartoonito.php",
-                "https://www.cablevisionhd.com/stream5/cartoonito.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "disneychannel-noticias": {
-        "nombre": "Disneychannel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/disneychannel.html",
-                "https://embed.sdfgnksbounce.com/embed/disneychannel.html",
-                "https://www.cablevisionhd.com/dtv/disneychannel.php",
-                "https://www.cablevisionhd.com/stream/disneychannel.php",
-                "https://www.cablevisionhd.com/stream2/disneychannel.php",
-                "https://www.cablevisionhd.com/stream4/disneychannel.php",
-                "https://www.cablevisionhd.com/stream5/disneychannel.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cablevisionhd.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "disneyjr-noticias": {
-        "nombre": "Disneyjr",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/disneyjr.html",
-                "https://embed.sdfgnksbounce.com/embed/disneyjr.html",
-                "https://www.cablevisionhd.com/dtv/disneyjunior.php",
-                "https://www.cablevisionhd.com/stream/disneyjunior.php",
-                "https://www.cablevisionhd.com/stream2/disneyjunior.php",
-                "https://www.cablevisionhd.com/stream4/disneyjunior.php",
-                "https://www.cablevisionhd.com/stream5/disneyjunior.php",
-                "https://embed.sdfgnksbounce.com/embed.js"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cablevisionhd.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "nick-noticias": {
-        "nombre": "Nick",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/nick.html",
-                "https://embed.sdfgnksbounce.com/embed/nick.html",
-                "https://www.cablevisionhd.com/dtv/nick.php",
-                "https://www.cablevisionhd.com/stream/nick.php",
-                "https://www.cablevisionhd.com/stream2/nick.php",
-                "https://www.cablevisionhd.com/stream4/nick.php",
-                "https://www.cablevisionhd.com/stream5/nick.php",
-                "https://embed.sdfgnksbounce.com/embed.js"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "TV4": {
-        "nombre": "TV4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvcuatro.tv/4-1/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvcuatro.tv/4-1/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "2tv": {
-        "nombre": "TV2 INDONESIA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.mana2.my/Tv2/tracks-v3a1/mono.m3u8?token=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-b0883ef30822adcda17c6fbcfe5ba14f&auth_key=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-85931ee7fa38fc11dc6d2620246cd078"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mana2.my/channel/live/tv2",
-        "país": "my",
-        "categoría": "news"
-    },
-    "viva-nicaragua-noticias": {
-        "nombre": "viva nicaragua Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x7u200z"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivanicaragua.com.ni/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "canal4-noticias": {
-        "nombre": "Canal4 Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x7rwv8c?ui-highlight&start&endscreen-enable=0&controls=1&mute=0&ui-start-screen-info=0&ui-logo=0&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal4.com.ni/en-vivo/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "canal10-noticias": {
-        "nombre": "Canal10 Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                ""
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal10.com.ni/envivo/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "canal6-noticias": {
-        "nombre": "Canal6 Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player.html?video=x9533vq"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canal6.com.ni/en-vivo/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "tn8-noticias": {
-        "nombre": "Tn8 Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/tn8/",
-                "https://conceptoweb-studio.com/radio/video/tn8/"
-            ],
-            "m3u8_url": [
-                "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1806088154.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjQgNDoxMjo1NSBQTSZoYXNoX3ZhbHVlPVhNWjdleHB6Z2U0UWhLY2RsOVRZQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tn8.tv/en-vivo/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "vostv-noticias": {
-        "nombre": "Vostv Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX1/XDC34GHKBhb4RZGFEa3mRB0ZGzvOuidKuZGT6OLhSxtHgwjp27r38d8DZbvPfeiRqr0/WvaLx09RshKkBi+RqIcMiEgN16l6NP86sEoF6oEfhyXEJft1d2vIKYzRG3/Ra10xosbq0+LdDoWe91y6NZ33cpbN1wBK5mIFGjbPYTcd9augnAp6IfPo1jhTHKOjK87NJJAlR3dprvIWtDpR59WJx9mll7t8zqaWGZEzF+7PeXUswG1pAE8wLxT+NOrxWFobNJAmw9i2geVpRGWwrIs+ZBdXVCQZ4jFoVX+8OKhAiORoIEfy7Q1GzYu4X7y43YhCQUgKF/w=="
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vostv.com.ni/directo/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "canal2tv-noticias": {
-        "nombre": "Canal2tv Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCX2i6sAexuDAbHMztLnfnKg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canal2tv.com/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "telenorte-noticias": {
-        "nombre": "Telenorte Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://odysee.com/$/embed/@telenorte:e/telenorte35:7?r=AdurHBZ9UzckWVFKFxZ3pQBYH6QshGnm&autoplay=true"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://television-planet.tv/es/canales-tv/nicaragua/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "WTV-Canal-20-noticias": {
-        "nombre": "WTV Canal 20",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/64475/WTVCanal20.html",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "enlace-noticias": {
-        "nombre": "Enlace",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://componentes.enlace.org/live#/player?enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false",
-                "https://www.enlace.org/envivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.enlace.org/envivo/",
-        "país": "ni",
-        "categoría": "news"
-    },
-    "El-Histonauta-TV-noticias": {
-        "nombre": "El Histonauta TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72256/ElHistonautaTV.html",
-        "país": "ni",
         "categoría": "news"
     },
     "tcsnoticias8899": {
