@@ -49650,8 +49650,19 @@
         "nombre": "BAYON TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://www.khmerlive.tv/bayon/",
+                "http://mekongtv.net/channels/bayontv",
+                "http://www.itver.cc/bayon-tv/",
+                "https://lcotiv.com/tv/68220602971.html",
+                "https://lcotiv.com/cou.html",
+                "https://lcotiv.com/cou.html",
+                "http://www.khmerlive.tv/bayonnews/",
+                "https://iptv-org.github.io/channels/kh/BayonTV"
+            ],
             "m3u8_url": [
+                "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+                "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8",
                 "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479491&mtvhash=6XZogPlnjJuMH0h6TSAtUxoszNJbHo7yHN0JAZ6Q2M4="
             ],
             "yt_id": "",
@@ -49659,7 +49670,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://mekongtv.net/",
+        "sitio_oficial": "https://bayontv.com.kh/",
         "país": "kh",
         "categoría": "news"
     },
@@ -49667,7 +49678,13 @@
         "nombre": "TVK",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvk.gov.kh/",
+                "http://www.khmerlive.tv/tvk/",
+                "http://mekongtv.net/channels/tvk",
+                "https://lcotiv.com/cou.html",
+                "https://iptv-org.github.io/?q=tvk%20cambodia"
+            ],
             "m3u8_url": [
                 "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
                 "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
@@ -49682,11 +49699,16 @@
         "país": "kh",
         "categoría": "news"
     },
-    "fresh-news-asia-tv": {
-        "nombre": "fresh news asia",
+    "Khmer-fresh-news-asia-tv": {
+        "nombre": "Khmer TV - Fresh News Asia",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://freshnewsasia.com/index.php/en/",
+                "https://khmertv.com/",
+                "https://worldtv.netlinkbroadcaster.com/channel/khmertv?category=local-tv",
+                "https://worldtv.netlinkbroadcaster.com/channel/freshnewstv?category=local-tv"
+            ],
             "m3u8_url": [
                 "https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8"
             ],
@@ -49699,30 +49721,46 @@
         "país": "kh",
         "categoría": "news"
     },
-    "tv5-live": {
-        "nombre": "TV5",
+    "tv5-tvk": {
+        "nombre": "TV5 - TVK",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvkhd.tv/livetv/tvk/",
+                "https://worldtv.netlinkbroadcaster.com/channel/tv5?category=local-tv",
+                "https://worldtv.netlinkbroadcaster.com/channel/tv9?category=local-tv",
+                "https://eja.tv/play/?https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8#957ef39c8621039fc90648b71b4062594fa54c7d7ad2c6f34c2973f45d57bc62",
+                "https://eja.tv/play/?https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8#6032a6cc4b19663ac03734410afca2f6e7b91da6359ddcadbbc59ce7d030e8d9",
+                "https://eja.tv/play/?https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8#b9e09d6a5cc63feb52270205895ba1230e4e92c5001eafa4c7d72f6315f7eb3d",
+                "http://mekongtv.net/channels/tv5",
+                "https://worldtv.netlinkbroadcaster.com/channel/tvk2?category=local-tv",
+                "https://khmertv.com/",
+                "https://onlinetvplayer.com/play/#7z6xv5pz",
+                "https://worldtv.netlinkbroadcaster.com/channel/tvk?category=local-tv"
+            ],
             "m3u8_url": [
-                "http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479705&mtvhash=lpDH8zCahZ6cJg4uzaUOdsDIhR5b7FkNq0ThlOEduOg="
+                "https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://mekongtv.net/channels/tv5",
+        "sitio_oficial": "https://www.tv5hd.com/#",
         "país": "kh",
         "categoría": "news"
     },
-    "ctv-9": {
-        "nombre": "CTV9",
+    "Hang-Meas-HDTV-ctv-9": {
+        "nombre": "Hang Meas HDTV - CTV9",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.aladala.tv/2022/11/okey-tv.html",
+                "http://ciptv.org/hang-meas-hdtv-your-source-for-quality-entertainment/",
+                "http://mekongtv.net/channels/ctv9"
+            ],
             "m3u8_url": [
-                "http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479748&mtvhash=f4gBHy1KJste9E2wzd2hEYHtxWD6IutzfZaWdbTYRgU="
+                "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -49733,20 +49771,23 @@
         "país": "kh",
         "categoría": "news"
     },
-    "bayon-tv1": {
-        "nombre": "bayon TV1",
+    "SANGKEM-MEDIA-tv": {
+        "nombre": "SANGKEM MEDIA",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479863&mtvhash=SmV65a1jg5omQMiUgWgX72540fHZF_6fXbRD0trTxY0="
+            "iframe_url": [
+                "https://www.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3",
+                "https://www.sangkemtv.com/khmer-online-tv",
+                "http://townnewstv.com/#",
+                "http://ciptv.org/town-fhd-tv-high-definition-viewing-experiences/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://mekongtv.net/channels/bayontv1",
+        "sitio_oficial": "https://www.youtube.com/@SANGKEMMEDIA/streams",
         "país": "kh",
         "categoría": "news"
     },
@@ -49754,10 +49795,12 @@
         "nombre": "SEA TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479952&mtvhash=L474nmPqXp72Bulhz98Dcsofnn7JtjzUpzNxPYwVTec="
+            "iframe_url": [
+                "https://worldtv.netlinkbroadcaster.com/channel/category/local-tv",
+                "https://onlinetvplayer.com/play/#7w0l790w",
+                "https://eja.tv/play/?http://seatv.netlinkbroadcaster.com/hls/test.m3u8#5fea41aab7f3356cb156271f3ee7cfcc046fef3e74b17ade143e420f3a30fea4"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -49767,14 +49810,20 @@
         "país": "kh",
         "categoría": "news"
     },
-    "apsara-TV": {
-        "nombre": "APASARA TV",
+    "netlink-tv-apsara-TV": {
+        "nombre": "Netlink - APASARA TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725480021&mtvhash=57fhgl1eM2lwOGodZQ4n9SghVdmhboyeidPBS-19QxU="
+            "iframe_url": [
+                "https://worldtv.netlinkbroadcaster.com/channel/netlink-tv?category=local-tv",
+                "https://netlinkbroadcaster.com/",
+                "https://worldtv.netlinkbroadcaster.com/channel/ams?category=local-tv",
+                "https://www.phumikomsan.com/2024/09/apsara-tv-live-channel.html",
+                "http://mekongtv.net/channels/apsaratv",
+                "https://ams.com.kh/",
+                "https://livestreamlinks.net/en/onlinetv/cambodia/apsara-tv11"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -49784,20 +49833,25 @@
         "país": "kh",
         "categoría": "news"
     },
-    "pnn-TV": {
-        "nombre": "Pnn TV",
+    "Miến-Điện-pnn-TV": {
+        "nombre": "Miến Điện MNTV - Pnn TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://mrtv.gov.mm/mm/live-stream",
+                "https://worldtv.netlinkbroadcaster.com/channel/pnn-tv?category=local-tv",
+                "https://www.myanmartvchannels.com/mntv-channel.html",
+                "http://mekongtv.net/channels/pnn"
+            ],
             "m3u8_url": [
-                "http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725480097&mtvhash=oQavr26vy4I7_Zz5EDaIy6o6a1Brg6RanqXhXH5fSAM="
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "mitvchannel"
         },
-        "sitio_oficial": "http://mekongtv.net/channels/pnn",
+        "sitio_oficial": "https://onlinetvplayer.com/location/kh/",
         "país": "kh",
         "categoría": "news"
     },
@@ -49805,7 +49859,12 @@
         "nombre": "WIKI TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://eja.tv/play/?https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8#9d9871b6faeb12bab94b24704f3fc73e1ca43fa1a117057bc8717b0e72a96150",
+                "http://mekongtv.net/channels/wikitv",
+                "https://onlinetvplayer.com/play/#7w0p3m0z",
+                "https://seehd24.com/live?ch=wikitv2&chh=local"
+            ],
             "m3u8_url": [
                 "http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1725480205&mtvhash=0fWTmiHmGADQvd_MGVUcndbN6mOQgpjfaK_FF_WqD7Y="
             ],
@@ -49814,7 +49873,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://mekongtv.net/channels/wikitv",
+        "sitio_oficial": "https://eja.tv/?country=kh",
         "país": "kh",
         "categoría": "news"
     },
