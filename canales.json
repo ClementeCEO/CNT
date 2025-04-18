@@ -49838,10 +49838,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://mrtv.gov.mm/mm/live-stream",
                 "https://worldtv.netlinkbroadcaster.com/channel/pnn-tv?category=local-tv",
                 "https://www.myanmartvchannels.com/mntv-channel.html",
-                "http://mekongtv.net/channels/pnn"
+                "http://mekongtv.net/channels/pnn",
+                "https://mrtv.gov.mm/mm/live-stream"
             ],
             "m3u8_url": [
                 "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
