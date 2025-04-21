@@ -5348,8 +5348,8 @@
         "país": "az",
         "categoría": "news"
     },
-    "red-uno": {
-        "nombre": "Red uno",
+    "red-uno-bolivia": {
+        "nombre": "Red uno Bolivia",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -5530,6 +5530,7 @@
                 "https://www.redbolivision.tv.bo/envivo-canal-5/"
             ],
             "m3u8_url": [
+                "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
                 "https://d3ew2cr4djta2j.cloudfront.net/original.m3u8"
             ],
             "yt_id": "",
@@ -27905,9 +27906,12 @@
         "señales": {
             "iframe_url": [
                 "https://www.raiplay.it/dirette/rainews24",
+                "https://www.raiplay.it/dirette/rainews24",
                 "https://www.rainews.it/notiziari/rainews24"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streamcdnb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -27917,18 +27921,24 @@
         "país": "it",
         "categoría": "news"
     },
-    "LA7": {
-        "nombre": "LA7",
+    "LA7-tva-vicenza": {
+        "nombre": "LA7 - TVA Vicenza",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
         "señales": {
             "iframe_url": [
+                "https://tvavicenza.gruppovideomedia.it/it/live/",
+                "https://www.la7.it/",
                 "https://www.la7.it/dirette-tv",
                 "https://www.retetvitalia.it/#google_vignette",
                 "https://www.tvsei.it/live/",
                 "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html",
-                "https://www.ondatv.tv/#google_vignette"
+                "https://www.tvdream.net/web-tv/tva-vicenza-tv-live-streaming/#google_vignette",
+                "https://www.ondatv.tv/#google_vignette",
+                "https://www.canale7.tv/",
+                "https://www.la7.it/live-la7d"
             ],
             "m3u8_url": [
+                "/Player/Play/Ita_Clappr_Plus.php?sv=https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
                 "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
             ],
             "yt_id": "",
@@ -27940,15 +27950,16 @@
         "país": "it",
         "categoría": "news"
     },
-    "tv8": {
-        "nombre": "TV8",
+    "sky-tv8": {
+        "nombre": "Sky - TV8",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
         "señales": {
             "iframe_url": [
+                "https://video.sky.it/diretta/tg24",
+                "https://www.tv8.it/streaming",
                 "https://webserver.one/Live/Tv_8_Online.php",
-                "https://webserver.one/Live/Tv_8_Prz.php",
-                "https://webserver.one/Live/Tv_8_Prm.php",
-                "https://www.tv8.it/streaming"
+                "https://www.cielotv.it/streaming",
+                "https://www.filmon.com/channel/teos-tv"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -27960,12 +27971,18 @@
         "país": "it",
         "categoría": "news"
     },
-    "donnatv": {
-        "nombre": "Donnatv",
+    "sanmarinortv-donnatv": {
+        "nombre": "Sanmarinortv - Donnatv",
         "logo": "https://sportitaliadd.akamaized.net/video_0/custom/logo/logo_footer_50.Logo-DonnaTV-1024.png",
         "señales": {
             "iframe_url": [
-                "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0"
+                "https://www.sanmarinortv.sm/programmi/web-tv",
+                "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
+                "https://tvcentertainment.tv/live-stream/",
+                "https://www.tvdream.net/web-tv/antenna-tre-triveneto/",
+                "https://foodnetwork.it/live-streaming-food-network/",
+                "https://www.tvdream.net/web-tv/teatro-tv/",
+                "https://tv.rtsh.al/kanalet/rtsh-shqip"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -27973,17 +27990,23 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "hhttps://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
+        "sitio_oficial": "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
         "país": "it",
         "categoría": "news"
     },
-    "TV2000": {
-        "nombre": "TV2000",
+    "TV2000-altoadigetv": {
+        "nombre": "TV2000 - Altoadigetv",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",
         "señales": {
             "iframe_url": [
                 "https://diretta.tv2000.it/?channel=tv2000_live",
-                "https://www.tv2000.it/live/"
+                "https://www.tv2000.it/live/",
+                "https://www.altoadigetv.it/live.php",
+                "https://www.dr.dk/drtv/kanal/dr1_20875",
+                "https://3news.com/live/tv3/#google_vignette",
+                "https://www.weo.fr/direct/",
+                "https://www.rds.it/next-web-radio/",
+                "https://warnertv.it/live-streaming-warner-tv"
             ],
             "m3u8_url": [
                 "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
@@ -27997,12 +28020,18 @@
         "país": "it",
         "categoría": "news"
     },
-    "QVC": {
-        "nombre": "QVC",
+    "carac-QVC": {
+        "nombre": "QVC - Carac",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png",
         "señales": {
             "iframe_url": [
-                "https://www.qvc.it/content/shop-live-tv.html"
+                "https://www.radiotivuazzurra.it/#tv",
+                "https://www.qvc.it/content/shop-live-tv.html",
+                "https://carac.tv/lives/carac-1",
+                "https://www.zerounotv.it/live-streaming-dei-canali-di-zerouno-tv/",
+                "https://www.tvdream.net/web-tv/etna-channel/",
+                "https://www.tvdream.net/web-tv/radio-azzurra-tivu-palermo-diretta-streaming/#google_vignette",
+                "https://www.tvdream.net/web-tv/rmc-101-tv/"
             ],
             "m3u8_url": [
                 "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
@@ -28010,19 +28039,32 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "etnachanneltv"
         },
         "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
         "país": "it",
         "categoría": "news"
     },
-    "Rai-News-24Yoyo": {
-        "nombre": "Rai News 24",
+    "reteiblea-Rai-News-24Yoyo": {
+        "nombre": "Reteiblea - Rai News 24",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png",
         "señales": {
             "iframe_url": [
-                "https://www.raiplay.it/dirette/rainews24",
-                "https://www.raiplay.it/dirette/raiyoyo"
+                "https://reteiblea.it/streaming/",
+                "https://www.raiplay.it/dirette",
+                "https://www.globusmagazine.it/",
+                "https://www.telemontekronio.it/",
+                "https://www.studiocentrale.it/",
+                "https://www.studiocentrale.it/",
+                "https://www.tvdream.net/web-tv/onda-tv/",
+                "https://www.ondatv.it/",
+                "https://player.gazzettadelsud.it/rtp",
+                "https://www.tvdream.net/web-tv/video66/",
+                "https://www.tfnweb.it/",
+                "https://share.xdevel.com/api/?platform=streamsolution&get=player&key=1d009cfba626143d54ae81a3285c1b50&ver=5",
+                "https://player.gds.it/tgs",
+                "https://tgs.gds.it/archivio/",
+                "https://reteiblea.it/streaming/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -28034,12 +28076,19 @@
         "país": "it",
         "categoría": "news"
     },
-    "italia2news": {
-        "nombre": "Italia2news",
+    "italia2news-wltv": {
+        "nombre": "Italia2news - Wltv",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png",
         "señales": {
             "iframe_url": [
-                "https://player.streamshow.it/hosted/italia2.php?autoplay=true&muted=false&"
+                "https://player.streamshow.it/hosted/italia2.php?autoplay=true&muted=false&",
+                "https://www.italia2news.it/",
+                "https://www.reitv.it/index2.html",
+                "https://www.wltv.it/",
+                "https://www.tvdream.net/web-tv/canale-2-marsala/",
+                "https://www.canale8news.it/diretta-tv/",
+                "https://www.alpauno.com/",
+                "https://www.retechiara.it/"
             ],
             "m3u8_url": [
                 "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
@@ -28047,18 +28096,25 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "canale2tp"
         },
         "sitio_oficial": "https://www.italia2news.it/",
         "país": "it",
         "categoría": "news"
     },
-    "Alma-TV": {
-        "nombre": "Alma TV",
+    "Alma-TV-prima-tv": {
+        "nombre": "Alma TV - Prima TV",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png",
         "señales": {
             "iframe_url": [
-                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0"
+                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
+                "https://www.primatv.tv/lo-streaming-di-prima-tv/",
+                "https://www.tvdream.net/web-tv/la-tr3-marsala-live/",
+                "https://latr3.it/#",
+                "https://www.teleone.it/chi-siamo/teleone-diretta-tv/",
+                "https://www.telejato.it/#",
+                "https://www.tvrxenon.it/",
+                "https://tv.rtsh.al/kanalet/rtsh-film"
             ],
             "m3u8_url": [
                 "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1741830142~acl=/*~hmac=01bd6010ba323b6a909b4d26ed5765613050fcdfcc25dec485fe4ecf670bf54f"
