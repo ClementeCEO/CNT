@@ -40750,6 +40750,9 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
         "señales": {
             "iframe_url": [
+                "https://smotrim.ru/channel/1",
+                "https://player.smotrim.ru/iframe/live/uid/ff741527-299e-44e7-9878-85738d320763/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/sdk/2",
+                "https://vgtrk.ru/russiatv",
                 "https://player.smotrim.ru/iframe/video/id/2687815/sid/smotrim/isPlay/true/mute/true/",
                 "https://www.rt.com/on-air/embed/",
                 "https://www.livehdtv.com/embed/russia-1/",
@@ -40772,7 +40775,10 @@
         "nombre": "Crimea 24",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://crimea24tv.ru/broadcasting/",
+                "https://crimea24tv.ru/"
+            ],
             "m3u8_url": [
                 "https://simf.1tvcrimea.ru/simferopol24.m3u8"
             ],
@@ -40789,10 +40795,13 @@
         "nombre": "5 TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s183.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=96213707&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCA5OjQ5OjU5IFBNJmhhc2hfdmFsdWU9ZVNocEV3alg2TGdtcHFCOXJpeXlqQT09JnZhbGlkbWludXRlcz0yMDA="
+            "iframe_url": [
+                "https://televizor24tochka.ru/tv/5-kanal.html",
+                "https://glaz.tv/online-tv/pyatyi-kanal-online",
+                "http://ip.tivix.co/93-pyatyy-kanal_sankt_peterburg_2.html",
+                "https://www.5-tv.ru/live/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -40807,7 +40816,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/videoembed/1061877194420?nochat=1&amp;autoplay=1",
+                "https://ok.ru/videoembed/9344408428150?nochat=1&amp;autoplay=1",
+                "https://smotret.tv/tv-3",
                 "https://ok.ru/videoembed/1061877194420?nochat=1",
                 "https://ok.ru/video/1061877194420"
             ],
@@ -40821,15 +40831,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "dom-kino-tv": {
-        "nombre": "Dom Kino О канале Дом Кино",
+    "domashniy-dom-kino-tv": {
+        "nombre": "Domashniy - Dom Kino О канале Дом Кино",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://videos-cloudfront-usp.jwpsrv.com/6741bdfb_ff0a075972c89714b10dc5c98e89ab3138615997/site/cGlKNUnj/media/JcCg0zir/version/40xOEzCa/manifest.ism/manifest-audio_eng=112008-video_eng=302056.m3u8",
-                "https://a5.pokaz.me/iGx6LyK6NNeWNJ1kozhyUg/186/1732338052/index.m3u8"
+            "iframe_url": [
+                "https://ok.ru/video/9652238818994",
+                "https://televizor24tochka.ru/tv/domashnii.html",
+                "https://smotrim.ru/channel/250",
+                "http://ip.tivix.co/100-domashniy.html",
+                "https://smotret.tv/domashniy"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
