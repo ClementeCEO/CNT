@@ -41369,15 +41369,21 @@
         "país": "ru",
         "categoría": "news"
     },
-    "Россия-0": {
-        "nombre": "Россия",
+    "Россия-0-russia24-1-TV3-1": {
+        "nombre": "Россия - Russia 24 -TV3",
         "logo": "https://100tv.uz/images/logo-channel/tv-prodvizhenie.png",
         "señales": {
             "iframe_url": [
-                "https://100tv.uz/assets/js/player/tv-prodvizhenie"
+                "https://100tv.uz/assets/js/player/tv-prodvizhenie",
+                "https://100tv.uz/tv-prodvizhenie",
+                "https://player.smotrim.ru/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/",
+                "https://vgtrk.ru/russia24",
+                "https://rustv.live/main/tv3-online.html#google_vignette",
+                "https://ok.ru/videoembed/1061877194420?autoplay=1&nochat=1"
             ],
             "m3u8_url": [
-                "https://stream2.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
+                "https://stream2.cinerama.uz/1020/tracks-v1a1/mono.m3u8",
+                "https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41388,50 +41394,20 @@
         "país": "ru",
         "categoría": "news"
     },
-    "russia24-1": {
-        "nombre": "Russia 24",
+    "rentv-1-TVC-1-sochi-24": {
+        "nombre": "Rentv - TVC - sochi 24",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.smotrim.ru/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/"
+                "https://ok.ru/videoembed/7910926524143?autoplay=1&nochat=1",
+                "https://rustvlive.com/main/rentv.html",
+                "https://rustv.live/main/tvc-online.html",
+                "https://vits.tv/en/tv-online/sochi-24/"
             ],
             "m3u8_url": [
-                "https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
+                "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgOTozMzoxNiBQTSZoYXNoX3ZhbHVlPW9ialRBUG1vOHBGenFMdGJCK2FVZ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA==",
+                "https://serv30.vintera.tv/sochi/sochi24_tv/chunks.m3u8"
             ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vgtrk.ru/russia24",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "TV3-1": {
-        "nombre": "TV3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/1061877194420?autoplay=1&nochat=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustv.live/main/tv3-online.html#google_vignette",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "rentv-1": {
-        "nombre": "rentv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/7910926524143?autoplay=1&nochat=1"
-            ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41441,48 +41417,19 @@
         "país": "ru",
         "categoría": "news"
     },
-    "TVC-1": {
-        "nombre": "TVC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgOTozMzoxNiBQTSZoYXNoX3ZhbHVlPW9ialRBUG1vOHBGenFMdGJCK2FVZ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA=="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustv.live/main/tvc-online.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "sochi-24": {
-        "nombre": "sochi 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://serv30.vintera.tv/sochi/sochi24_tv/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/sochi-24/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "belgorod-24": {
-        "nombre": "belgorod 24",
+    "belgorod-24-krik-tv-niki-tv": {
+        "nombre": "belgorod 24 - krik tv - niki-tv",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://vits.tv/en/tv-online/belgorod-24/",
+                "https://vits.tv/en/tv-online/krik-tv/",
+                "https://vits.tv/en/tv-online/niki-tv/"
             ],
             "m3u8_url": [
-                "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
+                "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
+                "https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/tracks-v1a1/mono.m3u8",
+                "https://serv25.vintera.tv/1pnk/nikitv/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41493,66 +41440,21 @@
         "país": "ru",
         "categoría": "news"
     },
-    "krik-tv": {
-        "nombre": "krik tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/krik-tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "niki-tv": {
-        "nombre": "niki-tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://serv25.vintera.tv/1pnk/nikitv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/niki-tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "tv-kvarc": {
-        "nombre": "tv kvarc",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video.quartztelecom.ru:18080/hls/9536913/c8de8fe65f169bd00a80/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvpodolsk.ru/index.php",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "tivikom-ulan-ude": {
-        "nombre": "tivikom ulan ude",
+    "tivikom-ulan-ude-tv-kvarc-aris-24": {
+        "nombre": "tivikom ulan ude - tv kvarc - aris 24",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://stream.trafjam.ru/tvcom/studio/embed.html?ago=43200"
+                "https://stream.trafjam.ru/tvcom/studio/embed.html?ago=43200",
+                "https://vits.tv/en/tv-online/tivikom-ulan-ude/",
+                "https://tvpodolsk.ru/index.php",
+                "https://rutube.ru/pl/?pl_id&pl_type&pl_video=9b482361d6c845f7d70eafc98356d8bf",
+                "https://aris-tv.ru/o-kompanii/telekanal-aris-24.html"
             ],
             "m3u8_url": [
-                "https://stream.trafjam.ru/tvcom/studio/playlist.m3u8"
+                "https://stream.trafjam.ru/tvcom/studio/playlist.m3u8",
+                "https://video.quartztelecom.ru:18080/hls/9536913/c8de8fe65f169bd00a80/playlist.m3u8",
+                "https://serv25.vintera.tv/test/aris/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41563,64 +41465,17 @@
         "país": "ru",
         "categoría": "news"
     },
-    "aris-24": {
-        "nombre": "aris 24",
+    "telekanal-78-teledom-kanal-16-sarov": {
+        "nombre": "telekanal 78 - teledom - kanal 16 sarov",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/pl/?pl_id&pl_type&pl_video=9b482361d6c845f7d70eafc98356d8bf"
+                "https://ok.ru/videoembed/351615524467?autoplay=1",
+                "https://vits.tv/en/tv-online/telekanal-78/",
+                "https://www-teledom-tv.filesusr.com/html/cca25c_ad36c3f77d1e3ee6d13717b65c8eeedb.html",
+                "https://vits.tv/en/tv-online/teledom/",
+                "https://vits.tv/en/tv-online/kanal-16-sarov/"
             ],
-            "m3u8_url": [
-                "https://serv25.vintera.tv/test/aris/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://aris-tv.ru/o-kompanii/telekanal-aris-24.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "telekanal-78": {
-        "nombre": "telekanal 78",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/351615524467?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/telekanal-78/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "teledom": {
-        "nombre": "teledom",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www-teledom-tv.filesusr.com/html/cca25c_ad36c3f77d1e3ee6d13717b65c8eeedb.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/teledom/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "kanal-16-sarov": {
-        "nombre": "kanal 16 sarov",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://serv25.vintera.tv/test/k16/playlist.m3u8"
             ],
@@ -41629,7 +41484,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://vits.tv/en/tv-online/kanal-16-sarov/",
+        "sitio_oficial": "https://vits.tv/en/tv-online/telekanal-78/",
         "país": "ru",
         "categoría": "news"
     },
