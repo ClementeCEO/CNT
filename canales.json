@@ -40871,226 +40871,6 @@
         "país": "ru",
         "categoría": "news"
     },
-    "Кино-ТВ": {
-        "nombre": "Кино ТВ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=test"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvset.sbs/online/kino-tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "krasnaya-liniya": {
-        "nombre": "Krasnaya Liniya",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvset.sbs/online/krasnaya-liniya",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "english-club-tv": {
-        "nombre": "English Club TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream1.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvset.sbs/online/english-club-tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "CHE-tv": {
-        "nombre": "CHE TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/7137433362091?nochat=1&amp;autoplay=1",
-                "https://ok.ru/videoembed/7137433362091?nochat=1",
-                "https://ok.ru/video/7137433362091"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/che",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "2X2-tv": {
-        "nombre": "2X2 TV",
-        "logo": "http://ip.viks.tv/posts/2016-02/1456479371_2h2.png",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/7022731468424?nochat=1&amp;autoplay=1",
-                "https://ok.ru/videoembed/7022731468424?nochat=1",
-                "https://ok.ru/video/7022731468424"
-            ],
-            "m3u8_url": [
-                "https://a5.pokaz.me/etYjah2e-S8bwRhd0rRl-A/153/1732334277/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/2x2",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "KVN-tv": {
-        "nombre": "KVN TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/7216422461155?nochat=1&amp;autoplay=1",
-                "//ok.ru/videoembed/7216422461155?nochat=1",
-                "https://ok.ru/video/7216422461155"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/kvn",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "perec-tv": {
-        "nombre": "Perec TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/6422500023926?nochat=1&amp;autoplay=1",
-                "//ok.ru/videoembed/6422500023926?nochat=1",
-                "https://ok.ru/video/6422500023926"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/perec",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vitrina-tv": {
-        "nombre": "Vitrina TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smotret.tv/iframes/vitrina-tv.html"
-            ],
-            "m3u8_url": [
-                "https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/vitrina-tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "shopping-tv": {
-        "nombre": "Shopping TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smotret.tv/iframes/shopping-live.html"
-            ],
-            "m3u8_url": [
-                "https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/shopping-live",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "yuvelirochka-tv": {
-        "nombre": "Yuvelirochka TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smotret.tv/iframes/yuvelirochka.html"
-            ],
-            "m3u8_url": [
-                "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/tracks-v1a1/mono.m3u8?hls_proxy_host=fcf2a4d016d46058e02842aa89871fce"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://smotret.tv/yuvelirochka",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "zhivaya-planeta-tv": {
-        "nombre": "Zhivaya Planeta",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvset.sbs/online/zhivaya-planeta",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "nauka-tv": {
-        "nombre": "Nauka TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvset.sbs/online/nauka-20",
-        "país": "ru",
-        "categoría": "news"
-    },
     "belarus-1-channel0": {
         "nombre": "Belarus 1 Channel0 Беларусь 1",
         "logo": "https://100tv.uz/images/logo-channel/belarus-1-tv-logo.png",
@@ -41110,31 +40890,16 @@
         "país": "ru",
         "categoría": "news"
     },
-    "doktor-tv": {
-        "nombre": "Doktor TV",
-        "logo": "",
+    "zagorodniy-tv-amedia-premium-hd-2-doktor-tv": {
+        "nombre": "Zagorodniy TV - Amedia Premium HD 2 - Doktor TV",
+        "logo": "http://ip.viks.tv/posts/2016-12/1483178794_amedia-premium-hd.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream1.cinerama.uz/1409/tracks-v2a1/mono.m3u8"
+            "iframe_url": [
+                "http://tvset.sbs/online/doktor-tv",
+                "https://rustv.live/entertainment-channels/zagorodny-online.html",
+                "http://ip.viks.tv/497-amedia-premium-hd_2.html"
             ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvset.sbs/online/doktor-tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "zagorodniy-tv": {
-        "nombre": "Zagorodniy TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream1.cinerama.uz/1044/tracks-v1a1/mono.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41144,29 +40909,14 @@
         "país": "ru",
         "categoría": "news"
     },
-    "amedia-premium-hd-2": {
-        "nombre": "Amedia Premium HD 2",
-        "logo": "http://ip.viks.tv/posts/2016-12/1483178794_amedia-premium-hd.png",
-        "señales": {
-            "iframe_url": [
-                "http://ip.viks.tv/497-amedia-premium-hd_2.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://ip.viks.tv/497-amedia-premium-hd_2.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "amedia-hit": {
-        "nombre": "Amedia HIT",
+    "nauka-tv-amedia-hit-zhivaya-planeta-tv": {
+        "nombre": "Nauka TV - Amedia HIT - Zhivaya Planeta",
         "logo": "http://ip.viks.tv/posts/2022-02/1644961857_amediahit.png",
         "señales": {
             "iframe_url": [
-                "http://ip.viks.tv/604-amedia-hit.html"
+                "http://ip.viks.tv/604-amedia-hit.html",
+                "http://tvset.sbs/online/zhivaya-planeta",
+                "http://tvset.sbs/online/nauka-20"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -41178,14 +40928,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "ani-tv": {
-        "nombre": "ANI TV",
+    "ani-tv-yuvelirochka-tv": {
+        "nombre": "ANI TV - Yuvelirochka TV",
         "logo": "http://ip.viks.tv/posts/2017-01/1483551535_ani.png",
         "señales": {
             "iframe_url": [
+                "https://smotret.tv/iframes/yuvelirochka.html",
+                "https://smotret.tv/yuvelirochka",
                 "http://ip.viks.tv/505-ani.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/tracks-v1a1/mono.m3u8?hls_proxy_host=fcf2a4d016d46058e02842aa89871fce"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41195,14 +40949,21 @@
         "país": "ru",
         "categoría": "news"
     },
-    "A1-tv": {
-        "nombre": "A1 TV",
+    "vitrina-tv-shopping-tv-A1-tv": {
+        "nombre": "A1 TV - Shopping TV - Vitrina",
         "logo": "http://ip.viks.tv/posts/2016-12/1483211618_amedia1.png",
         "señales": {
             "iframe_url": [
+                "https://smotret.tv/iframes/shopping-live.html",
+                "https://smotret.tv/shopping-live",
+                "https://smotret.tv/iframes/vitrina-tv.html",
+                "https://smotret.tv/vitrina-tv",
                 "http://ip.viks.tv/499-a1.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8",
+                "https://v4.proofix.ru/vitrina-live/tracks-v1a1/mono.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41212,11 +40973,19 @@
         "país": "ru",
         "categoría": "news"
     },
-    "A2-tv": {
-        "nombre": "A2 TV",
+    "A2-tv-perec-tv-KVN-tv": {
+        "nombre": "A2 TV - Perec TV - KVN TV",
         "logo": "http://ip.viks.tv/posts/2017-01/1483221728_amedia2.png",
         "señales": {
             "iframe_url": [
+                "https://ok.ru/videoembed/6422500023926?nochat=1&amp;autoplay=1",
+                "//ok.ru/videoembed/6422500023926?nochat=1",
+                "https://ok.ru/video/6422500023926",
+                "https://smotret.tv/perec",
+                "https://ok.ru/videoembed/7216422461155?nochat=1&amp;autoplay=1",
+                "//ok.ru/videoembed/7216422461155?nochat=1",
+                "https://ok.ru/video/7216422461155",
+                "https://smotret.tv/kvn",
                 "http://ip.viks.tv/500-a2.html"
             ],
             "m3u8_url": [],
@@ -41246,15 +41015,20 @@
         "país": "ru",
         "categoría": "news"
     },
-    "365-tv": {
-        "nombre": "365 TB",
+    "365-tv-Кино-ТВ-krasnaya-liniya": {
+        "nombre": "365 TB - Кино ТВ - Krasnaya Liniya",
         "logo": "http://ip.viks.tv/posts/2018-12/1543637279_365.png",
         "señales": {
             "iframe_url": [
                 "https://100tv.uz/assets/js/player/360-tv",
-                "http://ip.viks.tv/443-365.html"
+                "http://ip.viks.tv/443-365.html",
+                "https://100tv.uz/360-tv",
+                "http://tvset.sbs/online/kino-tv",
+                "http://tvset.sbs/online/krasnaya-liniya"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41264,11 +41038,15 @@
         "país": "ru",
         "categoría": "news"
     },
-    "ren-tv": {
-        "nombre": "Ren TV",
+    "ren-tv-1tv-1": {
+        "nombre": "1tv - Ren TV",
         "logo": "http://ip.viks.tv/posts/2018-12/1543637572_rentv.png",
         "señales": {
             "iframe_url": [
+                "https://www.1tv.ru/live",
+                "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
+                "https://static.1tv.ru/eump/embeds/1tv_live.html?__paranja=yes&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
+                "http://ip.viks.tv/346-ren-tv_6.html",
                 "http://ip.viks.tv/346-ren-tv_6.html"
             ],
             "m3u8_url": [],
@@ -41277,7 +41055,34 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://ip.viks.tv/346-ren-tv_6.html",
+        "sitio_oficial": "https://www.1tv.ru/live",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "english-club-tv-2X2-tv-CHE-tv": {
+        "nombre": "English Club TV - 2X2 TV - CHE TV",
+        "logo": "http://ip.viks.tv/posts/2016-02/1456479371_2h2.png",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/7137433362091?nochat=1&amp;autoplay=1",
+                "https://ok.ru/videoembed/7137433362091?nochat=1",
+                "https://ok.ru/video/7137433362091",
+                "https://smotret.tv/che",
+                "https://ok.ru/videoembed/7022731468424?nochat=1&amp;autoplay=1",
+                "https://ok.ru/videoembed/7022731468424?nochat=1",
+                "https://ok.ru/video/7022731468424",
+                "https://smotret.tv/2x2",
+                "http://tvset.sbs/online/english-club-tv",
+            ],
+            "m3u8_url": [
+                "https://a5.pokaz.me/etYjah2e-S8bwRhd0rRl-A/153/1732334277/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://smotret.tv/2x2",
         "país": "ru",
         "categoría": "news"
     },
@@ -41286,11 +41091,10 @@
         "logo": "http://ip.viks.tv/posts/2022-08/1659824453_2plus2.png",
         "señales": {
             "iframe_url": [
-                "https://1plus1.video/tvguide/embed/2?autoplay=0&l=ua"
+                "https://1plus1.video/tvguide/embed/2?autoplay=0&l=ua",
+                "https://okteve.com/2-2-tv-live/"
             ],
-            "m3u8_url": [
-                "https://live-k2303-kbp.1plus1.video/live/1732318609/E_XdLwOR0Yx_RcdloQmVLg/187534/smil:187534.smil/chunklist_b2128000.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41334,12 +41138,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "1000-tv": {
-        "nombre": "1000 TV",
+    "sony-turbo-2-sony-tv-1000-tv": {
+        "nombre": "1000 TV - RED TV - BLACK TV",
         "logo": "http://ip.viks.tv/posts/2016-04/1460666322_tv1000.png",
         "señales": {
             "iframe_url": [
-                "http://ip.viks.tv/423-1000_15.html"
+                "http://ip.viks.tv/423-1000_15.html",
+                "http://ip.viks.tv/105426-sony.html",
+                "http://ip.viks.tv/105426-sony.html",
+                "http://ip.viks.tv/622-sony-turbo_2.html",
+                "http://ip.viks.tv/622-sony-turbo_2.html",
+                "http://ip.viks.tv/posts/2022-08/1659824669_red.png",
+                "http://ip.viks.tv/posts/2022-08/1659824880_black.png"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -41351,46 +41161,13 @@
         "país": "ru",
         "categoría": "news"
     },
-    "sony-tv": {
-        "nombre": "RED TV",
-        "logo": "http://ip.viks.tv/posts/2022-08/1659824669_red.png",
-        "señales": {
-            "iframe_url": [
-                "http://ip.viks.tv/105426-sony.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://ip.viks.tv/105426-sony.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "sony-turbo-2": {
-        "nombre": "BLACK TV",
-        "logo": "http://ip.viks.tv/posts/2022-08/1659824880_black.png",
-        "señales": {
-            "iframe_url": [
-                "http://ip.viks.tv/622-sony-turbo_2.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://ip.viks.tv/622-sony-turbo_2.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "XXI-tv": {
-        "nombre": "XXI TV",
+    "viasat-explorer-tv-XXI-tv": {
+        "nombre": "XXI TV - Viasat Explorer TV",
         "logo": "http://ip.viks.tv/posts/2016-12/1483179391_tv_xxi.png",
         "señales": {
             "iframe_url": [
-                "http://ip.viks.tv/498-tv-xxi.html"
+                "http://ip.viks.tv/498-tv-xxi.html",
+                "http://ip.viks.tv/386-viasat-explorer-tv.html",
             ],
             "m3u8_url": [
                 "https://a5.pokaz.me/cdnQAX_3qSqkcowHiehX0g/133/1734209663/index.m3u8",
@@ -41405,30 +41182,20 @@
         "país": "ru",
         "categoría": "news"
     },
-    "viasat-explorer-tv": {
-        "nombre": "Viasat Explorer TV",
+    "mir-24-BRICS": {
+        "nombre": "Мир 24 - BRICS TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "http://ip.viks.tv/386-viasat-explorer-tv.html"
+                "https://mir24.tv/live?broadcast=5",
+                "https://televizor24tochka.ru/tv/mir-tv.html",
+                "https://player.mediavitrina.ru/domashniy/dom_web/player.html?start=auto",
+                "https://mirtv.ru/"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://ip.viks.tv/386-viasat-explorer-tv.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "Brics-tv": {
-        "nombre": "BRICS TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
-                "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8"
+                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41439,67 +41206,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "domashniy": {
-        "nombre": "Domashniy",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.mediavitrina.ru/domashniy/dom_web/player.html?start=auto"
-            ],
-            "m3u8_url": [
-                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://domashniy.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "mir-24": {
-        "nombre": "Мир 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://mirtv.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "katun-24": {
-        "nombre": "Katun 24",
+    "c86-surgut-katun-24-smotrim_r24": {
+        "nombre": "Katun 24 - С86 Surgut - smotrim r24",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1",
-                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://katun24.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "c86-surgut": {
-        "nombre": "С86 Surgut",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rutube.ru/play/embed/813dc0c5a944559e7e52b840d09a84f6"
+                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1",
+                "https://rutube.ru/play/embed/813dc0c5a944559e7e52b840d09a84f6",
+                "https://sitv.ru/efir/86/",
+                "https://katun24.ru/",
+                "https://www.karusel-tv.ru/",
+                "https://smotrim.ru/channel/248?utm_source=external&utm_medium=player"
             ],
             "m3u8_url": [
                 "https://sitv.ru/hls/s86512.m3u8"
@@ -41509,7 +41227,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://sitv.ru/efir/86/",
+        "sitio_oficial": "https://vgtrk.ru/",
         "país": "ru",
         "categoría": "news"
     },
@@ -41519,12 +41237,10 @@
         "señales": {
             "iframe_url": [
                 "https://static.1tv.ru/eump/embeds/public_live.html?interactive=yes&__paranja=yes&__location=http://tvin.su/&__dvr=yes",
-                "https://www.livehdtv.com/embed/channel-one/"
+                "https://www.livehdtv.com/embed/channel-one/",
+                "https://www.1tv.ru/"
             ],
-            "m3u8_url": [
-                "https://stream2.cinerama.uz/1214/index.m3u8",
-                "https://stream1.cinerama.uz/1214/index.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41534,50 +41250,21 @@
         "país": "ru",
         "categoría": "news"
     },
-    "channel-one-mas-one": {
-        "nombre": "Canal 1+1 UA TV",
+    "КТК-Казахстан-vkt-1-channel-one-mas-one": {
+        "nombre": "Canal 1+1 UA TV - VKT (Russia) - КТК Казахстан (Russia)",
         "logo": "http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/1_plus_1_ua_tv-logotip.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "/players/wms.php?target=http://live1.trkcrimea.ru/1tvcrimea.m3u8",
+                "http://tvin.su/players/wms.php?target=http://live1.trkcrimea.ru/1tvcrimea.m3u8",
+                "http://tvin.su/view-tv-online/1-plus-1",
+                "http://www.freeintertv.com/view/id-3369/1-1-0-1",
+                "https://smotret.tv/ktk",
+                "http://ip.tivix.co/116306-stslove.html",
+                "http://ip.tivix.co/320-sarafan.html"
+            ],
             "m3u8_url": [
                 "http://tvin.su/players/wms.php?target=http://live1.trkcrimea.ru/1tvcrimea.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tvin.su/view-tv-online/1-plus-1",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vgtrk": {
-        "nombre": "VGTRK RU",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
-        "señales": {
-            "iframe_url": [
-                "https://player.smotrim.ru/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/",
-                "https://player.smotrim.ru/iframe/live/id/19201/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rk/",
-                "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/",
-                "https://player.smotrim.ru/iframe/live/id/2961/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vgtrk.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vkt-1": {
-        "nombre": "VKT (Russia)",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41588,55 +41275,24 @@
         "país": "ru",
         "categoría": "news"
     },
-    "КТК-Казахстан": {
-        "nombre": "КТК Казахстан (Russia)",
-        "logo": "https://100tv.uz/images/logo-channel/ktk-tv.png",
-        "señales": {
-            "iframe_url": [
-                "https://100tv.uz/assets/js/player/ktk-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://100tv.uz/ktk-tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "Nevermoarr-1": {
-        "nombre": "Nevermoarr",
+    "HTV-ntv-1": {
+        "nombre": "ntv - HTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://live.vkplay.ru/app/embed/nevermoarr",
-                "https://live.vkplay.ru/app/embed/chadimm",
-                "https://live.vkplay.ru/app/embed/kostmurz",
-                "https://live.vkplay.ru/app/embed/galdenteam",
-                "https://live.vkplay.ru/app/embed/symkun",
-                "https://live.vkplay.ru/app/embed/gargan24"
+                "https://televizor24tochka.ru/tv/ntv.html",
+                "http://tvin.su/view-tv-online/ntv-online",
+                "http://ip.tivix.co/115506-telekanal-ntv.html",
+                "https://glaz.tv/online-tv/ntv",
+                "https://www.ntv.ru/air/ntvseries",
+                "https://live.vkplay.ru/category/3c6b4b27-75f2-49c4-b967-f15aa88e2038"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://live.vkplay.ru/category/3c6b4b27-75f2-49c4-b967-f15aa88e2038",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "ntv-1": {
-        "nombre": "ntv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8",
                 "https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8",
                 "https://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8",
-                "https://cdn.ntv.ru/ntv0_foreign/index.m3u8?filter.tracks=v2v1a1l1t1"
+                "https://cdn.ntv.ru/ntv0_foreign/index.m3u8?filter.tracks=v2v1a1l1t1",
+                "https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41647,46 +41303,15 @@
         "país": "ru",
         "categoría": "news"
     },
-    "htv-1": {
-        "nombre": "HTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ntv.ru/air/ntvseries",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vmeste-rf-1": {
-        "nombre": "vmeste rf",
+    "kaskad-tv-kaliningrad-vmeste-rf-1": {
+        "nombre": "Каскад ТВ Калининград - vmeste rf",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vk.com/video_ext.php?oid=-49303888&id=456250868&hash=a0dc299c7c880b7e&hd=2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vmeste-rf.tv/live/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "kaskad-tv-kaliningrad": {
-        "nombre": "Каскад ТВ Калининград",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rutube.ru/play/embed/6a21b60f8fe268fc76e5d6a97758db70"
+                "https://rutube.ru/play/embed/6a21b60f8fe268fc76e5d6a97758db70",
+                "https://vits.tv/en/tv-online/kaskad-tv-kaliningrad/",
+                "https://vk.com/video_ext.php?oid=-49303888&id=456250868&hash=a0dc299c7c880b7e&hd=2",
+                "https://vmeste-rf.tv/live/"
             ],
             "m3u8_url": [
                 "https://media.kgd.ru:11936/kaskad2/tv.m3u8"
@@ -41700,14 +41325,19 @@
         "país": "ru",
         "categoría": "news"
     },
-    "M24-1": {
-        "nombre": "M24",
+    "M24-1-Rbc-1-tvzvezda-1": {
+        "nombre": "M24 - Rbc - TVZvezda",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.m24.ru/tv"
+                "https://www.m24.ru/tv",
+                "https://tv.rbc.ru/",
+                "https://tvzvezda.ru/video"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=rx9bpN",
+                "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41717,48 +41347,17 @@
         "país": "ru",
         "categoría": "news"
     },
-    "Rbc-1": {
-        "nombre": "Rbc",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=rx9bpN"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.rbc.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "tvzvezda-1": {
-        "nombre": "tvzvezda",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-            ],
-            "m3u8_url": [
-                "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvzvezda.ru/video",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "rtrplaneta-1": {
-        "nombre": "rtr planeta",
+    "kultura-channel-1-rtrplaneta-1-Настоящее-Время": {
+        "nombre": "Rtr planeta - kultura channel - Настоящее Время",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://player.smotrim.ru/iframe/live/uid/d7fef212-df66-485d-9952-7eab82d7d51b/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/",
-                "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/"
+                "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/",
+                "https://vgtrk.ru/rtrplaneta",
+                "https://rustv.live/main/kultura-channel.html",
+                "https://www.currenttime.tv/live/video/92",
+                "https://www.currenttime.tv/embed/player/1/92.html?type=video"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -41805,59 +41404,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vgtrk.ru/russia24",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "Настоящее-Время": {
-        "nombre": "Настоящее Время",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.currenttime.tv/embed/player/1/92.html?type=video"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.currenttime.tv/live/video/92",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "1tv-1": {
-        "nombre": "1tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/8104126389806?autoplay=1&nochat=1",
-                "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
-                "https://static.1tv.ru/eump/embeds/1tv_live.html?__paranja=yes&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.1tv.ru/live",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "kultura-channel-1": {
-        "nombre": "kultura channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://s1.kremlin.media/newchannel/kultura/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustv.live/main/kultura-channel.html",
         "país": "ru",
         "categoría": "news"
     },
