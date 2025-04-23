@@ -41167,7 +41167,7 @@
         "señales": {
             "iframe_url": [
                 "http://ip.viks.tv/498-tv-xxi.html",
-                "http://ip.viks.tv/386-viasat-explorer-tv.html",
+                "http://ip.viks.tv/386-viasat-explorer-tv.html"
             ],
             "m3u8_url": [
                 "https://a5.pokaz.me/cdnQAX_3qSqkcowHiehX0g/133/1734209663/index.m3u8",
@@ -41757,46 +41757,19 @@
         "país": "ru",
         "categoría": "news"
     },
-    "katun-24": {
-        "nombre": "katun 24",
+    "domashniy-5-tv-katun-24-otr-online": {
+        "nombre": "Domashniy - 5 tv - katun 24 - Otr",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1",
-                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1"
+                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1",
+                "https://rustvlive.com/main/5-tv.html",
+                "https://katun24.ru/k24",
+                "https://rutube.ru/play/embed/faa934385b83f9e8a92f5484defae5fa/",
+                "https://rutube.ru/play/embed/faa934385b83f9e8a92f5484defae5fa/",
+                "https://rustv.live/main/otr-online.html"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://katun24.ru/k24",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "5-tv": {
-        "nombre": "5 tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://serv30.vintera.tv:443/restream/5ch/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustvlive.com/main/5-tv.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "domashniy": {
-        "nombre": "Domashniy",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://serv30.vintera.tv:443/provider/domashnij/playlist.m3u8"
             ],
@@ -41809,33 +41782,20 @@
         "país": "ru",
         "categoría": "news"
     },
-    "otr-online": {
-        "nombre": "Otr Online",
+    "spas-online-rbc-karusel": {
+        "nombre": "spas - RBC 2 - karusel2",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/play/embed/faa934385b83f9e8a92f5484defae5fa/",
-                "https://rutube.ru/play/embed/faa934385b83f9e8a92f5484defae5fa/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustv.live/main/otr-online.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "rbc": {
-        "nombre": "RBC 2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/301694721777?autoplay=1"
+                "https://ok.ru/videoembed/301694721777?autoplay=1",
+                "https://rustv.live/main/spas-online.html",
+                "https://rustv.live/main/rbc-online.html",
+                "https://rustvlive.com/main/karusel.html",
+                "https://kremlin.media/channel/karusel_o/"
             ],
             "m3u8_url": [
-                "https://online-video.rbc.ru/spb/3/chunklist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDM6MDMgUE0maGFzaF92YWx1ZT1KdU1SUFBxU1k3OUdvVXF5M0M4V2xRPT0mdmFsaWRtaW51dGVzPTE0NDA="
+                "https://online-video.rbc.ru/spb/3/chunklist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDM6MDMgUE0maGFzaF92YWx1ZT1KdU1SUFBxU1k3OUdvVXF5M0M4V2xRPT0mdmFsaWRtaW51dGVzPTE0NDA=",
+                "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDY6NTAgUE0maGFzaF92YWx1ZT14Y2luWDAxUWUwSXAyczQvSEtRdHBnPT0mdmFsaWRtaW51dGVzPTE0NDA="
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41846,84 +41806,19 @@
         "país": "ru",
         "categoría": "news"
     },
-    "spas-online": {
-        "nombre": "spas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDY6NTAgUE0maGFzaF92YWx1ZT14Y2luWDAxUWUwSXAyczQvSEtRdHBnPT0mdmFsaWRtaW51dGVzPTE0NDA="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustv.live/main/spas-online.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "karusel": {
-        "nombre": "karusel2",
-        "logo": "/images/bg_tv/bg_tv_karusel.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://kremlin.media/channel/karusel_o/"
-            ],
-            "m3u8_url": [
-                "https://player.smotrim.ru/iframe/stream/live_id/61126?e=.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDQ6MjcgUE0maGFzaF92YWx1ZT00cjNWMmQ0V3BNWlNXVFB4YUZzV2RRPT0mdmFsaWRtaW51dGVzPTE0NDA="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustvlive.com/main/karusel.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "muz-tv": {
-        "nombre": "muz tv",
+    "muz-tv-trk-ryazan-yugra": {
+        "nombre": "muz tv -trk-ryazan - trk ryazan - yugra",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://ok.ru/videoembed/2500581596714?autoplay=1&nochat=1",
-                "https://ok.ru/videoembed/2500581596714?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rustv.live/main/muz-tv-online.html",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "yugra": {
-        "nombre": "yugra",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
+                "https://ok.ru/videoembed/2500581596714?autoplay=1",
+                "https://rustv.live/main/muz-tv-online.html",
+                "https://playercdn.cdnvideo.ru/aloha/players/tkr_html5.html",
+                "https://www.tkr.su/",
                 "https://rutube.ru/play/embed/360eabf2bf139f0a97b971c4b92d09b6?autoplay=1",
-                "https://rutube.ru/play/embed/360eabf2bf139f0a97b971c4b92d09b6"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ugra-tv.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "trk-ryazan": {
-        "nombre": "trk ryazan",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://playercdn.cdnvideo.ru/aloha/players/tkr_html5.html"
+                "https://rutube.ru/play/embed/360eabf2bf139f0a97b971c4b92d09b6",
+                "https://ugra-tv.ru/"
             ],
             "m3u8_url": [
                 "https://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
@@ -41933,34 +41828,22 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tkr.su/",
+        "sitio_oficial": "https://rustv.live/main/muz-tv-online.html",
         "país": "ru",
         "categoría": "news"
     },
-    "kuban-24": {
-        "nombre": "Kuban 24",
+    "pervyy-yaroslavskiy-kuban-24-enisey": {
+        "nombre": "Первый Ярославский - Kuban 24 - Енисей",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://newapp.bonus-tv.ru/player/?link=https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
                 "https://ok.ru/videoembed/4157442498242?autoplay=1",
-                "https://ok.ru/videoembed/4157442498242?nochat=1&autoplay=1&mute=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://kuban24.tv/tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "pervyy-yaroslavskiy": {
-        "nombre": "Первый Ярославский",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://newapp.bonus-tv.ru/player/?link=https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
+                "https://ok.ru/videoembed/4157442498242?nochat=1&autoplay=1&mute=0",
+                "https://kuban24.tv/tv",
+                "https://rutube.ru/play/embed/13736346",
+                "https://www.enisey.tv/",
+                "https://rutube.ru/play/embed/13736346"
             ],
             "m3u8_url": [
                 "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
@@ -41974,30 +41857,15 @@
         "país": "ru",
         "categoría": "news"
     },
-    "enisey": {
-        "nombre": "Енисей",
+    "49-kanal-novosibirsk-novgorod-tv": {
+        "nombre": "49 Канал Novosibirsk - Novgorod Region",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/play/embed/13736346",
-                "https://rutube.ru/play/embed/13736346"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.enisey.tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "49-kanal-novosibirsk": {
-        "nombre": "49 Канал Novosibirsk",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://newapp.bonus-tv.ru/player/?link=https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8"
+                "https://nsk49.ru/",
+                "https://newapp.bonus-tv.ru/player/?link=https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8",
+                "https://novgorod-tv.ru/",
+                "https://ok.ru/videoembed/864602693200?nochat=1&autoplay=1"
             ],
             "m3u8_url": [
                 "https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8"
@@ -42011,31 +41879,21 @@
         "país": "ru",
         "categoría": "news"
     },
-    "novgorod-tv": {
-        "nombre": "Novgorod Region",
+    "atv-stavropol-aist-tv-irkutsk-vestnik-nadyma": {
+        "nombre": "АТВ Ставрополь - Cigüeña TV - Вестник Надыма",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/videoembed/864602693200?nochat=1&autoplay=1"
+                "https://atvmedia.ru/",
+                "https://vits.tv/en/tv-online/aist-tv-irkutsk/",
+                "https://playercdn.cdnvideo.ru/aloha/players/basic_player1.html?account=ixhwk6ajei&source=//0werof7ib0p.a.trbcdn.net/livemaster/4ravg_live-trknadym.smil/playlist.m3u8&su=true",
+                "https://trknadym.ru/"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://novgorod-tv.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "atv-stavropol": {
-        "nombre": "АТВ Ставрополь",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://hls.atvmedia.ru/https_atv800.m3u8",
-                "https://hls.atvmedia.ru:443/https_atv800.m3u8"
+                "https://hls.atvmedia.ru:443/https_atv800.m3u8",
+                "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
+                "https://0werof7ib0p.a.trbcdn.net/livemaster/4ravg_live-trknadym.smil/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -42046,69 +41904,22 @@
         "país": "ru",
         "categoría": "news"
     },
-    "aist-tv-irkutsk": {
-        "nombre": "Cigüeña TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/aist-tv-irkutsk/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vestnik-nadyma": {
-        "nombre": "Вестник Надыма",
+    "vetta-24-centr-krasnoyarsk-vtk-41-argus": {
+        "nombre": "VETTA 24 - Центр Красноярск - ВТК 41 АРГУС",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://playercdn.cdnvideo.ru/aloha/players/basic_player1.html?account=ixhwk6ajei&source=//0werof7ib0p.a.trbcdn.net/livemaster/4ravg_live-trknadym.smil/playlist.m3u8&su=true"
+                "https://rutube.ru/play/embed/3053eeaecc60e0adef57b81d3498fdd0",
+                "https://vetta.tv/",
+                "https://www.tck.tv/",
+                "https://playercdn.cdnvideo.ru/aloha/players/basic_player1.html?account=kane7qusyo&source=//4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8",
+                "https://41-tv.ru/pryamoj-efir"
             ],
-            "m3u8_url": [
-                "https://0werof7ib0p.a.trbcdn.net/livemaster/4ravg_live-trknadym.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://trknadym.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vetta-24": {
-        "nombre": "VETTA 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rutube.ru/play/embed/3053eeaecc60e0adef57b81d3498fdd0"
-            ],
-            "m3u8_url": [
-                "https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vetta.tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "centr-krasnoyarsk": {
-        "nombre": "Центр Красноярск",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://stream.tck.tv/hd.m3u8",
-                "https://stream.tck.tv/hd.m3u8"
+                "https://stream.tck.tv/hd.m3u8",
+                "https://serv24.vintera.tv/vetta/vetta_office/playlist.m3u8",
+                "https://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -42119,49 +41930,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "vtk-41-argus": {
-        "nombre": "ВТК 41 АРГУС",
+    "krasnodar-mig-tv-Tatarstan-24": {
+        "nombre": "Миг ТВ Ноябрьск - Краснодар - Tatarstan 24",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://playercdn.cdnvideo.ru/aloha/players/basic_player1.html?account=kane7qusyo&source=//4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8"
-            ],
-            "m3u8_url": [
-                "https://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://41-tv.ru/pryamoj-efir",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "krasnodar": {
-        "nombre": "Краснодар",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
+                "https://ok.ru/videoembed/7358916271867",
+                "https://tvmig.ru/stream/",
                 "https://playercdn.cdnvideo.ru/aloha/players/tvkrasnodar_social_player.html",
-                "https://playercdn.cdnvideo.ru/aloha/players/basic_player_tvkrasnodar_soc.html?account=4tslvk26cs&source=//live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvkrasnodar.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "mig-tv": {
-        "nombre": "Миг ТВ Ноябрьск",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/7358916271867"
+                "https://playercdn.cdnvideo.ru/aloha/players/basic_player_tvkrasnodar_soc.html?account=4tslvk26cs&source=//live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8",
+                "https://tvkrasnodar.ru/",
+                "https://rutube.ru/play/embed/96f519958f12f33dc3539dbf9ee0a312",
+                "https://vits.tv/en/tv-online/tatarstan-24/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -42173,49 +41953,21 @@
         "país": "ru",
         "categoría": "news"
     },
-    "Tatarstan-24": {
-        "nombre": "Tatarstan 24",
+    "12-kanal-omsk-nizhniy-novgorod-24-trk-bratsk": {
+        "nombre": "12 Канал Омск - Нижний Новгород 24 - ТРК Братск",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/play/embed/96f519958f12f33dc3539dbf9ee0a312"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/tatarstan-24/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "nizhniy-novgorod-24": {
-        "nombre": "Нижний Новгород 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://playercdn.cdnvideo.ru/aloha/players/vestinn_khl_player.html"
+                "https://playercdn.cdnvideo.ru/aloha/players/vestinn_khl_player.html",
+                "https://vits.tv/en/tv-online/12-kanal-omsk/",
+                "https://vestinn.ru/online/nn24/",
+                "https://ok.ru/videoembed/3753863290382?autoplay=1",
+                "https://ok.ru/videoembed/3753863290382",
+                "https://trk-bratsk.tv/"
             ],
             "m3u8_url": [
+                "https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8",
                 "https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vestinn.ru/online/nn24/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "12-kanal-omsk": {
-        "nombre": "12 Канал Омск",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -42226,66 +41978,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "trk-bratsk": {
-        "nombre": "ТРК Братск",
+    "telplyus-ntrk-ingushetia-sochi-24": {
+        "nombre": "Телплюс - НТРК Ingushetia - SOCHI 24",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/videoembed/3753863290382?autoplay=1",
-                "https://ok.ru/videoembed/3753863290382"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://trk-bratsk.tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "ntrk-ingushetia": {
-        "nombre": "НТРК Ingushetia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://newapp.bonus-tv.ru/player/?link=https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
+                "https://newapp.bonus-tv.ru/player/?link=https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
+                "https://vits.tv/en/tv-online/telplyus/",
+                "https://sochi24.tv/"
             ],
             "m3u8_url": [
-                "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://magas.tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "telplyus": {
-        "nombre": "Телплюс",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/telplyus/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "sochi-24": {
-        "nombre": "SOCHI 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
+                "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
+                "https://streaming.astrakhan.ru/telplushd/playlist.m3u8",
                 "https://serv30.vintera.tv/sochi/sochi24_tv/chunks.m3u8",
                 "https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8"
             ],
@@ -42294,7 +41998,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://sochi24.tv/",
+        "sitio_oficial": "https://magas.tv/",
         "país": "ru",
         "categoría": "news"
     },
