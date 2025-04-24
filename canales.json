@@ -28293,26 +28293,34 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-english": {
-        "nombre": "Vatican News English",
+    "vatican-news-english-rsi-la-2": {
+        "nombre": "Vatican News English- RSI LA2",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://uaznao.com/lv/rsila2.php",
+                "https://uaznao.com/rsi-la-2-in-diretta-streaming/",
+                "https://uaznao.com/rsi-la-1-in-diretta-streaming/",
+                "https://uaznao.com/guarda-tele-ticino-in-diretta-streaming-gratis-dallestero/",
+                "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2"
+            ],
             "m3u8_url": [],
             "yt_id": "UCxIsefyl9g9A5SGWA4FvGIA",
             "yt_embed": "",
-            "yt_playlist": "",
+            "yt_playlist": 
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.vaticannews.va/en.html",
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-español": {
-        "nombre": "Vatican News Español",
+    "vatican-news-español-rtv-san-marino": {
+        "nombre": "Vatican News Español - RTV (San Marino TV)",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://uaznao.com/guarda-rtv-san-marino-tv-in-diretta-streaming-gratis-dallestero/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCnB5vfb9FMMNTnC6-kAT3fQ",
             "yt_embed": "",
@@ -28323,12 +28331,16 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-italiano": {
-        "nombre": "Vatican News Italiano",
+    "vatican-news-italiano-tv-capodistria-koper": {
+        "nombre": "Vatican News Italiano - TV Koper Capodistria",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://www.rtvslo.si/tv-capodistria/tv-in-diretta"
+            ],
+            "m3u8_url": [
+                "https://cdn-live.rtvslo.si/hls/live/2099159/tvkp/hdntl=exp=1745595738~acl=%2f*~data=hdntl~hmac=e8f7a7544c514f2276fec70126951236ce22d40a3957d22727feda7e1c1f6903/tvkp_1080p_pl.m3u8"
+            ],
             "yt_id": "UCkwbN2a1L1H6P9rcA7FhAqg",
             "yt_embed": "",
             "yt_playlist": "",
@@ -28338,11 +28350,15 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-portugues": {
-        "nombre": "Vatican News Português",
+    "vatican-news-portugues-alma-tv": {
+        "nombre": "Vatican News Português- Alma TV",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://uaznao.com/guarda-alma-tv-in-diretta-streaming-gratis-dallestero/",
+                "https://okteve.com/alma-tv-live/",
+                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UCGYSq4b4DXmtK4jyq6r-FYg",
             "yt_embed": "",
@@ -28353,11 +28369,15 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-frances": {
-        "nombre": "Vatican News Français",
+    "vatican-news-frances-equ-tv-in-diretta-streaming": {
+        "nombre": "Vatican News Français - EQUtv",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://uaznao.com/equ-tv-in-diretta-streaming/",
+                "https://uaznao.com/casa-italia-53-in-diretta-streaming-gratis/",
+                "https://www.youtube.com/@EQUTVOfficial/streams"
+            ],
             "m3u8_url": [],
             "yt_id": "UCQxVySG5g2aC-Uz9NhpyiFg",
             "yt_embed": "",
@@ -28368,11 +28388,16 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-aleman": {
-        "nombre": "Vatican News Deutsch",
+    "vatican-news-aleman-euro-tv": {
+        "nombre": "Vatican News Deutsch - Euro TV",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.eurotvitalia.it/player2.html",
+                "https://uaznao.com/guarda-euro-tv-in-diretta-streaming-gratis-dallestero/",
+                "https://uaznao.com/explorer-tv-in-diretta-streaming/",
+                "https://eurotvitalia.blogspot.com/2021/06/euro-tv-e-una-tv-generalista-per-tutta.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UC4ndSG692MXx_zZlIKMYsdg",
             "yt_embed": "",
@@ -28383,11 +28408,14 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-polaco": {
-        "nombre": "Vatican News Polski",
+    "vatican-news-polaco-parole-di-vita": {
+        "nombre": "Vatican News Polski - Parole di vita",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://uaznao.com/guarda-parole-di-vita-in-diretta-streaming-gratis-dallestero/",
+                "https://www.paroledivita.org/guarda"
+            ],
             "m3u8_url": [],
             "yt_id": "UCShH-YDtaUQH0Zvmg_6bKJQ",
             "yt_embed": "",
@@ -28398,11 +28426,15 @@
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-vietnamita": {
-        "nombre": "Vatican News Tiếng Việt",
+    "vatican-news-vietnamita-tci-in-diretta": {
+        "nombre": "Vatican News Tiếng Việt - TCI",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tci-italia.it/",
+                "https://cdn.jwplayer.com/players/NXTAdMkM-Py02fGgE.html",
+                "https://uaznao.com/guarda-tci-in-diretta-streaming-gratis-dallestero/"
+            ],
             "m3u8_url": [],
             "yt_id": "UC1HuzI97H8M5bI3Wl6wKdvA",
             "yt_embed": "",
@@ -28413,131 +28445,84 @@
         "país": "it",
         "categoría": "religious"
     },
-    "FLTelevision-news": {
-        "nombre": "FLTelevision",
+    "FLTelevision-news-siciliauno-tv": {
+        "nombre": "FL Television (IT) - in Diretta Streaming - Siciliauno TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.fltelevision.it/home/",
+                "https://www.twitch.tv/siciliauno"
+            ],
             "m3u8_url": [
                 "https://rst.saiuzwebnetwork.it:8081/fiestaloca/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "siciliauno"
         },
         "sitio_oficial": "https://www.coolstreaming.us/channelnew/it/73526/FLTelevision.html",
         "país": "it",
         "categoría": "religious"
     },
-    "Rete8-Abruzzo": {
-        "nombre": "Rete8 Abruzzo ",
+    "Rete8-Abruzzo-web-madonie-tv": {
+        "nombre": "Rete8 Abruzzo - Web Madonie TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.rete8.it/canali-tv/rete8/",
+                "https://www.twitch.tv/web_madonietv"
+            ],
             "m3u8_url": [
                 "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "web_madonietv"
         },
         "sitio_oficial": "https://www.coolstreaming.us/categorylg/it/5.html",
         "país": "it",
         "categoría": "religious"
     },
-    "vatican-news-chino": {
-        "nombre": "Vatican News 中文",
+    "vatican-news-chino-wedding-tv-tv-valjevoplus": {
+        "nombre": "Vatican News 中文 - Wedding TV - TV Valjevoplus",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://uaznao.com/wedding-tv-in-diretta-streaming-gratis/",
+                "https://www.weddingtv.it/tv-live/",
+                "https://www.twitch.tv/tvvaljevoplus"
+            ],
             "m3u8_url": [],
             "yt_id": "UCRvmnuS6-wC2ZkAjh2tNK7w",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "tvvaljevoplus"
         },
         "sitio_oficial": "https://www.vaticannews.va/en.html",
         "país": "it",
         "categoría": "religious"
     },
-    "norbaonline": {
-        "nombre": "norbaonline",
+    "norbaonline-teleiblea-tv": {
+        "nombre": "Norbaonline - Teleiblea TV",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://play.norbaonline.it/diretta",
+                "https://norbaonline.it/",
                 "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
                 "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGVsZW5vcmJhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ=="
+                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ==",
+                "https://www.twitch.tv/teleiblea"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://norbaonline.it/",
-        "país": "it",
-        "categoría": "news"
-    },
-    "tv-valjevoplus": {
-        "nombre": "TV Valjevoplus ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvvaljevoplus"
-        },
-        "sitio_oficial": "https://www.twitch.tv/tvvaljevoplus",
-        "país": "it",
-        "categoría": "news"
-    },
-    "teleiblea-tv": {
-        "nombre": "Teleiblea TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "teleiblea"
         },
-        "sitio_oficial": "https://www.twitch.tv/teleiblea",
-        "país": "it",
-        "categoría": "news"
-    },
-    "web-madonie-tv": {
-        "nombre": "Web Madonie TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "web_madonietv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/web_madonietv",
-        "país": "it",
-        "categoría": "news"
-    },
-    "siciliauno-tv": {
-        "nombre": "Siciliauno TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "siciliauno"
-        },
-        "sitio_oficial": "https://www.twitch.tv/siciliauno",
+        "sitio_oficial": "https://norbaonline.it/",
         "país": "it",
         "categoría": "news"
     },
@@ -28916,42 +28901,14 @@
         "país": "it",
         "categoría": "news"
     },
-    "Soveratouno-tv": {
-        "nombre": "Soveratouno TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "soveratounotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/soveratounotv",
-        "país": "it",
-        "categoría": "news"
-    },
-    "etna-channel-tv": {
-        "nombre": "Etna Channel TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "etnachanneltv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/etnachanneltv",
-        "país": "it",
-        "categoría": "news"
-    },
-    "Anita-tv": {
-        "nombre": "Anita TV",
+    "Anita-tv-etna-channel-tv": {
+        "nombre": "Anita TV - Etna Channel TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cp.horusplayer.com/embed/anitatv/live"
+                "https://cp.horusplayer.com/embed/anitatv/live",
+                "https://anitatv.it/",
+                "https://www.twitch.tv/etnachanneltv"
             ],
             "m3u8_url": [
                 "https://srvx1.selftv.video/anitatv/live/playlist.m3u8"
@@ -28959,18 +28916,20 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "etnachanneltv"
         },
         "sitio_oficial": "https://anitatv.it/",
         "país": "it",
         "categoría": "news"
     },
-    "orler-tv": {
-        "nombre": "Orler",
+    "orler-tv-Soveratouno-tv": {
+        "nombre": "Orler - Soveratouno TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.orler.it/orlerstreaming/indexneworler.php"
+                "https://www.orler.it/orlerstreaming/indexneworler.php",
+                "https://www.orler.it/streamingtv/",
+                "https://www.twitch.tv/soveratounotv"
             ],
             "m3u8_url": [
                 "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
@@ -28978,14 +28937,14 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "soveratounotv"
         },
         "sitio_oficial": "https://www.orler.it/streamingtv/",
         "país": "it",
         "categoría": "news"
     },
     "i-news-tv": {
-        "nombre": " I NEWS",
+        "nombre": "I NEWS",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -29005,7 +28964,9 @@
         "nombre": "Samarra",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.samarra.tv/?page_id=17242"
+            ],
             "m3u8_url": [
                 "http://212.18.233.19:1935/samarra/samarra/playlist.m3u8"
             ],
