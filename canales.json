@@ -27957,11 +27957,13 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
         "señales": {
             "iframe_url": [
+                "https://ok.ru/video/9295668190948",
+                "https://uaznao.com/tv8-in-diretta-streaming/",
+                "https://www.filmon.com/channel/teos-tv",
                 "https://video.sky.it/diretta/tg24",
                 "https://www.tv8.it/streaming",
                 "https://webserver.one/Live/Tv_8_Online.php",
-                "https://www.cielotv.it/streaming",
-                "https://www.filmon.com/channel/teos-tv"
+                "https://www.cielotv.it/streaming"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -28130,13 +28132,15 @@
         "país": "it",
         "categoría": "news"
     },
-    "Radio-105-TV": {
-        "nombre": "BOM CHANNEL",
+    "Radio-105-TV-OndaTv": {
+        "nombre": "BOM CHANNEL - OndaTv",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png",
         "señales": {
             "iframe_url": [
                 "https://www.tvdream.net/web-tv/bomchannel/",
-                "https://www.105.net/sezioni/12038/tv"
+                "https://www.105.net/sezioni/12038/tv",
+                "https://dlive.tv/Onda_Tv",
+                "https://www.ondatv.tv/"
             ],
             "m3u8_url": [
                 "https://5f22d76e220e1.streamlock.net:443/canale6/canale6/playlist.m3u8"
