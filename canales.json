@@ -47026,7 +47026,7 @@
         "señales": {
             "iframe_url": [
                 "https://emisoras.almacomunica.com/server-stream-video-widget/alma",
-                "https://canalalma.tv/",
+                "https://canalalma.tv/"
             ],
             "m3u8_url": [
                 "https://emisoras.almacomunica.com:3681/stream/play.m3u8"
