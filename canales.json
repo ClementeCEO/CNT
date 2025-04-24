@@ -27925,6 +27925,8 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
         "señales": {
             "iframe_url": [
+                "https://uaznao.com/lv/la7.php",
+                "https://uaznao.com/guarda-la7-in-diretta-streaming-gratis-dallestero/",
                 "https://www.canale7.tv/",
                 "https://www.la7.it/",
                 "https://www.retetvitalia.it/#google_vignette",
@@ -27933,8 +27935,7 @@
                 "https://www.ondatv.tv/#google_vignette",
                 "https://www.la7.it/live-la7d",
                 "https://tvavicenza.gruppovideomedia.it/it/live/",
-                "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html",
-                "https://www.vatican.va/content/vatican/it.html"
+                "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html"
             ],
             "m3u8_url": [
                 "https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8",
@@ -27943,7 +27944,7 @@
                 "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
                 "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
             ],
-            "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "https://www.vatican.va/content/vatican/it.html"
@@ -27957,7 +27958,6 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/video/9295668190948",
                 "https://uaznao.com/tv8-in-diretta-streaming/",
                 "https://www.filmon.com/channel/teos-tv",
                 "https://video.sky.it/diretta/tg24",
@@ -28003,9 +28003,9 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",
         "señales": {
             "iframe_url": [
+                "https://www.altoadigetv.it/live.php",
                 "https://diretta.tv2000.it/?channel=tv2000_live",
                 "https://www.tv2000.it/live/",
-                "https://www.altoadigetv.it/live.php",
                 "https://www.dr.dk/drtv/kanal/dr1_20875",
                 "https://3news.com/live/tv3/#google_vignette",
                 "https://www.weo.fr/direct/",
@@ -28111,11 +28111,11 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png",
         "señales": {
             "iframe_url": [
+                "https://www.teleone.it/chi-siamo/teleone-diretta-tv/",
                 "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
                 "https://www.primatv.tv/lo-streaming-di-prima-tv/",
                 "https://www.tvdream.net/web-tv/la-tr3-marsala-live/",
                 "https://latr3.it/#",
-                "https://www.teleone.it/chi-siamo/teleone-diretta-tv/",
                 "https://www.telejato.it/#",
                 "https://www.tvrxenon.it/",
                 "https://tv.rtsh.al/kanalet/rtsh-film"
@@ -28132,11 +28132,13 @@
         "país": "it",
         "categoría": "news"
     },
-    "Radio-105-TV-OndaTv": {
-        "nombre": "BOM CHANNEL - OndaTv",
+    "Radio-105-TV-OndaTv-canale-5": {
+        "nombre": "BOM CHANNEL - OndaTv - Canale-5",
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png",
         "señales": {
             "iframe_url": [
+                "https://uaznao.com/watch-canale-5-in-live-streaming/",
+                "https://dlive.tv/Fullhd01",
                 "https://www.tvdream.net/web-tv/bomchannel/",
                 "https://www.105.net/sezioni/12038/tv",
                 "https://dlive.tv/Onda_Tv",
@@ -28269,11 +28271,18 @@
         "país": "it",
         "categoría": "news"
     },
-    "vatican-news": {
-        "nombre": "Vatican News",
+    "vatican-news-tv1sulmona-": {
+        "nombre": "Vatican News - Tv1sulmona",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tv1.it/",
+                "https://dlive.tv/Tv1Sulmona",
+                "https://www.tv1sulmona.tv/",
+                "https://uaznao.com/lv/samsungtv/home.php",
+                "https://uaznao.com/supersix-in-diretta-streaming-gratis-anche-allestero/",
+                "https://www.vatican.va/content/vatican/it.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
             "yt_embed": "",
