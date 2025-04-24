@@ -41855,7 +41855,7 @@
         "logo": "http://epg.it999.ru/img/2541.png",
         "señales": {
             "iframe_url": [
-                "https://www.twitch.tv/chiganash_tv",
+                "https://www.twitch.tv/chiganash_tv"
             ],
             "m3u8_url": [
                 "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b1460000_sleng.m3u8"
