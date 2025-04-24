@@ -41482,14 +41482,22 @@
         "país": "ru",
         "categoría": "news"
     },
-    "ort-orenburg": {
-        "nombre": "ort orenburg",
+    "ort-orenburg-volga-24-yakutiya-24": {
+        "nombre": "ort orenburg - volga 24 - yakutiya 24",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/play/embed/02fb6df9e349e16a606530b25905a1f5"
+                "https://rutube.ru/play/embed/02fb6df9e349e16a606530b25905a1f5",
+                "https://vits.tv/en/tv-online/ort-orenburg/",
+                "https://www.volga-tv.ru/live/",
+                "https://playercdn.cdnvideo.ru/aloha/players/auto_player1.html?clid=zlaufqcpos&plid=020e7aab-a7d5-4a88-9d43-1bb006fb4619",
+                "https://yk24.ru/live2/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8",
+                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
+                "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41499,84 +41507,18 @@
         "país": "ru",
         "categoría": "news"
     },
-    "volga-24": {
-        "nombre": "volga 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8",
-                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.volga-tv.ru/live/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "yakutiya-24": {
-        "nombre": "yakutiya 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://playercdn.cdnvideo.ru/aloha/players/auto_player1.html?clid=zlaufqcpos&plid=020e7aab-a7d5-4a88-9d43-1bb006fb4619"
-            ],
-            "m3u8_url": [
-                "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://yk24.ru/live2/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "vsya-ufa": {
-        "nombre": "allufa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vk.com/video_ext.php?oid=-23300507&id=456258211&hd=2&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://allufa.ru/live/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "nika-tv2": {
-        "nombre": "nika tv2",
+    "nika-tv2-vsya-ufa-novyj-vek": {
+        "nombre": "nika tv2 - allufa - Novyj-vek",
         "logo": "https://nikatv.ru/public/img/online-efir3.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.m3u8?hls_proxy_host=eccfed78b7e7483ac1ac4de244dd07cd",
+                "https://vits.tv/en/tv-online/nika-tv/",
+                "https://allufa.ru/live/",
+                "https://tvtambov.ru/novyj-vek-online/"
+            ],
             "m3u8_url": [
                 "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
-                "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.m3u8?hls_proxy_host=eccfed78b7e7483ac1ac4de244dd07cd"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/nika-tv/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "novyj-vek": {
-        "nombre": "novyj-vek",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
                 "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/playlist.m3u8",
                 "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
             ],
@@ -41585,7 +41527,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://tvtambov.ru/novyj-vek-online/",
+        "sitio_oficial": "https://vits.tv/en/tv-online/nika-tv/",
         "país": "ru",
         "categoría": "news"
     },
@@ -41834,47 +41776,19 @@
         "país": "ru",
         "categoría": "news"
     },
-    "mtv-volgograd": {
-        "nombre": "МТВ Волгоград",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
-                "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://xn--b1ats.xn--80asehdb/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "saratov-24": {
-        "nombre": "Саратов 24",
+    "saratov-24-mtv-volgograd-bryanskaya-guberniya": {
+        "nombre": "Саратов 24 - МТВ Волгоград - Брянская Губерния",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/play/embed/e07fffc5eb21f98a5ade09e825d7095a"
+                "https://rutube.ru/play/embed/e07fffc5eb21f98a5ade09e825d7095a",
+                "https://vits.tv/en/tv-online/saratov-24/",
+                "https://xn--b1ats.xn--80asehdb/",
+                "https://guberniya.tv/"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/saratov-24/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "bryanskaya-guberniya": {
-        "nombre": "Брянская Губерния",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
+                "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
+                "https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8",
                 "https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8",
                 "https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8",
                 "https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8"
@@ -41884,35 +41798,23 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://guberniya.tv/",
+        "sitio_oficial": "https://vits.tv/en/tv-online/saratov-24/",
         "país": "ru",
         "categoría": "news"
     },
-    "krasnodar": {
-        "nombre": "Reloj Krasnodar",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://playercdn.cdnvideo.ru/aloha/players/tvkrasnodar_social_player.html",
-                "https://playercdn.cdnvideo.ru/aloha/players/basic_player_tvkrasnodar_soc.html?account=4tslvk26cs&source=//live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvkrasnodar.ru/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "sreda-kaspiysk": {
-        "nombre": "Среда Каспийск",
+    "sreda-kaspiysk-krasnodar-kuzbass-1": {
+        "nombre": "Среда Каспийск - Reloj Krasnodar - Кузбасс 1",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://rutube.ru/play/embed/5fa486bf465c8735fff9f41b372610cc",
-                "https://rutube.ru/play/embed/5fa486bf465c8735fff9f41b372610cc"
+                "https://rutube.ru/play/embed/5fa486bf465c8735fff9f41b372610cc",
+                "https://sreda-company.ru/",
+                "https://playercdn.cdnvideo.ru/aloha/players/tvkrasnodar_social_player.html",
+                "https://playercdn.cdnvideo.ru/aloha/players/basic_player_tvkrasnodar_soc.html?account=4tslvk26cs&source=//live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8",
+                "https://tvkrasnodar.ru/",
+                "https://rutube.ru/play/embed/9a062a48812f5d2d0d5135c6ed9e4f33?autoplay=1",
+                "https://vits.tv/en/tv-online/kuzbass-1/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -41924,84 +41826,44 @@
         "país": "ru",
         "categoría": "news"
     },
-    "kuzbass-1": {
-        "nombre": "Кузбасс 1",
+    "programma-tv-zktvtv-tv-currenttime-tv": {
+        "nombre": "Programma - Zktvtv TV - Current Time",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://rutube.ru/play/embed/9a062a48812f5d2d0d5135c6ed9e4f33?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vits.tv/en/tv-online/kuzbass-1/",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "zktvtv-tv": {
-        "nombre": "Zktvtv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.twitch.tv/zktvtv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "programma-tv": {
-        "nombre": "Programma",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "//playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html"
+                "//playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html",
+                "https://tv-soyuz.ru/tvprogramma",
+                "https://www.twitch.tv/zktvtv",
+                "//www.currenttime.tv/embed/player/1/92.html?type=video&platformType=cross-promo&enablejsapi=1",
+                "https://en.currenttime.tv/live-online"
             ],
             "m3u8_url": [
-                "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+                "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+                "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "zktvtv"
         },
         "sitio_oficial": "https://tv-soyuz.ru/tvprogramma",
         "país": "ru",
         "categoría": "news"
     },
-    "canal-chiganash": {
-        "nombre": "Canal Chiganash",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "chiganash_tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/chiganash_tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "Беларусь-5-HD-noticias": {
-        "nombre": "Беларусь 5 HD Noticias",
+    "Беларусь-5-HD-noticias-canal-chiganash": {
+        "nombre": "Беларусь 5 HD Noticias - Canal Chiganash",
         "logo": "http://epg.it999.ru/img/2541.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.twitch.tv/chiganash_tv",
+            ],
             "m3u8_url": [
                 "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b1460000_sleng.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "chiganash_tv"
         },
         "sitio_oficial": "https://github.com/Navezjt/nnmtv.github.io/blob/main/msx/iptv/bt_tv.json",
         "país": "ru",
@@ -42072,25 +41934,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/Navezjt/m3u_ru/blob/main/stream-old.m3u",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "currenttime-tv": {
-        "nombre": "Current Time",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "//www.currenttime.tv/embed/player/1/92.html?type=video&platformType=cross-promo&enablejsapi=1"
-            ],
-            "m3u8_url": [
-                "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://en.currenttime.tv/live-online",
         "país": "ru",
         "categoría": "news"
     },
