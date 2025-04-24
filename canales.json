@@ -27925,25 +27925,28 @@
         "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
         "señales": {
             "iframe_url": [
-                "https://tvavicenza.gruppovideomedia.it/it/live/",
-                "https://www.la7.it/dirette-tv",
+                "https://www.canale7.tv/",
+                "https://www.la7.it/",
                 "https://www.retetvitalia.it/#google_vignette",
                 "https://www.tvsei.it/live/",
-                "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html",
                 "https://www.tvdream.net/web-tv/tva-vicenza-tv-live-streaming/#google_vignette",
                 "https://www.ondatv.tv/#google_vignette",
-                "https://www.canale7.tv/",
-                "https://www.la7.it/live-la7d"
+                "https://www.la7.it/live-la7d",
+                "https://tvavicenza.gruppovideomedia.it/it/live/",
+                "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html",
+                "https://www.vatican.va/content/vatican/it.html"
             ],
             "m3u8_url": [
+                "https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8",
                 "https://fms.telemar.it:1936/live/diretta_1/chunklist_w1069266756.m3u8",
+                "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/HLS/Live.m3u8",
                 "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
                 "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "https://www.vatican.va/content/vatican/it.html"
         },
         "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
         "país": "it",
