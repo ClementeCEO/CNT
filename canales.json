@@ -27920,6 +27920,7 @@
                 "https://uaznao.com/rai-nettuno-in-diretta-streaming/",
                 "https://uaznao.com/guarda-rai-sport-in-diretta-streaming-gratis-dallestero/",
                 "https://uaznao.com/rai-italia-in-diretta-streaming-dallitalia-e-dallestero/",
+                "https://www.lucedipensieri.it/rai-world-premium-in-diretta-italia-ed-estero/",
                 "https://www.raiplay.it/dirette/rainews24"
             ],
             "m3u8_url": [
@@ -28269,11 +28270,13 @@
         "país": "it",
         "categoría": "news"
     },
-    "senato": {
-        "nombre": "Senato",
+    "senato-GO-TV": {
+        "nombre": "Senato GO-TV",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.lucedipensieri.it/go-tv-in-diretta/",
+                "https://www.lucedipensieri.it/go-tv-in-diretta/?link=1",
                 "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
             "m3u8_url": [],
