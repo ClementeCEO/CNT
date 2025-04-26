@@ -42020,7 +42020,6 @@
             "iframe_url": [
                 "http://iranefardalive.com/livestream/",
                 "https://www.presstv.ir/live",
-                "",
                 "http://www.parsatv.com/embed.php?name=Irane-Farda&auto=false",
                 "http://www.parsatv.com/embed.php?name=Iran-Aryaee&auto=false",
                 "http://www.parsatv.com/embed.php?name=Novin-TV&auto=false",
@@ -43235,7 +43234,7 @@
                 "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
                 "http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
                 "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
-                "https://github.com/iptv-org/iptv/issues/2440",
+                "https://github.com/iptv-org/iptv/issues/2440"
             ],
             "yt_id": "",
             "yt_embed": "",
