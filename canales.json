@@ -27906,10 +27906,25 @@
         "señales": {
             "iframe_url": [
                 "https://www.rainews.it/notiziari/rainews24",
+                "https://uaznao.com/guarda-rai-1-in-diretta-streaming-gratis-estero/",
+                "https://uaznao.com/guarda-rai-2-in-diretta-streaming-gratis-estero/",
+                "https://uaznao.com/guarda-rai-3-in-diretta-streaming-gratis-estero/",
+                "https://uaznao.com/guarda-rai-4-in-diretta-streaming-gratis-estero/",
+                "https://uaznao.com/rai-5-in-diretta-streaming-gratis-allestero/",
+                "https://uaznao.com/rai-gulp-in-diretta-streaming-gratis-estero/",
+                "https://uaznao.com/rai-yoyo-in-diretta-streaming-gratis-allestero/",
+                "https://uaznao.com/guarda-rai-movie-in-diretta-streaming-gratis-dallestero/",
+                "https://www.raiplay.it/dirette/raipremium",
+                "https://uaznao.com/rai-storia-in-diretta-streaming-gratis-dallestero/",
+                "https://uaznao.com/rai-scuola-in-diretta-streaming-gratis-allestero/",
+                "https://uaznao.com/rai-nettuno-in-diretta-streaming/",
+                "https://uaznao.com/guarda-rai-sport-in-diretta-streaming-gratis-dallestero/",
+                "https://uaznao.com/rai-italia-in-diretta-streaming-dallitalia-e-dallestero/",
                 "https://www.raiplay.it/dirette/rainews24"
             ],
             "m3u8_url": [
-                "https://streamcdnb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8"
+                "https://streamcdnb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8",
+                "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41924,7 +41939,10 @@
         "nombre": "Ani (WSVGA) kid",
         "logo": "https://epgx.site/p/ani.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://3abnkids.tv/watch_3abnkids.html",
+                "https://www.tvokids.com/school-age/tvokids-channel-247-livestream"
+            ],
             "m3u8_url": [
                 "http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8"
             ],
@@ -41941,7 +41959,9 @@
         "nombre": "ONT TV",
         "logo": "https://ont.by/_nuxt/img/logo.ec0f4ee.svg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://ont.by/broadcasting"
+            ],
             "m3u8_url": [
                 "https://edge59.dc.beltelecom.by/ont/_definst_/ont/chunklist_w816544205.m3u8",
                 "https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8",
@@ -41961,6 +41981,9 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
         "señales": {
             "iframe_url": [
+                "https://ir.voanews.com/live/video/86",
+                "https://tv.voa24.news/monitor.html",
+                "https://abdimedia.net/en/world/voa-persian-tv-was-temporarily-shut-down",
                 "http://www.parsatv.com/embed.php?name=Channel-One-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=Iran-International-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=Pars-TV&auto=false",
@@ -41992,6 +42015,9 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Iran-e-Farda.svg",
         "señales": {
             "iframe_url": [
+                "http://iranefardalive.com/livestream/",
+                "https://www.presstv.ir/live",
+                "",
                 "http://www.parsatv.com/embed.php?name=Irane-Farda&auto=false",
                 "http://www.parsatv.com/embed.php?name=Iran-Aryaee&auto=false",
                 "http://www.parsatv.com/embed.php?name=Novin-TV&auto=false",
@@ -42019,6 +42045,7 @@
         "señales": {
             "iframe_url": [
                 "https://bharadwajpro.github.io/m3u8-player/player/#https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+                "http://www.radioran.co.il/en/iran-tv-israel",
                 "http://www.parsatv.com/embed.php?name=Iran-TV-Israel&auto=false",
                 "http://www.parsatv.com/embed.php?name=Dorr-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=Aryen-TV&auto=false",
@@ -42046,6 +42073,7 @@
         "señales": {
             "iframe_url": [
                 "https://ott.iranintl.com/tv?lang=en#amp=1",
+                "https://www.iranintl.com/en",
                 "http://www.parsatv.com/embed.php?name=Rangin-Kaman-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=Kanal-Jadid&auto=false",
                 "http://www.parsatv.com/embed.php?name=Your-Time&auto=false",
@@ -42075,6 +42103,8 @@
         "logo": "hhttps://upload.wikimedia.org/wikipedia/en/e/e9/Persianbcompany.JPG",
         "señales": {
             "iframe_url": [
+                "https://www.diycraftsguide.com/live-tv/tapesh-tv.html",
+                "https://www.aparatchi.com/iran-live-tv/farsi-entertainment-tv/tapesh-tv",
                 "https://babaktv.com/embed/tapesh-link01/",
                 "http://www.parsatv.com/embed.php?name=Tapesh&auto=false",
                 "http://www.parsatv.com/embed.php?name=PMC-Royale&auto=false",
@@ -42107,6 +42137,8 @@
         "logo": "https://www.lyngsat.com/logo/tv/kk/khatereh-tv-de.png",
         "señales": {
             "iframe_url": [
+                "https://khatereh.online/",
+                "https://www.persianity.com/ch=Khatereh-TV",
                 "http://www.parsatv.com/embed.php?name=Khatereh-TV&auto=false",
                 "https://livepush.io/embed/emkz_F4htvgZdfFg",
                 "http://www.parsatv.com/embed.php?name=Tapesh-Iran&auto=false",
@@ -42140,6 +42172,12 @@
         "logo": "https://iran-tv.live/uploads/tv_image/sm/ava-family.png",
         "señales": {
             "iframe_url": [
+                "https://live.karwan.tv/ava-tv/embed.html?autoplay=false&token=30f7cc844dcfd3c0d1d9caba40c857cf50efcde3-f7e4ff4ab9ea6848e3ad6412ec5b2e14-1745693761-1745682961&remote=no_check_ip",
+                "http://www.avaentertainment.net/en/live",
+                "https://karwan.tv/ava-tv.html",
+                "https://avaseries.wns.live/",
+                "https://avafamily.avatv.live/",
+                "https://www.avatelevision.ca/ici-en-direct",
                 "http://www.parsatv.com/embed.php?name=ICC-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=GLV-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=SL-1&auto=false",
@@ -42175,6 +42213,7 @@
         "logo": "https://payamjavan.com/wp-content/uploads/2021/03/logo-Payam-Javan-1-1.png",
         "señales": {
             "iframe_url": [
+                "https://payamjavan.com/live/",
                 "https://www.streamwebtown.com/iframe/pjtv/index.php",
                 "http://www.parsatv.com/embed.php?name=Maah-TV&auto=false",
                 "http://www.parsatv.com/embed.php?name=Nama-TV&auto=false",
@@ -42205,6 +42244,10 @@
         "logo": "https://www.persianagroup.tv/logo-pg-light.png",
         "señales": {
             "iframe_url": [
+                "https://www.persianagroup.tv/live/persiana-one",
+                "https://www.persianagroup.tv/live/persiana-family",
+                "https://darya.stream/live-tv/persiana-sport-live/",
+                "https://www.persianagroup.tv/live-channels",
                 "http://www.parsatv.com/embed.php?name=Persiana-Music&auto=false",
                 "hhttp://www.parsatv.com/embed.php?name=Persiana-Rap&auto=false",
                 "http://www.parsatv.com/embed.php?name=Persiana-Sonnati&auto=false",
@@ -42254,7 +42297,9 @@
         "nombre": "Arab Varzeshi HD",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.diycraftsguide.com/live-tv/arab-varzeshi-hd.html"
+            ],
             "m3u8_url": [
                 "https://cdn.footballii.ir/hls2/ssc1s.m3u8"
             ],
@@ -42271,7 +42316,9 @@
         "nombre": "VOA Persian",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.diycraftsguide.com/live-tv/voa-persian.html"
+            ],
             "m3u8_url": [
                 "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
             ],
@@ -42288,7 +42335,9 @@
         "nombre": "PCM TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.diycraftsguide.com/live-tv/pmc.html"
+            ],
             "m3u8_url": [
                 "https://hls.pmchd.live/hls/stream.m3u8"
             ],
@@ -42301,11 +42350,18 @@
         "país": "ir",
         "categoría": "news"
     },
-    "tapesh-tv": {
-        "nombre": "Tapesh TV",
+    "tapesh-IRANtv": {
+        "nombre": "Tapesh - HISPANTV - GEM TV (جم تی وی)",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.hispantv.com/directo",
+                "https://darya.stream/live-tv/irib3-tv-live/",
+                "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
+                "https://babaktv.com/gem-tv/",
+                "https://salintv.com/video/gemtv_online_stream/",
+                "https://www.diycraftsguide.com/live-tv/tapesh-tv.html"
+            ],
             "m3u8_url": [
                 "https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8"
             ],
@@ -42359,7 +42415,9 @@
         "nombre": "Bollywood HD",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvmalaysia.live/channel/bollywood-hd"
+            ],
             "m3u8_url": [
                 "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
             ],
@@ -42377,7 +42435,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://cineasticview.blogspot.com/2024/05/serawak.html"
+                "https://cineasticview.blogspot.com/2024/05/serawak.html",
+                "https://www.livetvmalaysia.online/2024/05/tvs.html"
             ],
             "m3u8_url": [
                 "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8",
@@ -42396,7 +42455,9 @@
         "nombre": "TV3",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livetvmalaysia.online/2019/04/tv3.html"
+            ],
             "m3u8_url": [
                 "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8"
             ],
@@ -42414,7 +42475,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://hiji3.blogspot.com/2024/08/berita1.html"
+                "https://hiji3.blogspot.com/2024/08/berita1.html",
+                "https://www.livetvmalaysia.online/2022/09/berita.html"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -42430,7 +42492,9 @@
         "nombre": "TV IKIM Live",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livetvmalaysia.online/2017/12/tv-ikim.html"
+            ],
             "m3u8_url": [
                 "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8"
             ],
@@ -42448,7 +42512,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://astro.webhop.me/unifidegup.html"
+                "https://astro.webhop.me/unifidegup.html",
+                "https://www.tvmalaysia.live/channel/unifi-degup"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -42464,7 +42529,9 @@
         "nombre": "Agro Tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://agro-tv.ro/tv-live/"
+            ],
             "m3u8_url": [
                 "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
             ],
@@ -42481,7 +42548,9 @@
         "nombre": "antena3 CNN",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.antena3.ro/live/"
+            ],
             "m3u8_url": [
                 "https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8",
                 "https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=51e8f0733aebd363c4fc&free=1&starttime=1728685240&endtime=1728699670&source=a3web&token=9Jf-ClSj10iBW55Aij5LKaFYrpY="
@@ -42499,7 +42568,9 @@
         "nombre": "antena3 Constanta",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://antena3constanta.ro/live/"
+            ],
             "m3u8_url": [
                 "https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8",
                 "https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=51e8f0733aebd363c4fc&free=1&starttime=1728685240&endtime=1728699670&source=a3web&token=9Jf-ClSj10iBW55Aij5LKaFYrpY="
@@ -42517,7 +42588,9 @@
         "nombre": "Rapsodia TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.b1tv.ro/live"
+            ],
             "m3u8_url": [
                 "https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8?from=1728686808&to=1728708408&session=AdGxhts1nPln1YsZ&source=cms&token=-foC482PMNLkCor6bk_kiqAsEA8="
             ],
@@ -42534,7 +42607,9 @@
         "nombre": "kanald2 TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://kanald2.ro/live.html"
+            ],
             "m3u8_url": [
                 "https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8",
                 "https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8"
@@ -42552,7 +42627,9 @@
         "nombre": "Antena 1 Antena 3 TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/2007/08/online-tv-romania-antena-1-2-3.html"
+            ],
             "m3u8_url": [
                 "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
             ],
@@ -42569,7 +42646,9 @@
         "nombre": "Arad TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/2009/10/radio-tv-live-arad.html"
+            ],
             "m3u8_url": [
                 "https://live.djemba.ro/live/tvaradlive/chunklist_w887533785.m3u8"
             ],
@@ -42603,7 +42682,9 @@
         "nombre": "Arges TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/2023/04/arges-tv-live-curier-tv-online-tv-arges.html"
+            ],
             "m3u8_url": [
                 "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
             ],
@@ -42620,7 +42701,9 @@
         "nombre": "Atomic Bucuresti",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/2011/03/dolce-tv-online-live-web-tv.html"
+            ],
             "m3u8_url": [
                 "https://atomic.streamnet.ro/academia.m3u8"
             ],
@@ -42637,7 +42720,9 @@
         "nombre": "Bucovina Suceava",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
+            ],
             "m3u8_url": [
                 "https://transmisiuni.ro/media/btvsvlive/btvsvlive/playlist.m3u8"
             ],
@@ -42654,10 +42739,10 @@
         "nombre": "Romania TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
+            "iframe_url": [
+                "https://www.romaniatv.net/live"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -42671,7 +42756,9 @@
         "nombre": "Digi24 TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.digi24.ro/live/digi24"
+            ],
             "m3u8_url": [
                 "https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8"
             ],
@@ -42688,7 +42775,9 @@
         "nombre": "Realitatea TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.realitatea.net/live"
+            ],
             "m3u8_url": [
                 "https://stream.realitatea.net/realitatea/plus_md/playlist.m3u8"
             ],
@@ -42705,7 +42794,9 @@
         "nombre": "Nasul TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.nasul.tv/live/"
+            ],
             "m3u8_url": [
                 "https://65f16f0fdfc51.streamlock.net/NasulTV/livestream/chunklist_w541792004.m3u8"
             ],
@@ -42722,7 +42813,9 @@
         "nombre": "Aleph News",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://alephnews.ro/"
+            ],
             "m3u8_url": [
                 "https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b1398304.m3u8"
             ],
@@ -42739,7 +42832,9 @@
         "nombre": "Kanal D România",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.kanald.ro/live.html"
+            ],
             "m3u8_url": [
                 "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8",
                 "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8"
@@ -42757,7 +42852,9 @@
         "nombre": "Prima TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.primatv.ro/live/"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -42772,7 +42869,9 @@
         "nombre": "Realitatea Star",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://realitateastar.net/live/"
+            ],
             "m3u8_url": [
                 "https://stream.realitatea.net/realitatea/star_md/playlist.m3u8"
             ],
@@ -42790,6 +42889,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.profit.ro/live",
                 "https://www.primaplay.ro/profit-tv/live/embed"
             ],
             "m3u8_url": [
@@ -42808,7 +42908,9 @@
         "nombre": "Aleph Business",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://alephbusiness.ro/"
+            ],
             "m3u8_url": [
                 "https://streamw.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/chunklist_b948304.m3u8"
             ],
@@ -42825,7 +42927,9 @@
         "nombre": "Realitatea Sportivă",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.realitateasportiva.net/live#google_vignette"
+            ],
             "m3u8_url": [
                 "https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
             ],
@@ -42842,7 +42946,9 @@
         "nombre": "Mooz TV",
         "logo": "https://mooz.tv/site/img/MoozDance_Summer_2016.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://mooz.tv/live-ro/"
+            ],
             "m3u8_url": [
                 "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8",
                 "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8",
@@ -42863,6 +42969,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.magicfm.ro/magictv",
                 "https://tv.broadcasting.ro/925f90db-5c88-4190-a53d-5163cdffe6f4.html"
             ],
             "m3u8_url": [
@@ -42882,7 +42989,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html"
+                "https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html",
+                "https://www.kissfm.ro/kisstv",
+                "https://bx-tv.com/kiss-tv/"
             ],
             "m3u8_url": [
                 "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8"
@@ -42892,7 +43001,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.kissfm.ro/kisstv",
         "país": "ro",
         "categoría": "news"
     },
@@ -42901,7 +43010,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tv.broadcasting.ro/85c83a80-4f71-4f2d-a8d6-43f676896bcb.html"
+                "https://tv.broadcasting.ro/85c83a80-4f71-4f2d-a8d6-43f676896bcb.html",
+                "https://www.rockfm.ro/rocktv"
             ],
             "m3u8_url": [
                 "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8"
@@ -42920,7 +43030,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/undefined?showinfo=0&theme=light&autohide=1&rel=0&wmode=opaque"
+                "https://www.youtube.com/embed/undefined?showinfo=0&theme=light&autohide=1&rel=0&wmode=opaque",
+                "https://telembotosani.ro/"
             ],
             "m3u8_url": [
                 "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8"
@@ -42938,7 +43049,9 @@
         "nombre": "Banat TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.btv.ro/live-tv/"
+            ],
             "m3u8_url": [
                 "https://www.btv.ro/hls/banat-tv.m3u8"
             ],
@@ -42956,6 +43069,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.squidtv.net/europe/romania/romania-131.html",
                 "https://player.twitch.tv?channel=romantv__&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-131.html"
             ],
             "m3u8_url": [],
@@ -42973,6 +43087,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.squidtv.net/europe/romania/romania-141.html",
                 "https://player.twitch.tv?channel=salajeanulinfo&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-141.html"
             ],
             "m3u8_url": [],
@@ -42990,7 +43105,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/dIqzpDj441k?autoplay=1"
+                "https://www.youtube.com/embed/dIqzpDj441k?autoplay=1",
+                "https://www.trinitas.tv/live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -43007,7 +43123,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://alfaomega.tv/embed/live/"
+                "https://alfaomega.tv/embed/live/",
+                "https://www.squidtv.net/europe/romania/romania-052.html"
             ],
             "m3u8_url": [
                 "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
@@ -43025,7 +43142,9 @@
         "nombre": "Credo TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.credo.tv/"
+            ],
             "m3u8_url": [
                 "https://651c69fa2ff4e.streamlock.net/ctv/livecredo/chunklist.m3u8"
             ],
@@ -43043,7 +43162,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://jstre.am/embed/jsl:2gNjpghXRLE/jsp:PA39Owb5kkR?autoplay="
+                "https://jstre.am/embed/jsl:2gNjpghXRLE/jsp:PA39Owb5kkR?autoplay=",
+                "https://www.sperantatv.ro/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -43059,7 +43179,9 @@
         "nombre": "A7 TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.a7tv.ro/live/"
+            ],
             "m3u8_url": [
                 "https://a7tvlive.ro/A7TV/A7TV/chunklist_w1992303597.m3u8"
             ],
@@ -43076,7 +43198,9 @@
         "nombre": "TV Arad",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvarad.ro/live"
+            ],
             "m3u8_url": [
                 "https://live.djemba.ro/live/tvaradlive/chunklist_w899703312.m3u8"
             ],
@@ -43090,12 +43214,25 @@
         "categoría": "news"
     },
     "TD-Ameritrade-Network-tv": {
-        "nombre": "TD Ameritrade Network TV",
+        "nombre": "TD Ameritrade Network TV - Rioni - kobTV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.kob.com/live/",
+                "https://rionitv.com/index.php?do=static&page=livetv",
+                "https://televiziebi.com/imedi-live",
+                "https://televiziebi.com/rustavi-2-live",
+                "https://www.televizia.org/pirveli-arxi/",
+                "https://livetelevizia.com/rioni/",
+                "https://live.rionitv.com/",
+                "https://www.wfmzplus.com/",
+                "https://www.rionitv.com/"
+            ],
             "m3u8_url": [
-                "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+                "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+                "http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+                "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
+                "https://github.com/iptv-org/iptv/issues/2440",
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -43111,7 +43248,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://36578ca484df8bc0e290eda20e6c42de0041f2b1"
+                "https://36578ca484df8bc0e290eda20e6c42de0041f2b1",
+                "https://cool-tv.net/ch/euforia.htm"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -43127,7 +43265,9 @@
         "nombre": "Columna TV Targoviste",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qNhi7VograPudDBIL2bKzNvTxcOylal3SRaF3wJcmOohx2sXiZ61OcCqDrIbtC623e28sDGd_4HEQkNfjIi2Id24RqbtnOF3DOwOpFGjj8x1kXTYKqyx7Re_Nhs_CGCP6DvpKneXKBOZ/s1600/columna+tv+live+online.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html"
+            ],
             "m3u8_url": [
                 "https://cdn.streamnet.pro/columnatv/live//playlist.m3u8"
             ],
@@ -43144,7 +43284,9 @@
         "nombre": "Bucovina TV Suceava",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3XW2zgVROdPzecNDYIs-4hUzoTAVb36J8orrCZXbIx7g_2cTTXPcF4i2KIXzUUqAkuXw7DSC8-40BHdv13w260wDmKukBHOMK1LtfUB5MUvcE_Uy7Ra4cRw8qIUzxR69kKFDgocXOW1x/s1600/bucovina+live+online.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
+            ],
             "m3u8_url": [
                 "https://transmisiuni.ro/media/btvsvlive/playlist.m3u8"
             ],
@@ -43162,7 +43304,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/?controls=0&showinfo=0&autoplay=0&html5=1&disablekb=1&modestbranding=1&playsinline=1&rel=0&loop=0&suggestedQuality=hd1080&enablejsapi=1&origin=https%3A%2F%2Fmedia.tvriasi.ro&widgetid=1"
+                "https://media.tvriasi.ro/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -43178,7 +43320,9 @@
         "nombre": "Tvr Iasi",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvrplus.ro/live/tvr-iasi"
+            ],
             "m3u8_url": [
                 "https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8"
             ],
@@ -43195,7 +43339,9 @@
         "nombre": "Rock TV",
         "logo": "https://vipotv.com/wp-content/uploads/2021/03/rock-tv-live-vipotv.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.rockfm.ro/rocktv"
+            ],
             "m3u8_url": [
                 "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8"
             ],
@@ -43212,7 +43358,9 @@
         "nombre": "ABN Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.abn.co.kr/index.do"
+            ],
             "m3u8_url": [
                 "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
             ],
@@ -43230,7 +43378,8 @@
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
-                "https://v.kr.kollus.com/s?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHB0IjoyNTU1OTcxMjAwLCJtYyI6eyIwIjp7Im1ja2V5IjoidlpINlNxMFciLCJ0aXRsZSI6IkFyaXJhbmcgVFYiLCJsaXZlIjp7InVybCI6Imh0dHBzOlwvXC9hbWRsaXZlLWNoMDEtY3RuZC1jb20uYWthbWFpemVkLm5ldFwvYXJpcmFuZ18xY2hcL3NtaWw6YXJpcmFuZ18xY2guc21pbFwvcGxheWxpc3QubTN1OCIsInBvc3Rlcl91cmwiOiJodHRwczpcL1wvaW1nLmFyaXJhbmcuY29tXC92MVwvQVVUSF9kNTI0NDljMTZkM2I0YmJjYTE3ZDRmZmZkOWZjNDRhZlwvYXJpcmFuZ1wvc3RhdGljXC9tZWRpYVwvc2NoZWR1bGVfbGl2ZTEuNDc5OTQ2OWEucG5nIn19fX0.LL60rJgqIEknMq036YAEGUJ-4OkJc9oLyq8LRxzD2RM&custom_key=2488d22a619a018210ee7f7d65118ef38c6dad49b8fd0297b84118c26c7272cc&player_version"
+                "https://v.kr.kollus.com/s?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHB0IjoyNTU1OTcxMjAwLCJtYyI6eyIwIjp7Im1ja2V5IjoidlpINlNxMFciLCJ0aXRsZSI6IkFyaXJhbmcgVFYiLCJsaXZlIjp7InVybCI6Imh0dHBzOlwvXC9hbWRsaXZlLWNoMDEtY3RuZC1jb20uYWthbWFpemVkLm5ldFwvYXJpcmFuZ18xY2hcL3NtaWw6YXJpcmFuZ18xY2guc21pbFwvcGxheWxpc3QubTN1OCIsInBvc3Rlcl91cmwiOiJodHRwczpcL1wvaW1nLmFyaXJhbmcuY29tXC92MVwvQVVUSF9kNTI0NDljMTZkM2I0YmJjYTE3ZDRmZmZkOWZjNDRhZlwvYXJpcmFuZ1wvc3RhdGljXC9tZWRpYVwvc2NoZWR1bGVfbGl2ZTEuNDc5OTQ2OWEucG5nIn19fX0.LL60rJgqIEknMq036YAEGUJ-4OkJc9oLyq8LRxzD2RM&custom_key=2488d22a619a018210ee7f7d65118ef38c6dad49b8fd0297b84118c26c7272cc&player_version",
+                "https://www.arirang.com/live?lang=en"
             ],
             "m3u8_url": [
                 "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
@@ -43248,7 +43397,9 @@
         "nombre": "BTNTV Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.abn.co.kr/etc/onAir.do"
+            ],
             "m3u8_url": [
                 "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
             ],
@@ -43265,7 +43416,9 @@
         "nombre": "ABN Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.abn.co.kr/etc/onAir.do"
+            ],
             "m3u8_url": [
                 "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
             ],
@@ -43300,7 +43453,8 @@
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
-                "https://www.cts.tv/videoplayer/zoneplayer_live?type=direct&url=https://cdn.cts.tv/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8&skin=catvod&auto=Y&isLive=Y&fullscreenAllowFullscreen=Y&toggleBtn=Y&fullscreenBtn=Y&disableSeekable=Y&thumbnail=Y&currentTimeText=Y&durationText=Y&volume=Y&progress=Y"
+                "https://www.cts.tv/videoplayer/zoneplayer_live?type=direct&url=https://cdn.cts.tv/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8&skin=catvod&auto=Y&isLive=Y&fullscreenAllowFullscreen=Y&toggleBtn=Y&fullscreenBtn=Y&disableSeekable=Y&thumbnail=Y&currentTimeText=Y&durationText=Y&volume=Y&progress=Y",
+                "https://www.cts.tv/"
             ],
             "m3u8_url": [
                 "https://cdn.cts.tv/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8"
@@ -43318,7 +43472,9 @@
         "nombre": "EBSEnglish Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.ebse.co.kr/apps/onair/main.do"
+            ],
             "m3u8_url": [
                 "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
             ],
@@ -43335,7 +43491,10 @@
         "nombre": "EBSPlus2 Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://live.ebstv.tv/",
+                "https://www.livehdtv.com/ebs-1-korea/"
+            ],
             "m3u8_url": [
                 "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
             ],
@@ -43353,7 +43512,9 @@
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
-                "http://www.gcntv.org/KO/Media/LiveOnair/ifr_Live24Player.asp?live=KO_F01_24H"
+                "http://www.gcntv.org/KO/Media/LiveOnair/ifr_Live24Player.asp?live=KO_F01_24H",
+                "http://www.gcntv.org/KO/Media/LiveOnair/Live24File.asp",
+                "https://www.ethiovisit.com/videos/ebs-tv/295/"
             ],
             "m3u8_url": [
                 "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8"
@@ -43371,7 +43532,9 @@
         "nombre": "GSMyShop Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.gsshop.com/shop/tv/tvProductMain.gs?broadTypCd=DATA"
+            ],
             "m3u8_url": [
                 "https://gstv-myshop.gsshop.com/myshop_hd/_definst_/myshop_hd.stream/playlist.m3u8",
                 "https://gstv-myshop.gsshop.com/myshop_hd/_definst_/myshop_hd.stream/playlist.m3u8"
@@ -43385,11 +43548,13 @@
         "país": "kr",
         "categoría": "news"
     },
-    "Gugbang-live": {
-        "nombre": "Gugbang Live",
+    "Gugbang-live-zengatv": {
+        "nombre": "Gugbang Live - Zengatv",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.zengatv.com/"
+            ],
             "m3u8_url": [
                 "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
             ],
