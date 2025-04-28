@@ -13040,7 +13040,8 @@
             "m3u8_url": [
                 "https://ztnr.rtve.es/ztnr/1694255.m3u8",
                 "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-                "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+                "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+                "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
             ],
             "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
             "yt_embed": "",
@@ -13084,30 +13085,16 @@
         "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://www.agalega.gal/",
                 "https://agalega.gal/videos/76475-tvg",
                 "https://www.agalega.gal/videos/77550-tv-g2",
-                "https://www.agalega.gal/videos/77552-en-directo-radio-galega"
+                "https://www.agalega.gal/videos/77552-en-directo-radio-galega",
+                "https://www.agalega.gal/videos/76478-mira-rg"
             ],
             "m3u8_url": [
-                "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8"
-            ],
-            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://agalega.gal/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "Televisión-de-Galicia": {
-        "nombre": "Televisión de Galicia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.agalega.gal/videos/76475-tvg"
-            ],
-            "m3u8_url": [
+                "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
+                "https://crtvg-radiogalega-hls.flumotion.cloud/chunklist_DVR.m3u8",
+                "https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8",
                 "https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8"
             ],
             "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
@@ -13116,6 +13103,33 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@TVG",
+        "país": "es",
+        "categoría": "news"
+    },
+    "Mírame-Televisión-more4-la7": {
+        "nombre": "Mírame Televisión - More4 - la7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mirametv.com/",
+                "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
+                "https://www.currenttime.tv/embed/player/1/92.html?type=video",
+                "https://www.livehdtv.com/token.php?stream=more4",
+                "https://www.livehdtv.com/token.php?stream=more4",
+                "https://www.livehdtv.com/more4/2/",
+                "https://www.cyltv.es/live/la7",
+                "https://7tvandalucia.es/portada/"
+            ],
+            "m3u8_url": [
+                "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
+                "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+            ],
+            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://martv.live/",
         "país": "es",
         "categoría": "news"
     },
@@ -13150,25 +13164,6 @@
         "sitio_oficial": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
         "país": "es",
         "categoría": "camera"
-    },
-    "tve": {
-        "nombre": "TVEE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=tve",
-                "https://www.televisionlibre.co/envivo/tve",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=tve-op2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/tve",
-        "país": "es",
-        "categoría": "news"
     },
     "el-confidencial": {
         "nombre": "El Confidencial",
