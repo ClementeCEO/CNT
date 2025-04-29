@@ -13322,16 +13322,22 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/la-cuatro/embed2.php",
-                "https://www.mitele.uno/canal-4-4/",
                 "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
-                "https://www.mitele.es/directo/cuatro/"
+                "https://tvcuatro.tv/4-1/",
+                "https://www.cuatro.com/en-directo/",
+                "https://canal4jujuy.elcuatro.com/",
+                "https://www.canal4tenerife.tv/directo/",
+                "https://www.mitele.es/directo/cuatro/",
+                "https://www.canal4.com.ni/en-vivo/",
+                "https://eltorotv.com/directo-tv",
+                "https://misionescuatro.com/",
+                "https://www.elcuatro.com/"
             ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "socialclub977"
         },
         "sitio_oficial": "https://www.mitele.uno/canal-4-4/",
         "país": "es",
@@ -13359,15 +13365,16 @@
         "país": "es",
         "categoría": "news"
     },
-    "Telecinco-5": {
-        "nombre": "Telecinco 5",
+    "Telecinco-5-Canal-Coín-Radio-Televisión": {
+        "nombre": "Telecinco 5 - Canal Coín Radio y Televisión",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/telecinco/embed2.php",
-                "https://gavog.com/es/watch/span/teleci5.php",
                 "https://tele-libre.org/en-vivo-online/telecinco/embed.php",
+                "https://teleonline.org/canal/informacion-tv/",
+                "https://teleonline.org/canal/canal-coin/",
                 "https://www.mitele.es/directo/telecinco/",
+                "https://canalcoin.com/tv-directo/",
                 "https://www.telecinco.es/endirecto/"
             ],
             "m3u8_url": [
@@ -13376,9 +13383,9 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "informaciontv"
         },
-        "sitio_oficial": "https://gavog.com/es/watch/span/teleci5.php",
+        "sitio_oficial": "https://www.twitch.tv/informaciontv",
         "país": "es",
         "categoría": "news"
     },
@@ -13424,6 +13431,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://teleonline.org/canal/telemundo/",
                 "https://tele-libre.org/en-vivo-online/toros/embed.php",
                 "https://tele-libre.org/en-vivo-online/toros/embed2.php"
             ],
@@ -13437,11 +13445,14 @@
         "país": "es",
         "categoría": "news"
     },
-    "canal-quickie": {
-        "nombre": "Canal Quickie NOVA",
+    "canal-quickie-divinity": {
+        "nombre": "Canal Quickie - NOVA - Divinity",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://teleonline.org/canal/divinity/",
+                "https://teleonline.org/canal/fibwi/",
+                "https://teleonline.org/canal/nova/",
                 "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPW5vdmE="
             ],
             "m3u8_url": [],
@@ -13459,7 +13470,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/dmax/embed.php",
+                "https://www.eitb.eus/es/television/etb2/",
+                "https://www.eitb.eus/es/television/eitb-basque/",
+                "https://teleonline.org/canal/etb-eventos-1/",
+                "https://www.eitb.eus/es/television/etb1/",
+                "https://www.eitb.eus/es/en-directo/",
                 "https://tele-libre.org/en-vivo-online/dmax/embed2.php",
                 "https://tele-libre.org/en-vivo-online/dmax/"
             ],
@@ -13473,11 +13488,14 @@
         "país": "es",
         "categoría": "news"
     },
-    "canal-blue-crow-tv": {
-        "nombre": "Blue Crowtv",
+    "canal-blue-crow-tv-canalcostatv": {
+        "nombre": "Blue Crowtv - Canalcostatv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://canalcostatv.es/en-directo/",
+                "https://embed.azhr.tv/canalcosta-tv/live/directo"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -13492,7 +13510,10 @@
         "nombre": "canal 33 Madrid",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
+                "https://teleonline.org/canal/quiero-tv-mexico/"
+            ],
             "m3u8_url": [
                 "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
             ],
@@ -46917,15 +46938,21 @@
         "país": "tw",
         "categoría": "news"
     },
-    "lifetv": {
-        "nombre": "Lifetv",
+    "lifetv-爱尔达影剧-星卫电影": {
+        "nombre": "Lifetv - 爱尔达影剧 - 星卫电影",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "http://www.lifetv.org.tw/a_date/live.htm",
-                "http://www.hoptv.tw:8080//ch/lifetvr//live/live.asp?link=http%3A%2F%2F211%2E73%2E19%2E201%3A80%2Flive%2FAB167E56%2D808C%2D81D4%2D6471%2D76DC400D5192%3Ffmt%3Dx264%5F1200K%5Fts%26cpid%3Dadmin%26size%3D1920X1080&LT=2019%2F06%2F10+17%3A01&BG=&W=100&h=100"
+                "http://www.hoptv.tw:8080//ch/lifetvr//live/live.asp?link=http%3A%2F%2F211%2E73%2E19%2E201%3A80%2Flive%2FAB167E56%2D808C%2D81D4%2D6471%2D76DC400D5192%3Ffmt%3Dx264%5F1200K%5Fts%26cpid%3Dadmin%26size%3D1920X1080&LT=2019%2F06%2F10+17%3A01&BG=&W=100&h=100",
+                "https://www.tiantianzhibo.net/gangaotai/aierdayingju.html",
+                "https://www.tiantianzhibo.net/gangaotai/aierdayingjutai.html",
+                "https://www.tiantianzhibo.net/gangaotai/aierdazonghetai.html",
+                "https://www.tiantianzhibo.net/gangaotai/xingweidianying.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://stream.bookmarkmanager.net/live/tv?id=8b04AZmuizoUkM2cVGcViVR91Lw1r8akFTHaHlnTjIscE1FkqQl-kyJz8HWierERtqephgbmxuqPun84IGB4YakuriMc46ZCJl-68JGlZJl-5yjHGb2kvJuubE3SRbYiOXDPm8AL03OIC1XUPU7zWF1L1FbQkxOq3jxFwte7nokA1kd6zUrBtYpE9A&idp=6ff8QEMQI7hnxRycLQgLD4QeVKP385igj7oQKnHiOetLC6iX3qLSKNy_VJ3FKa04jxJ5yCMZxg3yq-uFrIHbQrx3_g"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -46935,14 +46962,18 @@
         "país": "tw",
         "categoría": "news"
     },
-    "hwazan": {
-        "nombre": "Hwazan",
+    "hwazan-AFC亚洲旅游台-爱尔达影剧": {
+        "nombre": "Hwazan - AFC 亚洲旅游台 - 爱尔达影剧",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/ypmrwYeLAaQ?si=ARQh_7SzIEyiqkVZ"
+                "https://www.youtube.com/embed/ypmrwYeLAaQ?si=ARQh_7SzIEyiqkVZ",
+                "https://www.tiantianzhibo.net/gangaotai/afc_yazhouluyoutai.html",
+                "https://www.tiantianzhibo.net/gangaotai/aierdayingju.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://stream.bookmarkmanager.net/live/tv?id=8b04AZmuizoUkM2cVGcViVR91Lw1r8akFTHaHlnTjIscE1FkqQl-kyJz8HWierERtqephgbmxuqPun84IGB4YakuriMc46ZCJl-68JGlZJl-5yjHGb2kvJuubE3SRbYiOXDPm8AL03OIC1XUPU7zWF1L1FbQkxOq3jxFwte7nokA1kd6zUrBtYpE9A&idp=6ff8QEMQI7hnxRycLQgLD4QeVKP385igj7oQKnHiOetLC6iX3qLSKNy_VJ3FKa04jxJ5yCMZxg3yq-uFrIHbQrx3_g"
+            ],
             "yt_id": "UC0D4u31or8aGenc86eMB6wA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -46952,11 +46983,16 @@
         "país": "tw",
         "categoría": "news"
     },
-    "buddha-compassion-tv-station": {
-        "nombre": "Buddha Compassion TV Station",
+    "buddha-compassion-tv-station-ViuTv高清直播-ViuTv在線直播": {
+        "nombre": "Buddha Compassion TV Station - ViuTv高清直播,ViuTv在線直播",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.123iptv.tv/tw/tv/viutv.html",
+                "https://www.123iptv.tv/tw/tv/xingweidianying.html",
+                "https://www.123iptv.tv/tw/tv/meiyadianying.html",
+                "https://www.123iptv.tv/tw/tv/fenghuangweishizixuntai.html"
+            ],
             "m3u8_url": [
                 "https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/chunklist.m3u8"
             ],
