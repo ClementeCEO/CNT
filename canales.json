@@ -8866,13 +8866,15 @@
         "señales": {
             "iframe_url": [
                 "https://mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2?jsapi=true&autoplay=false&volume=80&player=66fb2eaf32eda61b86362c74&title=Canal%201%20-%20Se%C3%B1al%20en%20vivo&show_title=true&ads[volume]=80",
-                "https://canal1.com.co/"
+                "https://canal1.com.co/",
+                "https://canal1.tv/VIVO/",
+                "https://canal1.tv/"
             ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "canalunoolavarria"
         },
         "sitio_oficial": "https://canal1.com.co/",
         "país": "co",
