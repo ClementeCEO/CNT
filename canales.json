@@ -15149,8 +15149,8 @@
         "país": "lb",
         "categoría": "news"
     },
-    "lbc": {
-        "nombre": "LBC",
+    "lbc-Lebanon": {
+        "nombre": "LBC Lebanon",
         "logo": "https://www.web24iptv.online/img/lbn/lbc.webp",
         "señales": {
             "iframe_url": [
@@ -15174,8 +15174,8 @@
         "país": "lb",
         "categoría": "news"
     },
-    "OTV": {
-        "nombre": "OTV",
+    "OTV-Lebanon": {
+        "nombre": "OTV Lebanon - Odishatv-in",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -15189,7 +15189,10 @@
                 "http://www.elahmad.com/tv/radiant.php?id=otv_lb1",
                 "http://www.elahmad.com/tv/radiant.php?id=otv_lb2",
                 "http://www.elahmad.com/tv/watchtv.php?id=otv_lebanon",
-                "http://www.elahmad.com/tv/mpegts_player.php?id=otv_lebanon"
+                "http://www.elahmad.com/tv/mpegts_player.php?id=otv_lebanon",
+                "https://odishatv.in/live-tv",
+                "https://otv.com.lb/",
+                "http://dagav.com/v/arabic/arab3/otv.php#google_vignette"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15206,10 +15209,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.vdl.me/",
+                "https://www.valdeloire.tv/",
                 "https://www.elahmad.com/tv/radiant.php?id=vdltv",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=vdltv",
                 "http://www.elahmad.com/tv/radiant.php?id=vdltv",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=vdltv"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=vdltv",
+                "https://www.twentyfournews.com/live"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15221,8 +15227,8 @@
         "país": "lb",
         "categoría": "news"
     },
-    "nbn-lebanon": {
-        "nombre": "NBN Lebanon",
+    "nbn-lebanon-NBN": {
+        "nombre": "NBN Lebanon - NBN",
         "logo": "https://www.web24iptv.online/img/lbn/nbn.webp",
         "señales": {
             "iframe_url": [
@@ -15232,7 +15238,8 @@
                 "https://www.elahmad.com/tv/mpegts_player.php?id=nbn",
                 "https://www.elahmad.com/tv/live/sl.php?id=nbn",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn",
-                "https://www.elahmad.com/tv/watchtv.php?id=nbn"
+                "https://www.elahmad.com/tv/watchtv.php?id=nbn",
+                "http://dagav.com/v/arabic/arab3/nbn.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15244,13 +15251,15 @@
         "país": "lb",
         "categoría": "news"
     },
-    "قناة-المستقبل": {
-        "nombre": "قناة المستقبل",
+    "قناة-المستقبل-qurantvsa": {
+        "nombre": "قناة المستقبل - Qurantvsa",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.elahmad.com/tv/watchtv.php?id=future",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=future1"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=future1",
+                "https://www.aloula.sa/live/qurantvsa",
+                "https://www.aloula.sa/live/ksa-sports1"
             ],
             "m3u8_url": [
                 "https://lb1.elahmad.com/tv705_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=0b6393bfbbcbc0d601caa5a8c6ec2baa25bb0903-7905a08ffb29f7f929329168ecfd6fd0-1726683190-1726672390"
@@ -15269,11 +15278,15 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://azrotv.com/local/drPlayer/?id=aljadeed",
+                "http://azrotv.com/iphone/arabic/ch3/aljadeed.php#google_vignette",
                 "https://www.elahmad.com/tv/live/sl.php?id=aljadeed",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljadeed1",
                 "https://www.elahmad.com/tv/watchtv.php?id=aljadeed_new",
                 "https://www.elahmad.com/tv/live/sl.php?id=aljadeed",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=aljadeed"
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=aljadeed",
+                "http://dagav.com/v/arabic/arab3/aljadeed.php",
+                "https://www.3rbcafee.com/2020/04/Aljdeed-TV-Live.html#google_vignette"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15290,6 +15303,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.almanar.com.lb/live/",
+                "http://azrotv.com/iphone/arabic/ch3/almanar.php#google_vignette",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=manartv1",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=manartv2",
                 "https://www.elahmad.com/tv/radiant.php?id=manartv1",
@@ -15311,7 +15326,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alittihad"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alittihad",
+                "https://alittihad.tv/live/"
             ],
             "m3u8_url": [
                 "https://live.alittihad.tv:444/ittihad/index.m3u8"
@@ -15333,7 +15349,8 @@
                 "https://player.octivid.com/v1/live?id=MTE5&channelid=NzE=&countries=QUQ=&w=100%25&h=100%25&autoplay=false&filter=DENY&signature=ae53e73fef194a5511f0504edab8d99b",
                 "https://www.elahmad.com/tv/arabic-tv-online.php?id=almayadeen",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=almayadeen1",
-                "https://www.elahmad.com/tv/youtube.php?id=almayadeentv"
+                "https://www.elahmad.com/tv/youtube.php?id=almayadeentv",
+                "https://www.almayadeen.net/live"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15354,7 +15371,8 @@
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=teleliban",
                 "https://www.elahmad.com/tv/watchtv.php?id=tele_liban",
                 "https://www.teleliban.com.lb/live",
-                "https://www.elahmad.com/tv/radiant.php?id=teleliban"
+                "https://www.elahmad.com/tv/radiant.php?id=teleliban",
+                "https://www.teleliban.com.lb/index.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15373,7 +15391,8 @@
             "iframe_url": [
                 "https://players.brightcove.net/6313884884001/kzLyKYu0rN_default/index.html?videoId=6329837144112",
                 "https://www.elahmad.com/tv/watchtv.php?id=almashhad",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=almashhad"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=almashhad",
+                "https://almashhad.com/live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15390,7 +15409,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=tvseventeen"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=tvseventeen",
+                "https://tvtolive.com/category/lebanon/",
+                "https://www.web24iptv.online/ar/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15407,6 +15428,16 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.web24iptv.online/rotana/rotanakds#goog_fullscreen_ad"",
+                "https://www.web24iptv.online/rotana/rotanah",
+                "https://www.web24iptv.online/rotana/rotanad",
+                "https://www.web24iptv.online/rotana/rotanacin",
+                "https://www.web24iptv.online/rotana/risala",
+                "https://www.web24iptv.online/rotana/lbc_rotana",
+                "https://www.web24iptv.online/rotana/clip",
+                "https://www.web24iptv.online/rotana/rotanaps",
+                "https://www.web24iptv.online/rotana/rotanako",
+                "https://www.web24iptv.online/rotana/rotanaklasik",
                 "https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema_egypt",
                 "https://www.elahmad.com/tv/watchtv.php?id=rotana-khalijia",
                 "https://www.elahmad.com/tv/watchtv.php?id=rotana_drama",
@@ -15431,7 +15462,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=newvision"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=newvision",
+                "https://www.newvision.co.ug/"
             ],
             "m3u8_url": [
                 "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
@@ -15447,10 +15479,15 @@
         "categoría": "news"
     },
     "tv-west": {
-        "nombre": "Tv West",
+        "nombre": "Tv West - Future tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvwest.co.ug/tvwest-live",
+                "https://www.elahmad.com/tv/watchtv.php?id=future",
+                "https://futuretv.live/",
+                "https://future.com.lb/"
+            ],
             "m3u8_url": [
                 "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
                 "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v1a1/mono.m3u8"
@@ -15460,7 +15497,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvwest.co.ug/",
+        "sitio_oficial": "https://tvtolive.com/category/lebanon/",
         "país": "lb",
         "categoría": "news"
     },
@@ -15470,7 +15507,8 @@
         "señales": {
             "iframe_url": [
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alwifaknews",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alwifaknews"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alwifaknews",
+                "https://www.alwifaknews.com/livetv"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15487,7 +15525,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alimantv"
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alimantv",
+                "https://www.alimantv.com.lb/live"
             ],
             "m3u8_url": [
                 "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
@@ -15506,7 +15545,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/W8nThq62Vb4?color=white&origin=https%3A%2F%2Fwww.channelstv.com&enablejsapi=1&widgetid=1"
+                "https://www.youtube.com/embed/W8nThq62Vb4?color=white&origin=https%3A%2F%2Fwww.channelstv.com&enablejsapi=1&widgetid=1",
+                "https://www.channelstv.com/live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15523,7 +15563,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.field59.com/v4/channel/ncwlife/523534a2a98d661d1c261352a52f59bac38d6a70.html?full=y"
+                "https://player.field59.com/v4/channel/ncwlife/523534a2a98d661d1c261352a52f59bac38d6a70.html?full=y",
+                "https://www.ncwlife.com/live-tv/"
             ],
             "m3u8_url": [
                 "https://live.field59.com/ncwlife/ncwlife1/chunklist.m3u8"
@@ -15541,7 +15582,9 @@
         "nombre": "Aliman",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://aliman.id/live/"
+            ],
             "m3u8_url": [
                 "https://tv.aliman.id/aliman/live_480p1128kbs/index.m3u8"
             ],
@@ -15554,12 +15597,14 @@
         "país": "lb",
         "categoría": "news"
     },
-    "Al-Zahra-TV": {
-        "nombre": "Al Zahra TV",
+    "Al-Zahra-TV-imamhussein": {
+        "nombre": "Al Zahra TV - Imamhussein",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "http://nettv.live/player/videojs.php?url=https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8"
+                "https://imamhusseintv.com/en/live/1",
+                "https://www.parsatv.com/name=Al-Zahra-TV",
+                "http://azrotv.com/iphone/e/IR-zahra/#google_vignette"
             ],
             "m3u8_url": [
                 "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8",
@@ -15578,7 +15623,9 @@
         "nombre": "Charity TV MUSIC",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://charityradiotv.org/stream/livetv.html"
+            ],
             "m3u8_url": [
                 "http://nettv.live/player/videojs.php?url=http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
                 "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8"
@@ -15588,15 +15635,19 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://nettv.live/en/channel.php?aid=9812",
+        "sitio_oficial": "https://charityradiotv.org/stream/livetv.html",
         "país": "lb",
         "categoría": "news"
     },
-    "Arabica": {
-        "nombre": "Arabica",
+    "Arabica-alwasat": {
+        "nombre": "Arabica - alwasat",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://nettv.live/en/channel.php?aid=9671",
+                "https://alwasat.ly/live",
+                "http://www.parsatv.com/name=Arabica-TV#google_vignette"
+            ],
             "m3u8_url": [
                 "http://nettv.live/player/videojs.php?url=http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8V",
                 "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
@@ -15615,7 +15666,9 @@
         "logo": "https://www.web24iptv.online/img/lbn/manar.webp",
         "señales": {
             "iframe_url": [
-                "https://www.web24iptv.online/player/phpar/lbnmanar.php"
+                "https://www.almanar.com.lb/live/",
+                "https://www.web24iptv.online/lbn/manar.html",
+                "https://english.almanar.com.lb/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -15623,7 +15676,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.web24iptv.online/lbn/manar.html",
+        "sitio_oficial": "https://www.web24iptv.online/ar/",
         "país": "lb",
         "categoría": "news"
     },
@@ -15632,7 +15685,8 @@
         "logo": "https://www.web24iptv.online/img/lbn/lbnone.webp",
         "señales": {
             "iframe_url": [
-                "https://www.web24iptv.online/player/phpar/lbnone.php"
+                "http://www.azrotv.com/iphone/arabic/ch3/onemtvlebanon.php",
+                "https://www.web24iptv.online/lbn/lbnone.html"
             ],
             "m3u8_url": [],
             "yt_id": "",
