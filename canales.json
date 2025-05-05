@@ -35510,7 +35510,8 @@
         "señales": {
             "iframe_url": [
                 "http://www.parsatv.com/embed.php?name=HLN&auto=false",
-                "https://www.parsatv.com/name=HLN#news"
+                "https://www.parsatv.com/name=HLN#news",
+                "https://www.livehdtv.com/hln-be/"
             ],
             "m3u8_url": [
                 "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
@@ -35528,7 +35529,9 @@
         "nombre": "ATV be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.gva.be/atv"
+            ],
             "m3u8_url": [
                 "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
             ],
@@ -35548,7 +35551,8 @@
             "iframe_url": [
                 "https://player.bx1.be/playertv.php",
                 "rtmps://59959724487e3.streamlock.net:443/radio/live",
-                "rtmps://59959724487e3.streamlock.net:443/stream/live"
+                "rtmps://59959724487e3.streamlock.net:443/stream/live",
+                "https://bx1.be/"
             ],
             "m3u8_url": [
                 "https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8",
@@ -35570,8 +35574,10 @@
         "señales": {
             "iframe_url": [
                 "https://player.clevercast.com?account_id=WXv1JD&event_id=V3n5YY",
+                "https://www.bruzz.be/kijken",
                 "https://www.bruzz.be/live/popup/#/bruzz/watch",
-                "https://www.bruzz.be/live/popup/#/ice/watch"
+                "https://www.bruzz.be/live/popup/#/ice/watch",
+                "https://www.bruzz.be/kijken"
             ],
             "m3u8_url": [
                 "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b1300000.m3u8",
@@ -35590,7 +35596,9 @@
         "nombre": "TV Oost be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvoost.be/"
+            ],
             "m3u8_url": [
                 "https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8"
             ],
@@ -35607,7 +35615,9 @@
         "nombre": "ROB TV be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.robtv.be/meld-nieuws/"
+            ],
             "m3u8_url": [
                 "https://live.zendzend.com/mpegts/29375_395477/media_mpegts_1.m3u8"
             ],
@@ -35624,7 +35634,9 @@
         "nombre": "Notélé be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.notele.be/it105-md5-direct.html"
+            ],
             "m3u8_url": [
                 "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"
             ],
@@ -35641,11 +35653,13 @@
         "nombre": "TV Limburg (TVL) be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.tvl.be/"
+            ],
             "m3u8_url": [
                 "https://live.zendzend.com/mpegts/29375_395474/media_mpegts_0.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "https://www.tvl.be/",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -35658,7 +35672,9 @@
         "nombre": "Matélé be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.matele.be/direct"
+            ],
             "m3u8_url": [
                 "https://live.matele.be/hls/live.m3u8",
                 "https://live.matele.be/hls/live.m3u8"
@@ -35677,15 +35693,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://player.clevercast.com/?account_id=VzaPKg&event_id=WqY7Y3&chromecast=true&airplay=true",
-                "https://player.clevercast.com/?account_id=VzaPKg&event_id=VyO3OZ&chromecast=true&airplay=true",
-                "https://player.clevercast.com/?account_id=VzaPKg&event_id=WqY7Y3&chromecast=true&airplay=true",
-                "https://player.clevercast.com/?account_id=VzaPKg&event_id=VyO3OZ&chromecast=true&airplay=true"
+                "https://focus-wtv.be/tv-zone"
             ],
-            "m3u8_url": [
-                "https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/chunklist_b3000000.m3u8",
-                "https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/VyO3OZ.smil/chunklist_b3000000.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35700,6 +35710,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.funradio.be/funvision/",
                 "https://www.dailymotion.com/embed/video/x8fy3fv?autoplay=1",
                 "https://geo2.dailymotion.com/player/xb0mn.html?video=x8fy3fv"
             ],
@@ -35717,7 +35728,9 @@
         "nombre": "VRT MAX be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.squidtv.net/europe/belgium/belgium-006.html"
+            ],
             "m3u8_url": [
                 "https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8",
                 "https://live-radio.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29"
@@ -35735,10 +35748,10 @@
         "nombre": "Qmusic be",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8"
+            "iframe_url": [
+                "https://qmusic.be/luister/qmusic_be/watch"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35754,7 +35767,8 @@
         "señales": {
             "iframe_url": [
                 "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=1&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
-                "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=2&autostart=&lg=INT&isCloud=false&showSwitchLive=true"
+                "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=2&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
+                "https://audiovisual.ec.europa.eu/en/ebs/live/1"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -35770,7 +35784,9 @@
         "nombre": "DW News",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.dw.com/en/live-tv/channel-english"
+            ],
             "m3u8_url": [
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
             ],
@@ -35787,7 +35803,9 @@
         "nombre": "DW عربية",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.dw.com/ar/live-tv/channel-arabic"
+            ],
             "m3u8_url": [
                 "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
             ],
@@ -35804,7 +35822,9 @@
         "nombre": "DW Español",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.dw.com/es/live-tv/channel-spanish"
+            ],
             "m3u8_url": [
                 "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
                 "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
@@ -35822,10 +35842,10 @@
         "nombre": "WELT",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s6.hopslan.com/n24x1/index.m3u8?token=e0bde620a2f1a9e456402ef01ff4a78e091da95f-5457786350ae01dda0893d373520d92d-1720895630-1720884830"
+            "iframe_url": [
+                "https://www.welt.de/tv-programm-live-stream/"
             ],
+            "m3u8_url": [],
             "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35854,10 +35874,10 @@
         "nombre": "Arte Live",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s6.hopslan.com:443/arte/index.m3u8?token=b77eecda084d91e31af41d4213364b67771946b9-1f8f741c4fbdb2c5b901b2613c64b7d0-1720908370-1720897570"
+            "iframe_url": [
+                "https://www.livehdtv.com/arte-german/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35871,10 +35891,10 @@
         "nombre": "ARD",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s6.hopslan.com:443/ard11/index.m3u8?token=ec09f7b9d790bb92f7a1a2446e046dc77f653f9a-62579e095d4ef974e47a52dd269f44d6-1720908276-1720897476"
+            "iframe_url": [
+                "https://www.livehdtv.com/ard/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35888,7 +35908,9 @@
         "nombre": "HR Fernsehen",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/hr-fernsehen/"
+            ],
             "m3u8_url": [
                 "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8"
             ],
@@ -35905,7 +35927,9 @@
         "nombre": "WDR Fernsehen",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/wdr-fernsehen/"
+            ],
             "m3u8_url": [
                 "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
             ],
@@ -35922,7 +35946,9 @@
         "nombre": "KIKA",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.kika.de/live/live-100"
+            ],
             "m3u8_url": [
                 "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
             ],
@@ -35940,7 +35966,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/hns12gYNRq0?playsinline=1&enablejsapi=1&origin=https%3A%2F%2F24tv.ua&widgetid=1"
+                "https://24tv.ua/online/"
             ],
             "m3u8_url": [
                 "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
@@ -35993,14 +36019,18 @@
         "país": "cn",
         "categoría": "news"
     },
-    "营山电视台-noticias": {
-        "nombre": "营山电视台 Noticias",
+    "营山电视台-noticias-viqilu-cetv1": {
+        "nombre": "营山电视台 Noticias - viqilu - Cetv1",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://news.tvb.com/tc/live/83",
+                "https://v.iqilu.com/",
+                "https://www.iq.com/live/1p464e0kt1r",
+                "https://www.iq.com/live/16fv9pf0m4z",
                 "https://v.iqilu.com/live/shpd/",
-                "https://yeslivetv.com/channels/rthk34/"
+                "https://yeslivetv.com/channels/rthk34/",
+                "https://www.centv.cn/cetv1/index.html"
             ],
             "m3u8_url": [
                 "https://livedoc.cgtn.com/200d/prog_index.m3u8"
@@ -36014,11 +36044,14 @@
         "país": "cn",
         "categoría": "news"
     },
-    "TVB翡翠台-noticias": {
-        "nombre": "TVB翡翠台",
+    "TVB翡翠台-noticias-henan": {
+        "nombre": "TVB翡翠台 - Henan-hntv6",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://p.ytelc.com/169l/henan/henan.php?id=hntv6",
+                "https://static.hntv.tv/kds/#/",
+                "http://tv.haoqu99.com/3/henan/hntv6.html",
                 "https://iptv345.com/?act=play&token=5ecd9ca9fd8afe26fa4004310ca90f7b&tid=gt&id=5",
                 "https://iptv345.com/?act=play&token=e20f71abd396a7c36d5f37d9ecbb4029&tid=itv&id=1",
                 "https://yeslivetv.com/channels/tvb-jade/"
@@ -36035,11 +36068,18 @@
         "país": "cn",
         "categoría": "news"
     },
-    "贵南综合-noticias": {
-        "nombre": "贵南综合 Noticias",
+    "贵南综合-noticias-ntdtv-zztv1": {
+        "nombre": "贵南综合 Noticias - Ntdtv - zztv1-Zhengzhou 1",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://p.ytelc.com/169l/henan/henan.php?id=zz1",
+                "https://www.tv6tnt.com/watch_live/#google_vignette",
+                "https://www.ntdtv.com/b5/2025/05/05/a103982601.html",
+                "http://tv.haoqu99.com/3/henan/zztv1.html",
+                "http://tv.haoqu99.com/3/henan/",
+                "https://vavoo.to/"
+            ],
             "m3u8_url": [
                 "http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd"
             ],
@@ -36052,11 +36092,17 @@
         "país": "cn",
         "categoría": "news"
     },
-    "萧山生活频道-noticias": {
-        "nombre": "萧山生活频道 Noticias",
+    "萧山生活频道-noticias-Anyang-Hebi": {
+        "nombre": "萧山生活频道 Noticias - Anyang - Hebi",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://www.jzrt.com/list-zhpd.html",
+                "http://tv.haoqu99.com/3/henan/xxzh.html",
+                "http://tv.haoqu99.com/3/henan/puyang1.html",
+                "http://tv.haoqu99.com/3/henan/hebizh.html",
+                "http://tv.haoqu99.com/3/henan/anyxwzh.html"
+            ],
             "m3u8_url": [
                 "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed"
             ],
@@ -36130,11 +36176,17 @@
         "país": "cn",
         "categoría": "news"
     },
-    "凤凰资讯": {
-        "nombre": "凤凰资讯",
+    "凤凰资讯-Sanmenxia-Kaifeng": {
+        "nombre": "凤凰资讯 - Sanmenxia - Kaifeng - Zhumadian",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://p.ytelc.com/169l/henan/henan.php?id=zmd1",
+                "http://tv.haoqu99.com/3/henan/zmdxwzh.html",
+                "http://tv.haoqu99.com/3/henan/sqzh.html",
+                "http://tv.haoqu99.com/3/henan/kfzh.html",
+                "http://tv.haoqu99.com/3/henan/smxzh.html"
+            ],
             "m3u8_url": [
                 "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2"
             ],
