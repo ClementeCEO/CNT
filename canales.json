@@ -35974,9 +35974,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://iptv345.com/?act=play&token=61ab47060254fa31f63267b581dd22d9&tid=ipv6&id=1",
+                "https://www.cctvplus.com/live/channel1.shtml",
+                "https://www.yangshipin.cn/tv/home?pid=600001800",
                 "https://tv.cctv.com/live/index.shtml?spm=C28340.Pt4HIOyckvxg.ErvKLWyukCzh.1",
-                "https://www.yangshipin.cn/tv/home?pid=600001800"
+                "https://iptv345.com/?act=play&token=61ab47060254fa31f63267b581dd22d9&tid=ipv6&id=1"
             ],
             "m3u8_url": [
                 "http://www.lizhinas.top:1009/rtp/239.252.220.237:5140",
@@ -36107,7 +36108,7 @@
         "país": "cn",
         "categoría": "news"
     },
-    "哈尔滨新闻综合-鳳凰資訊 PhoenixTVNews": {
+    "哈尔滨新闻综合-鳳凰資訊-PhoenixTVNews": {
         "nombre": "哈尔滨新闻综合 - 鳳凰資訊 PhoenixTVNews",
         "logo": "",
         "señales": {
