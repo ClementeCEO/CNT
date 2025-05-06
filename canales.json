@@ -36068,6 +36068,27 @@
         "país": "cn",
         "categoría": "news"
     },
+    "cgtn": {
+        "nombre": "CGTN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://espanol.cgtn.com/en-directo"
+            ],
+            "m3u8_url": [
+                "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+                "https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
+                "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+            ],
+            "yt_id": "UCgrNz-aDmcr2uuto8_DL2jg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/zh/",
+        "país": "cn",
+        "categoría": "news"
+    },
     "贵南综合-noticias-ntdtv-zztv1": {
         "nombre": "贵南综合 Noticias - Ntdtv - zztv1-Zhengzhou 1",
         "logo": "",
@@ -36228,43 +36249,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.ctv.com.tw/",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "cgtn": {
-        "nombre": "CGTN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
-                "https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8"
-            ],
-            "yt_id": "UCgrNz-aDmcr2uuto8_DL2jg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cgtn.com/",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "CGTN-noticias": {
-        "nombre": "CGTNTV Noticias INGLES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://espanol.cgtn.com/en-directo"
-            ],
-            "m3u8_url": [
-                "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/zh/",
         "país": "cn",
         "categoría": "news"
     },
