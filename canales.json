@@ -36024,7 +36024,10 @@
         "nombre": "CCTV4",
         "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://iptv345.com/?act=play&token=1843c71e5c9e97bab4514375753e0ae8&tid=ty&id=1",
+                "https://iptv345.com/?tid=ys"
+            ],
             "m3u8_url": [],
             "yt_id": "UC4K_LI-Tn3-LshNgG0-YypQ",
             "yt_embed": "",
@@ -36279,12 +36282,15 @@
         "país": "cn",
         "categoría": "news"
     },
-    "贵南综合-noticias-joel": {
-        "nombre": "贵南综合 Noticias 凤凰中文",
+    "贵南综合-noticias-kylinTV": {
+        "nombre": "贵南综合 Noticias kylinTV凤凰中文",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://iptv345.com/?act=play&token=1843c71e5c9e97bab4514375753e0ae8&tid=ty&id=1"
+                "https://v.kylintv.com/#/livedetails?id=4D0FE6DD0465CB612E1B",
+                "https://iptv345.com/?act=play&token=1843c71e5c9e97bab4514375753e0ae8&tid=ty&id=1",
+                "https://tv.cctv.com/live/cctv13/",
+                "https://v.kylintv.com/#/live"
             ],
             "m3u8_url": [
                 "https://k44991.kylintv.tv/live/pxna_iphone.m3u8"
