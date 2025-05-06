@@ -36103,10 +36103,18 @@
         "señales": {
             "iframe_url": [
                 "https://www.cztv.com/liveTV/101",
+                "https://www.cztv.com/liveTV/102",
+                "https://www.cztv.com/liveTV/103",
+                "https://www.cztv.com/liveTV/104",
+                "https://www.cztv.com/liveTV/106",
+                "https://www.cztv.com/liveTV/107",
+                "https://www.cztv.com/liveTV/108",
+                "https://www.cztv.com/liveTV/110",
+                "https://www.cztv.com/liveTV/111",
+                "https://www.cztv.com/liveTV/112",
                 "https://www.coolstreaming.us/channelnew/54785/ZhejiangTV.html",
                 "https://www.cztv.com/liveRadio",
-                "https://www.cztv.com/liveTV",
-                "https://www.cztv.com/liveTV/102"
+                "https://www.cztv.com/liveTV"
             ],
             "m3u8_url": [
                 "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
