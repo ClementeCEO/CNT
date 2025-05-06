@@ -36073,11 +36073,19 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.hlsplayer.org/play?url=https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+                "http://jawaltv.com/player/?id=http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+                "http://jawaltv.com/online/spain/watch/tv/cgtn.php#google_vignette",
+                "https://www.tvenvivo.com.ar/cgtn-en-espanol/",
+                "https://www.kgns.tv/livestream/",
+                "http://dagav.com/v/es/tv/cgtnes.php#google_vignette",
+                "https://www.cxtvlive.com/live-tv/cgtn-arabic",
                 "https://espanol.cgtn.com/en-directo"
             ],
             "m3u8_url": [
                 "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
                 "https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
+                "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
                 "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
             ],
             "yt_id": "UCgrNz-aDmcr2uuto8_DL2jg",
