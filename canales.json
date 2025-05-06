@@ -36097,6 +36097,31 @@
         "país": "cn",
         "categoría": "news"
     },
+    "津南一套-ZhejiangTV": {
+        "nombre": "津南一套 - Zhejiang TV (CN)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cztv.com/liveTV/101",
+                "https://www.coolstreaming.us/channelnew/54785/ZhejiangTV.html",
+                "https://www.cztv.com/liveRadio",
+                "https://www.cztv.com/liveTV",
+                "https://www.cztv.com/liveTV/102"
+            ],
+            "m3u8_url": [
+                "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+                "http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd",
+                "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Zhang-S-g/box/blob/90a8ebabf6d1e340419270f66008d0dd87a1393d/tvlive.txt#L1560",
+        "país": "cn",
+        "categoría": "news"
+    },
     "贵南综合-noticias-ntdtv-zztv1": {
         "nombre": "贵南综合 Noticias - Ntdtv - zztv1-Zhengzhou 1",
         "logo": "",
@@ -36225,23 +36250,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.ctv.com.tw/",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "津南一套": {
-        "nombre": "津南一套",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Zhang-S-g/box/blob/90a8ebabf6d1e340419270f66008d0dd87a1393d/tvlive.txt#L1560",
         "país": "cn",
         "categoría": "news"
     },
