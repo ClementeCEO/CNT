@@ -36001,6 +36001,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.cctvplus.com/live/channel1.shtml",
+                "https://tv.cctv.com/live/cctvjilu/",
                 "https://www.yangshipin.cn/tv/home?pid=600001800",
                 "https://tv.cctv.com/live/index.shtml?spm=C28340.Pt4HIOyckvxg.ErvKLWyukCzh.1",
                 "https://iptv345.com/?act=play&token=61ab47060254fa31f63267b581dd22d9&tid=ipv6&id=1"
@@ -36016,6 +36017,42 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/ic005k/itv/blob/d87981c8ee98ae0e1f50193002b23149562f0e1a/CCTV1.m3u",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "cctv4": {
+        "nombre": "CCTV4",
+        "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC4K_LI-Tn3-LshNgG0-YypQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@LiveNow24H/streams",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "NBTV2-noticias-FangshanTV": {
+        "nombre": "NBTV2 - Fangshan Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml",
+                "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml",
+                "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml",
+                "http://www.funhillrm.com/news/folder65/",
+                "https://www.squidtv.net/china/zhejiang/zhejiang-003.html#google_vignette"
+            ],
+            "m3u8_url": [],
+            "yt_id": 
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.cctv.com/live/cctv1/",
         "país": "cn",
         "categoría": "news"
     },
@@ -36114,7 +36151,8 @@
                 "https://www.cztv.com/liveTV/112",
                 "https://www.coolstreaming.us/channelnew/54785/ZhejiangTV.html",
                 "https://www.cztv.com/liveRadio",
-                "https://www.cztv.com/liveTV"
+                "https://www.cztv.com/liveTV",
+                "https://www.squidtv.net/china/zhejiang/zhejiang-001.html"
             ],
             "m3u8_url": [
                 "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
@@ -36127,6 +36165,70 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/Zhang-S-g/box/blob/90a8ebabf6d1e340419270f66008d0dd87a1393d/tvlive.txt#L1560",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "kankanews-Dragon-noticias": {
+        "nombre": "Kankanews Dragon Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.kankanews.com/huikan/"
+            ],
+            "m3u8_url": [
+                "https://www.squidtv.net/china/shanghai/shanghai-001.html"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kankanews.com/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "ZhengzhouTV-OCJ(东方购物)-ChuzhouTV(滁州市广播电视台)": {
+        "nombre": "ZhengzhouTV - OCJ(东方购物) - Chuzhou",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shanghaieye.cn/Live",
+                "https://www.yicai.com/tv/",
+                "https://www.dfgou.cn/tv.html#/TVIndex",
+                "http://www.cztv.cc/Live/index?liveid=1"
+            ],
+            "m3u8_url": [
+                "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8",
+                "https://www.squidtv.net/china/shanghai/shanghai-006.html"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/zh/72437/ZhengzhouTV.html",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "DaAi-2": {
+        "nombre": "DaAi 2",
+        "logo": "https://i.imgur.com/KdJi9af.png",
+        "señales": {
+            "iframe_url": [
+                "https://daaiplus.com/live-streaming-daai-tv/",
+                "https://www.ceskatelevize.cz/zive/"
+            ],
+            "m3u8_url": [
+                "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_SD.m3u8",
+                "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+                "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/hujingguang/ChinaIPTV/blob/main/cnTV_AutoUpdate.m3u8",
         "país": "cn",
         "categoría": "news"
     },
@@ -36177,7 +36279,7 @@
         "país": "cn",
         "categoría": "news"
     },
-    "贵南综合-noticias": {
+    "贵南综合-noticias-joel": {
         "nombre": "贵南综合 Noticias 凤凰中文",
         "logo": "",
         "señales": {
@@ -36370,23 +36472,6 @@
         "país": "cn",
         "categoría": "news"
     },
-    "Dragon-noticias": {
-        "nombre": "Dragon Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://live.kankanews.com/huikan/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.kankanews.com/",
-        "país": "cn",
-        "categoría": "news"
-    },
     "rthk34-noticias": {
         "nombre": "Rthk34 Noticias",
         "logo": "",
@@ -36494,23 +36579,6 @@
         "país": "cn",
         "categoría": "news"
     },
-    "cctv4": {
-        "nombre": "CCTV4",
-        "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/twhG7_jvA8g?modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC4K_LI-Tn3-LshNgG0-YypQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@LiveNow24H/streams",
-        "país": "cn",
-        "categoría": "news"
-    },
     "mgtv-noticias": {
         "nombre": "MGTV Noticias",
         "logo": "//img.mgtv.com/imgotv-channel/6.1.8/pcweb-head/ios-fav.png",
@@ -36564,35 +36632,6 @@
             "m3u8_url": [
                 "https://volcanopull.aniu.tv/live/aniu2/index.m3u8",
                 "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.cctv.com/live/cctv1/",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "cctv-noticias": {
-        "nombre": "cctv Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.cctv.com/live/cctvjilu/",
-                "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/",
-                "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/",
-                "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/",
-                "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/"
-            ],
-            "m3u8_url": [
-                "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
-                "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000016466/1.m3u8",
-                "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/1.m3u8",
-                "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023734/1.m3u8",
-                "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/1.m3u8",
-                "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001640/1.m3u8",
-                "http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -36695,43 +36734,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://live.jstv.com/",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "ZhengzhouTV-noticias": {
-        "nombre": "ZhengzhouTV Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/zh/72437/ZhengzhouTV.html",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "DaAi-2": {
-        "nombre": "DaAi 2",
-        "logo": "https://i.imgur.com/KdJi9af.png",
-        "señales": {
-            "iframe_url": [
-                "https://daaiplus.com/live-streaming-daai-tv/",
-                "https://www.ceskatelevize.cz/zive/"
-            ],
-            "m3u8_url": [
-                "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/hujingguang/ChinaIPTV/blob/main/cnTV_AutoUpdate.m3u8",
         "país": "cn",
         "categoría": "news"
     },
