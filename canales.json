@@ -26042,7 +26042,9 @@
         "nombre": "AlQuranHD القران الكريم",
         "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.aloula.sa/ar/live/qurantvsa"
+            ],
             "m3u8_url": [],
             "yt_id": "UCraPI8sg-eiNzUrurxhKeEQ",
             "yt_embed": "",
@@ -26053,11 +26055,14 @@
         "país": "pk",
         "categoría": "religious"
     },
-    "talonnews_hd": {
-        "nombre": "Talon News HD",
+    "365news-talonnews_hd": {
+        "nombre": "365news - Talon News HD",
         "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://365news.pk/watch-live/",
+                "https://365news.pk/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCooaD1RPqtX2mY4yNc1PPqw",
             "yt_embed": "",
@@ -26068,14 +26073,21 @@
         "país": "pk",
         "categoría": "news"
     },
-    "bolnewsofficial": {
-        "nombre": "BOL News",
+    "bolnewsofficial-arynews-arydigital": {
+        "nombre": "BOL News - Arynews - Arydigital",
         "logo": "https://graph.facebook.com/BOLNETWORK/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://live.arynews.tv/",
+                "https://live.arydigital.tv/",
+                "https://www.bolnews.com/Live/",
+                "https://www.shaamtv.com/?c=116#google_vignette"
+            ],
+            "m3u8_url": [
+                "https://arydigital.aryzap.com/451ddb230f5395b9c95c091584181047/681d10d5/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_360p.m3u8?uuid=57b1259e-d3d7-4607-92c0-b6871e426d50&isSubM3u8=1"
+            ],
             "yt_id": "UCz2yxQJZgiB_5elTzqV7FiQ",
-            "yt_embed": "",
+            "yt_embed": "YirtbHvyaxY?",
             "yt_playlist": "",
             "twitch_id": ""
         },
