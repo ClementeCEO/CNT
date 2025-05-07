@@ -26099,7 +26099,12 @@
         "nombre": "SAMAA TV",
         "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.samaa.tv/live",
+                "https://hamariweb.com/pakistan-tv-channels/sama_tv.aspx",
+                "https://www.shaamtv.com/?c=3",
+                "https://tamashaweb.com/samaa-tv-live"
+            ],
             "m3u8_url": [],
             "yt_id": "UCJekW1Vj5fCVEGdye_mBN6Q",
             "yt_embed": "",
@@ -26114,7 +26119,11 @@
         "nombre": "Dunya News",
         "logo": "https://graph.facebook.com/dunyanews/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.shaamtv.com/?c=126#google_vignette",
+                "https://hamariweb.com/pakistan-tv-channels/dawn_news.aspx",
+                "https://www.dawnnews.tv/watch-live"
+            ],
             "m3u8_url": [
                 "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
                 "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
@@ -26133,6 +26142,9 @@
         "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/vsh-news.webp",
         "señales": {
             "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UC8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+                "https://www.desifree.tv/vsh-news/#google_vignette",
+                "https://vshnews.tv/",
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULF8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
             ],
             "m3u8_url": [],
@@ -26145,11 +26157,19 @@
         "país": "pk",
         "categoría": "news"
     },
-    "raah-tv": {
-        "nombre": "",
+    "raah-tehzeebtv-in-wwon48": {
+        "nombre": "RaahTV - Tehzeebtv-in - NY48 Wwon48",
         "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/raah-tv.webp",
         "señales": {
             "iframe_url": [
+                "https://www.wonnewyork.net/wwon48",
+                "http://vod.mvcc.video:8080/CablecastPublicSite/watch-now?site=4",
+                "https://www.lordbloodrah.com/tv-schedule.html",
+                "https://www.tehzeebtv.in/live-streaming/",
+                "https://www.desifree.tv/raah-tv/#google_vignette",
+                "https://www.shaamtv.com/?c=83",
+                "https://www.facebook.com/RaahTVPakistan",
+                "https://www.etv.co.in/",
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULFdadSJuBe7q6Y03MAlVDyhA&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
             ],
             "m3u8_url": [],
@@ -26163,11 +26183,12 @@
         "categoría": "news"
     },
     "madani-channel": {
-        "nombre": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/madani-channel.webp",
-        "logo": "",
+        "nombre": "Madanichannel",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/madani-channel.webp",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+                "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm"
             ],
             "m3u8_url": [],
             "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
@@ -26179,46 +26200,64 @@
         "país": "pk",
         "categoría": "news"
     },
-    "ptvGlobal": {
-        "nombre": "PtvGlobal",
+    "ptv-Global-saudiatv": {
+        "nombre": "Ptv Global - Saudiatv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.desifree.tv/ptv-world/#google_vignette",
+                "https://www.ptvsportstv.com.pk/ptv-sports-live-tv/",
+                "https://www.aloula.sa/live/saudiatv",
+                "https://ptv.com.pk/ptvGlobal/globallive",
+                "https://www.facebook.com/Globalptv/?locale=es_LA"
+            ],
             "m3u8_url": [
                 "https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCj-e7yp2_-qE-TPritppZGQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://ptv.com.pk/ptvGlobal/globallive",
+        "sitio_oficial": "https://www.youtube.com/@PTVWorldOfficial",
         "país": "pk",
         "categoría": "news"
     },
-    "mjunoon": {
-        "nombre": "Mjunoon",
+    "BinoriaMedia-humtv-92-news-uk": {
+        "nombre": "Binoria Media - Humtv - 92news-uk",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDk6NDI6MzMgUE0maGFzaF92YWx1ZT16TitmaTNiMUE0djlzWFhPTDJlZ3JBPT0mdmFsaWRtaW51dGVzPTE="
+            "iframe_url": [
+                "https://hum.tv/live/",
+                "https://www.mjunoon.tv/binoria-media-live",
+                "https://www.mjunoon.tv/watch-live-tv-channels",
+                "https://92newshd.tv/livestream-channel/92-news-uk",
+                "https://92newshd.tv/live",
+                "https://webtv.92newshd.tv/"
             ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UCsgC5cbz3DE2Shh34gNKiog",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.mjunoon.tv/watch-live-tv-channels",
+        "sitio_oficial": "https://www.youtube.com/@92newshdTv/streams",
         "país": "pk",
         "categoría": "news"
     },
-    "aaj-news": {
-        "nombre": "Aaj News",
+    "aaj-news-urdu-news18-Express-News": {
+        "nombre": "Aaj News - Urdunews18- Express News",
         "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/aaj-tv.webp",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgBAPAcLsh_MAPvJprIz89w&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgBAPAcLsh_MAPvJprIz89w&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+                "https://english.aaj.tv/watch-live/",
+                "https://www.aaj.tv/videos",
+                "https://urdu.news18.com/live-tv/",
+                "https://id.trefoil.tv/2352-aaj-news.html",
+                "https://www.express.pk/live",
+                "https://www.express.pk/#google_vignette",
+                "https://expressnews.uk.com/express-news-live/"
             ],
             "m3u8_url": [],
             "yt_id": "UCgBAPAcLsh_MAPvJprIz89w",
@@ -26226,7 +26265,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://id.trefoil.tv/2352-aaj-news.html",
+        "sitio_oficial": "https://www.aaj.tv/",
         "país": "pk",
         "categoría": "news"
     },
@@ -26234,7 +26273,11 @@
         "nombre": "GEOTV",
         "logo": "https://www.geo.tv/assets/front/images/gn-icons/57x57.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://live.geo.tv/",
+                "https://www.shaamtv.com/?c=68",
+                "https://tamashaweb.com/geo-news-live"
+            ],
             "m3u8_url": [
                 "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
                 "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8"
@@ -26253,7 +26296,10 @@
         "logo": "https://trefoil.tv/uploads/posts/2023-10/thumbs/venus-hd.webp",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpV-fDDudZ8i8_incLt3mqw&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpV-fDDudZ8i8_incLt3mqw&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+                "https://www.desifree.tv/venus-tv/",
+                "https://www.venustv.net/",
+                "https://dailypakistan.com.pk/#google_vignette"
             ],
             "m3u8_url": [],
             "yt_id": "UCpV-fDDudZ8i8_incLt3mqw",
@@ -26270,6 +26316,7 @@
         "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/dawnnews.webp",
         "señales": {
             "iframe_url": [
+                 "https://dunyanews.tv/live/",
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=UCaxR-D8FjZ-2otbU0_Y2grg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
             ],
             "m3u8_url": [],
@@ -26282,11 +26329,35 @@
         "país": "pk",
         "categoría": "news"
     },
+    "city-42": {
+        "nombre": "City 42 Pakistan",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.desifree.tv/city-42-live-2/",
+                "https://www.shaamtv.com/?c=83",
+                "https://hamariweb.com/pakistan-tv-channels",
+                "https://www.desifree.tv/channel5/",
+                "https://www.urdupoint.com/tv/news-channels/capital-tv-live.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCdTup4kK7Ze08KYp7ReiuMw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@City42Lahore",
+        "país": "pk",
+        "categoría": "news"
+    },
     "channel-5": {
         "nombre": "Channel Five Pakistan",
         "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
         "señales": {
             "iframe_url": [
+                "https://www.mjunoon.tv/embedplayer/channel-five-live.html",
+                "https://channelfivepakistan.tv/live/",
+                "https://www.desifree.tv/channel5/",
                 "https://www.mjunoon.tv/embedplayer/channel-five-live.html"
             ],
             "m3u8_url": [],
