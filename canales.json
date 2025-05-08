@@ -17379,22 +17379,37 @@
         "país": "mx",
         "categoría": "news"
     },
-    "univision": {
-        "nombre": "Univision Noticias",
+    "univision-US-Tlnovelas": {
+        "nombre": "Univision2 Noticias US Tlnovelas",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://streamtp4.com/global1.php?stream=univision_usa",
+                "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=univision",
+                "https://tele-libre.org/en-vivo-online/univision/embed2.php",
+                "https://embed.sdfgnksbounce.com/embed/univision.html",
+                "https://thetvapp.to/tv/univision-east-live-stream/",
+                "https://amorlatinochat.com/index.html#Univivion",
+                "https://streamtp4.com/global1.php?stream=univision_usa",
+                "https://vix.com/es-es/canales/univision",
+                "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
+                "https://deportelibre.space/canales-sport.php?id=daznf1",
+                "https://deportelibre.space/canales/universo/",
+                "https://tele-libre.org/en-vivo-online/tlnovelas/embed.php",
+                "https://embed.sdfgnksbounce.com/embed/univision.html",
+                "https://thetvapp.to/tv/univision-east-live-stream/",
+                "https://deportelibre.space/",
+                "https://amorlatinochat.com/index.html#Univivion",
                 "https://embed.sdfgnksbounce.com/embed2/univision.html",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=univision",
                 "https://embed.sdfgnksbounce.com/embed/univision.html"
             ],
             "m3u8_url": [],
-            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-            "yt_embed": "",
+            "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
+            "yt_embed": "V4C7VNfRATA?",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/univision",
+        "sitio_oficial": "https://www.tvlibrehd.com/en-vivo/univision",
         "país": "mx",
         "categoría": "news"
     },
@@ -35119,7 +35134,7 @@
             ],
             "m3u8_url": [],
             "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
-            "yt_embed": "",
+            "yt_embed": "V4C7VNfRATA?",
             "yt_playlist": "",
             "twitch_id": ""
         },
