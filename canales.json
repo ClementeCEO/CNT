@@ -36307,6 +36307,7 @@
         "logo": "https://i.imgur.com/KdJi9af.png",
         "señales": {
             "iframe_url": [
+                "http://cn.itver.cc/ytn-tv/",
                 "https://live.64ma.com/tv/player.asp?id=BOb5rY8wS4MWJxX2bvQ5uQ==&p=1",
                 "https://daaiplus.com/live-streaming-daai-tv/",
                 "https://www.ceskatelevize.cz/zive/"
@@ -36325,11 +36326,12 @@
         "país": "cn",
         "categoría": "news"
     },
-    "贵南综合-noticias-ntdtv-zztv1": {
-        "nombre": "贵南综合 Noticias - Ntdtv - zztv1-Zhengzhou 1",
+    "贵南综合-noticias-HenanSatelliteTV-ntdtv-zztv1": {
+        "nombre": "贵南综合 Noticias - Henan Satellite TV - Ntdtv - zztv1-Zhengzhou 1",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://static.hntv.tv/kds/#/",
                 "http://p.ytelc.com/169l/henan/henan.php?id=zz1",
                 "https://www.tv6tnt.com/watch_live/#google_vignette",
                 "https://www.ntdtv.com/b5/2025/05/05/a103982601.html",
@@ -36338,6 +36340,7 @@
                 "https://vavoo.to/"
             ],
             "m3u8_url": [
+                "https://tvcdn.stream3.hndt.com/tv/5abc538b019110004356cd0000000000_transios/playlist.m3u8?wsSecret=696570e02c372abf98d1820abe6b9cf4&wsTime=1746671831",
                 "http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd"
             ],
             "yt_id": "",
