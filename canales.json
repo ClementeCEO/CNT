@@ -36462,12 +36462,23 @@
         "país": "cn",
         "categoría": "news"
     },
-    "chinatvnews": {
-        "nombre": "中視新聞 HD直播頻道",
+    "chinatvnews-logos-ctv": {
+        "nombre": "中視新聞 HD直播頻道 - logos - ctv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "",
+                "https://www.coptstoday.com/Live/ctv.php#google_vignette",
+                "https://www.coptstoday.com/Live/logos-tv.php",
+                "https://www.coptstoday.com/Live/csat.php",
+                "https://limex.tv/ctv-ar",
+                "https://www.comunicazione.va/en/servizi/live.html",
+                "https://mexawy.online/2019/01/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D9%89-%D8%AA%D9%89-%D9%81%D9%89-%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-ctv.html#google_vignette",
+                "https://www.facebook.com/XinhuaNewsAgency"
+            ],
+            "m3u8_url": [
+                "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1238998331_b728000_slar_t64U0Q=.m3u8"
+            ],
             "yt_id": "UCmH4q-YjeazayYCVHHkGAMA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -36475,6 +36486,32 @@
         },
         "sitio_oficial": "https://www.ctv.com.tw/",
         "país": "cn",
+        "categoría": "news"
+    },
+    "globalnews-ctvnews-intercomarcal": {
+        "nombre": "Ctvnews - Globalnews - Intercomarcal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamingtvi.gestec-video.com/redirect_def_4_new.php",
+                "https://streamingtvi.gestec-video.com/redirect_def_4_3_new.php",
+                "https://streamingtvi.gestec-video.com/redirect_def_4_1_new.php",
+                "https://www.ctvnews.ca/video/live/",
+                "https://www.intercomarcal.com/",
+                "https://globalnews.ca/live/calgary/"
+            ],
+            "m3u8_url": [
+                "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
+                "https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8",
+                "https://5aafcc5de91f1.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1238998331_b728000_slar_t64U0Q=.m3u8"
+            ],
+            "yt_id": "UCmH4q-YjeazayYCVHHkGAMA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctv.com.tw/",
+        "país": "ca",
         "categoría": "news"
     },
     "ftvnews53": {
