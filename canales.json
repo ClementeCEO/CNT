@@ -35251,11 +35251,16 @@
             "iframe_url": [
                 "https://players.brightcove.net/876450610001/19dszYXgm_default/index.html?videoId=6346069778112",
                 "https://azrotv.com/pyr/?id=aHR0cHM6Ly9taXQyLWNkbi1lZGdlLWxpdmUwNi5wZmQuc2ZyLm5ldC9iZm0tbmNkbi1saXZlLXByZW1pdW0tcGFsMS5wZmQuc2ZyLm5ldC9zaWQ9MDU0YWthcG1pbmphc2Vrc21rcmcvc2hscy9MSVZFJEJGTV9UVi9pbmRleC5tM3U4P3N0YXJ0PUxJVkUmZW5kPUVORA==",
+                "https://www.stream4free.tv/eurosport",
+                "https://www.livehdtv.com/bfm2-tv-france/",
                 "http://azrotv.com/iphone/news/ch/bfm.php",
                 "https://www.ledirect.fr/iframe-bfmtv",
                 "https://tv-programme.com/bfm-tv/direct"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live-cdn-bfm2-euw3.bfmtv.bct.nextradiotv.com/master.m3u8",
+                "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/eurosportde.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35362,12 +35367,25 @@
         "país": "fr",
         "categoría": "news"
     },
-    "france-info": {
-        "nombre": "franceinfo",
+    "france-info-France3": {
+        "nombre": "franceinfo - France3",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/token.php?stream=france3",
+                "https://www.livehdtv.com/token.php?stream=france4",
+                "https://www.livehdtv.com/token.php?stream=france5",
+                "https://www.livehdtv.com/token.php?stream=cekyaa",
+                "https://www.livehdtv.com/ch617/",
+                "https://www.livehdtv.com/ch183/",
+                "https://www.livehdtv.com/ch191/",
+                "https://www.livehdtv.com/ch184/",
+                "https://www.livehdtv.com/embed/ch183/"
+            ],
+            "m3u8_url": [
+                "https://livetvde.net/france3/index.m3u8?token=121a2aaec6a0abfb55794030281d746e26a28538-db3e87ff76e2ec10383d61465be98138-1746751442-1746740642",
+                
+            ],
             "yt_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35377,15 +35395,22 @@
         "país": "fr",
         "categoría": "news"
     },
-    "tf1": {
-        "nombre": "TF1",
+    "tf1-tfx": {
+        "nombre": "TF1 - TFX",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.livehdtv.com/token.php?stream=tf1",
-                "https://www.livehdtv.com/embed/ch123/"
+                "https://www.livehdtv.com/embed/ch123/",
+                "https://www.tf1info.fr/direct/",
+                "https://www.stream4free.tv/tf1-live-streaming",
+                "https://www.stream4free.tv/tf1-series-films",
+                "https://www.stream4free.tv/tfx",
+                "https://www.livehdtv.com/ch194/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/seriefilmes.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35517,9 +35542,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.livehdtv.com/token.php?stream=artede"
+                "https://www.livehdtv.com/token.php?stream=artede",
+                "https://www.stream4free.tv/arte"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/artefrance.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35548,16 +35576,24 @@
         "país": "fr",
         "categoría": ""
     },
-    "4KurdHD": {
-        "nombre": "4KurdHD",
+    "l-equipe-21-planeteplus-4KurdHD": {
+        "nombre": "L'Équipe 21 - planeteplus - 4KurdHD",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.stream4free.tv/l-equipe-21",
+                "https://www.stream4free.tv/planete-plus",
+                "https://www.stream4free.tv/dragonball-dbz",
+                "https://www.livehdtv.com/l-equipe-21/",
                 "https://kurdistantv.net/ku/live",
                 "https://www.kurdmax.tv/live-stream",
                 "https://karwan.tv/4-kurd-tv.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://sv7.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/lequipe.m3u8",
+                "https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8",
+                "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/planeteplus.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
