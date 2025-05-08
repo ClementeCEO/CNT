@@ -36084,6 +36084,9 @@
         "señales": {
             "iframe_url": [
                 "https://www.cctvplus.com/live/channel1.shtml",
+                "https://tv.cctv.com/live/cctv1/?spm=C28340.PKIGaXubtUxb.EOsCR80nh83A.5",
+                "https://tv.cctv.com/live/cctv5/?spm=C28340.P9mj1V5B06xk.EMP7oQQzBCtL.5",
+                "https://tv.cctv.com/live/cctv5plus/?spm=C28340.Pm5ONiVXy9Hu.ED4eqVzgO5dZ.5",
                 "https://tv.cctv.com/live/cctvjilu/",
                 "https://www.yangshipin.cn/tv/home?pid=600001800",
                 "https://tv.cctv.com/live/index.shtml?spm=C28340.Pt4HIOyckvxg.ErvKLWyukCzh.1",
@@ -36254,12 +36257,15 @@
         "país": "cn",
         "categoría": "news"
     },
-    "kankanews-Dragon-noticias": {
-        "nombre": "Kankanews Dragon Noticias",
+    "kankanews-Dragon-noticias-gstv-xjtvs-Newzhibo": {
+        "nombre": "Kankanews Dragon - gstv - xjtvs - New zhibo",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://live.kankanews.com/huikan/"
+                "https://live.kankanews.com/huikan/",
+                "https://www.xjtvs.com.cn/column/tv/434",
+                "https://www.gstv.com.cn/zxc.jhtml",
+                "https://www.btzx.com.cn/2024new/new_zhibo/index.shtml"
             ],
             "m3u8_url": [
                 "https://www.squidtv.net/china/shanghai/shanghai-001.html"
@@ -36296,11 +36302,12 @@
         "país": "cn",
         "categoría": "news"
     },
-    "DaAi-2": {
-        "nombre": "DaAi 2",
+    "DaAi-2-ytn-tv": {
+        "nombre": "DaAi 2 - YTN TV",
         "logo": "https://i.imgur.com/KdJi9af.png",
         "señales": {
             "iframe_url": [
+                "https://live.64ma.com/tv/player.asp?id=BOb5rY8wS4MWJxX2bvQ5uQ==&p=1",
                 "https://daaiplus.com/live-streaming-daai-tv/",
                 "https://www.ceskatelevize.cz/zive/"
             ],
