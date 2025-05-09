@@ -32825,6 +32825,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=telemundo-pr",
+                "https://www.photocalltv.me/cv/embed.php?r=telemundo-pr",
                 "https://www.telemundopr.com/en-vivo",
                 "https://www.nbcnews.com/watch",
                 "https://www.nbcboston.com/watch/",
@@ -32838,7 +32840,8 @@
                 "https://wapa.tv/envivo/",
                 "https://cdn.teleonce.com/en-vivo/",
                 "https://www.nbc.com/live?brand=nbc-news&callsign=NBCNN",
-                "https://www.msnbc.com/live"
+                "https://www.msnbc.com/live",
+                "https://embed.sdfgnksbounce.com/embed2/telemundopuertorico.html"
             ],
             "m3u8_url": [
                 "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
