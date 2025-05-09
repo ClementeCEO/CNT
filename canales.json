@@ -6135,7 +6135,9 @@
         "nombre": "RFTV AO",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.rftv.com.br/ao-vivo/"
+            ],
             "m3u8_url": [
                 "https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8"
             ],
@@ -6169,7 +6171,9 @@
         "nombre": "Rural",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.canalrural.com.br/ao-vivo/"
+            ],
             "m3u8_url": [
                 "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8"
             ],
@@ -6216,11 +6220,13 @@
         "país": "br",
         "categoría": "news"
     },
-    "anitv": {
-        "nombre": "anitv.br",
+    "anitv-mewatch": {
+        "nombre": "Anitv.br - Mewatch",
         "logo": "https://cdn.discordapp.com/attachments/990727404676853810/1099885583427453098/Picsart_23-04-23_23-02-52-253.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.mewatch.sg/live-tv"
+            ],
             "m3u8_url": [
                 "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
             ],
@@ -6229,7 +6235,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.mewatch.sg/live-tv",
         "país": "br",
         "categoría": "news"
     },
