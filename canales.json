@@ -32821,7 +32821,7 @@
         "categoría": "news"
     },
     "telemundo-nbcnews-teleonce": {
-        "nombre": "Noticias Telemundo - NBCnews - Teleonce",
+        "nombre": "Noticias Telemundo PR - NBCnews - Teleonce",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -32964,7 +32964,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.telemundo47.com/ver/"
+                "https://www.telemundo47.com/ver/",
+                "https://www.telemundo47.com/noticias/puerto-rico/mira-aqui-nuestra-programacion-en-vivo-3/2014133/"
             ],
             "m3u8_url": [],
             "yt_id": "",
