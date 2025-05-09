@@ -35244,13 +35244,15 @@
         "país": "us",
         "categoría": "news"
     },
-    "bfmtv-esp": {
-        "nombre": "BFMTV (Español)",
+    "bfmBuss-bfmtv-esp-BFM2": {
+        "nombre": "BFMTV (Español) - BFM2 - BFMBuss",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://players.brightcove.net/876450610001/19dszYXgm_default/index.html?videoId=6346069778112",
                 "https://azrotv.com/pyr/?id=aHR0cHM6Ly9taXQyLWNkbi1lZGdlLWxpdmUwNi5wZmQuc2ZyLm5ldC9iZm0tbmNkbi1saXZlLXByZW1pdW0tcGFsMS5wZmQuc2ZyLm5ldC9zaWQ9MDU0YWthcG1pbmphc2Vrc21rcmcvc2hscy9MSVZFJEJGTV9UVi9pbmRleC5tM3U4P3N0YXJ0PUxJVkUmZW5kPUVORA==",
+                "http://azrotv.com/iphone/news/ch/bfmBuss.php",
+                "https://www.livehdtv.com/embed/bfm2-tv-france/",
                 "https://www.stream4free.tv/eurosport",
                 "https://www.livehdtv.com/bfm2-tv-france/",
                 "http://azrotv.com/iphone/news/ch/bfm.php",
@@ -35259,7 +35261,8 @@
             ],
             "m3u8_url": [
                 "https://live-cdn-bfm2-euw3.bfmtv.bct.nextradiotv.com/master.m3u8",
-                "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/eurosportde.m3u8"
+                "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/eurosportde.m3u8",
+                "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -35382,10 +35385,7 @@
                 "https://www.livehdtv.com/ch184/",
                 "https://www.livehdtv.com/embed/ch183/"
             ],
-            "m3u8_url": [
-                "https://livetvde.net/france3/index.m3u8?token=121a2aaec6a0abfb55794030281d746e26a28538-db3e87ff76e2ec10383d61465be98138-1746751442-1746740642",
-                
-            ],
+            "m3u8_url": [],
             "yt_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -35420,13 +35420,16 @@
         "país": "fr",
         "categoría": "news"
     },
-    "cnews": {
-        "nombre": "CNEWS",
+    "cnews-LUXTV": {
+        "nombre": "CNEWS - LUX TV",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
-                "https://www.livehdtv.com/embed/cnews/"
+                "https://www.livehdtv.com/embed/cnews/",
+                "https://www.cxtvlive.com/live-tv/i-tele-france",
+                "https://www.tvlux.sk/nazivo/",
+                "https://www.tvlux.be/direct"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -35488,7 +35491,10 @@
         "nombre": "RL PRO TV",
         "logo": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://europe.tv5monde.com/en/live/group",
+                "https://europe.tv5monde.com/fr/direct"
+            ],
             "m3u8_url": [
                 "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
             ],
@@ -35501,13 +35507,24 @@
         "país": "fr",
         "categoría": "news"
     },
-    "ONE-TV": {
-        "nombre": "ONE TV",
+    "ONE-TV-6ter": {
+        "nombre": "ONE TV - 6Ter - Zee One",
         "logo": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://v2.ssh101.com/detailng.php?id=onetvlive",
+                "https://onechannel.gr/live-tv/?forcevidads=1",
+                "https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA",
+                "https://www.livehdtv.com/token.php?stream=6ter",
+                "https://azrotv.com/local/drPlayer/?id=6ter",
+                "https://endirecttv.com/token.php?stream=6ter",
+                "https://endirecttv.com/6ter-direct/#google_vignette",
+                "http://azrotv.com/iphone/Fr/ch1/zee_one.php",
+            ],
             "m3u8_url": [
-                "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
+                "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
+                "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
+                "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -35518,15 +35535,17 @@
         "país": "fr",
         "categoría": "news"
     },
-    "gulli": {
-        "nombre": "Gulli En Direct - French Kids Channel",
+    "gulli-French-Kids-Channel-Mirabelle": {
+        "nombre": "Gulli En Direct - French Kids Channel - Mirabelle",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.livehdtv.com/gulli/"
+                "https://www.livehdtv.com/gulli/",
+                "https://www.cxtvlive.com/live-tv/mirabelle-tv"
             ],
             "m3u8_url": [
-                "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8"
+                "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8",
+                "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -35537,16 +35556,18 @@
         "país": "fr",
         "categoría": ""
     },
-    "arte": {
-        "nombre": "Arte",
+    "arte-rlpro-tv": {
+        "nombre": "Arte - Rlprotv",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.livehdtv.com/token.php?stream=artede",
-                "https://www.stream4free.tv/arte"
+                "https://www.stream4free.tv/arte",
+                "https://www.cxtvlive.com/live-tv/rlpro-tv"
             ],
             "m3u8_url": [
-                "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/artefrance.m3u8"
+                "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/artefrance.m3u8",
+                "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -35564,7 +35585,9 @@
             "iframe_url": [
                 "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/src/qvrlxxf/zone/1/showtitle/1/",
                 "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
-                "https://tv-programme.com/20-minutes-tv-ile-de-france/direct"
+                "https://tv-programme.com/20-minutes-tv-ile-de-france/direct",
+                "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
+                "https://www.20minutes.tv/direct/"
             ],
             "m3u8_url": [],
             "yt_id": "",
