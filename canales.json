@@ -36181,13 +36181,13 @@
         "señales": {
             "iframe_url": [
                 "https://www.cctvplus.com/live/channel1.shtml",
+                "https://iptv345.com/?act=play&token=8e8e21616e059e7ece6e23f88d2e20af&tid=itv&id=7",
                 "https://tv.cctv.com/live/cctv1/?spm=C28340.PKIGaXubtUxb.EOsCR80nh83A.5",
                 "https://tv.cctv.com/live/cctv5/?spm=C28340.P9mj1V5B06xk.EMP7oQQzBCtL.5",
                 "https://tv.cctv.com/live/cctv5plus/?spm=C28340.Pm5ONiVXy9Hu.ED4eqVzgO5dZ.5",
                 "https://tv.cctv.com/live/cctvjilu/",
                 "https://www.yangshipin.cn/tv/home?pid=600001800",
-                "https://tv.cctv.com/live/index.shtml?spm=C28340.Pt4HIOyckvxg.ErvKLWyukCzh.1",
-                "https://iptv345.com/?act=play&token=61ab47060254fa31f63267b581dd22d9&tid=ipv6&id=1"
+                "https://tv.cctv.com/live/index.shtml?spm=C28340.Pt4HIOyckvxg.ErvKLWyukCzh.1"
             ],
             "m3u8_url": [
                 "http://www.lizhinas.top:1009/rtp/239.252.220.237:5140",
@@ -36209,7 +36209,10 @@
         "señales": {
             "iframe_url": [
                 "https://iptv345.com/?act=play&token=1843c71e5c9e97bab4514375753e0ae8&tid=ty&id=1",
-                "https://iptv345.com/?tid=ys"
+                "https://iptv345.com/?tid=ys",
+                "https://www.giniko.com/watch.php?id=960",
+                "https://www.distro.tv/live/cctv-4/",
+                "https://www.earthcam.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UC4K_LI-Tn3-LshNgG0-YypQ",
@@ -36631,12 +36634,18 @@
         "país": "cn",
         "categoría": "news"
     },
-    "CNA": {
-        "nombre": "CNA INTERNATIONAL",
+    "CNA-Guangxi-GNXTV-Gansu-zxc-GuizhouTV-GuangdongTV-Talentvision": {
+        "nombre": "CNA INTERNATIONAL - Guangxi-GNXTV - Talentvision",
         "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ?modestbranding=1"
+                "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ?modestbranding=1",
+                "https://www.gstv.com.cn/zxc.jhtml",
+                "https://www.gzstv.com/tv/ch01",
+                "https://www.gdtv.cn/tvChannelDetail/43",
+                "https://www.talentvisiontv.com/ch/",
+                "https://www.fairchildtv.com/ch/",
+                "https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html"
             ],
             "m3u8_url": [
                 "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
@@ -36650,12 +36659,18 @@
         "país": "cn",
         "categoría": "news"
     },
-    "nbs": {
-        "nombre": "NBS",
+    "nbs-CDTV1-": {
+        "nombre": "NBS - CDTV1",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.nbs.cn/live/"
+                "https://www.nbs.cn/live/",
+                "https://www.cditv.cn/show/4845-563.html",
+                "https://cando.cditv.cn/show-192-5-1.html",
+                "https://live.autohome.com.cn/",
+                "http://sitv.live/",
+                "https://www.hkatv.com/tv",
+                "https://www.cntvcanada.com/cntv"
             ],
             "m3u8_url": [
                 "http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8",
@@ -36671,12 +36686,18 @@
         "país": "cn",
         "categoría": "news"
     },
-    "gstv-noticias": {
-        "nombre": "GSTV Noticias",
+    "gstv-noticias-BSTVchannel-Hunan": {
+        "nombre": "GSTV Noticias - BSTV channel - HunanTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.gstv.com.cn/zxc.jhtml"
+                "https://www.gstv.com.cn/zxc.jhtml",
+                "https://bschannel.com/zh",
+                "https://chinasuntv.com/",
+                "https://live.mgtv.com/?channelId=578",
+                "https://live.mgtv.com/?channelId=261",
+                "https://www.mihk.tv/channel/index.php?route=mihk/live",
+                "https://hoy.tv/live?channel_no=76"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -36688,12 +36709,18 @@
         "país": "cn",
         "categoría": "news"
     },
-    "zjstv-noticias": {
-        "nombre": "Zjstv Noticias",
+    "zjstv-noticias-JiangsuTelevision-ShandongSatelliteTV": {
+        "nombre": "ZjstvNoticias - JiangsuTelevision - ShandongSatelliteTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://yeslivetv.com/channels/zjstv/"
+                "https://yeslivetv.com/channels/zjstv/",
+                "https://www.cztv.com/liveTV",
+                "https://live.jstv.com/",
+                "https://news.hbtv.com.cn/app/tv/431",
+                "https://www.hljtv.com/live/",
+                "https://www.hljtv.com/live/folder421/",
+                "https://v.iqilu.com/live/sdtv/"
             ],
             "m3u8_url": [],
             "yt_id": "",
