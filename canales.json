@@ -18,11 +18,14 @@
         "país": "cl",
         "categoría": "news"
     },
-    "meganoticias": {
-        "nombre": "Meganoticias",
+    "meganoticias-h2": {
+        "nombre": "Meganoticias - H2",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed/history.html",
+                "https://embed.sdfgnksbounce.com/embed/history2.html",
+                "https://embed.sdfgnksbounce.com/embed2/goldenpremier2.html",
                 "https://rudo.video/live/mega?autoplay=true&volume=0",
                 "https://mdstrm.com/live-stream/561430ae330428c223687e1e?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=gE8lTSgwBHjvtgngUtWjsWvbckRlL4L0c72Ej2bcBx19fVNbG1fAnMtbWWoeEItHEMwx6N5pWR4&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F",
                 "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=WimxeByVNdkoJIcyQ7fCI5RmCQKQ83z3t4qZoKLW8heeh5oRTkZc186oA5vuKI2j1Dh2jO8bp4g&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
