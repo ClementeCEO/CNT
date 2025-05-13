@@ -21806,49 +21806,6 @@
         "país": "pe",
         "categoría": "news"
     },
-    "grupo-gen-universo-Sport-5-PLUS-Israel": {
-        "nombre": "GRUPO GEN universo - Sport 5 PLUS Israel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.gen.com.py/live/",
-                "https://miztv.shop/tele/stream-501.php",
-                "https://miztv.shop/tele/stream-502.php",
-                "https://miztv.shop/tele/stream-503.php",
-                "https://miztv.shop/tele/stream-504.php",
-                "https://miztv.shop/tele/stream-505.php",
-                "https://miztv.shop/tele/stream-506.php",
-                "https://miztv.shop/tele/stream-507.php",
-                "https://miztv.shop/tele/stream-508.php",
-                "https://miztv.shop/tele/stream-509.php",
-                "https://miztv.shop/tele/stream-510.php",
-                "https://miztv.shop/tele/stream-511.php",
-                "https://miztv.shop/tele/stream-512.php",
-                "https://miztv.shop/tele/stream-513.php",
-                "https://miztv.shop/tele/stream-514.php",
-                "https://miztv.shop/tele/stream-515.php",
-                "https://miztv.shop/tele/stream-516.php",
-                "https://miztv.shop/tele/stream-517.php",
-                "https://miztv.shop/tele/stream-518.php",
-                "https://miztv.shop/tele/stream-519.php",
-                "https://miztv.shop/tele/stream-520.php",
-                "https://miztv.shop/tele/stream-727.php",
-                "https://miztv.shop/tele/stream-543.php",
-                "https://miztv.shop/tele/stream-360.php",
-                "https://miztv.shop/tele/stream-392.php",
-                "https://miztv.shop/tele/stream-378.php",
-                "https://miztv.shop/tele/stream-145.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gen.com.py/live/",
-        "país": "py",
-        "categoría": "news"
-    },
     "liga1maxpe": {
         "nombre": "Liga1max PERU",
         "logo": "",
@@ -25103,11 +25060,33 @@
         "país": "pr",
         "categoría": "news"
     },
+    "abc-telefuturo-noticias": {
+        "nombre": "ABC Telefuturo Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html",
+                "https://www.desdepylabs.com/External/tvaccion/telefuturo",
+                "https://www.abc.com.py/tv/",
+                "https://www.telefuturo.com.py/envivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abc.com.py/tv/",
+        "país": "py",
+        "categoría": "news"
+    },
     "1000-noticias": {
         "nombre": "1000 Noticias",
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://1000noticias.com.py/"
+            ],
             "m3u8_url": [],
             "yt_id": "UC7US6YiqeUQ3CWOgFsplSfg",
             "yt_embed": "",
@@ -25123,8 +25102,8 @@
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.desdepylabs.com/External/tvaccion/npy",
-                "https://npy.com.py/en-vivo/"
+                "https://npy.com.py/en-vivo/",
+                "https://www.desdepylabs.com/External/tvaccion/npy"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -25153,37 +25132,14 @@
         "país": "py",
         "categoría": "news"
     },
-    "abc-telefuturo-noticias": {
-        "nombre": "ABC Telefuturo Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html",
-                "https://www.desdepylabs.com/External/tvaccion/telefuturo",
-                "https://www.abc.com.py/tv/",
-                "https://www.telefuturo.com.py/envivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.abc.com.py/tv/",
-        "país": "py",
-        "categoría": "news"
-    },
     "gen-noticias": {
         "nombre": "GEN Noticias",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://gentv.desdepylabs.com/External/gentv"
+                "https://www.gen.com.py/"
             ],
-            "m3u8_url": [
-                "https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/playlist.m3u8?k=ca7758c15f1cd0ee77ec28a45a44651586f8cf3c64104f746d983ce4357cf148&exp=1725375464",
-                "https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1351776638.m3u8?k=ca7758c15f1cd0ee77ec28a45a44651586f8cf3c64104f746d983ce4357cf148&exp=1725375464"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -25198,6 +25154,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://trece.com.py/",
                 "https://www.desdepylabs.com/External/trecetv",
                 "https://artv.watch/embed.php?channel=Trece.py"
             ],
@@ -25216,9 +25173,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.snt.com.py/envivo/",
-                "https://a3.115tv.site/cvatt.html?get=U05UX0M0&start=true",
-                "https://www.americatv.com.py/ver-vivo/"
+                "https://www.americatv.com.py/ver-vivo/",
+                "https://www.snt.com.py/envivo/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -25235,11 +25191,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.desdepylabs.com/External/tvaccion/latele",
+                "https://unicanal.com.py/",
                 "https://www.latele.com.py/en-vivo",
                 "https://www.desdepylabs.com/External/unicanal",
-                "https://artv.watch/embed.php?channel=Unicanal.py",
-                "https://unicanal.com.py/"
+                "https://artv.watch/embed.php?channel=Unicanal.py"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -25256,9 +25211,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://a3.115tv.site/cvatt.html?get=U05UX0M0&start=true"
+                "https://www.c9n.com.py/envivo/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
+            ],
             "yt_id": "UC2uoT9_KgHuBzoYX5JepHEA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -25268,17 +25225,16 @@
         "país": "py",
         "categoría": "news"
     },
-    "mega-noticias": {
-        "nombre": "MEGA Noticias",
+    "mega-noticias-megacadena": {
+        "nombre": "MEGA Noticias - Megacadena",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.tvparaguay.me/en-vivo/mega-py/",
-                "https://www.enlatele.tv/player/?url=ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
+                "https://www.enlatele.tv/player/?url=ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+                "https://megacadena.com.py/tv/"
             ],
-            "m3u8_url": [
-                "https://www.enlatele.tv/player/?url=ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -25293,6 +25249,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://paraguayonline.net/campo9online/",
                 "https://www.tvparaguay.me/en-vivo/campo9tv/"
             ],
             "m3u8_url": [
@@ -25313,7 +25270,8 @@
         "señales": {
             "iframe_url": [
                 "https://www.tvparaguay.me/en-vivo/dismartv/",
-                "https://www.enlatele.tv/player/embed.php?r=dismartv"
+                "https://www.enlatele.tv/player/embed.php?r=dismartv",
+                "https://www.coolstreaming.us/channelnew/es/73549/DismarRadioTV.html"
             ],
             "m3u8_url": [
                 "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
@@ -25605,13 +25563,11 @@
         "país": "py",
         "categoría": "news"
     },
-    "canal-nanduti1020-GEN": {
-        "nombre": "Canal Ñanduti - GEN",
+    "canal-nanduti1020-": {
+        "nombre": "Canal Ñanduti",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.gen.com.py/"
-            ],
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -25619,6 +25575,49 @@
             "twitch_id": "nanduti1020"
         },
         "sitio_oficial": "https://www.twitch.tv/nanduti1020",
+        "país": "py",
+        "categoría": "news"
+    },
+    "grupo-gen-universo-Sport-5-PLUS-Israel": {
+        "nombre": "GRUPO GEN universo - Sport 5 PLUS Israel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.gen.com.py/live/",
+                "https://miztv.shop/tele/stream-501.php",
+                "https://miztv.shop/tele/stream-502.php",
+                "https://miztv.shop/tele/stream-503.php",
+                "https://miztv.shop/tele/stream-504.php",
+                "https://miztv.shop/tele/stream-505.php",
+                "https://miztv.shop/tele/stream-506.php",
+                "https://miztv.shop/tele/stream-507.php",
+                "https://miztv.shop/tele/stream-508.php",
+                "https://miztv.shop/tele/stream-509.php",
+                "https://miztv.shop/tele/stream-510.php",
+                "https://miztv.shop/tele/stream-511.php",
+                "https://miztv.shop/tele/stream-512.php",
+                "https://miztv.shop/tele/stream-513.php",
+                "https://miztv.shop/tele/stream-514.php",
+                "https://miztv.shop/tele/stream-515.php",
+                "https://miztv.shop/tele/stream-516.php",
+                "https://miztv.shop/tele/stream-517.php",
+                "https://miztv.shop/tele/stream-518.php",
+                "https://miztv.shop/tele/stream-519.php",
+                "https://miztv.shop/tele/stream-520.php",
+                "https://miztv.shop/tele/stream-727.php",
+                "https://miztv.shop/tele/stream-543.php",
+                "https://miztv.shop/tele/stream-360.php",
+                "https://miztv.shop/tele/stream-392.php",
+                "https://miztv.shop/tele/stream-378.php",
+                "https://miztv.shop/tele/stream-145.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gen.com.py/live/",
         "país": "py",
         "categoría": "news"
     },
