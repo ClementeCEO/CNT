@@ -10029,26 +10029,6 @@
         "país": "co",
         "categoría": "news"
     },
-    "surtvparaguay-tvs": {
-        "nombre": "TVS - Sur TV Paraguay",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://itapuanoticias.tv/conexion_radio/",
-                "https://www.delsurdiario.com/tv-en-vivo/",
-                "https://www.npy.com.py/en-vivo",
-                "https://tvs.com.py/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC5DwpkiVVgNcS062ebAJDZg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvs_encarnacion"
-        },
-        "sitio_oficial": "https://www.youtube.com/@surtvparaguay/streams",
-        "país": "py",
-        "categoría": "news"
-    },
     "Radio-Progreso-online": {
         "nombre": "Radio Progreso",
         "logo": "",
@@ -25083,9 +25063,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.abc.com.py/tv/",
                 "https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html",
                 "https://www.desdepylabs.com/External/tvaccion/telefuturo",
-                "https://www.abc.com.py/tv/",
                 "https://www.telefuturo.com.py/envivo"
             ],
             "m3u8_url": [],
@@ -25451,6 +25431,29 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.brunomasi.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "surtvparaguay-tvs": {
+        "nombre": "TVS - Sur TV Paraguay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/tvaccion/npy",
+                "https://itapuanoticias.tv/conexion_radio/",
+                "https://www.delsurdiario.com/tv-en-vivo/",
+                "https://www.npy.com.py/en-vivo",
+                "https://tvs.com.py/"
+            ],
+            "m3u8_url": [
+                "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=8f5a24ef17e7a276b612290267620dd0d5d3b9764fae903331907c57eecfc1e2&exp=1747233569"
+            ],
+            "yt_id": "UC5DwpkiVVgNcS062ebAJDZg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvs_encarnacion"
+        },
+        "sitio_oficial": "https://www.youtube.com/@surtvparaguay/streams",
         "país": "py",
         "categoría": "news"
     },
