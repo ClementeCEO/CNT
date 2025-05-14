@@ -40670,23 +40670,36 @@
         "país": "ru",
         "categoría": "news"
     },
-    "belarus-1-channel0": {
-        "nombre": "Belarus 1 Channel0 Беларусь 1",
+    "belarus-1-channel0-mir-seriala-БЕЛСАТNEWS": {
+        "nombre": "Belarus 1 Channel0 Беларусь 1 - Mir Seriala - БЕЛСАТ NEWS",
         "logo": "https://100tv.uz/images/logo-channel/belarus-1-tv-logo.png",
         "señales": {
             "iframe_url": [
-                "https://100tv.uz/assets/js/player/belarus-1-channel"
+                "https://vits.tv/en/tv-online/belarus-1/",
+                "https://belarus24.by/en/",
+                "https://icanlive.tv/live/15461/belarus-5-int.html",
+                "https://vits.tv/en/tv-online/belarus-3/",
+                "https://vits.tv/en/tv-online/belarus-2/",
+                "https://icanlive.tv/live/14884/belsat-tv.html",
+                "https://smotret.tv/razvlekatelnye/mir-seriala",
+                "https://smotret.tv/razvlekatelnye/city-edem-tv",
+                "https://smotret.tv/belarus-1",
+                "https://icanlive.tv/live/15462/first-information.html",
+                "https://icanlive.tv/live/15463/stb.html",
+                "https://belsat.eu/",
+                "https://catcast.tv/vhs90e",
+                "https://live.vkvideo.ru/vhs90e"
             ],
             "m3u8_url": [
                 "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w376756560_b5160000_sleng.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCRokSp8CGOuQO4R0F1RxRGg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://100tv.uz/belarus-1-channel0",
-        "país": "ru",
+        "país": "by",
         "categoría": "news"
     },
     "zagorodniy-tv-amedia-premium-hd-2-doktor-tv": {
