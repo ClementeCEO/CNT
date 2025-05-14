@@ -23,15 +23,24 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed/history.html",
-                "https://embed.sdfgnksbounce.com/embed/history2.html",
+                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
+                "https://www.photocalltv.me/cv/embed.php?r=history-op2",
+                "https://www.photocalltv.me/cv/embed.php?r=history-op2",
+                "https://embed.sdfgnksbounce.com/embed2/history.html",
+                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history2-op2",
+                "https://www.photocalltv.me/cv/embed.php?r=history2-op2",
+                "https://embed.sdfgnksbounce.com/embed2/history2.html",
+                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=goldenpremier2",
+                "https://www.photocalltv.me/cv/embed.php?r=goldenpremier2",
                 "https://embed.sdfgnksbounce.com/embed2/goldenpremier2.html",
                 "https://rudo.video/live/mega?autoplay=true&volume=0",
                 "https://mdstrm.com/live-stream/561430ae330428c223687e1e?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=gE8lTSgwBHjvtgngUtWjsWvbckRlL4L0c72Ej2bcBx19fVNbG1fAnMtbWWoeEItHEMwx6N5pWR4&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F",
                 "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=WimxeByVNdkoJIcyQ7fCI5RmCQKQ83z3t4qZoKLW8heeh5oRTkZc186oA5vuKI2j1Dh2jO8bp4g&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
                 "https://mdstrm.com/live-stream/56f97fc0b9bb39786b04a3b0?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=pAk21b6J8EhcCGKObFJjfydOneEjTXp4JwfBhIiQux3lfsgvUvb0ULCi7lkCEZK3KboocZi8Z0Q&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F",
                 "https://www.mega.cl/",
-                "https://www.mega.cl/senal-en-vivo/meganoticias/"
+                "https://www.mega.cl/senal-en-vivo/meganoticias/",
+                "https://www.rapifutboltv.com/en-vivo/history2-mx/",
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c"
             ],
             "m3u8_url": [],
             "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
@@ -106,6 +115,12 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
         "señales": {
             "iframe_url": [
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://www.rapifutboltv.com/en-vivo/space-mx/",
+                "https://www.photocalltv.me/cv/embed.php?r=space-op2",
+                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=space-op2",
+                "https://www.rapifutboltv.com/en-vivo/natgeo-mx/",
+                "https://www.cablevisionhd.com/discovery-science-en-vivo.html",
                 "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&volume=0&access_token=GlgG8dWTpgQw5Q1hM7TVuXHOmArgAtqtZWVBLBzko5bRBIbbcq2uQ4eainh54DBiJ04dlz2kLxa&custom.categoria_prontus=63ee47e1daeeb80a30d98ef4&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=%20&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.viendotele.cl%2Fassets-tele%2Fchv.php%3Fe%3D202403130826&custom.dfpRandomNumber=9320488302&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.amp=false&custom.app=false&custom.appname=&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D%20%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge",
                 "https://rudo.video/live/chvn?autoplay=true&volume=0",
                 "https://television-libre.online/html/clarovideo.html?r=CHVCL",
