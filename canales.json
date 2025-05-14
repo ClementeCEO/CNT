@@ -25183,21 +25183,23 @@
         "país": "py",
         "categoría": "news"
     },
-    "snt-senado-noticias": {
-        "nombre": "SNT - Senado Noticias",
+    "TVCiudad61-snt-senado-rcc": {
+        "nombre": "TVCiudad6.1 - SNT - Senado - RCC",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.tvciudad.uy/",
+                "https://rcc.com.py/tv-envivo/",
                 "https://www.senado.gov.py/index.php/menu-contenido/listado-de-categoria-contenido/198-sesion-en-vivo",
                 "https://www.snt.com.py/envivo/"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCcEFFCUo9fD5DK1FcclyKUA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.senado.gov.py/index.php/menu-contenido/listado-de-categoria-contenido/198-sesion-en-vivo",
+        "sitio_oficial": "https://www.youtube.com/channel/UCcEFFCUo9fD5DK1FcclyKUA",
         "país": "py",
         "categoría": "news"
     },
