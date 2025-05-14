@@ -25112,21 +25112,23 @@
         "país": "py",
         "categoría": "news"
     },
-    "npy-noticias": {
-        "nombre": "NPY Noticias",
+    "npy-tvaccion-somosdeleste": {
+        "nombre": "NPY - Tvaccion - Somosdeleste",
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
                 "https://npy.com.py/en-vivo/",
-                "https://www.desdepylabs.com/External/tvaccion/npy"
+                "https://www.desdepylabs.com/External/tvaccion/npy",
+                "https://5dias.com.py/",
+                "https://somosdeleste.com.py/"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCOvAA1d2xi3UJBJFuaX7ctA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://npy.com.py/en-vivo/",
+        "sitio_oficial": "https://www.concepcionaldia.com/",
         "país": "py",
         "categoría": "news"
     },
@@ -25135,7 +25137,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.paraguaytv.gov.py/"
+                "https://www.paraguaytv.gov.py/",
+                "https://canalsomosuno.tv/vivo",
+                "https://tvcanalsur.com.do/en-vivo/",
+                "https://canalsomosuno.tv/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -25147,20 +25152,23 @@
         "país": "py",
         "categoría": "news"
     },
-    "gen-noticias": {
-        "nombre": "GEN Noticias",
+    "GRUPO-gen-noticias": {
+        "nombre": "GRUPO GEN Noticias",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.gen.com.py/"
+                "https://gentv.desdepylabs.com/External/heinetwork/tropicaliatv",
+                "https://www.gen.com.py/live/",
+                "https://www.gen.com.py/",
+                "https://www.tvlibrehd.com/en-vivo/gentv-py"
             ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "somosgen"
         },
-        "sitio_oficial": "https://www.gen.com.py/",
+        "sitio_oficial": "https://www.twitch.tv/somosgen",
         "país": "py",
         "categoría": "news"
     },
@@ -25204,11 +25212,12 @@
         "país": "py",
         "categoría": "news"
     },
-    "Latele-unicanal": {
-        "nombre": "Latele Unicanal",
+    "Latele-unicanal-canalpropy": {
+        "nombre": "Latele - Unicanal - Canalpropy",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.canalpro.com.py/en-vivo",
                 "https://unicanal.com.py/",
                 "https://www.latele.com.py/en-vivo",
                 "https://www.desdepylabs.com/External/unicanal",
@@ -25218,18 +25227,19 @@
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "canalpropy"
         },
         "sitio_oficial": "https://unicanal.com.py/",
         "país": "py",
         "categoría": "news"
     },
-    "c9n-noticias": {
-        "nombre": "C9n Noticias",
+    "c9n-monumental": {
+        "nombre": "C9n - Monumental",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.c9n.com.py/envivo/"
+                "https://www.c9n.com.py/envivo/",
+                "https://www.monumental.com.py/tv"
             ],
             "m3u8_url": [
                 "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8"
@@ -25587,11 +25597,13 @@
         "país": "py",
         "categoría": "news"
     },
-    "canal-nanduti1020-": {
-        "nombre": "Canal Ñanduti",
+    "canal-nanduti1020-FETV": {
+        "nombre": "Canal Ñanduti - FETV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://subsplash.com/u/iglesiadedioscampusselec/media/d/m8mknsp-fe-tv-paraguay-en-vivo"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -25608,32 +25620,8 @@
         "señales": {
             "iframe_url": [
                 "https://www.gen.com.py/live/",
-                "https://miztv.shop/tele/stream-501.php",
-                "https://miztv.shop/tele/stream-502.php",
-                "https://miztv.shop/tele/stream-503.php",
-                "https://miztv.shop/tele/stream-504.php",
-                "https://miztv.shop/tele/stream-505.php",
-                "https://miztv.shop/tele/stream-506.php",
-                "https://miztv.shop/tele/stream-507.php",
-                "https://miztv.shop/tele/stream-508.php",
-                "https://miztv.shop/tele/stream-509.php",
-                "https://miztv.shop/tele/stream-510.php",
-                "https://miztv.shop/tele/stream-511.php",
-                "https://miztv.shop/tele/stream-512.php",
-                "https://miztv.shop/tele/stream-513.php",
-                "https://miztv.shop/tele/stream-514.php",
-                "https://miztv.shop/tele/stream-515.php",
-                "https://miztv.shop/tele/stream-516.php",
-                "https://miztv.shop/tele/stream-517.php",
-                "https://miztv.shop/tele/stream-518.php",
-                "https://miztv.shop/tele/stream-519.php",
-                "https://miztv.shop/tele/stream-520.php",
-                "https://miztv.shop/tele/stream-727.php",
-                "https://miztv.shop/tele/stream-543.php",
-                "https://miztv.shop/tele/stream-360.php",
-                "https://miztv.shop/tele/stream-392.php",
-                "https://miztv.shop/tele/stream-378.php",
-                "https://miztv.shop/tele/stream-145.php"
+                "https://www.tvlibrehd.com/en-vivo/paravision/",
+                "https://miztv.shop/tele/stream-502.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
