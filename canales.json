@@ -25188,8 +25188,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.tvciudad.uy/",
                 "https://rcc.com.py/tv-envivo/",
+                "https://www.tvciudad.uy/",
+                "https://cds-frontend.vera.com.uy/api-compartir/compartir?public_id=2sgsm&courier=tvciudad&autenticacion_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjUwLjExNS4yMi4yMSIsImV4cCI6MTc0ODIwODkyNCwiaWF0IjoxNzQ1NjE2OTI0fQ.z3g1z8xlfHTIy4MxPqoIeD8enJpG2OLqrpMGXwEUWWI",
                 "https://www.senado.gov.py/index.php/menu-contenido/listado-de-categoria-contenido/198-sesion-en-vivo",
                 "https://www.snt.com.py/envivo/"
             ],
