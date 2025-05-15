@@ -25197,8 +25197,6 @@
         "señales": {
             "iframe_url": [
                 "https://rcc.com.py/tv-envivo/",
-                "https://www.tvciudad.uy/",
-                "https://cds-frontend.vera.com.uy/api-compartir/compartir?public_id=2sgsm&courier=tvciudad&autenticacion_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjUwLjExNS4yMi4yMSIsImV4cCI6MTc0ODIwODkyNCwiaWF0IjoxNzQ1NjE2OTI0fQ.z3g1z8xlfHTIy4MxPqoIeD8enJpG2OLqrpMGXwEUWWI",
                 "https://www.senado.gov.py/index.php/menu-contenido/listado-de-categoria-contenido/198-sesion-en-vivo",
                 "https://www.snt.com.py/envivo/"
             ],
@@ -47294,6 +47292,29 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://anteltv.com.uy/play/2s6pn",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "TVCiudad61-canal-11-canal-4-florida": {
+        "nombre": "TVCiudad6.1 - canal-11 - Canal-4-florida",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cds-frontend.vera.com.uy/api-compartir/compartir?public_id=2sgsm&courier=tvciudad&autenticacion_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjUwLjExNS4yMi4yMSIsImV4cCI6MTc0ODIwODkyNCwiaWF0IjoxNzQ1NjE2OTI0fQ.z3g1z8xlfHTIy4MxPqoIeD8enJpG2OLqrpMGXwEUWWI",
+                "https://www.tvciudad.uy/",
+                "https://canal11.uy/",
+                "https://tvinsur.com/uruguay/canal-11-las-piedras",
+                "https://www.tvflorida.com.uy/",
+                "https://tvinsur.com/uruguay/canal-4-florida",
+                "https://www.elonce.com/envivo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCcEFFCUo9fD5DK1FcclyKUA",
         "país": "uy",
         "categoría": "news"
     },
