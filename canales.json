@@ -19640,14 +19640,23 @@
         "país": "pe",
         "categoría": "news"
     },
-    "huancayo-tv-DRAGON-BALL-Navez5": {
-        "nombre": "Huancayo TV",
+    "huancayo-tv-DRAGON-BALL-juan_13tv-telecinco-Navez5": {
+        "nombre": "Huancayo TV - DRAGON-BALL - Telecinco - Juan_13tv",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.freetv.com/?section=epgsectionespanol",
                 "http://oxax.tv/penthouse-2.html",
-                "https://www.huancayotv.com/"
+                "https://www.huancayotv.com/",
+                "https://vaughn.live/goku_tv_latam",
+                "https://vaughn.live/goku_tv_oficial",
+                "https://tv-libre.org/telecinco",
+                "https://vaughn.live/juan_13tv",
+                "https://www.twitch.tv/juan_cinetv",
+                "https://vaughn.live/juancine_tv",
+                "https://vaughn.live/a_music",
+                "https://www.twitch.tv/juan_linea_tv",
+                "https://vaughn.live/mangondelicioso"
             ],
             "m3u8_url": [
                 "https://s.oxax.tv/Ol34MfRgySb7AvwqZ7wOVA/16/1742932085/index.m3u8",
