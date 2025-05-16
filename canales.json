@@ -47110,24 +47110,21 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=VIVOTV.uy",
-                "https://vivotv.uy/",
-                "https://artv.watch/embed.php?channel=RDTV.uy",
+                "https://vivotv.uy/ver-vivotv/",
+                "https://www.trodi.dev/tv/UY/RDTV.uy",
                 "https://artv.watch/en/UY/RDTV.uy",
-                "https://vivotv.uy/?RVPInstanceName=fwduvpPlayer0&RVPPlaylistId=0&RVPVideoId=0",
                 "https://www.misionvida.org/mvtv/",
-                "https://embed.unored.tv/flowplayer/?s=1&a=jorge854"
+                "https://unored.tv/"
             ],
             "m3u8_url": [
-                "https://stream.vivotv.uy/hls/0/stream.m3u8",
-                "https://stream.vivotv.uy/hls/0/stream-HZA7Vk6Sg-8864.ts"
+                "https://stream.vivotv.uy/hls/0/stream.m3u8"
             ],
             "yt_id": "UCxZ7Z0-z9EnTZAyKmeP2_MQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://vivotv.uy/",
+        "sitio_oficial": "https://www.television-en-vivo.com.ar/vivo/uy-canal-rdtv.html#google_vignette",
         "país": "uy",
         "categoría": "news"
     },
