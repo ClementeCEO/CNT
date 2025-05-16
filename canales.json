@@ -19547,17 +19547,21 @@
         "país": "pe",
         "categoría": "news"
     },
-    "chincha-tv-joel-sport-iQIYI-official": {
-        "nombre": "Chincha Tv - JOEL SPORT - iQIYI Official",
+    "chincha-tv-joel-sport - televisionomega -iQIYI-official": {
+        "nombre": "Chincha Tv - JOEL SPORT - Televisionomega - iQIYI Official",
         "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjy2Xx6KDD2C-Ni2kyRMfsDsbG62FhSB1YcpM8FrocRdVfG1ZDEI9779v2WE5bnL0zIRn5127vcKhGJkobpLFOB_nTnNjwWzT3FCXp9HuPVeVte0sfm90vUYvQnH03b7jj52T-Itm4T0xnCGF4sOOClFLOTMLcxsH0oxhXneFwgdFvcaH7cjdWGvifvbdU=s658",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/videoembed/5439500131845",
-                "https://vdo.voxhdnet.com/live-stream-video-widget/mytvcanal19",
                 "https://www.chincha.tv/",
+                "https://vaughn.live/chinchatv",
+                "https://vdo.voxhdnet.com/live-stream-video-widget/mytvcanal19",
+                "https://vaughn.live/televisionomega",
+                "https://vaughn.live/tvmaxteustepe",
                 "https://mytvcanal19.com/",
                 "https://ok.ru/videoembed/7151290031671",
-                "https://futbollibre-hd.com/en-vivo/directv-sports-plus-online"
+                "https://futbollibre-hd.com/en-vivo/directv-sports-plus-online",
+                "https://ok.ru/videoembed/5439500131845",
+                "https://vaughn.live/browse/espanol"
             ],
             "m3u8_url": [],
             "yt_id": "UCUhpu5MJQ_bjPkXO00jyxsw",
@@ -19658,13 +19662,25 @@
         "país": "pe",
         "categoría": "news"
     },
-    "radioa1-fmperu-cana-45-DRAGON-BALL-Navez": {
-        "nombre": "Radioa1 Fmperu - CANAL 45 - DRAGON BALL Navez",
+    "radioa1-fmperu-djtv-cana-45-DRAGON-BALL-Navez": {
+        "nombre": "Radioa1 Fmperu - Djtv - CANAL 45 - DRAGON BALL Navez",
         "logo": "https://radioa1fmperu.com/wp-content/uploads/2023/08/cropped-Radiofm2-180x180.webp",
         "señales": {
             "iframe_url": [
                 "https://radioa1fmperu.com/tv/",
-                "https://canal45tv.com/"
+                "https://canal45tv.com/",
+                "https://tv-libre.org/star-channel",
+                "https://vaughn.live/pepitoxd",
+                "https://vaughn.live/goku_tv_oficial",
+                "https://vaughn.live/goku_tv_oficial",
+                "https://vaughn.live/djtv",
+                "https://www.boliviapuntotv.com",
+                "https://streaminglivehd.hostpannel.com/broadcaster/puntotv/hybrid/player",
+                "https://vaughn.live/tvsalvision",
+                "https://vaughn.live/drmedia",
+                "https://vaughn.live/cienciaficcion01",
+                "https://vaughn.live/beto_7hd",
+                "https://vaughn.live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19807,7 +19823,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://cajamarcatv.pe/",
+        "sitio_oficial": "https://www.facebook.com/CajamarcaTV/?locale=es_LA",
         "país": "pe",
         "categoría": "news"
     },
@@ -35452,6 +35468,29 @@
         "país": "fr",
         "categoría": "news"
     },
+    "la16tv-CNEWS": {
+        "nombre": "CNEWS - La16tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rds.live/antena-stars/#google_vignette",
+                "https://www.canalplus.com/live/?channel=480",
+                "https://www.canalplus.com/chaines/cstar/",
+                "https://oneplanete.com/chaine-tv/cstar-tv-en-direct/",
+                "https://www.canalplus.com/live/",
+                "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
+                "https://www.livehdtv.com/cnews/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "la16tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/la16tv",
+        "país": "fr",
+        "categoría": "news"
+    },
     "cnews-LUXTV": {
         "nombre": "CNEWS - LUX TV",
         "logo": "",
@@ -35657,24 +35696,6 @@
         "sitio_oficial": "https://artv.watch/es/FR/4KurdHD.fr",
         "país": "fr",
         "categoría": ""
-    },
-    "la16tv-CNEWS": {
-        "nombre": "CNEWS - La16tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
-                "https://www.livehdtv.com/cnews/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "la16tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/la16tv",
-        "país": "fr",
-        "categoría": "news"
     },
     "npo-1-moderateurtvadp": {
         "nombre": "NPO 1 - Moderateurtvadp",
