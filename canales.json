@@ -46855,32 +46855,20 @@
         "país": "tw",
         "categoría": "news"
     },
-    "EF运通": {
-        "nombre": "3EF运通 Business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
-        "país": "tw",
-        "categoría": "news"
-    },
     "Viva-美好購物2台": {
         "nombre": "Viva 美好購物2台 Business",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tv2.wfuapp.com/2019/11/viva-tv-shopping-live-2.html",
+                "https://www.youtube.com/channel/UCm79LGHsPw1jVWzHDtHXfkQ",
+                "https://www.1111.com.tw/news/job-news.php?type=3&class=3",
+                "https://www.vivatv.com.tw/"
+            ],
             "m3u8_url": [
                 "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCm79LGHsPw1jVWzHDtHXfkQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -46890,14 +46878,17 @@
         "categoría": "news"
     },
     "EF运通": {
-        "nombre": "EF运通",
+        "nombre": "EF运通 Canal financiero de Yuntong",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.eftv.com.tw/",
+                "https://www.youtube.com/@EFTV01"
+            ],
             "m3u8_url": [
                 "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCiqm4JC8lbGqgePjHd3Mahw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -46906,11 +46897,15 @@
         "país": "tw",
         "categoría": "news"
     },
-    "人间卫视": {
-        "nombre": "人间卫视",
+    "人间卫视bltv-4gtv": {
+        "nombre": "人间卫视 Bltv - 4gtvTelevisión Satelital Humana",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.bltv.tv/about/?f=audience",
+                "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001793.do",
+                "https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1"
+            ],
             "m3u8_url": [
                 "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
             ],
@@ -46924,37 +46919,22 @@
         "categoría": "news"
     },
     "大爱1台": {
-        "nombre": "大爱1台",
+        "nombre": "大爱1台 Tzu Chi DaAi",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/?rel=0&enablejsapi=1&origin=https%3A%2F%2Fm.daai.tv&widgetid=1",
-                "https://m.daai.tv/v2/mp4/blank.m4v"
+                "https://daai.tv/",
+                "https://v1.welife6.com/channels/daai1/#google_vignette",
+                "https://daairadio.tw/Radio.htm?Seed=834841955",
+                "https://daaimobile.com/channel?nonyoutube=true",
+                "https://daairadio.tw/Page/Home/Index.aspx",
+                "https://m.daai.tv/v3/live",
+                "https://www.youtube.com/user/DaAiVideo"
             ],
-            "m3u8_url": [
-                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8",
-                "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
-                "https://pulltv2.wanfudaluye.com/live/tv1.m3u8",
-                "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://m.daai.tv/v2/live/ch3",
-        "país": "tw",
-        "categoría": "news"
-    },
-    "大爱1台": {
-        "nombre": "大爱1台",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
             "m3u8_url": [
                 "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UClrEYreVkBee7ZQYei_6Jqg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -46964,10 +46944,13 @@
         "categoría": "news"
     },
     "P-TAIWAN": {
-        "nombre": "P TAIWAN",
+        "nombre": "PLUS TAIWAN",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.taiwanplus.com/taiwanplustv",
+                "https://td.doubleclick.net/td/rul/10843670048?random=1747413283704&cv=11&fst=1747413283704&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55f0h2z8859262896za200zb852512834&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116&ptag_exp=101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116&u_w=1366&u_h=768&url=https%3A%2F%2Fwww.taiwanplus.com%2Ftaiwanplustv&ref=https%3A%2F%2Fwww.google.com.pe%2F&hn=www.googleadservices.com&frm=0&tiba=TaiwanPlus%20%E2%80%93%20Bringing%20Taiwan%20to%20the%20World&npa=0&pscdl=noapi&auid=1975549744.1747413278&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.93%7CMicrosoft%2520Edge%3B136.0.3240.64%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&fledge=1&_tu=ygQ"
+            ],
             "m3u8_url": [
                 "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV92.m3u8"
             ],
@@ -46984,7 +46967,23 @@
         "nombre": "LIVE NEWS2",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.newsmaxtv.com/n2",
+                "https://www.2news.com/live-stream/",
+                "https://www.fox2detroit.com/live",
+                "https://www.click2houston.com/watchlive/",
+                "https://www.wfmynews2.com/watch",
+                "https://www.counton2.com/",
+                "https://www.gulfcoastnewsnow.com/nowcast",
+                "https://www.wkrn.com/",
+                "https://www.wesh.com/nowcast",
+                "https://kutv.com/watch",
+                "https://www.wesh.com/nowcast",
+                "https://www.nbcnews.com/watch",
+                "https://www.wmar2news.com/live",
+                "https://www.wbrz.com/pages/live-stream-3/",
+                "https://www.television-en-vivo.com.ar/tv.html"
+            ],
             "m3u8_url": [
                 "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV90.m3u8"
             ],
@@ -47002,8 +47001,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.trodi.dev/tv/UY/UCL.uy",
                 "https://5900.tv/webcam/ucl.html",
-                "https://artv.watch/embed.php?channel=UCL.uy"
+                "https://artv.watch/embed.php?channel=UCL.uy",
+                "https://www.perfiles.uy/"
             ],
             "m3u8_url": [
                 "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
@@ -47017,16 +47018,22 @@
         "país": "uy",
         "categoría": "news"
     },
-    "canalalma-uruguay": {
-        "nombre": "canalalma",
+    "canalalma-tufortunatv": {
+        "nombre": "canalalma - Tufortunatv",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://emisoras.almacomunica.com/server-stream-video-widget/alma",
-                "https://canalalma.tv/"
+                "https://www.trodi.dev/tv/UY/UCL.uy",
+                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
+                "https://canalalma.tv/",
+                "https://almavision.com/ondemand/live-tv/almavision-tv.html",
+                "https://almanar.com.lb/live/",
+                "https://vaughn.live/tufortunatv",
+                "https://vaughn.live/futurama_mania_",
+                "https://vaughn.live/a_juanmusic"
             ],
             "m3u8_url": [
-                "https://emisoras.almacomunica.com:3681/stream/play.m3u8"
+                "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1747430411~acl=/*~hmac=657aa8d720698497edb52951bcd85697438dbc634845df15c087542bfa2bf859"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -47038,7 +47045,7 @@
         "categoría": "news"
     },
     "camara-senadores-canalmas-canal8mercedes": {
-        "nombre": "camarasenadores - canal mas uruguay - canal 8 mercedes",
+        "nombre": "camarasenadores - Tele 8 Tropical - canal mas uruguay - canal 8 mercedes",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -47048,8 +47055,8 @@
                 "https://www.canal8mercedes.com/"
             ],
             "m3u8_url": [
-                "https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8",
                 "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8",
+                "https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8",
                 "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8"
             ],
             "yt_id": "UCyM7oro5NhR5oPyMEFB_rUA",
@@ -47068,7 +47075,9 @@
             "iframe_url": [
                 "https://anteltv.com.uy/play/2s6r5",
                 "https://www.charrua.tv/",
-                "https://anteltv.com.uy/play/2s68m"
+                "https://anteltv.com.uy/play/2s68m",
+                "https://vaughn.live/zonafilmstv",
+                "https://vaughn.live/compumaster"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -47087,10 +47096,12 @@
             "iframe_url": [
                 "https://tuvideoonline.com.ar/broadcaster/calle7/hybrid/player",
                 "https://radiodeleste.com.uy/",
+                "https://vaughn.live/patriot_news",
+                "https://vaughn.live/patriot_news",
                 "https://www-latinokids-online.filesusr.com/html/b22f37_8b081eb24364a1c4b75b7aedb62aa0aa.html",
                 "https://cloud5.streaminglivehd.com/hybrid-stream-video-widget/latinokids",
                 "https://www.latinokids.online/",
-                "https://artv.watch/en/UY/LaRed.uy"
+                "https://vaughn.live/latinokidstv"
             ],
             "m3u8_url": [
                 "https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8",
