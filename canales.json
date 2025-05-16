@@ -29401,7 +29401,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.amctv.live/"
+                "https://www.amctv.live/",
+                "https://sharqnews.org/",
+                "https://tvtolive.com/afghanistan/sharq-news-tv/"
             ],
             "m3u8_url": [
                 "https://amchls.wns.live/hls/stream.m3u8"
@@ -46882,6 +46884,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://yeslivetv.com/channels/eftv/",
                 "https://www.eftv.com.tw/",
                 "https://www.youtube.com/@EFTV01"
             ],
