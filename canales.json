@@ -11499,8 +11499,8 @@
         "país": "ec",
         "categoría": "news"
     },
-    "EcuadorTVec-capricho-tv": {
-        "nombre": "channels EcuadorTV.ec Capricho TV ",
+    "channels-EcuadorTVec-capricho-tv": {
+        "nombre": "EcuadorTV.ec7 - Capricho TV ",
         "logo": "",
         "señales": {
             "iframe_url": [
