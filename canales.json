@@ -18925,15 +18925,19 @@
         "país": "pe",
         "categoría": "news"
     },
-    "panamericana-tv": {
-        "nombre": "Panamericana TV",
+    "panamericana-tv-JaymarTV": {
+        "nombre": "Panamericana TV - JaymarTV",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://panamericana.pe/tvenvivo/noframes",
                 "https://player.kick.com/ptv5",
                 "https://iblups.com/e_ptvpe",
-                "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0"
+                "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
+                "https://gia.tv/watchssh101.php?sn=jaymar",
+                "https://gia.tv/watchssh101.php?sn=dball",
+                "https://gia.tv/watchssh101.php?sn=NEOMIXHD",
+                "https://gia.tv/watchssh101.php?sn=quilpueo196208"
             ],
             "m3u8_url": [],
             "yt_id": "UCngb4rxO4iUE6BrIs29WXwA",
