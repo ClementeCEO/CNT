@@ -19189,12 +19189,15 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.atv.pe/envivo-atv/",
+                "https://www.atv.pe/",
                 "https://agro-tv.ro/tv-live/"
             ],
             "m3u8_url": [
+                "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
                 "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
+                "https://d1svme839xkbsn.cloudfront.net/index.m3u8",
                 "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvmas.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22899f0546-7931-4b1c-aa65-998f285569bb%22",
+                "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8",
                 "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22b2b556a3-7342-4627-87d7-64efeb128e38%22"
             ],
             "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
