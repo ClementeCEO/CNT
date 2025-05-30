@@ -41,7 +41,9 @@
                 "https://www.rapifutboltv.com/en-vivo/history2-mx/",
                 "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+            ],
             "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
             "yt_embed": "",
             "yt_playlist": "",
@@ -83,6 +85,7 @@
             "m3u8_url": [
                 "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
                 "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
+                "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8",
                 "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8"
             ],
             "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
@@ -19114,22 +19117,27 @@
         "país": "pe",
         "categoría": "news"
     },
-    "tumbajulcanavez-tv": {
-        "nombre": "Tumbajulca Navez",
+    "tumbajulcanavez-canala1ANTENAUNO": {
+        "nombre": "Tumbajulca Navez - ANTENA UNO",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://canala1.com/",
+                "https://www.antenauno.com/",
+                "https://www.rtp.pt/play/popup/antena1",
                 "https://iblups.com/tv",
-                "https://iblups.com/proaritv",
                 "https://iblups.com/urbanateve",
                 "https://iblups.com/tvmaranataweb",
                 "https://iblups.com/redeunamartv",
                 "https://iblups.com/gandudasorte",
                 "https://iblups.com/casmatv",
                 "https://iblups.com/televisiodelpoble",
-                "https://iblups.com/triunforadiotv"
+                "https://iblups.com/triunforadiotv",
+                "https://antena1.rtp.pt/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live-evg1.tv360.bitel.com.pe/bitel/auno/chunks.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
