@@ -18939,9 +18939,15 @@
                 "https://gia.tv/watchssh101.php?sn=jaymar",
                 "https://gia.tv/watchssh101.php?sn=dball",
                 "https://gia.tv/watchssh101.php?sn=NEOMIXHD",
+                "https://gia.tv/watchssh101.php?sn=Supercanal",
                 "https://gia.tv/watchssh101.php?sn=quilpueo196208"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live20.bozztv.com/giatv/giatv-jaymar/jaymar/playlist.m3u8",
+                "https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8",
+                "https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8",
+                "https://live20.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8"
+            ],
             "yt_id": "UCngb4rxO4iUE6BrIs29WXwA",
             "yt_embed": "",
             "yt_playlist": "",
