@@ -18557,6 +18557,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.streaming507.net:2020/VideoPlayer/hispaniamediatv",
+                "https://www.telemetro.com/endirecto",
                 "https://www.streaming507.net:2020/public/hispaniamediatv",
                 "https://www.hispaniamedia.tv/transmision-en-vivo"
             ],
@@ -30803,10 +30804,10 @@
         "nombre": "NTN24",
         "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live-c2.cf.dmcdn.net/sec2(2Ena2KE37u-wg6NlagbA9byKsL61A2pJA-w_NNm-iTQYEXmhYPpU7ftZs1AiZVZQagyqfDoUcVwrmL_57-g9ClPUqpLzo_gZSkl7DEfFxT4)/cloud/3/x7w4okl/s/live-380.m3u8"
+            "iframe_url": [
+                "https://www.ntn24.com/en-vivo"
             ],
+            "m3u8_url": [],
             "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -30837,7 +30838,9 @@
         "nombre": "La Iguana TV",
         "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.laiguana.tv/envivo/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
             "yt_embed": "",
@@ -30914,7 +30917,9 @@
         "nombre": "Anzoátegui TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://lorini.net/anzoateguitv/"
+            ],
             "m3u8_url": [
                 "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
             ],
@@ -30931,7 +30936,9 @@
         "nombre": "BTA TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://btatv.tv/"
+            ],
             "m3u8_url": [
                 "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
             ],
@@ -44272,7 +44279,9 @@
         "nombre": "KBS WORLD2",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://publiciptv.com/channels/kbsworldkr"
+            ],
             "m3u8_url": [
                 "https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8"
             ],
@@ -44364,7 +44373,9 @@
         "nombre": "NBS",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.inbs.co.kr/onair.do"
+            ],
             "m3u8_url": [
                 "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8"
             ],
@@ -44381,8 +44392,12 @@
         "nombre": "Asian Crush us",
         "logo": "https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.asiancrush.com/",
+                "https://www.asiancrush.com/livetv"
+            ],
             "m3u8_url": [
+                "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8",
                 "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8"
             ],
             "yt_id": "",
