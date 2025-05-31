@@ -3058,6 +3058,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/cb12KmMMDJA?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Ftn.com.ar&widgetid=1",
+                "https://tn.com.ar/envivo/24hs/",
                 "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363280"
             ],
             "m3u8_url": [],
