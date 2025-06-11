@@ -22,6 +22,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
+                "https://servertv.online/hybrid-stream-video-widget/demo",
                 "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
                 "https://www.photocalltv.me/cv/embed.php?r=history-op2",
                 "https://www.photocalltv.me/cv/embed.php?r=history-op2",
@@ -39,7 +40,8 @@
                 "https://www.mega.cl/",
                 "https://www.mega.cl/senal-en-vivo/meganoticias/",
                 "https://www.rapifutboltv.com/en-vivo/history2-mx/",
-                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c"
+                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://zonahosting.es/"
             ],
             "m3u8_url": [
                 "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Meganoticiasoficial/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
