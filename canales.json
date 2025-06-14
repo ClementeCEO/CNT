@@ -30473,12 +30473,32 @@
         "país": "ir",
         "categoría": "news"
     },
+    "hispantv": {
+        "nombre": "Hispan noticias",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg",
+        "señales": {
+            "iframe_url": [
+                "https://odysee.com/$/embed/@hispantv:d/live:400?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX",
+                "https://www.hispantv.com/directo"
+            ],
+            "m3u8_url": [
+                "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+                "https://live.presstv.ir/hls/hispantv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hispantv.com/",
+        "país": "ir",
+        "categoría": "news"
+    },
     "tapesh-IRANtv": {
-        "nombre": "Tapesh - HISPANTV - GEM TV (جم تی وی)",
+        "nombre": "Tapesh - Irib3 - GEM TV (جم تی وی)",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.hispantv.com/directo",
                 "https://darya.stream/live-tv/irib3-tv-live/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-film-tv/gem-tv",
                 "https://babaktv.com/gem-tv/",
@@ -41140,26 +41160,6 @@
         "sitio_oficial": "https://www.youtube.com/channel/",
         "país": "",
         "categoría": "classic"
-    },
-    "hispantv": {
-        "nombre": "Hispan noticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg",
-        "señales": {
-            "iframe_url": [
-                "https://odysee.com/$/embed/@hispantv:d/live:400?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX"
-            ],
-            "m3u8_url": [
-                "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
-                "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hispantv.com/",
-        "país": "ir",
-        "categoría": "news"
     },
     "rt-Noticias": {
         "nombre": "RT Noticias",
