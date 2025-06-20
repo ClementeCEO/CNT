@@ -29753,6 +29753,8 @@
         "logo": "https://www.aparatchi.com/images/TV/irib-varzesh.png",
         "señales": {
             "iframe_url": [
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
+                "https://darya.stream/live-tv/varzish-tv-live/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv"
             ],
             "m3u8_url": [],
@@ -29788,6 +29790,9 @@
         "señales": {
             "iframe_url": [
                 "https://darya.stream/live-tv/irib3-tv-live/",
+                "https://www.giniko.com/watch.php?id=372",
+                "https://darya.stream/live-tv/irib-khabar-tv-live/",
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib2-live",
                 "https://salintv.com/video/tv3-live/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
             ],
@@ -29806,7 +29811,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://salintv.com/video/gem-sport-tv-zende/"
+                "https://salintv.com/video/gem-sport-tv-zende/",
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -29823,7 +29828,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.parsatv.com/name=Neto-Channel"
+                "https://www.parsatv.com/name=Neto-Channel",
+                "https://darya.stream/live-tv/afghanistan-international-live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -29840,7 +29846,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://salintv.com/video/persiana-sport/"
+                "https://salintv.com/video/persiana-sport/",
+                "https://darya.stream/live-tv/persiana-sport-live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -29857,7 +29864,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://salintv.com/video/pakhshe-zende/"
+                "https://salintv.com/video/pakhshe-zende/",
+                "https://darya.stream/live-tv/varzish-tajikistan-tv-live/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -29874,7 +29882,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://salintv.com/video/pakhshe-zende-2/"
+                "https://salintv.com/video/pakhshe-zende-2/",
+                "https://darya.stream/live-tv/iranian-live-tvs/"
             ],
             "m3u8_url": [],
             "yt_id": "",
