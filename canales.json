@@ -7769,6 +7769,7 @@
         "señales": {
             "iframe_url": [
                 "https://nova.bg/live",
+                "https://nova.bg/live/news",
                 "https://www.tikilive.com/channel/the-first",
                 "https://www.tikilive.com/channel/axs-tv-now",
                 "https://bx-tv.com/axs-tv-now/",
@@ -7777,9 +7778,11 @@
                 "https://www.tikilive.com/channel/tiki-drama",
                 "https://www.gledaitv.live/watch-tv/39/planeta-folk-online",
                 "https://www.gledaitv.live/watch-tv/42/bnt-4-online",
-                "https://www.gledaitv.live/watch-tv/80/eurocom-online"
+                "https://www.gledaitv.live/watch-tv/80/eurocom-online",
+                "https://www.tvdream.net/web-tv/bnt-4/#google_vignette"
             ],
             "m3u8_url": [
+                "//e112-ts.cdn.bg/ntv/fls/NNHD.stream/at=O0M9MTc5LjYuMTY4LjEyO0U9MTc1MDYyNDg1NDtBPTE7Sz0zO1A9MDExMTA7Uz1iODYxZTEzNDRjYjQwYWI4NDNjYmRmYWRjYzAwMTEzYTFlNjIxZWYw/playlist.m3u8",
                 "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
                 "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8"
             ],
@@ -7788,7 +7791,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvdream.net/web-tv/bnt-4/#google_vignette",
+        "sitio_oficial": "https://www.bgtv-online.com/novatv/#google_vignette",
         "país": "bg",
         "categoría": "news"
     },
