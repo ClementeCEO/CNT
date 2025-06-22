@@ -7768,9 +7768,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.magic.bg/stream#append_ajax",
                 "https://i.cdn.bg/live/0OmMKJ4SgY",
                 "https://i.cdn.bg/live/gR2Z8WMYyc",
-                "https://nova.bg/live",
+                "https://www.magic.bg/stream#append_ajax",
                 "https://nova.bg/live/news",
                 "https://www.tikilive.com/channel/the-first",
                 "https://www.tikilive.com/channel/axs-tv-now",
