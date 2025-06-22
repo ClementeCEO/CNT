@@ -29762,11 +29762,14 @@
         "logo": "https://www.aparatchi.com/images/TV/irib-varzesh.png",
         "señales": {
             "iframe_url": [
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
                 "https://darya.stream/live-tv/varzish-tv-live/",
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8",
+                "https://gg.hls2.xyz/live/irib-varzesh/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -29783,7 +29786,9 @@
             "iframe_url": [
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/shabakeh-khabar-live"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -29805,7 +29810,10 @@
                 "https://salintv.com/video/tv3-live/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8",
+                "https://gg.hls2.xyz/live/tv3/chunks.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -38850,7 +38858,6 @@
                 "https://assam.news18.com/live-tv/",
                 "https://banglatv.tv/live/",
                 "https://livetv.com.bd/streaming/zee-24ghonta/",
-                "",
                 "https://www.jagobd.com/channeli"
             ],
             "m3u8_url": [
