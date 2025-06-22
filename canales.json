@@ -7768,6 +7768,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://i.cdn.bg/live/0OmMKJ4SgY",
+                "https://i.cdn.bg/live/gR2Z8WMYyc",
                 "https://nova.bg/live",
                 "https://nova.bg/live/news",
                 "https://www.tikilive.com/channel/the-first",
@@ -7783,6 +7785,7 @@
             ],
             "m3u8_url": [
                 "https://e112-ts.cdn.bg/ntv/fls/NNHD.stream/at=O0M9MTc5LjYuMTY4LjEyO0U9MTc1MDYyNDg1NDtBPTE7Sz0zO1A9MDExMTA7Uz1iODYxZTEzNDRjYjQwYWI4NDNjYmRmYWRjYzAwMTEzYTFlNjIxZWYw/playlist.m3u8",
+                "https://lbn-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/at=O0M9MTc5LjYuMTY4LjEyO0U9MTc1MDYyNjY4MztBPTE7Sz0zO1A9MDExMTA7Uz1iMDgyYjkyMDA0YmNhYmU2MzM1N2Q4YmUzZTdlOWY3MTE3NWM4MDUz/playlist.m3u8",
                 "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
                 "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8"
             ],
@@ -30496,7 +30499,6 @@
                 "https://www.hispantv.com/directo"
             ],
             "m3u8_url": [
-                "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
                 "https://live.presstv.ir/hls/hispantv.m3u8"
             ],
             "yt_id": "",
