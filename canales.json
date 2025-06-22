@@ -29763,13 +29763,14 @@
         "señales": {
             "iframe_url": [
                 "https://darya.stream/live-tv/varzish-tv-live/",
+                "https://www.livehdtv.com/embed/mbc-persia/",
+                "https://www.livehdtv.com/mbc-persia/",
+                "https://salintv.com/video/persiana-one/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib1-live",
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv"
+                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-varzesh-live-tv",
+                "https://www.livehdtv.com/ulke/iran/"
             ],
-            "m3u8_url": [
-                "https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8",
-                "https://gg.hls2.xyz/live/irib-varzesh/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -29779,15 +29780,20 @@
         "país": "ir",
         "categoría": "news"
     },
-    "shabakeh-khabar-tv": {
+    "shabakeh-khabar-live": {
         "nombre": "IRINN Shabakeh Khabar",
         "logo": "https://www.aparatchi.com/images/TV/irinn1.png",
         "señales": {
             "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Shabake-Khabar&auto=false",
+                "https://telewebion.com/live/irinn",
+                "http://jawaltv.com/online/persian/watch/tv/irinn.php",
+                "http://www.imvbox.tv/es/irinn/live-channel/play",
+                "https://www.diycraftsguide.com/live-tv/khabar.html",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/shabakeh-khabar-live"
             ],
             "m3u8_url": [
-                "https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8"
+                "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29803,17 +29809,18 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://salintv.com/video/tv3-live/embed/",
+                "http://www.imvbox.tv/es/iribtv3/live-channel/play",
+                "https://darya.stream/live-tv/irib3-tv-live/",
                 "https://darya.stream/live-tv/irib3-tv-live/",
                 "https://www.giniko.com/watch.php?id=372",
+                "https://sepehrtv.ir/live/irinn",
                 "https://darya.stream/live-tv/irib-khabar-tv-live/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib2-live",
                 "https://salintv.com/video/tv3-live/",
                 "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
             ],
-            "m3u8_url": [
-                "https://gg.hls2.xyz/live/irib-tv2/playlist.m3u8",
-                "https://gg.hls2.xyz/live/tv3/chunks.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -29828,7 +29835,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://salintv.com/video/gem-sport-tv-zende/"
+                "https://salintv.com/video/gem-sport-tv-zende/",
+                "https://dd.alkoora.live/albaplayer/on-time-sport-1/?serv=1",
+                "https://www.diycraftsguide.com/live-tv/shabake-3-hd-new.html#google_vignette",
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -30480,12 +30489,16 @@
         "país": "ir",
         "categoría": "news"
     },
-    "pcm-tv": {
-        "nombre": "PCM TV",
+    "pcm-PRESSTV": {
+        "nombre": "PCM - PRESSTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.diycraftsguide.com/live-tv/pmc.html"
+                "https://odysee.com/$/embed/@PressTV:2/Presstvlivestream:e?r=",
+                "https://rumble.com/embed/v6s62fv/?pub=14mhhj",
+                "https://www.presstv.ir/live",
+                "https://www.diycraftsguide.com/live-tv/pmc.html",
+                "https://sepehrtv.ir/live/tv4"
             ],
             "m3u8_url": [
                 "https://hls.pmchd.live/hls/stream.m3u8"
