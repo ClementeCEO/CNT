@@ -36926,6 +36926,7 @@
                 "https://iptv345.com/?tid=ys",
                 "https://www.giniko.com/watch.php?id=960",
                 "https://www.distro.tv/live/cctv-4/",
+                "https://tv.cctv.com/live/cctv6/?",
                 "https://www.earthcam.com/"
             ],
             "m3u8_url": [],
@@ -37028,8 +37029,8 @@
                 "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
                 "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
             ],
-            "yt_id": "UCgrNz-aDmcr2uuto8_DL2jg",
-            "yt_embed": "",
+            "yt_id": "UCd94YCD7yp6d-YZSRYWyeFA",
+            "yt_embed": "UCgrNz-aDmcr2uuto8_DL2jg",
             "yt_playlist": "",
             "twitch_id": ""
         },
