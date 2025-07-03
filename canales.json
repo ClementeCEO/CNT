@@ -3082,7 +3082,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/2048px-C5N_logo.svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/NdQSOItOQ5Y?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+                "https://www.c5n.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
@@ -3099,7 +3099,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
         "señales": {
             "iframe_url": [
-                "https://rudo.video/live/nettv?autoplay=true&volume=0"
+                "https://rudo.video/live/nettv?autoplay=true&volume=0",
+                "https://www.canalnet.tv/programas/caras/"
             ],
             "m3u8_url": [
                 "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
@@ -3121,6 +3122,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
         "señales": {
             "iframe_url": [
+                "https://www.tvpublica.com.ar/",
                 "https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&autoplay=true"
             ],
             "m3u8_url": [],
@@ -3150,16 +3152,19 @@
         "país": "ar",
         "categoría": "news"
     },
-    "la-nacion": {
-        "nombre": "LA NACION",
+    "la-nacion-caras": {
+        "nombre": "LA NACION - Caras",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Nación.svg/2560px-Logo_La_Nación.svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/G5pHuBCqgrs?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+                "https://carac.tv/lives/carac-1",
+                "https://caras.perfil.com/",
+                "https://tvcaras.com.br/",
+                "https://www.youtube.com/embed/OR9MH16MKrg?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
-            "yt_embed": "G5pHuBCqgrs",
+            "yt_embed": "OR9MH16MKrg",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -3191,9 +3196,7 @@
         "nombre": "Canal 26 ORG",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
-            "iframe_url": [
-                "https://canal26.org/en-vivo/"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://panel.streamingtv-mediacp.online:1936/8002/8002/playlist.m3u8"
             ],
@@ -3293,7 +3296,7 @@
         "logo": "https://graph.facebook.com/eldocetv/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/sFZe_RPnNSo?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Feldoce.tv&widgetid=1"
+                "https://eldoce.tv/vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "UCiaePeoCqpU8hBHiNrgkzrA",
@@ -3324,7 +3327,9 @@
         "nombre": "IP Noticias",
         "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://ipnoticias.ar/actualidad/19807-ip-en-vivo"
+            ],
             "m3u8_url": [],
             "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
             "yt_embed": "",
@@ -3336,10 +3341,13 @@
         "categoría": "news"
     },
     "nur-para-todos": {
-        "nombre": "Nur Para Todos",
+        "nombre": "Nur Para Todos - Metro",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://serenotv.com/video/canal-metro-tv/",
+                "https://www.teleonline.tv/canal/canal-12-metro-tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCLc18B2Tfn1C_suWOCKsMew",
             "yt_embed": "",
@@ -3369,7 +3377,11 @@
         "nombre": "DNews",
         "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.canalesargentinosenvivo.com/2021/09/canal-5tv-en-vivo.html",
+                "https://www.canalesargentinosenvivo.com/2021/09/catamarca-rtv-en-vivo.html",
+                "https://www.tec.gob.ar/en-vivo/"
+            ],
             "m3u8_url": [],
             "yt_id": "UC4dWvSKVWJ36tJyhjDQCCaQ",
             "yt_embed": "",
@@ -3385,7 +3397,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.quierovertv.com/en-vivo/"
+                "https://www.quierovertv.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
@@ -3479,7 +3491,10 @@
         "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/I7ht2P-udy0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://telearg.weebly.com/canal-10-san-rafael.html",
+                "https://www.youtube.com/@lvdiezoficial/live",
+                "https://www.youtube.com/embed/-P1PibfADq4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://lvdiez.com.ar/"
             ],
             "m3u8_url": [],
             "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
@@ -16976,7 +16991,9 @@
         "logo": "https://graph.facebook.com/RyTAgs/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://ryta.com.mx/envivo/"
+                "https://canal10.com.mx/sitio/tvonline.html",
+                "https://canal10.com.mx/sitio/",
+                "https://ryta.com.mx/"
             ],
             "m3u8_url": [
                 "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
