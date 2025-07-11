@@ -22,6 +22,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
+                "https://rootmaster.xyz/player.php?id=214f21cc",
                 "https://servertv.online/hybrid-stream-video-widget/demo",
                 "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
                 "https://www.photocalltv.me/cv/embed.php?r=history-op2",
@@ -120,6 +121,9 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
         "señales": {
             "iframe_url": [
+                "https://rootmaster.xyz/player.php?id=1591430d",
+                "https://rootmaster.xyz/player.php?id=fe0e0a29",
+                "https://rootmaster.xyz/player.php?id=0ad6de20",
                 "https://embed.ksdjugfsddeports.fun/embed/space.html",
                 "https://www.rapifutboltv.com/en-vivo/space/",
                 "https://embed.ksdjugfsddeports.fun/embed/tnt.html",
