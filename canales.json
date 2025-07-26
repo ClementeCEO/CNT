@@ -47676,9 +47676,7 @@
         "nombre": "ISTV",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://artv.watch/embed.php?channel=ISTV.la"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
             ],
@@ -47687,7 +47685,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/laos/istv",
         "país": "la",
         "categoría": "news"
     },
@@ -47695,7 +47693,10 @@
         "nombre": "LAO CHAMPA TV 1",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.trodi.dev/tv/LA/LaoChampaTV1.la",
+                "https://ufreetv.com/search-all-channels?stream=https%3A%2F%2Fcdn.3ssoft.vn%2Flivetv%2Flaocaitv%2Flaocaitv%2Findex.m3u8"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
             ],
@@ -47704,7 +47705,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.facebook.com/LaoChampaUS",
         "país": "la",
         "categoría": "news"
     },
@@ -47712,7 +47713,9 @@
         "nombre": "LAO CHAMPA TV 2",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.trodi.dev/tv/LA/LaoChampaTV2.la"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8"
             ],
@@ -47730,7 +47733,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://eja.tv/play/?https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8#e39ae7fde2ecff0fad27de9b753c1f7074aae9469982b34647e0bb3fca9519b3"
+                "https://www.trodi.dev/tv/LA/DaoLaneXangTV.la",
+                "https://www.trodi.dev/tv/LA/DaoLaneXangTV.la"
             ],
             "m3u8_url": [
                 "https://eja.tv/play/?https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8"
@@ -47748,9 +47752,7 @@
         "nombre": "Vati Lao TV",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://artv.watch/embed.php?channel=VatiLao.la"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
                 "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8"
@@ -47765,12 +47767,14 @@
         "categoría": "news"
     },
     "MVMall-Living": {
-        "nombre": " MVMall Living",
+        "nombre": "MVMall Living",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://mvtv.co.th/play/play_mvtv.php?no=171&channel=MVMall%20Living"
+            ],
             "m3u8_url": [
-                "https://edge2z.v2h-cdn.com/ttd14/ttd14.stream/playlist.m3u8"
+                "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -47802,9 +47806,7 @@
         "nombre": "MV Lao TV",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://artv.watch/embed.php?channel=MVLaoTV.la"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8"
             ],
@@ -47838,7 +47840,9 @@
         "nombre": "LAO THAI TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.giniko.com/watch.php?id=240"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
             ],
@@ -47856,7 +47860,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=LaosPlanetTV.la"
+                "https://livestreamlinks.net/en/onlinetv/laos/laos-planet-tv"
             ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8"
@@ -47875,7 +47879,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=LookThoongTV.la"
+                "https://livestreamlinks.net/en/onlinetv/laos/look-thoong-tv"
             ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8"
@@ -47894,7 +47898,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=LSTV.la"
+                "https://icanlive.tv/live/15539/ls-tv.html"
             ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8"
@@ -47913,7 +47917,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=NingTV.la"
+                "https://icanlive.tv/live/15542/ning-tv.html"
             ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8"
@@ -47931,7 +47935,9 @@
         "nombre": "PNTV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://livestreamlinks.net/en/onlinetv/laos/istv"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8"
             ],
@@ -47948,7 +47954,9 @@
         "nombre": "SIENG KHAEN LAO TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://live-radio-channels.com/stream/in-media-one"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/vlctemple.sdp/playlist.m3u8"
             ],
@@ -48017,7 +48025,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=LaoNetTV.la"
+                "https://live-radio-channels.com/stream/la-lao-net-tv"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -48034,7 +48042,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://artv.watch/embed.php?channel=OhMuangLaoTV.la"
+                "https://play4you.icu/e/2diwjc3res"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -48042,15 +48050,17 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://artv.watch/en/LA/OhMuangLaoTV.la",
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/laos/oh-muang-lao-tv",
         "país": "la",
         "categoría": "news"
     },
     "MVMall-Best": {
-        "nombre": "MVMall Best",
+        "nombre": "MVMall Best - Lao PSTV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://laotv.la/live.html"
+            ],
             "m3u8_url": [
                 "https://edge6a.v2h-cdn.com/mvmall2/mvmall2.stream/playlist.m3u8"
             ],
@@ -48103,6 +48113,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
+                "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8",
                 "https://edge6a.v2h-cdn.com/ttd25/ttd25.stream/playlist.m3u8"
             ],
             "yt_id": "",
@@ -48458,7 +48469,9 @@
         "nombre": "CVA HMONG FRESNO",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.hmongusatv.com/live/"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
             ],
@@ -48492,7 +48505,10 @@
         "nombre": "HMONG STAR TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://icanlive.tv/live/15535/hmong-star-tv.html",
+                "https://livestreamlinks.net/onlinetv/laos/hmong-star-tv"
+            ],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
             ],
@@ -48510,8 +48526,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "http://www.khmerlive.tv/bayon/",
                 "http://mekongtv.net/channels/bayontv",
+                "http://www.khmerlive.tv/bayon/",
                 "http://www.itver.cc/bayon-tv/",
                 "https://lcotiv.com/tv/68220602971.html",
                 "https://lcotiv.com/cou.html",
