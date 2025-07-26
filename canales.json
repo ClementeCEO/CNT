@@ -45946,15 +45946,22 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.oned.net/live-tv"
+                "https://www.oned.net/live-tv",
+                "https://www.tnnasia.tv/now",
+                "https://tv.trueid.net/th-th/live/tnn16",
+                "https://www.tnnthailand.com/",
+                "https://www.oned.net/en/home"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8",
+                "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.oned.net/en/home",
+        "sitio_oficial": "https://github.com/Soponwit19997/IPTV/blob/main/Digital_TV.m3u",
         "país": "th",
         "categoría": "news"
     },
