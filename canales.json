@@ -68,7 +68,17 @@
             ],
             "m3u8_url": [
                 "https://rudo.video/rudo.m3u8",
-                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+                "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+                "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+                "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+                "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+                "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+                "https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+                "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+                "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+                "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
+                "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
             ],
             "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
             "yt_embed": "",
@@ -5313,23 +5323,6 @@
         },
         "sitio_oficial": "https://onlinetvplayer.com/category/business/",
         "país": "am",
-        "categoría": "news"
-    },
-    "tv-miraflores": {
-        "nombre": "TV Miraflores",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://miraflorestv.com.ve/en-vivo/vtv/",
-        "país": "ve",
         "categoría": "news"
     },
     "Metro-TV": {
@@ -32060,6 +32053,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.laiguana.tv/envivo/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "tv-miraflores": {
+        "nombre": "BTA TV [VE] - Miraflores",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://miraflorestv.com.ve/en-vivo/vtv/",
         "país": "ve",
         "categoría": "news"
     },
