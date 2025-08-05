@@ -17,11 +17,12 @@
         "país": "cl",
         "categoría": "news"
     },
-    "meganoticias-h2": {
-        "nombre": "Meganoticias - H2",
+    "meganoticias-History-2-Latin-America-Girovisual": {
+        "nombre": "Meganoticias - Angienet TVpe-H2-SUR TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
+                "https://servilive.com/hybrid-stream-video-widget/angienet",
                 "https://rootmaster.xyz/player.php?id=214f21cc",
                 "https://servertv.online/hybrid-stream-video-widget/demo",
                 "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
@@ -42,9 +43,19 @@
                 "https://www.mega.cl/senal-en-vivo/meganoticias/",
                 "https://www.rapifutboltv.com/en-vivo/history2-mx/",
                 "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
-                "https://zonahosting.es/"
+                "https://zonahosting.es/",
+                "https://zonasurtv.cl/",
+                "https://m3u.cl/canal-iptv/74_Girovisual_TV",
+                "https://github.com/noteimporta1111/rejrfnq34ifg94tjw/blob/main/chile.m3u",
+                "https://www.surtv.cl/?fbclid=IwY2xjawL_ERdleHRuA2FlbQIxMABicmlkETBvTU9GUEE4QklDYk5xMFhLAR5pc8PrTZBjyINKaD3t82Xqo4AAjzu_NIzwwLr5wP7LTo_lrioTUQCil535Gw_aem_DfgvSuuTnbWXvPXuW77wjw",
+                "https://angienet-television1.odoo.com/",
+                "https://espectaculosenlinea.blogspot.com/"
             ],
             "m3u8_url": [
+                "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
+                "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
+                "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
+                "https://servilive.com:3624/stream/play.m3u8",
                 "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Meganoticiasoficial/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
                 "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
             ],
@@ -63,7 +74,7 @@
         "señales": {
             "iframe_url": [
                 "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
-                "https://www.youtube.com/embed/wZVTwip1XC8?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/R_V7FhsCPwM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://rudo.video/live/t13?autoplay=true&volume=0"
             ],
             "m3u8_url": [
