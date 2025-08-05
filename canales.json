@@ -5454,6 +5454,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.dailymotion.com/embed/video/x9n2qyk?syndication=278713",
+                "https://www.reduno.com.bo/play",
                 "https://www.reduno.com.bo",
                 "https://www.dailymotion.com/embed/video/k3IMZ2j8woY8WbCNDcM?syndication=278713",
                 "https://www.boliviapuntotv.com/red-uno/"
@@ -5601,7 +5602,9 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
+                "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
                 "https://hoca4u.xyz/player/boliviatv1.php",
+                "https://www.boliviatv.bo/principal/vivo71.php",
                 "https://rumble.com/embed/v58mfdh/?pub=3grnb9",
                 "https://conceptoweb-studio.com/radio/video/boliviatv/"
             ],
@@ -5624,10 +5627,11 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://www.boliviapuntotv.com/red-bolivision/",
+                "https://www.redbolivision.tv.bo/envivo-canal-5/",
+                "https://www.boliviapuntotv.com/hd/",
+                "https://www.boliviapuntotv.com/hd3/",
                 "https://rumble.com/embed/v6ozbta/?pub=4",
-                "https://rumble.com/v6r6wu2-u.s.-bombs-yemen-d.c.-only-cares-about-a-leak-uk-journalist-addresses-spy-a.html",
-                "https://www.redbolivision.tv.bo/envivo-canal-5/"
+                "https://rumble.com/v6r6wu2-u.s.-bombs-yemen-d.c.-only-cares-about-a-leak-uk-journalist-addresses-spy-a.html"
             ],
             "m3u8_url": [
                 "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
