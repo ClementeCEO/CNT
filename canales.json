@@ -372,9 +372,10 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Marca-radio-romantica.jpg",
         "señales": {
             "iframe_url": [
+                "https://cdn.jwplayer.com/players/U877NKGY-FQXJcgSP.html",
+                "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?autoplay=true&player=63af7b6cc5048f0846557764",
                 "https://www.romantica.cl/romantica-tv/",
-                "https://www.roccotv.cl/",
-                "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?autoplay=true&player=63af7b6cc5048f0846557764"
+                "https://www.roccotv.cl/"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8"
