@@ -37373,16 +37373,24 @@
         "categoría": "news"
     },
     "ftvnews53": {
-        "nombre": "民視新聞網 Formosa TV News network",
+        "nombre": "民視新聞網 Formosa TV News network - 餘姚姚江文化",
         "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
                 "https://embed.4gtv.tv/ftvnews/FTVNews.html",
                 "https://embed.4gtv.tv/ftvnews/ftvnews-FTTV.html",
                 "https://embed.4gtv.tv/ftvnews/ftvnews-FTV.html",
-                "https://embed.4gtv.tv/ftvnews/ftvnews-FMTV.html"
+                "https://embed.4gtv.tv/ftvnews/ftvnews-FMTV.html",
+                "https://zapiro.tv/channels/%E9%A4%98%E5%A7%9A%E5%A7%9A%E6%B1%9F%E6%96%87%E5%8C%96/",
+                "http://tv.haoqu99.com/e/extend/tv.php?id=6494",
+                "http://tv.haoqu99.com/3/zhejiang/zjqj.html",
+                "https://www.nettv.live/api/channel.php?aid=1137",
+                "https://live.64ma.com/tv/tv.asp?pid=yaoyu2",
+                "https://github.com/punkstarbr/STR-YT/blob/main/CHINA.M3U"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+            ],
             "yt_id": "UC2VmWn8dAqkzlQqvy02E1PA",
             "yt_embed": "",
             "yt_playlist": "",
