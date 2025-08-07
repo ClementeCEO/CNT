@@ -5,9 +5,13 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/bVH_5q7Q0EE?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0"
+                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+                "https://s.emisoras.tv:2020/VideoPlayer/mimutv?autoplay=1",
+                "https://mimutv.com/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s.emisoras.tv:8081/mimutv/index.m3u8"
+            ],
             "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
             "yt_embed": "",
             "yt_playlist": "UCTXNz3gjAypWp3EhlIATEJQ",
