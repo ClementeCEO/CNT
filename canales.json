@@ -8722,12 +8722,13 @@
         "país": "co",
         "categoría": "cristiana"
     },
-    "la-fm-colombia": {
-        "nombre": "LA FM Colombia",
+    "la-fm-colombia-canalpyc": {
+        "nombre": "LA FM Colombia - Canalpyc",
         "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.colombia.com/tv/cristo-vision-bogota-644"
+                "https://www.colombia.com/tv/cristo-vision-bogota-644",
+                "https://canalpyc.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UC6GkkHjigCzoVgvtYg8UB9g",
