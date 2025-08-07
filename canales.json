@@ -8928,15 +8928,19 @@
         "país": "co",
         "categoría": "general"
     },
-    "oasis-tv": {
-        "nombre": "OasisTV",
+    "oasis-tv-Canal-Zoom": {
+        "nombre": "OasisTV- Canal Zoom",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.tvlibrehd.com/en-vivo/oasistv",
-                "https://www.tvlibrehd.com/en-vivo/oasistv"
+                "https://www.tvlibrehd.com/en-vivo/oasistv",
+                "https://canalzoom.smoothcloud.co/broadcaster/canalzoombr1/live/player",
+                "https://www.chatytvgratis.net/zoom-tv-colombia-en-vivo/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8946,12 +8950,15 @@
         "país": "co",
         "categoría": "news"
     },
-    "tvfamilia": {
-        "nombre": "Tvfamilia",
+    "tvfamilia-Telecaribe": {
+        "nombre": "Tvfamilia - Telecaribe",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tvfamilia.com/"
+                "https://tvfamilia.com/",
+                "https://www.codetoolsbox.com/clean.php?url=https%3A%2F%2Fplayer.instantvideocloud.net%2F%23%2Fembed%2F180720d1",
+                "https://telecaribe.co/",
+                "https://www.teleantioquia.co/envivo/al-aire"
             ],
             "m3u8_url": [],
             "yt_id": "",
