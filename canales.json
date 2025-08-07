@@ -8893,12 +8893,13 @@
         "país": "co",
         "categoría": "news"
     },
-    "telepacifico": {
-        "nombre": "Telepacifico",
+    "telepacifico-Vive-TV ": {
+        "nombre": "Telepacifico - Vive TV ",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://players.cdn.enetres.net/live/6E5C615AA5FF4123ACAF0DAB57B7B8DC022"
+                "https://players.cdn.enetres.net/live/6E5C615AA5FF4123ACAF0DAB57B7B8DC022",
+                "http://vivetvstreaming.com/"
             ],
             "m3u8_url": [],
             "yt_id": "",
