@@ -19045,6 +19045,7 @@
             ],
             "m3u8_url": [
                 "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+                "https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8",
                 "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
                 "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
                 "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
@@ -19058,13 +19059,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "panamericana-tv-JaymarTV": {
+    "panamericana-tv-JaymarTV-HOYPERUTVCAJAMARCA-ANDINOTVHUARAZ": {
         "nombre": "Panamericana TV - JaymarTV",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://panamericana.pe/tvenvivo/noframes",
                 "https://player.kick.com/ptv5",
+                "https://www.radiojaymar.com/?fbclid=IwY2xjawMB5v9leHRuA2FlbQIxMABicmlkETBzVDZsYnhsV09IUDROZ3hYAR4nAplBXXvvZcKLVJtlj0vy8v2XJmkO2y7ftCwsBIc2ceCxi7KUWiWJ1R-Atw_aem_mWIt4I1NdbW_4PEX5QL0uA",
                 "https://iblups.com/e_ptvpe",
                 "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
                 "https://gia.tv/watchssh101.php?sn=jaymar",
@@ -19074,10 +19076,13 @@
                 "https://gia.tv/watchssh101.php?sn=quilpueo196208"
             ],
             "m3u8_url": [
-                "https://live20.bozztv.com/giatv/giatv-jaymar/jaymar/playlist.m3u8",
+                "https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8",
+                "https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8",
+                "https://live-evg25.tv360.bitel.com.pe/bitel/andinotv/chunks.m3u8",
                 "https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8",
                 "https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8",
-                "https://live20.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8"
+                "https://live20.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8",
+                "https://www.facebook.com/radiojaymar95.1fm"
             ],
             "yt_id": "UCngb4rxO4iUE6BrIs29WXwA",
             "yt_embed": "",
@@ -19088,8 +19093,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "tumpis-tv-tvperuanisima": {
-        "nombre": "UMPIS - TVperuanisima",
+    "tumpis-tv-tvperuanisima-N-CANAL": {
+        "nombre": "UMPIS - TVperuanisima - N CANAL",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -19099,6 +19104,7 @@
                 "https://tvperuanisima.com/"
             ],
             "m3u8_url": [
+                "https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8",
                 "https://servilive.com:3531/stream/play.m3u8",
                 "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
             ],
@@ -19143,6 +19149,7 @@
                 "https://betzta.com/canales.php?stream=america"
             ],
             "m3u8_url": [
+                "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8",
                 "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8"
             ],
             "yt_id": "UCGGry4kGWZUqIfG6LLNhOmg",
