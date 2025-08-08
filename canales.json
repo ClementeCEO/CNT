@@ -3140,7 +3140,7 @@
         "categoría": "news"
     },
     "net-tv": {
-        "nombre": "Net TV",
+        "nombre": "Net TV - +Caras tv",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
         "señales": {
             "iframe_url": [
@@ -3148,10 +3148,12 @@
                 "https://www.canalnet.tv/programas/caras/"
             ],
             "m3u8_url": [
+                "https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8",
                 "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
                 "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
                 "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
-                "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8"
+                "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
+                "https://github.com/masterentertainment/listas/blob/main/Chubut.m3u"
             ],
             "yt_id": "UC8aY1r3sNj1nujEisGkxtyA",
             "yt_embed": "",
