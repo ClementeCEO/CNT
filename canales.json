@@ -3750,13 +3750,24 @@
         "categoría": "general"
     },
     "PANCtvARG-break-pointmp": {
-        "nombre": "PANC tv ARG - BREAK POINT",
+        "nombre": "PANC tv ARG - BREAK POINT - Vision",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://panctv.com.ar/"
+                "https://serenotv.com/video/canal-panc-tv-argentina/",
+                "https://serenotv.com/video/canal-panc-tv-peru/",
+                "https://fmxradio.inkatropical.pe/",
+                "https://v2.ssh101.com/detailng.php?id=platiniumtv",
+                "https://www.platiniumtelevision.com/",
+                "https://vision.org.pe/tvenvivo/",
+                "https://v2.ssh101.com/detailng.php?id=visiononline",
+                "https://tv.garden/pe/kNsWM7D3MJH7TB",
+                "https://panctv.com.ar/",
+                "https://v2.ssh101.com/detailng.php?id=panctvargentina"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streamyes.alsolnet.com/lafiestamochis/live/chunklist_w1951798998.m3u8"
+            ],
             "yt_id": "UC_49ElhhVd1BO7MsdBPm77Q",
             "yt_embed": "",
             "yt_playlist": "",
@@ -20084,10 +20095,12 @@
         "categoría": "news"
     },
     "grupo-altonivelperuradio-tvl": {
-        "nombre": "Grupo Altonivelperuradio - radiostereotv - Tvl",
+        "nombre": "Grupo Altonivelperuradio - radiostereotv - Tv Libertad",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/?autoplay=1&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Ftv.garden&widgetid=1&forigin=https%3A%2F%2Ftv.garden%2Fpe%2FkNsWM7D3MJH7TB&aoriginsup=1&gporigin=https%3A%2F%2Fwww.google.com%2F&vf=1",
+                "https://tv.garden/pe/XOM9Q1cGWigMXK",
                 "https://teocom.org/tvl/",
                 "https://altonivelperuradio.com/",
                 "https://radiostereotv.com/radio"
@@ -21553,12 +21566,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "cutervotv": {
-        "nombre": "Cutervotv",
+    "cutervotv-MO-Channel": {
+        "nombre": "Cutervotv - MO Channel",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://mc.servidor.stream:2020/VideoPlayer/8256?autoplay=1"
+                "https://mc.servidor.stream:2020/VideoPlayer/8256?autoplay=1",
+                "https://tv.garden/pe/UDdMtzxSFo4KG2",
+                "https://livestreamlinks.net/onlinetv/peru/mo-channel"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21570,13 +21585,15 @@
         "país": "pe",
         "categoría": "news"
     },
-    "radioilucan": {
-        "nombre": "Radioilucan",
+    "radioilucan-angianet": {
+        "nombre": "Radioilucan - Angianet",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "http://www.radioilucan.com/",
-                "https://playervideo.zcastbr.com/video/jorgetv/1/true/false/VlROU2RHUnFSWFZsYlU1b1l6TlNhV05wTldwaU1qQTkrMw==/16:9/YUhSMGNEb3ZMM0poWkdsdmFXeDFZMkZ1TG1OdmJRPT0rWg=="
+                "https://playervideo.zcastbr.com/video/jorgetv/1/true/false/VlROU2RHUnFSWFZsYlU1b1l6TlNhV05wTldwaU1qQTkrMw==/16:9/YUhSMGNEb3ZMM0poWkdsdmFXeDFZMkZ1TG1OdmJRPT0rWg==",
+                "https://angienet-television1.odoo.com/",
+                "https://tv.garden/pe/YZWpBn5BgYiilY"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21614,6 +21631,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tv.garden/pe/wmJ1QxQIvPF4LM",
                 "https://ventanillatv.pe/",
                 "https://iptv-web.app/PE/#Teleselva.pe"
             ],
