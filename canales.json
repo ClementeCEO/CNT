@@ -31528,9 +31528,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.globovision.com/",
-                "https://duktek-hillstate.blogspot.com/",
-                "https://www.youtube.com/embed/PfclYKwWWX0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.globovision.com/"
             ],
             "m3u8_url": [],
             "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
@@ -31590,7 +31588,10 @@
         "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://mblive.telesur.ultrabase.net/"
+                "https://mblive.telesur.ultrabase.net/",
+                "https://mblive.telesur.ultrabase.net/",
+                "https://www.telesurtv.net/"
+                
             ],
             "m3u8_url": [
                 "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", 
@@ -31607,7 +31608,7 @@
         "categoría": "news"
     },
     "venezolana-de-television": {
-        "nombre": "Venezolana de Televisión",
+        "nombre": "Venezolana Televisión",
         "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
@@ -31628,7 +31629,9 @@
         "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.ntn24.com/en-vivo"
+                "https://tvinsur.com/cuba/tele-rebelde/",
+                "https://www.telerebelde.icrt.cu/category/en-vivo/",
+                "https://teveo.cu/live/video"
             ],
             "m3u8_url": [],
             "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
@@ -31640,12 +31643,18 @@
         "país": "ve",
         "categoría": "news"
     },
-    "televentv": {
-        "nombre": "TelevenTV",
+    "televentv-tves-tv": {
+        "nombre": "TelevenTV - TvEs",
         "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"
+                "https://www.opencaster.com/tves-100-100",
+                "https://teleonline.org/canal/televen-tv-venezuela/",
+                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1",
+                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1",
+                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1",
+                "https://es.livetvcentral.com/tv/tves",
+                "https://app.televen.com/"
             ],
             "m3u8_url": [""],
             "yt_id": "UCPxs1siPSF6YKGtKP_Zyvtw",
@@ -31704,11 +31713,15 @@
         "país": "ve",
         "categoría": "radio"
     },
-    "vtvradiofm": {
-        "nombre": "VTV RADIO",
+    "vtv-ve-vtvradiofm": {
+        "nombre": "VTV RADIO Venezuela",
         "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1",
+                "https://www.vtv.gob.ve/en-vivo/",
+                "https://canal8.com.ve/en-directo/"
+            ],
             "m3u8_url": [],
             "yt_id": "UC2_P7AV2jJ9_gYK0VS-w2rA",
             "yt_embed": "",
@@ -31823,29 +31836,14 @@
         "país": "ve",
         "categoría": "musica"
     },
-    "vtv-ve": {
-        "nombre": "VTV Venezuela",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vtv.gob.ve/en-vivo/",
-        "país": "ve",
-        "categoría": "musica"
-    },
     "venevisionplay-tv": {
-        "nombre": "venevisionplay",
+        "nombre": "Venevision Play",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://snippet.univtec.com/player-mobile.html?stream=https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8&live=true&autoplay=true&volume=1&vast=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTY0MHg0ODAmaXU9LzQzNDU5MjcxLDIyNzE3NjA3MDU4L2xvYy1kZXNrdG9wL3ZlbmV2aXNpb25wbGF5L3dlYi9saXZlJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZhZF9ydWxlPTAmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9aHR0cHM6Ly93d3cudmVuZXZpc2lvbnBsYXkuY29tJmRlc2NyaXB0aW9uX3VybD17e0VOQ09ERURfVVJMfX0mdnBvcz1wcmVyb2xsJnRmY2Q9MCZucGE9MCZvcmQ9e3tDQUNIRUJVU1RFUn19JmNvcnJlbGF0b3I9e3tDQUNIRUJVU1RFUn19&client=venevision&label=Venevision%20Internacional&guid=6a22d48f-7753-4da3-9b9e-8e7a7ac1cc8b&uuid=90d7f237-555e-4334-a316-f7157d965aab&maincategory=Live&pip=true&ip=179.6.168.249&lat=-12.0432&lon=-77.0282&channel_name=Venevision%20Internacional&data-skin=aviva_epg&api="
+                "https://www.venevisionplay.com/player/channel/639c979af920bd0012de6bc9",
+                "https://snippet.univtec.com/player-mobile.html?stream=https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8&live=true&autoplay=true&volume=1&vast=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTY0MHg0ODAmaXU9LzQzNDU5MjcxLDIyNzE3NjA3MDU4L2xvYy1kZXNrdG9wL3ZlbmV2aXNpb25wbGF5L3dlYi9saXZlJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZhZF9ydWxlPTAmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9aHR0cHM6Ly93d3cudmVuZXZpc2lvbnBsYXkuY29tJmRlc2NyaXB0aW9uX3VybD17e0VOQ09ERURfVVJMfX0mdnBvcz1wcmVyb2xsJnRmY2Q9MCZucGE9MCZvcmQ9e3tDQUNIRUJVU1RFUn19JmNvcnJlbGF0b3I9e3tDQUNIRUJVU1RFUn19&client=venevision&label=Venevision%20Internacional&guid=6a22d48f-7753-4da3-9b9e-8e7a7ac1cc8b&uuid=90d7f237-555e-4334-a316-f7157d965aab&maincategory=Live&pip=true&ip=179.6.168.249&lat=-12.0432&lon=-77.0282&channel_name=Venevision%20Internacional&data-skin=aviva_epg&api=",
+                "https://www.venevision.com/"
             ],
             "m3u8_url": [
                 "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
@@ -31860,7 +31858,7 @@
         "categoría": "musica"
     },
     "alegre-tv-rd": {
-        "nombre": "Alegre tv rd",
+        "nombre": "Alegre TV RD",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -31873,26 +31871,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.vivalivetv.com/channel/alegre-tv-rd",
-        "país": "ve",
-        "categoría": "musica"
-    },
-    "televen-tv": {
-        "nombre": "Televen",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1",
-                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"
-            ],
-            "m3u8_url": [
-                "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?bpkio_serviceid=8d9766a69b764fefae1d45b89dc1e565&hdnts=data%3Dip%3D179.6.168.177%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F*~exp%3D1722477372~hmac%3D85f8544569a7a755480b10746bc58a01bfce67dcba2f6739a4c1b2e2190b0ae6&AV_CATEGORY=IAB1-7&AVC_TIME=17-56-12&AV_CONTENT_TYPE=LIVE&AV_UPAL=STPLX_UPAL&AV_CCPA=1YYY&AVC_DATE=2024-07-31&AV_TITLE=Televen+HD&AV_SECURED=1&AV_CHANNEL_NAME=Televen+HD&AV_DNT=0&AVC_INVIEWPERC=100&AV_DTRACK=1&AV_URL=https%3A%2F%2Fapp.televen.com%2Fplayer%2Ftv%3FchannelId%3D20000841%26categoryId%3D0%26channelNumber%3D1&AV_VIDEOID=20000841&AV_VIDEOURL=https%3A%2F%2Fapp.televen.com%2Fplayer%2Ftv%3FchannelId%3D20000841%26categoryId%3D0%26channelNumber%3D1&AV_SITE_CATEGORY=IAB1-7&AV_LANGUAGE=Sp&AVC_INVIEW=1"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://app.televen.com/",
         "país": "ve",
         "categoría": "musica"
     },
@@ -31946,23 +31924,6 @@
         "sitio_oficial": "https://teletuya.net/en-vivo/",
         "país": "ve",
         "categoría": "musica"
-    },
-    "telesur-tv": {
-        "nombre": "Telesurtv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://mblive.telesur.ultrabase.net/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telesurtv.net/",
-        "país": "ve",
-        "categoría": "news"
     },
     "VPITV-tv": {
         "nombre": "VPITV",
@@ -32034,23 +31995,6 @@
         "sitio_oficial": "https://canal-i.com/",
         "país": "ve",
         "categoría": "musica"
-    },
-    "tves-tv": {
-        "nombre": "Tves Online",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.opencaster.com/tves-100-100"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/tves",
-        "país": "ve",
-        "categoría": "news"
     },
     "canal11delzulia-TV": {
         "nombre": "Canal11delzulia TV",
