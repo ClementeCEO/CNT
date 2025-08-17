@@ -8700,6 +8700,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/DW0Q4NBO51w?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
                 "https://mdstrm.com/live-stream/632391734be92a791e2750e6?jsapi=true&autoplay=true&access_token=hSZ0wPoyAxntbkHGFxl77c7dqles7MtS50DEovac7Qw81TSZOy0Y6012gCgspGbTivUomAftl5N&controls_bar[showFullscreen]=true",
                 "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
                 "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0",
@@ -9066,6 +9067,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/-8ItzGB4j7o?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://www.canalrcn.com/co/player/67535f2a8e10fec44f483a50",
                 "https://www.canalrcn.com/co/player/6792a762f5f47d50b1d766e4",
                 "https://www.canalrcn.com/co/player/67bd9751e81fc64038adf341",
@@ -9076,7 +9078,8 @@
                 "https://www.canalrcn.com/co",
                 "https://www.rcntotal.com/epg/en_vivo/winsports-1446100",
                 "https://www.rcntotal.com/epg/en_vivo/laviudadelamafiarcnmas-1446680",
-                "https://www.rcntotal.com/"
+                "https://www.rcntotal.com/",
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSCAJJ1RJ4rfRTVW4gjYTpQ&autoplay=1&mute=1&modestbranding=1&showinfo=0"
             ],
             "m3u8_url": [
                 "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
@@ -9084,7 +9087,7 @@
                 "https://1632122577.rsc.cdn77.org/YW4R58XPjBy8nShtkoE-nw==,1743710579/1632122577/index.m3u8"
             ],
             "yt_id": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
-            "yt_embed": "-ceTn_fOaf0?",
+            "yt_embed": "-8ItzGB4j7o",
             "yt_playlist": "",
             "twitch_id": ""
         },
