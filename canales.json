@@ -8700,6 +8700,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
+                "https://deporflix.com/canales/caracol-tv/",
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
                 "https://mdstrm.com/live-stream/632391734be92a791e2750e6?jsapi=true&autoplay=true&access_token=hSZ0wPoyAxntbkHGFxl77c7dqles7MtS50DEovac7Qw81TSZOy0Y6012gCgspGbTivUomAftl5N&controls_bar[showFullscreen]=true",
                 "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
@@ -8709,8 +8710,8 @@
                 "https://www.tvporinternet.org/2025/06/Senal-colombia-en-vivo-hd.html",
                 "https://cdn.chatytvgratis.net/sencol02.php",
                 "https://cdn.chatytvgratis.net/embed.php?id=sencol",
-                "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3",
-                "https://deporflix.com/canales/caracol-tv/"
+                "https://tv.garden/co/ugDDmzcLdJhWCd",
+                "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3"
             ],
             "m3u8_url": [
                 "https://live20.bozztv.com/giatv/giatv-scjulsevscjulsev/scjulsevscjulsev/chunks.m3u8"
