@@ -17391,15 +17391,17 @@
         "país": "mx",
         "categoría": "radio"
     },
-    "ryta": {
-        "nombre": "Ryta",
+    "ryta-tvn14": {
+        "nombre": "Ryta - Tvn14",
         "logo": "https://graph.facebook.com/DK1250/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://ryta.com.mx/envivo/"
+                "https://ryta.com.mx/envivo/",
+                "https://www.tvn14.com/tv-en-vivo/"
             ],
             "m3u8_url": [
-                "//60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8"
+                "//60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+                "https://tvn14-21fa4.kxcdn.com/TVN/CH14.stream_720p/chunklist_w1315459674.m3u8"
             ],
             "yt_id": "UCMM5cxstwaWqBxwTI-qZ0MQ",
             "yt_embed": "",
@@ -18851,12 +18853,13 @@
         "país": "pa",
         "categoría": "news"
     },
-    "farotv3865": {
-        "nombre": "FARO TV",
+    "farotv3865-tvn-2": {
+        "nombre": "FARO TV - Tvn-2",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.farodedavid.com/"
+                "https://www.farodedavid.com/",
+                "https://www.tvn-2.com/en-directo/"
             ],
             "m3u8_url": [
                 "https://tv.farodedavid.com:8090/farotv/live.m3u8"
