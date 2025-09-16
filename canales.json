@@ -15096,41 +15096,45 @@
         "país": "id",
         "categoría": "news"
     },
-    "cnn-cl00": {
-        "nombre": "CNN Chile00",
+    "CNN-Indonesia": {
+        "nombre": "CNN Indonesia",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.cnnindonesia.com/tv/embed?smartautoplay=true",
+                "https://www.cnnindonesia.com/tv",
+                
+            ],
+            "m3u8_url": [
+                "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+                "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCKII0Ml9S5wneKbHswmUrIQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@CNNIDOFFICIAL",
+        "país": "id",
+        "categoría": "news"
+    },
+    "trans-tv": {
+        "nombre": "Trans-tv",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.transtv.co.id/live",
                 "https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.vidio.com/live/733-trans-tv?schedule_id=3245518",
-        "país": "id",
-        "categoría": "news"
-    },
-    "cnn-cl0": {
-        "nombre": "CNN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cnnindonesia.com/tv",
-                "https://www.cnbcindonesia.com/tv"
-            ],
-            "m3u8_url": [
-                "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
-                "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cnnchile.com/",
         "país": "id",
         "categoría": "news"
     },
