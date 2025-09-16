@@ -15123,8 +15123,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.cnnindonesia.com/tv/embed?smartautoplay=true",
-                "https://www.cnnindonesia.com/tv",
-                
+                "https://www.cnnindonesia.com/tv"
             ],
             "m3u8_url": [
                 "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
