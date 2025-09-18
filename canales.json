@@ -17630,24 +17630,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://streamtp4.com/global1.php?stream=univision_usa",
-                "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=univision",
-                "https://tele-libre.org/en-vivo-online/univision/embed2.php",
-                "https://embed.sdfgnksbounce.com/embed/univision.html",
                 "https://thetvapp.to/tv/univision-east-live-stream/",
                 "https://amorlatinochat.com/index.html#Univivion",
-                "https://streamtp4.com/global1.php?stream=univision_usa",
+                "https://vix.com/es-es/canales?lang=canales",
                 "https://vix.com/es-es/canales/univision",
                 "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
-                "https://deportelibre.space/canales-sport.php?id=daznf1",
-                "https://deportelibre.space/canales/universo/",
-                "https://tele-libre.org/en-vivo-online/tlnovelas/embed.php",
-                "https://embed.sdfgnksbounce.com/embed/univision.html",
-                "https://thetvapp.to/tv/univision-east-live-stream/",
-                "https://deportelibre.space/",
-                "https://amorlatinochat.com/index.html#Univivion",
-                "https://embed.sdfgnksbounce.com/embed2/univision.html",
-                "https://embed.sdfgnksbounce.com/embed/univision.html"
+                "https://amorlatinochat.com/index.html#Univivion"
             ],
             "m3u8_url": [],
             "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
@@ -17849,26 +17837,20 @@
         "país": "mx",
         "categoría": "news"
     },
-    "telemundo51-noticias": {
-        "nombre": "Telemundo 51",
+    "Noticias-Telemundo": {
+        "nombre": "Telemundo Ahora",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/telemundo51.html",
-                "https://embed.sdfgnksbounce.com/embed/telemundo51.html",
-                "https://deportelibre.space/canales/espn5/op2.php",
-                "https://deportelibre.space/canales/espn2/op2.php",
-                "https://deportelibre.space/canales/espn4/op2.php",
-                "https://deportelibre.space/canales/espn6/op2.php",
-                "https://deportelibre.space/"
+                "https://vix.com/es-es/canales?lang=canales",
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
+            "yt_embed": "8hl9htCf1w0",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "sitio_oficial": "https://www.youtube.com/noticias",
         "país": "mx",
         "categoría": "news"
     },
@@ -21945,13 +21927,7 @@
         "nombre": "Telemundo PERU",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/telemundopuertorico.html",
-                "https://streamtp4.com/global1.php?stream=fox1ar",
-                "https://www.photocalltv.me/en-vivo/player/embed.php?r=novelas-turcas",
-                "https://streamtp4.com/global1.php?stream=dsports",
-                "https://streamtp4.com/global1.php?stream=fox2ar"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
             ],
@@ -21969,13 +21945,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/tntseries.html",
-                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/tnt.html",
-                "https://streamtp4.com/global1.php?stream=univision_usa",
-                "https://streamtp4.com/global1.php?stream=tntsports",
-                "https://streamtp4.com/global1.php?stream=azteca_deportes",
-                "https://streamtp4.com/global1.php?stream=tnt_2_gb",
-                "https://streamtp4.com/global1.php?stream=eventos2"
+                "https://deporflix.com/canales/tnt-novelas/",
+                "https://telegratuita.com/en-vivo/tnt-novelas.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21992,16 +21963,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/univision.html",
-                "https://tipotv.com/streams/watch/dqq29neczee6wduamiucbk9m",
-                "https://tipotv.com/streams/watch/z92sfxvz9sobn9zffaorqpkv",
-                "https://embed.sdfgnksbounce.com/embed2/univision.html",
-                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
-                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
-                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+                "https://www.xtremo-stereo.com/las-estrellas-en-vivo/",
+                "https://www.telextrema2.com/azteca-7-en-vivo.html",
+                "https://www.photocall-tv.es/cv/embed.js?c=o4c546xcv5c",
+                "https://www.lasestrellas.tv/en-vivo",
+                "https://www.photocalltv.site/cv/embed.js?c=o4c546xcv5c",
                 "https://www.cablevisionhd.com/",
-                "https://urlscan.io/domain/www.cablevisionhd.com",
-                "https://embed.sdfgnksbounce.com/"
+                "https://urlscan.io/domain/www.cablevisionhd.com"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -33736,12 +33704,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=telemundo-pr",
-                "https://www.photocalltv.me/cv/embed.php?r=telemundo-pr",
                 "https://www.telemundopr.com/en-vivo",
+                "https://www.telemundo.com/noticias/noticias-telemundo-ahora",
                 "https://www.nbcnews.com/watch",
                 "https://www.nbcboston.com/watch/",
-                "https://www.telemundo.com/noticias/noticias-telemundo-ahora",
                 "https://www.cbsnews.com/live/",
                 "https://www.livenowfox.com/live",
                 "https://www.livehdtv.com/embed/nbc-news/",
@@ -33760,7 +33726,7 @@
                 "https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/391882de-d0ce-434b-b840-2c8bdb82be3f/6.m3u8",
                 "https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/391882de-d0ce-434b-b840-2c8bdb82be3f/5.m3u8"
             ],
-            "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
+            "yt_id": "UCx2F6LSGZQbEg7ZAL5uNecQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "txl_092l"
