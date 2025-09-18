@@ -19886,6 +19886,25 @@
         "país": "pe",
         "categoría": "news"
     },
+    "Intereconomía": {
+        "nombre": "Intereconomía",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/tbH69F9NcRM?enablejsapi=1&playsinline=1&rel=1&controls=0&modestbranding=1&cc_load_policy=1&iv_load_policy=3",
+                "https://www.youtube.com/embed/tbH69F9NcRM?enablejsapi=1&playsinline=1&rel=0&mute=1&controls=0&modestbranding=1&cc_load_policy=1&iv_load_policy=3",
+                "https://www.intereconomia.com/directo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCNKomgId0-uTA-vVLM9v1pw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Intereconomiamedia",
+        "país": "pe",
+        "categoría": "news"
+    },
     "canalb-negocios-Business-sport-Navez1": {
         "nombre": "CanalB - Negocios Business - sport Navez1",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
