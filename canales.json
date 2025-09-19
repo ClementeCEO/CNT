@@ -23963,6 +23963,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www-alientovision-com.filesusr.com/html/59c031_56a36dadff89ad4eb7bc93a2d1b7ecfd.html",
+                "https://www.alientovision.com/en-vivo-hd",
                 "https://musicacristiana.com.ar/tv/aliento-vision-tv.htm"
             ],
             "m3u8_url": [
@@ -33451,6 +33453,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
+                "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
                 "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
                 "https://www.youtube.com/embed/YUJl2vWNsWU?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
                 "https://www.youtube.com/embed/hiWkGIgEr0M?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
@@ -33458,12 +33462,12 @@
                 "https://abc7news.com/watch/live/",
                 "https://abc7.com/watch/live/",
                 "https://www.abc-7.com/",
-                "https://www.gulfcoastnewsnow.com/article/live-stream/46210476",
-                "https://www-alientovision-com.filesusr.com/html/59c031_56a36dadff89ad4eb7bc93a2d1b7ecfd.html",
-                "https://www.alientovision.com/en-vivo-hd",
+                "https://www.gulfcoastnewsnow.com/article/live-stream/46210476"
+            ],
+            "m3u8_url": [
+                "https://www.livehdtv.com/embed/ch612/",
                 "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u"
             ],
-            "m3u8_url": [],
             "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
             "yt_embed": "sj2cWegO1OU",
             "yt_playlist": "",
@@ -34145,11 +34149,16 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://play4you.icu/e/8rtvo4g2sq",
-                "https://www.livehdtv.com/embed/fox-business/"
+                "https://www.livehdtv.com/yayin/?kanal=98&yayin=fox-business&guvenlik=$2y$10$YJbWreUH/dEI.t/uIbSCGODCSAHKx9SE7qdtdmmX/g6.3I0bAIk6y",
+                "https://www.foxbusiness.com/video/5640669329001",
+                "https://www.newslive.com/business/fox-business-network-fbn.html",
+                "https://w3.mp.lura.live/player/3.12.16/v3/anvload.html?key=eyJtIjoiTElWRU5PVyIsInYiOiJhZHN0dzNnMFBqMjhQMkFXIiwiYXV0b3BsYXkiOnRydWUsInRyYWNrVGltZVBlcmlvZCI6MSwid2lkdGgiOiIxMDAlIiwiYW52YWNrIjoiN2I0V0psMzV6YUhSd1d6aGtVZXdXWkppRDNKT21BakciLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5saXZlbm93Zm94LmNvbS9saXZlIiwicGx1Z2lucyI6eyJjdXN0b21Db21zY29yZVBsdWdpbiI6eyJwdWJsaXNoZXJTZWNyZXQiOiJORWtDSThmS0huMXpXRk40YU9wOWJYbndadDVqOGlISiIsImMzIjoiTGl2ZU5vdyIsImM2IjoiRlRTIiwic2NyaXB0IjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvTmF0aXZlQ29tc2NvcmVQbHVnaW4uanMiLCJzZGsiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9jb21zY29yZS5qcyIsImNsaWVudElkIjoiNjA0MjkwMSIsIm5zX3N0X3N0IjoiTE5GWCIsInRpdGxlIjoiIiwibnNfc3RfY2kiOiIiLCJjNCI6bnVsbCwic2V0R2VucmVOYW1lIjoiTmV3cyIsImFwcE5hbWUiOiJGT1ggTGl2ZU5PVyBOZXdzIEFwcCJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHBzOi8vcHViYWRzLmcuZG91YmxlY2xpY2submV0L2dhbXBhZC9saXZlL2Fkcz9pdT0vNTU1NTU1NTUvTElWRU5PV0ZPWCZkZXNjcmlwdGlvbl91cmw9W3BsYWNlaG9sZGVyXSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTEwMDF4MTAwMSZ1bnZpZXdlZF9wb3NpdGlvbl9zdGFydD0xIiwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIiwicGFsX25vbmNlIjoiQVF6ekJHUUVBa0xyeWVXeTgtd25RVGZyX2stbHJCLW1ZY0VoUTRXYXBVMTFKZ0pYOVZfWnFkdG9vdGpublRad1BPbGZLVi0tVks5b0xVcG9kSGNHc1RIeW1MNVNqY25fOGM4M2FLcThrOW44QjB6T09ibHZHMS1IVVpzR0JuSXo0Q0xkR193eDJXZHJQT1lSMlc3MlpxVDNuOVRhN0JXa0lST05FZlJDZTJJN0tBLVpvTy1uUUZiLUxUX2pTMGFBaWI3dmk1Nnpfb1hvLVlhQWIzazFjNm9MRVJBT1owcDNLQnppSEJwUzJsSnR0X29NejBEMnB0SmV2STZUVUs5RHBXZ1RsMjRjQ1h1aGNZLUVfZWUySE9jeHlvdGdqaE43eDVlMS1PbENkOEt2aXV3eVpDaDhVVlg2blo4d3VNbmdpc1U4eE9wWW5qdDNpWUtJMEZKcnpMUG9YWHpwelBtQlNqQUh0bkhBN3JtcFNZNkctN1J0eHNxM2V3YXhETjVWLWFZbHR4SnAtRkpHUGlyVDZmM1ZJTHVxZFdrdXJ1cUJxcWJ5LTJDNWZfRWVacFNZajZPRm5GTlBId3B6UDBROUJHTHlPRzcwako3V2ZKMGJSbU9sRkNtVkdZS0N1N0RjZ3MwdjVFRnJ3eGIxcWNSTnM0dk1vTnZ2RUhwdkltYWpCbnFnYUV2TXhFc1J1U0FrSWhhaHZ5U05LbXJ2bTNJaDFrNjl2dlYxb00yYWI1NmhSYzY0UnZrZGhmZ2Y2d0k5ak9FLVlMZmZwbzhvUDBtOUNaOTlvMDR5XzlpeWpFVlVEZzdGMXh6OFJZM0VWbDU1aUJMLTdUblVxN3pnODlXVkNQYnY4Z2dBb1FBTzBQY2pzcENZaW5JZ2pTMENmS2NySVlseF85R0s4cHNZbm9TclEzTUJWUTBXVGlYYWRkdGpJSldGTllNZC04ZE1XWDV0cGJhbFdFVFV4a1VWYVVNRWNnVzl2NVoxSXVJSS05Y2h5ek5JX2EwZEUzU2c0UWd1ekFKZlV5QWtPMzAtWWljcmpOXzVEM3Z6M19UaGZUUExxNGstMDNjcWd0MUNzSnRzMFNPZG41YVBEc0k5bTlvZUR3ZTk4cjlWeGJMNGVlcjRqR0tPTi1GXzE5X3FsNHY3RnJ0ZkEzeFZjZ25qNU5SVjNISC1NTG1CUnVwdzh4T1JWSDlIV1JZeDRlQkZ4R3BacERzZzlIMUJ6QmlPaUxJX2o5S1dlV2E0R0p1amRrVzFVdk1SMGFFdnZQb3NHNk5ZUlFWa05LNUE2d3RBYWFNbTdYYjVkalViWUlRLXV4VTBRVXg1ZE5ROV9CN21maVk1SkFNYkg1YUxEWkQ0bl9LTFNUN0l4RkgzSFdaVGczT1NUQXdKbEZxY19uNjA3QS4uIn19LCJwYWwiOnsicHBpZCI6IjZiMTBjYjJlLTJiYzUtNDIxMC05OTgwLTUwNjQ0YzU5NDdhOCIsIm5vbmNlUGVyaW9kIjozMDAsIm5vbmNlVGltZW91dCI6NSwiZGVzY3JpcHRpb25VcmwiOiJodHRwczovL3d3dy5saXZlbm93Zm94LmNvbS9saXZlIiwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZSwicEluc3RhbmNlIjoicGxheWVyLTNhZmI2MzU2LWE2NWYtNDYyMC1hNjZlLWZhNDc3ZTYyZjU3NyJ9LCJuYXRpdmVIZWFydGJlYXRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9hZG9iZS9DdXN0b21IZWFydGJlYXRQbHVnaW4uanMiLCJwcmltYXJ5X2J1c2luZXNzX3VuaXQiOiJmdHMiLCJzZWNvbmRhcnlfYnVzaW5lc3NfdW5pdCI6ImxuZngiLCJhcHBfbmFtZSI6ImxpdmVub3dmb3guY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLTNhZmI2MzU2LWE2NWYtNDYyMC1hNjZlLWZhNDc3ZTYyZjU3NyIsInZpZGVvX2lkIjoiYWRzdHczZzBQajI4UDJBVyJ9fSwiaHRtbDUiOnRydWUsInRva2VuIjoieDZZNzVxNFFJWVBQdGQ1Sl9JcDZnalBPNnVGQW0wVlJSOFZsWVBGS1VYZ35NbjR3ZmcifQ%253D%253D",
+                "https://www.livenowfox.com/live"
             ],
             "m3u8_url": [
-                "http://41.205.93.154/FOXBUSINESS/index.m3u8"
+                "https://stream.livenewspro.com:1936/foxbusiness/foxbusiness//chunklist_w1066456568_tkc2VjZW5kdGltZT0xNzU4MzYyNDA1JnNlY2hhc2g9WGstUy10YWp3R3BwRTYzUnpweWVOYnk5SXJ5cDBzSWk3ei1NRHYzUjBxRT0mc2Vjc3RhcnR0aW1lPTE3NTgyODc0MDU=.m3u8",
+                "https://www.livehdtv.com/embed/fox-business/",
+                "https://play4you.icu/e/8rtvo4g2sq"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -34481,15 +34490,48 @@
         "categoría": "general"
     },
     "fox-news": {
-        "nombre": "Fox News",
+        "nombre": "Fox News - fox-5-washington",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.livehdtv.com/yayin/?kanal=321&yayin=&guvenlik=$2y$10$75y8ykBSvwOzPZGPsWbTU.v3N7ZlaynnuE9cvitad1Z9ee9MFvZ1K",
+                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdHhtQjlxWkVQS0w3RCIsImFudmFjayI6Imx4UU1sYXZQRXZVUmIzTFU5cUNiSnF2YVVqSmEyNXlZIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cuZm94NWRjLmNvbS9saXZlc3RyZWFtIiwicGx1Z2lucyI6eyJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid3R0ZyIsImFwcF9uYW1lIjoiZm94NWRjLmNvbSIsImFwcF9wbGF0Zm9ybSI6IndlYiIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJzZWdtZW50SWQiOiJQUnhjaW5yVUkydk9LSWc4dXVscFhiSkZpZEFXTEF4cyJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHBzOi8vcHViYWRzLmcuZG91YmxlY2xpY2submV0L2dhbXBhZC9saXZlL2Fkcz9pdT0vNjM3OTA1NjQvd3R0Z19mb3g1L0xpdmVzdHJlYW0mZGVzY3JpcHRpb25fdXJsPVtwbGFjZWhvbGRlcl0mZW52PXZwJmltcGw9cyZjb3JyZWxhdG9yPSZ0ZmNkPTAmbnBhPTAmZ2RmcF9yZXE9MSZvdXRwdXQ9dmFzdCZzej0xMDAxeDEwMDEmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUifX19LCJoZWFsdGhBbmFseXRpY3MiOnt9fSwiaHRtbDUiOnRydWUsInRva2VuIjoiVFdXV3VLbWxsTTVaVFVESFIwZG9yWFBpZFpIbWVzclpDNXpZb2RWcEtxZ35NbjR3ZmcifQ%3D%3D",
                 "https://w3.mp.lura.live/player/3.12.16/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdHczZzBQajI4UDJBVyIsImF1dG9wbGF5Ijp0cnVlLCJ0cmFja1RpbWVQZXJpb2QiOjEsIndpZHRoIjoiMTAwJSIsImFudmFjayI6IjdiNFdKbDM1emFIUndXemhrVWV3V1pKaUQzSk9tQWpHIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cubGl2ZW5vd2ZveC5jb20iLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiTGl2ZU5vdyIsImM2IjoiRlRTIiwic2NyaXB0IjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvTmF0aXZlQ29tc2NvcmVQbHVnaW4uanMiLCJzZGsiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9jb21zY29yZS5qcyIsImNsaWVudElkIjoiNjA0MjkwMSIsIm5zX3N0X3N0IjoiTE5GWCIsInRpdGxlIjoiIiwibnNfc3RfY2kiOiJhZHN0dzNnMFBqMjhQMkFXIiwiYzQiOm51bGwsInNldEdlbnJlTmFtZSI6Ik5ld3MiLCJhcHBOYW1lIjoiRk9YIExpdmVOT1cgTmV3cyBBcHAifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvbGl2ZS9hZHM%252FaXU9LzU1NTU1NTU1L0xJVkVOT1dGT1gmZGVzY3JpcHRpb25fdXJsPVtwbGFjZWhvbGRlcl0mZW52PXZwJmltcGw9cyZjb3JyZWxhdG9yPSZ0ZmNkPTAmbnBhPTAmZ2RmcF9yZXE9MSZvdXRwdXQ9dmFzdCZzej0xMDAxeDEwMDEmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUiLCJ1c19wcml2YWN5IjpudWxsfX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6bnVsbH0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJwYWwiOnsicHBpZCI6ImU1YzQxN2ZkLTA1ZTMtNGE4Ny1hZDYwLTg2ZDM5NDllZjg3MiIsIm5vbmNlUGVyaW9kIjozMDAsIm5vbmNlVGltZW91dCI6NSwiZGVzY3JpcHRpb25VcmwiOiJodHRwczovL3d3dy5saXZlbm93Zm94LmNvbSIsImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJuYXRpdmVIZWFydGJlYXRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9hZG9iZS9DdXN0b21IZWFydGJlYXRQbHVnaW4uanMiLCJwcmltYXJ5X2J1c2luZXNzX3VuaXQiOiJmdHMiLCJzZWNvbmRhcnlfYnVzaW5lc3NfdW5pdCI6ImxuZngiLCJhcHBfbmFtZSI6ImxpdmVub3dmb3guY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLTY4MjZkOWEwLTI2MzctNGUwYS04NzVkLWNhM2RiODExYWUzNCIsInZpZGVvX2lkIjoiYWRzdHczZzBQajI4UDJBVyJ9fSwiaHRtbDUiOnRydWUsInRva2VuIjoieDZZNzVxNFFJWVBQdGQ1Sl9JcDZnalBPNnVGQW0wVlJSOFZsWVBGS1VYZ35NbjR3ZmcifQ%253D%253D",
                 "https://www.livenowfox.com/live",
-                "https://www.livehdtv.com/embed/fox-news/"
+                "https://www.livenewsnow.com/featured/foxnews.html",
+                "https://www.livehdtv.com/embed/fox-news/",
+                "https://www.fox7austin.com/",
+                "https://fox5sandiego.com/on-air/live-streaming/",
+                "https://www.livehdtv.com/",
+                "https://www.foxnews.com/",
+                "https://www.livenowfox.com/",
+                "https://www.fox29.com/live",
+                "https://www.fox13news.com/live",
+                "https://www.fox10tv.com/livestream/",
+                "https://www.fox7austin.com/live",
+                "https://www.fox35orlando.com/live",
+                "https://www.foxweather.com/live",
+                "https://kfoxtv.com/watch",
+                "https://www.fox5dc.com/",
+                "https://www.fox2detroit.com/",
+                "https://www.fox13news.com/watch-live-fox13",
+                "https://foxsanantonio.com/watch",
+                "https://www.fox5ny.com/fox-5-live-stream",
+                "https://www.foxnews.com/shows/fox-news-live",
+                "https://streamfare.info/foxnews",
+                "https://www.fox61.com/watch",
+                "https://fox11online.com/watch",
+                "https://fox17.com/watch",
+                "https://www.fox4news.com/",
+                "https://www.fox19.com/livestream/",
+                "https://www.foxcarolina.com/livestream/",
+                "https://www.kptv.com/livestream/",
+                "https://www.foxweather.com/live",
+                "https://www.fox8live.com/livestream/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
+            ],
             "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
             "yt_embed": "",
             "yt_playlist": "",
@@ -34506,6 +34548,7 @@
             "iframe_url": [
                 "https://abcnews.go.com/video/embed?id=abc_live11",
                 "https://www.livehdtv.com/embed/bbc-news/",
+                "https://www.wbrc.com/livestream/",
                 "https://abcnews.go.com/Live"
             ],
             "m3u8_url": [
@@ -34756,6 +34799,9 @@
         "señales": {
             "iframe_url": [
                 "https://iteleflix.com/ver/cnn-en-directo-online/",
+                "https://www.livehdtv.com/yayin/?kanal=612&yayin=&guvenlik=$2y$10$Y.XhfsncgmPZCGXbrKEe/.BIgvod5qiBHGfjOPeaKxKqUeh5NdYda",
+                "https://www.livehdtv.com/ch612/1/",
+                "https://www.livenewsnow.com/american/cnn-live-streaming-free.html",
                 "https://www.fibwidiario.com/estaticas/fibwi-tv.html",
                 "https://teleonline.org/canal/bloomberg-europe/",
                 "https://seenow.tv/api-v1/embed/channel/cnn",
@@ -34766,7 +34812,8 @@
             ],
             "m3u8_url": [
                 "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+                "https://cdn.livenewsplayer.com/hls/cnnsd/cnnsd/playlist.m3u8?secstarttime=1758292661&secendtime=1758299861&sechash=miaGYmvAlHwHySu0lev8lshvavqy5GAMjFoYSFhtaKY="
             ],
             "yt_id": "",
             "yt_embed": "",
