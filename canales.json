@@ -82,9 +82,11 @@
                 "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
                 "https://www.youtube.com/embed/R_V7FhsCPwM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://rudo.video/live/t13?autoplay=true&volume=0",
-                "https://fortalezatv.cl/"
+                "https://fortalezatv.cl/",
+                "https://www.populartv.cl/"
             ],
             "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
                 "https://multimedia.fortalezatv.cl/video/video.m3u8",
                 "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
                 "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
@@ -96,7 +98,8 @@
                 "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
                 "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
                 "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
-                "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
+                "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
+                "https://github.com/jota-2020/valebot/blob/c153d3bcb30d1a1e046ddad8278572923eb328a9/media/cl.mp3#L20"
             ],
             "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
             "yt_embed": "",
@@ -114,13 +117,21 @@
             "iframe_url": [
                 "https://rudo.video/live/cnn?autoplay=true&volume=0",
                 "https://streamkit.net/tv/23652",
-                "https://streamkit.net/tv/29044"
+                "https://streamkit.net/tv/29044",
+                "https://v2.tustreaming.cl:2020/public/maulevisiontv",
+                "https://sabortv.net/",
+                "https://novatv.cl/envivo/",
+                "https://m3u.cl/canal-iptv/1249_Molina_TV",
+                "https://radiogenial.cl/",
+                "https://maulevision.cl/"
             ],
             "m3u8_url": [
                 "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
                 "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
                 "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8",
-                "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8"
+                "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
+                "https://v1.tustreaming.cl/sabortv/index.m3u8",
+                "https://github.com/Betito24/casa/blob/df7d379faee601ef0d229c40a4948c7babe74936/casa#L2196"
             ],
             "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
             "yt_embed": "",
