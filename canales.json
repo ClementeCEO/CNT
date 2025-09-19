@@ -131,6 +131,7 @@
                 "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8",
                 "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
                 "https://v1.tustreaming.cl/sabortv/index.m3u8",
+                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
                 "https://github.com/Betito24/casa/blob/df7d379faee601ef0d229c40a4948c7babe74936/casa#L2196"
             ],
             "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
@@ -186,7 +187,7 @@
                 "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR"
             ],
             "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
-            "yt_embed": "",
+            "yt_embed": "U7MOPDCxfcM?",
             "yt_playlist": "",
             "twitch_id": "chv_noticias"
         },
