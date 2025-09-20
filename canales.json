@@ -1132,7 +1132,10 @@
         "logo": "https://graph.facebook.com/tucanalregional/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://v2.tustreaming.cl/atacamatv/embed.html?autoplay=true"
+                "https://v2.tustreaming.cl/atacamatv/embed.html?autoplay=true",
+                "https://www.retroplustv.com/",
+                "https://serenotv.com/video/canal-retro-80-90/",
+                "https://serenotv.com/video/canal-retro-plus-1/"
             ],
             "m3u8_url": [
                 "https://v2.tustreaming.cl/atacamatv/index.m3u8",
@@ -1148,12 +1151,16 @@
         "categoría": "general"
     },
     "canal-9": {
-        "nombre": "Canal 9",
+        "nombre": "Canal 9 - Kanade",
         "logo": "https://graph.facebook.com/BioBioTV/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
                 "https://rudo.video/live/c9",
-                "https://rudo.video/live/c9?autoplay=true&volume=0"
+                "https://rudo.video/live/c9?autoplay=true&volume=0",
+                "https://ticatvplus.com/tv-en-vivo/",
+                "https://ticavisiontv.com/tvenvivo/",
+                "https://trivisioncr.com/tv-en-vivo/",
+                "https://kanade.cl/envivo/"
             ],
             "m3u8_url": [
                 "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8",
@@ -3243,11 +3250,16 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
             "iframe_url": [
+                "https://xtrematv.com/233-punto-99-retro-series-copy-copy/",
+                "https://www.retroxtv.com/",
+                "https://serenotv.com/video/canal-retrox-tv/",
                 "https://www.youtube.com/embed/BTaSHvWJW5A?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com",
                 "https://www.canal26.com/canal26-en-vivo/",
                 "https://5900.tv/canal-26/",
                 "https://magickids.site/",
                 "https://lapachocanal11.com.ar/vivo/",
+                "https://www.vivalivetv.com/channel/dreiko-tv",
+                "https://serenotv.com/video/canal-dreiko-tv/",
                 "https://tele-libre.org/en-vivo-online/canal-26/embed.php",
                 "https://tele-libre.org/en-vivo-online/canal-26/embed2.php",
                 "https://www.youtube.com/embed/35LSnUPu5RY?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
@@ -3265,11 +3277,16 @@
         "categoría": "news"
     },
     "canal-26-org": {
-        "nombre": "Canal 26 ORG",
+        "nombre": "Canal 26 ORG - CHAMAME TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
             "iframe_url": [
-                "https://canal26.org/en-vivo/"
+                "https://mi-television.com/envivo.php",
+                "https://chamametv.com.ar/",
+                "https://canalinmobiliario.tv/",
+                "https://www.yupptv.com/channels/latino-classic-channel/live",
+                "https://canal26.org/en-vivo/",
+                "https://mi-television.com/"
             ],
             "m3u8_url": [
                 "https://panel.streamingtv-mediacp.online:1936/8002/8002/playlist.m3u8"
