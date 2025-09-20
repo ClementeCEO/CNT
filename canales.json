@@ -3590,10 +3590,11 @@
         "categoría": "news"
     },
     "cadena3": {
-        "nombre": "Cadena 3 Argentina",
+        "nombre": "Cadena 3 Argentina - CIUDAD MAGAZINE",
         "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://www.ciudad.com.ar/vivo/",
                 "https://telearg.weebly.com/canal-10-san-rafael.html",
                 "https://www.youtube.com/@lvdiezoficial/live",
                 "https://www.youtube.com/embed/-P1PibfADq4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
