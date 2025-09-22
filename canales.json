@@ -31766,7 +31766,13 @@
         "nombre": "MundoURenVivo",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.lorini.net/tvs/",
+                "https://valetv.info/",
+                "https://tvfamilia.com/",
+                "https://www.reformatv.net/",
+                "https://www.nubeh.tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "UC9LrWd-4NU7NJYhBvwIgFkQ",
             "yt_embed": "",
