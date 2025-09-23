@@ -11691,6 +11691,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://ecuatel.com/tvs/vostv/",
+                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX1/XDC34GHKBhb4RZGFEa3mRB0ZGzvOuidKuZGT6OLhSxtHgwjp27r38d8DZbvPfeiRqr0/WvaLx09RshKkBi+RqIcMiEgN16l6NP86sEoF6oEfhyXEJft1d2vIKYzRG3/Ra10xosbq0+LdDoWe91y6NZ33cpbN1wBK5mIFGjbPYTcd9augnAp6IfPo1jhTHKOjK87NJJAlR3dprvIWtDpR59WJx9mll7t8zqaWGZEzF+7PeXUswG1pAE8wLxT+NOrxWFobNJAmw9i2geVpRGWwrIs+ZBdXVCQZ4jFoVX+8OKhAiORoIEfy7Q1GzYu4X7y43YhCQUgKF/w==",
                 "https://oromartv.com/tv-en-vivo/",
                 "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
                 "https://www.vostv.com.ni/directo/#google_vignette",
@@ -11720,6 +11722,7 @@
             "iframe_url": [
                 "https://rudo.video/live/ecuavisa?dXNlcj1udWxs",
                 "https://www.ecuavisa.com/envivo",
+                "https://blixtv.com/stream2/ecuavisa.htm",
                 "https://livestreamlinks.net/onlinetv/ecuador/la-pipol-tv-sangolqui",
                 "https://livestreamlinks.net/onlinetv/ecuador/tv-color-canal-36#google_vignette",
                 "https://www.trodi.dev/tv/EC/TVColorCanal36.ec",
@@ -12317,9 +12320,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://majestadtv.ec/",
                 "https://videoserver.tmcreativos.com:2020/VideoPlayer/majestadtv?autoplay=1"
             ],
             "m3u8_url": [
+                "https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8",
                 "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
             ],
             "yt_id": "",
