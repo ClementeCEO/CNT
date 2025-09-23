@@ -11692,10 +11692,9 @@
         "señales": {
             "iframe_url": [
                 "https://ecuatel.com/tvs/vostv/",
-                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX1/XDC34GHKBhb4RZGFEa3mRB0ZGzvOuidKuZGT6OLhSxtHgwjp27r38d8DZbvPfeiRqr0/WvaLx09RshKkBi+RqIcMiEgN16l6NP86sEoF6oEfhyXEJft1d2vIKYzRG3/Ra10xosbq0+LdDoWe91y6NZ33cpbN1wBK5mIFGjbPYTcd9augnAp6IfPo1jhTHKOjK87NJJAlR3dprvIWtDpR59WJx9mll7t8zqaWGZEzF+7PeXUswG1pAE8wLxT+NOrxWFobNJAmw9i2geVpRGWwrIs+ZBdXVCQZ4jFoVX+8OKhAiORoIEfy7Q1GzYu4X7y43YhCQUgKF/w==",
                 "https://oromartv.com/tv-en-vivo/",
                 "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
-                "https://www.vostv.com.ni/directo/#google_vignette",
+                "https://www.vostv.com.ni/directo/",
                 "https://www.vosytv.com/",
                 "https://duendetv.com/en-vivo/",
                 "https://www.trodi.dev/tv/EC/AntenaUnoRadiovideo.ec",
@@ -11704,6 +11703,7 @@
             ],
             "m3u8_url": [
                 "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+                "https://live-sa.streann.tech/vostv1/vostv1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3OS42LjE2OC4zNyIsImV4cCI6MTc1ODY4MjgzMywicmlkIjoiNWZhMWVkMmYyY2RjYmVhYWVhYzBmOTg2Iiwia2V5Ijoia2V5MSIsImNpZCI6IjVmYTFlZmZjMmNkYzA3N2Q1MjM4NzExYiJ9.NVWzlW0ESOp4MyGRxfJ1JGzZAeMfumQZNPOZvrHbKQk",
                 "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
             ],
             "yt_id": "",
