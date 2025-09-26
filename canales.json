@@ -25451,18 +25451,35 @@
         "país": "py",
         "categoría": "news"
     },
-    "abc-telefuturo-noticias": {
-        "nombre": "ABC Telefuturo Noticias",
+    "abc-noticias": {
+        "nombre": "ABC Noticias",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.abc.com.py/tv/",
-                "https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html",
-                "https://www.desdepylabs.com/External/tvaccion/telefuturo",
-                "https://www.telefuturo.com.py/envivo"
+                "https://www.abc.com.py/tv/"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCEklbFbPoMaV1ciEb-0mAxg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abc.com.py/tv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "telefuturo-noticias": {
+        "nombre": "Telefuturo Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.telefuturo.com.py/envivo",
+                "https://www.desdepylabs.com/External/tvaccion/telefuturo"
+            ],
+            "m3u8_url": [
+                "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=a979cb702d6db5d3aea4a1c753cff63fefc2070a7c2465f0623e1f73b566e181&exp=1758898722"
+            ],
+            "yt_id": "UCtM-kY8-zx8zzsrWKVUffyA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -25519,7 +25536,7 @@
                 "https://canalsomosuno.tv/"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCWa_pUx7F5MWWoHfGtygaqg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "paraguaytvhd"
