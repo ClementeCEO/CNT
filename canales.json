@@ -19502,11 +19502,14 @@
                 "https://agro-tv.ro/tv-live/"
             ],
             "m3u8_url": [
+                "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
                 "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
                 "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
                 "https://d1svme839xkbsn.cloudfront.net/index.m3u8",
+                "https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8",
                 "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvmas.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22899f0546-7931-4b1c-aa65-998f285569bb%22",
                 "https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8",
+                "https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/ts:abr.m3u8",
                 "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22b2b556a3-7342-4627-87d7-64efeb128e38%22"
             ],
             "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
@@ -19997,8 +20000,9 @@
         "logo": "https://yt3.ggpht.com/ytc/AAUvwnhFfVkR0sYZRw4HWmWwzR6gf1GJ-HEbjS1nUfTe=s88-c-k-c0x00ffffff-no-rj",
         "señales": {
             "iframe_url": [
-               "https://www.opencaster.com/nicolezevallos98-100-100",
-                "https://canal21huancayo.com/en-vivo/"
+                "https://play.agenciastreaming.com:8081/tvwanka/embed.html",
+                "https://canal21huancayo.com/en-vivo/",
+               "https://www.opencaster.com/nicolezevallos98-100-100"
             ],
             "m3u8_url": [],
             "yt_id": "UC8GRXKNv9CyIq3T3xsYmEcg",
@@ -20152,7 +20156,7 @@
                 "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCT3jhkKbEV4ZslnzhZ26hPw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
