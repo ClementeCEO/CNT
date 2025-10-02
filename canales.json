@@ -29815,12 +29815,15 @@
         "país": "af",
         "categoría": "news"
     },
-    "arianatelevision-tv": {
-        "nombre": "Ariana Television",
+    "arianatelevision-tv-Pamir-TV": {
+        "nombre": "Ariana Television - Pamir - Faza - Darya",
         "logo": "https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png",
         "señales": {
             "iframe_url": [
-                "https://www.arianatelevision.com/live/"
+                "https://www.arianatelevision.com/live/",
+                "https://www.parsatv.com/name=Pamir-TV",
+                "https://www.darya.net/#!/",
+                "https://darya.stream/live-tv/faza-tv-live/"
             ],
             "m3u8_url": [
                 "https:\/\/d10rltuy0iweup.cloudfront.net\/ATNNAT\/myStream\/playlist.m3u8"
@@ -29834,11 +29837,15 @@
         "país": "af",
         "categoría": "news"
     },
-    "1tv-afghanistan": {
-        "nombre": "1TV Afghanistan",
+    "1tv-afghanistan-arezo": {
+        "nombre": "1TV Afghanistan - Arezo",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://eshgh.tv/channel.php?cid=433",
+                "https://eshgh.tv/channel.php?cid=435",
+                "http://www.dagav.com/v/afghanistan/tv/arezo.php",
+                "https://tvtvtv.ru/channel_eng.php?ch=6039",
                 "https://1tvnews.af/en/livestream/",
                 "https://www.aparatchi.com/afghan-live-tv/afghan-news-tv/1-tv-news"
             ],
@@ -29929,15 +29936,19 @@
         "país": "af",
         "categoría": "news"
     },
-    "Afghan-Nobel-tv": {
-        "nombre": "Afghan Nobel",
+    "Afghan-Nobel-tv-Eslah": {
+        "nombre": "Afghan Nobel - Eslah - Lemar",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://didan.tv/afghan-nobel-live/fvp-33/#fvp_33"
+                "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/lemar-tv",
+                "https://eshgh.tv/channel.php?cid=892",
+                "https://didan.tv/afghan-nobel-live/fvp-33/#fvp_33",
+                "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/eslah-tv"
             ],
             "m3u8_url": [
-                "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w809075156.m3u8"
+                "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w809075156.m3u8",
+                "https://gg.hls2.xyz/live/AP Eslah TV/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29948,16 +29959,21 @@
         "país": "af",
         "categoría": "news"
     },
-    "1tvabul-tv": {
-        "nombre": "1TVAbul",
+    "1tvabul-tv-bahar-tv": {
+        "nombre": "1TVAbul - Bahar",
         "logo": "http://dagav.com/images/ar/1tvabul.jpg",
         "señales": {
             "iframe_url": [
                 "http://azrotv.com/local/gnk4/?ch=307",
                 "http://dagav.com/v/afghanistan/tv/1tvabul.php",
-                "http://azrotv.com/local/gnk4/?ch=307"
+                "http://azrotv.com/local/gnk4/?ch=307",
+                "https://zapiro.tv/channels/bahar-tv/",
+                "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/bahar-tv",
+                "https://player.teleon.tv/en/channel/bahar-tv-af"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -29987,16 +30003,20 @@
         "país": "af",
         "categoría": "news"
     },
-    "tolo-tv": {
-        "nombre": "Tolo TV",
+    "tolo-tv-kayhah-tv": {
+        "nombre": "Tolo - kayhah TV",
         "logo": "http://dagav.com/images/fr/tolotv.jpg",
         "señales": {
             "iframe_url": [
                 "https://www.darya.net/#!/hero/Tek9edabM8azzca40pjdfA",
                 "https://darya.stream/live-tv/tolo-tv-live/",
-                "http://azrotv.com/local/gnk4/?ch=647"
+                "http://azrotv.com/local/gnk4/?ch=647",
+                ",",
+                "https://player.teleon.tv/en/channel/kayhah-tv-af"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
