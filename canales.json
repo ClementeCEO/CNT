@@ -41573,6 +41573,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
         "señales": {
             "iframe_url": [
+                "https://www.livehdtv.com/yayin/?kanal=248&yayin=&guvenlik=$2y$10$LrXA3fYzvqYWzqbCesxske7JYJgI83hnp5lOqckF5E47WJ2E.XVy.",
                 "https://smotrim.ru/channel/1",
                 "https://player.smotrim.ru/iframe/live/uid/ff741527-299e-44e7-9878-85738d320763/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/sdk/2",
                 "https://vgtrk.ru/russiatv",
@@ -41599,10 +41600,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://vk.com/video_ext.php?oid=-116028735&id=456292218&hd=2&autoplay=1",
                 "https://crimea24tv.ru/broadcasting/",
                 "https://crimea24tv.ru/"
             ],
             "m3u8_url": [
+                "https://simf.1tvcrimea.ru/simferopol24.m3u8",
+                "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
                 "https://simf.1tvcrimea.ru/simferopol24.m3u8"
             ],
             "yt_id": "",
@@ -41659,11 +41663,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://i.okcdn.ru/i?r=BDFSTM1h2o92P_v-s8DgGlgY05_HBIakX51Vy8Hdc5xOI146EtgyK6HGpH4lbRIwN60&fn=external_8",
+                "https://smotret.tv/domashniy",
                 "https://ok.ru/video/9652238818994",
                 "https://televizor24tochka.ru/tv/domashnii.html",
                 "https://smotrim.ru/channel/250",
                 "http://ip.tivix.co/100-domashniy.html",
-                "https://smotret.tv/domashniy"
+                "https://domashniy.ru/online"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -41679,12 +41685,12 @@
         "nombre": "Dom Kino2 О канале Дом Кино",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
-                "https://videos-cloudfront-usp.jwpsrv.com/6741bdfb_ff0a075972c89714b10dc5c98e89ab3138615997/site/cGlKNUnj/media/JcCg0zir/version/40xOEzCa/manifest.ism/manifest-audio_eng=112008-video_eng=302056.m3u8",
-                "https://a5.pokaz.me/iGx6LyK6NNeWNJ1kozhyUg/186/1732338052/index.m3u8"
+            "iframe_url": [
+                "https://xittv.net/domkino.html",
+                "https://telik.live/perets-tv.html",
+                "https://smotret.tv/perec"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41700,7 +41706,7 @@
         "señales": {
             "iframe_url": [
                 "https://vits.tv/en/tv-online/belarus-1/",
-                "https://belarus24.by/en/",
+                "https://belarus24.by/ajax/stream.php",
                 "https://icanlive.tv/live/15461/belarus-5-int.html",
                 "https://vits.tv/en/tv-online/belarus-3/",
                 "https://vits.tv/en/tv-online/belarus-2/",
@@ -41712,6 +41718,7 @@
                 "https://icanlive.tv/live/15463/stb.html",
                 "https://belsat.eu/",
                 "https://catcast.tv/vhs90e",
+                "https://belarus24.by/en/",
                 "https://live.vkvideo.ru/vhs90e"
             ],
             "m3u8_url": [
@@ -41731,11 +41738,14 @@
         "logo": "http://ip.viks.tv/posts/2016-12/1483178794_amedia-premium-hd.png",
         "señales": {
             "iframe_url": [
-                "http://tvset.sbs/online/doktor-tv",
+                "https://ok.ru/video/4006284697300",
+                "https://smotret.tv/razvlekatelnye/zagorodnyj",
                 "https://rustv.live/entertainment-channels/zagorodny-online.html",
-                "http://ip.viks.tv/497-amedia-premium-hd_2.html"
+                "http://ip.viks.tv/497-amedia-premium-hd_2.html",
+                "https://ok.ru/live/4006284697300"
             ],
             "m3u8_url": [],
+            "ok.ru_id": "4006284697300",
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41750,11 +41760,18 @@
         "logo": "http://ip.viks.tv/posts/2022-02/1644961857_amediahit.png",
         "señales": {
             "iframe_url": [
+                "https://smotret.tv/razvlekatelnye/just-tv",
+                "https://xittv.net/domkino.html",
+                "https://xittv.net/kinopokaz.html",
+                "https://televizor24tochka.ru/tv/pobeda.html",
                 "http://ip.viks.tv/604-amedia-hit.html",
                 "http://tvset.sbs/online/zhivaya-planeta",
                 "http://tvset.sbs/online/nauka-20"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s.viks.tv/Sg4aEfVeUepthfiMQf5dQQ/183/1760574683/index.m3u8",
+                "https://s.xittv.net/o51eav_diL0tv6dOAUXf6w/161/1760574973/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41814,8 +41831,11 @@
         "logo": "http://ip.viks.tv/posts/2017-01/1483221728_amedia2.png",
         "señales": {
             "iframe_url": [
+                "https://a2news.com/live",
+                "https://vits.tv/en/tv/uzhas-tv/",
+                "https://xittv.net/kuhnya-tv.html",
                 "https://ok.ru/videoembed/6422500023926?nochat=1&amp;autoplay=1",
-                "//ok.ru/videoembed/6422500023926?nochat=1",
+                "https://ok.ru/videoembed/6422500023926?nochat=1",
                 "https://ok.ru/video/6422500023926",
                 "https://smotret.tv/perec",
                 "https://ok.ru/videoembed/7216422461155?nochat=1&amp;autoplay=1",
@@ -41824,7 +41844,9 @@
                 "https://smotret.tv/kvn",
                 "http://ip.viks.tv/500-a2.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s.viks.tv/WflsSrD0LVaXvnk1QsPrhg/192/1760575405/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41839,9 +41861,14 @@
         "logo": "http://ip.viks.tv/posts/2017-07/1498928568_9_kanal_israel.png",
         "señales": {
             "iframe_url": [
+                "https://smotret.tv/razvlekatelnye/luxury",
+                "https://xittv.net/bollywood.html",
+                "https://televizor24tochka.ru/tv/just-tv.html",
                 "http://ip.viks.tv/520-9-kanal-izrail_20.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s.viks.tv/69sYXgCNVlxDmQ4V9VRy6Q/185/1760575988/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41856,13 +41883,14 @@
         "logo": "http://ip.viks.tv/posts/2018-12/1543637279_365.png",
         "señales": {
             "iframe_url": [
-                "https://100tv.uz/assets/js/player/360-tv",
+                "https://xittv.net/khl.html",
                 "http://ip.viks.tv/443-365.html",
                 "https://100tv.uz/360-tv",
                 "http://tvset.sbs/online/kino-tv",
                 "http://tvset.sbs/online/krasnaya-liniya"
             ],
             "m3u8_url": [
+                "https://s.viks.tv/zTGTWLzH4yyNfHQbqbiqLg/108/1760576181/index.m3u8",
                 "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
@@ -41879,13 +41907,18 @@
         "logo": "http://ip.viks.tv/posts/2018-12/1543637572_rentv.png",
         "señales": {
             "iframe_url": [
-                "https://www.1tv.ru/live",
                 "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
                 "https://static.1tv.ru/eump/embeds/1tv_live.html?__paranja=yes&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
                 "http://ip.viks.tv/346-ren-tv_6.html",
-                "http://ip.viks.tv/346-ren-tv_6.html"
+                "http://live.viks.tv/105230-24-tehno.html",
+                "https://www.1tv.ru/live",
+                "https://xittv.net/chp-info.html",
+                "https://www.canalesparabolica.com/idiomas/ruso.php"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s.viks.tv/6_xQ-5ZApJc9vpnwn512jg/543/1760576531/index.m3u8",
+                "https://s.viks.tv/BYKhl9nl_VIR7VTHdESNxQ/116/1760576593/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -41900,11 +41933,11 @@
         "logo": "http://ip.viks.tv/posts/2016-02/1456479371_2h2.png",
         "señales": {
             "iframe_url": [
+                "https://ok.ru/videoembed/7022731468424?nochat=1&amp;autoplay=1",
                 "https://ok.ru/videoembed/7137433362091?nochat=1&amp;autoplay=1",
                 "https://ok.ru/videoembed/7137433362091?nochat=1",
                 "https://ok.ru/video/7137433362091",
                 "https://smotret.tv/che",
-                "https://ok.ru/videoembed/7022731468424?nochat=1&amp;autoplay=1",
                 "https://ok.ru/videoembed/7022731468424?nochat=1",
                 "https://ok.ru/video/7022731468424",
                 "https://smotret.tv/2x2",
