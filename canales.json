@@ -41740,15 +41740,13 @@
         "logo": "http://ip.viks.tv/posts/2016-12/1483178794_amedia-premium-hd.png",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/video/4006284697300",
                 "https://smotret.tv/razvlekatelnye/zagorodnyj",
+                "https://ok.ru/video/4006284697300",
                 "https://rustv.live/entertainment-channels/zagorodny-online.html",
                 "http://ip.viks.tv/497-amedia-premium-hd_2.html",
                 "https://ok.ru/live/4006284697300"
             ],
             "m3u8_url": [],
-            "okru_id": "4006284697300",
-            "ok_embed": "https://ok.ru/videoembed/4006284697300",
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
