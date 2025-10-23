@@ -19199,6 +19199,7 @@
             "iframe_url": [
                 "https://panamericana.pe/tvenvivo/noframes",
                 "https://player.kick.com/ptv5",
+                "http://181.78.7.90:12500/play/a0gh",
                 "https://www.radiojaymar.com/?fbclid=IwY2xjawMB5v9leHRuA2FlbQIxMABicmlkETBzVDZsYnhsV09IUDROZ3hYAR4nAplBXXvvZcKLVJtlj0vy8v2XJmkO2y7ftCwsBIc2ceCxi7KUWiWJ1R-Atw_aem_mWIt4I1NdbW_4PEX5QL0uA",
                 "https://iblups.com/e_ptvpe",
                 "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
@@ -19227,7 +19228,7 @@
         "categoría": "news"
     },
     "tumpis-tv-tvperuanisima-N-CANAL": {
-        "nombre": "UMPIS - TVperuanisima - N CANAL",
+        "nombre": "⭐UMPIS - TVperuanisima - N CANAL⭐",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -19237,7 +19238,7 @@
                 "https://tvperuanisima.com/"
             ],
             "m3u8_url": [
-                "https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8",
+                "http://177.234.230.206:8011/play/a02d/index.m3u8",
                 "https://servilive.com:3531/stream/play.m3u8",
                 "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
             ],
@@ -19275,6 +19276,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://38.199.5.160:8000/play/a05f/",
                 "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
                 "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
                 "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
@@ -19284,6 +19286,7 @@
                 "https://www.tvenvivo.net/america-tv/"
             ],
             "m3u8_url": [
+                "http://38.199.5.160:8000/play/a05f/index.m3u8",
                 "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8",
                 "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
                 "http://181.188.216.5:18000/play/a014/index.m3u8"
@@ -19302,11 +19305,15 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://lamegamundial.com/",
+                "https://lamegamundial.com",
+                "http://38.199.6.1:17001/play/a0cv/",
                 "https://www.youtube.com/embed/gzxom5TeXO0?si=UC5j8-2FT0ZMMBkmK72R4aeA/live",
                 "https://www.youtube.com/embed/gzxom5TeXO0?si=ER2qs4JdQZTTMjHy"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "http://181.176.69.236:8028/play/a0ai/index.m3u8",
+                "https://github.com/CRACKED10PRO/TVPREMIUMPLUS_2025/blob/main/1000-TVPREMIUM.M3U8"
+            ],
             "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -19502,10 +19509,17 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://38.199.6.1:17001/play/a0ck",
+                "http://181.189.244.252:8000/play/a032",
+                "http://38.199.6.1:17001/play/a0cl",
                 "https://www.atv.pe/",
                 "https://agro-tv.ro/tv-live/"
             ],
             "m3u8_url": [
+                "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+                "http://38.199.6.1:17001/play/a0ck/index.m3u8",
+                "http://181.189.244.252:8000/play/a032/index.m3u8",
+                "http://38.56.113.170:8000/play/a02g/index.m3u8",
                 "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
                 "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
                 "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
