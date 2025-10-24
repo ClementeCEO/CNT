@@ -20735,11 +20735,15 @@
         "categoría": "news"
     },
     "frecuencia-musical-tv-mega-tv-jaen": {
-        "nombre": "FRECUENCIA MUSICAL - MEGA TV JAEN",
+        "nombre": "FRECUENCIA MUSICAL - multicanal television - MEGA TV JAEN",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=pantallaclasics",
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=1125&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/fmtv",
+                "https://ssh101.com/securelive/index.php?id=multicanal",
                 "https://tvgratisperu.com/pages/peru/re/frecuenciamusical_op1.php",
+                "https://ssh101.com/securelive/index.php?id=iptvclasicctv",
                 "https://s2.tvdatta.com/hybrid-stream-video-widget/fmtvmatriz",
                 "https://latinartv.com/emisoras/frecuencia-musical-tv",
                 "https://megatvjaen.pe/tv-en-vivo/",
