@@ -5609,7 +5609,6 @@
         "señales": {
             "iframe_url": [
                 "https://tvmegavision.com/",
-                "https://video.live.com.bo/live-stream-video-widget/megavision",
                 "https://www.megavisiontvrd.com/"
             ],
             "m3u8_url": [],
@@ -5652,14 +5651,14 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://video.live.com.bo/live-stream-video-widget/megavision",
-                "https://www.boliviapuntotv.com/musica/",
+                "https://serenotv.com/video/canal-coral-tv/",
+                "https://v2.ssh101.com/detailng.php?id=variedtvonline",
                 "https://www.boliviapuntotv.com/",
                 "https://serenotv.com/video/canal-bolivia-punto-tv/"
             ],
             "m3u8_url": [
-                "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
-                "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
+                "https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8",
+                "https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -19228,13 +19227,14 @@
         "categoría": "news"
     },
     "tumpis-tv-tvperuanisima-N-CANAL": {
-        "nombre": "⭐UMPIS - TVperuanisima - N CANAL⭐",
+        "nombre": "⭐UMPIS - TVperuanisima -boomixtv - N CANAL⭐",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://telezeta.cl/#tropical",
+                "https://v2.ssh101.com/detailng.php?id=tlzeta",
+                "https://v2.ssh101.com/detailng.php?id=boomixtv",
                 "https://tumpistv.pe/transmision-en-vivo-tumpis-tv/",
-                "https://servilive.com/hybrid-stream-video-widget/tumpistv",
-                "https://servilive.com/hybrid-stream-video-widget/tumpistv",
                 "https://tvperuanisima.com/"
             ],
             "m3u8_url": [
@@ -19252,15 +19252,19 @@
         "categoría": "news"
     },
     "canal-ipe": {
-        "nombre": "CANAL IPE",
+        "nombre": "CANAL IPE - Pasco TV",
         "logo": "",
         "señales": {
             "iframe_url": [
                 "https://iblups.com/e_canalipe",
-                "https://iblups.com/e_canalipe"
+                "https://iblups.com/e_canalipe",
+                "https://iblups.com/umalerta",
+                "https://iblups.com/tvnilcera",
+                "https://iblups.com/tvguadalupeoficial",
+                "https://iblups.com/planetaradiotv"
             ],
             "m3u8_url": [
-                "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
+                "https://live20.bozztv.com/akamaissh101/ssh101/suaveteve/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -19277,7 +19281,6 @@
         "señales": {
             "iframe_url": [
                 "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
-                "http://38.199.5.160:8000/play/a05f/",
                 "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
                 "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
                 "https://player.twitch.tv/?channel=americatv_envivo&parent=americatv_envivo",
@@ -19306,11 +19309,10 @@
         "señales": {
             "iframe_url": [
                 "https://lamegamundial.com",
-                "http://38.199.6.1:17001/play/a0cv/",
-                "https://www.youtube.com/embed/gzxom5TeXO0?si=UC5j8-2FT0ZMMBkmK72R4aeA/live",
-                "https://www.youtube.com/embed/gzxom5TeXO0?si=ER2qs4JdQZTTMjHy"
+                "https://mdstrm.com/live-stream/68b9f14bd7cd40aa500402b1?autoplay=true&volume=0&title=%20&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F1028310%2FRpp2_rpptv_Video%26description_url%3Dhttp%253A%252F%252Frpp.pe%252F%26tfcd%3D0%26npa%3D0%26sz%3D400x300%257C640x480%26gdfp_req%3D1%26unviewed_position_start%3D1%26output%3Dvast%26env%3Dvp%26impl%3Ds%26correlator%3D23318437120%26vpmute%3D1%26vpa%3D0%26url%3Dhttps%253A%252F%252Frpp.pe%252F%26plcmt%3D1%26vpa%3Dauto%26vpos%3Dpreroll%26vconp%3D2&ads[volume]=0"
             ],
             "m3u8_url": [
+                "http://38.199.6.1:17001/play/a0cv//index.m3u8",
                 "http://181.176.69.236:8028/play/a0ai/index.m3u8",
                 "https://github.com/CRACKED10PRO/TVPREMIUMPLUS_2025/blob/main/1000-TVPREMIUM.M3U8"
             ],
@@ -19510,9 +19512,11 @@
         "señales": {
             "iframe_url": [
                 "https://www.atv.pe/",
-                "http://38.199.6.1:17001/play/a0ck",
-                "http://181.189.244.252:8000/play/a032",
-                "http://38.199.6.1:17001/play/a0cl",
+                "https://v2.ssh101.com/detailng.php?id=lagloriafm",
+                "https://v2.ssh101.com/detailng.php?id=uca777",
+                "https://www.selvatv.pe/senal-en-vivo/",
+                "https://www.radioselvatv.pe/",
+                "https://amazoniatvr.com/",
                 "https://agro-tv.ro/tv-live/"
             ],
             "m3u8_url": [
@@ -19520,6 +19524,7 @@
                 "http://38.199.6.1:17001/play/a0ck/index.m3u8",
                 "http://181.189.244.252:8000/play/a032/index.m3u8",
                 "http://38.56.113.170:8000/play/a02g/index.m3u8",
+                "http://38.199.6.1:17001/play/a0cl/index.m3u8",
                 "https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8",
                 "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
                 "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
