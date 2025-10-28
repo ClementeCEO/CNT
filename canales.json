@@ -38481,6 +38481,7 @@
         "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
         "señales": {
             "iframe_url": [
+                "https://www.kralmuzik.com.tr/tv/kral-pop-tv",
                 "https://www.youtube.com/embed/GuFTuKoXepw?enablejsapi=1&rel=0&controls=1&autoplay=0&fs=1&playsinline=1&origin=https://www.kralmuzik.com.tr"
             ],
             "m3u8_url": [],
@@ -38497,10 +38498,10 @@
         "nombre": "KRT TV CANLI YAYIN",
         "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://krttv.daioncdn.net/krttv/krttv.m3u8?app=web"
+            "iframe_url": [
+                "https://www.krttv.com.tr/canli-yayin"
             ],
+            "m3u8_url": [],
             "yt_id": "UCVKWwHoLwUMMa80cu_1uapA",
             "yt_embed": "1zzKaji_Egw?",
             "yt_playlist": "",
@@ -38802,9 +38803,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli",
                 "https://www.canlitv.vin/arb-tv",
-                "https://canlitv.com/arb-tv"
+                "https://canlitv.com/arb-tv",
+                "https://tv.canlitvvolo.com/arb-tv-az-izle/",
+                "https://arb24.az/live",
+                "https://tv.legal/watch/arb-tv-az",
+                "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli"
             ],
             "m3u8_url": [
                 "https://ecanlitv3.etvserver.com/arbaz.m3u8?tkn=Eyw6MhM4K9IjGl1sliYEBA&tms=1727226689"
@@ -38857,6 +38861,23 @@
         "país": "tr",
         "categoría": "news"
     },
+    "haberturk-tv": {
+        "nombre": "Habertürk TV",
+        "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.haberturk.com/canliyayin"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCn6dNfiRE_Xunu7iMyvD7AA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.haberturk.com/",
+        "país": "tr",
+        "categoría": "news"
+    },
     "trt-haber": {
         "nombre": "Trt Haber",
         "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
@@ -38872,7 +38893,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.trthaber.com/canli-yayin-izle.html",
+        "sitio_oficial": "https://www.trthaber.com/",
         "país": "tr",
         "categoría": "news"
     },
@@ -38900,6 +38921,7 @@
         "logo": "https://i.ibb.co/tHQpWvn/24.png",
         "señales": {
             "iframe_url": [
+                "https://www.nowtv.com.tr/canli-yayin",
                 "https://www.nowtv.com.tr/yayin-akisi"
             ],
             "m3u8_url": [
@@ -45286,12 +45308,15 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://asharq.com/live/",
                 "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
+                "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
                 "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
+            ],
             "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
             "yt_embed": "f6VpkfV7m4Y?",
             "yt_playlist": "",
