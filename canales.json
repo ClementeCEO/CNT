@@ -4,8 +4,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=UCTXNz3gjAypWp3EhlIATEJQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
                 "https://www.youtube.com/embed/h3Jn8f-YKRk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
                 "https://s.emisoras.tv:2020/VideoPlayer/mimutv?autoplay=1",
@@ -31,7 +31,7 @@
                 "https://servilive.com/hybrid-stream-video-widget/angienet",
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkccyEbqhhM3uKOI6Shm-4Q&autoplay=1&mute=1&modestbranding=1&showinfo=0",
                 "https://servilive.com/hybrid-stream-video-widget/angienet",
-                "https://rootmaster.xyz/player.php?id=214f21cc",
+                "https://sohag1192.github.io/Live-Tv-Server/",
                 "https://servertv.online/hybrid-stream-video-widget/demo",
                 "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
                 "https://www.photocalltv.me/cv/embed.php?r=history-op2",
@@ -45308,11 +45308,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://asharq.com/live/",
                 "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
                 "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
-                "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1"
+                "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
+                "https://asharq.com/live/"
             ],
             "m3u8_url": [
                 "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
