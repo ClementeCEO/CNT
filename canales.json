@@ -37091,10 +37091,16 @@
         "categoría": "news"
     },
     "welt": {
-        "nombre": "WELT",
+        "nombre": "WELT - OK 54 - Offener Kanal Mainz",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.kabeljournal.de/livestream",
+                "https://icanlive.tv/live/14728/ard-tagesschau.html",
+                "https://www.oktv-rlp.de/sehen/livestream/156/",
+                "https://ok54.de/webtv",
+                "https://www.l-tv.de/livestream.html",
+                "https://www.yoltv.eu/",
                 "https://www.welt.de/tv-programm-live-stream/"
             ],
             "m3u8_url": [],
@@ -37108,25 +37114,34 @@
         "categoría": "news"
     },
     "wearediamond": {
-        "nombre": "We Are Diamond",
+        "nombre": "We Are Diamond - osftv - Nrwision",
         "logo": "https://graph.facebook.com/wearediamond1/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://osftv.de/",
+                "https://www.nrwision.de/tv",
+                "https://icanlive.tv/live/15181/osf-fernsehen.html",
+                "https://ok-nahetv.de/index.php/programmvorschau/livestream"
+            ],
             "m3u8_url": [],
             "yt_id": "UCrFFy9BMtlNsg2wsa4XbTPg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "oderspreefernsehen"
         },
         "sitio_oficial": "https://wearediamond.net/",
         "país": "de",
         "categoría": "music"
     },
     "arte-live": {
-        "nombre": "Arte Live",
+        "nombre": "Arte Live - Nice TV - BR Fernsehen Süd",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.ardmediathek.de/br/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA",
+                "https://www.livehdtv.com/rtl-germany/",
+                "https://www.zdf.de/",
+                "https://www.mixcloud.com/live/niceMIXTV/",
                 "https://www.livehdtv.com/arte-german/"
             ],
             "m3u8_url": [],
