@@ -8753,7 +8753,6 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=c2jultenok",
                 "https://tv.garden/co/ugDDmzcLdJhWCd",
                 "https://www.youtube.com/embed/kCuiBI19HuM?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
                 "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
@@ -8768,6 +8767,7 @@
                 "https://www.tvporinternet.org/2025/05/Canal-Caracol-en-Vivo-por-Internet.html",
                 "https://www.tvporinternet.org/2025/06/Senal-colombia-en-vivo-hd.html",
                 "https://cdn.chatytvgratis.net/sencol02.php",
+                "https://ssh101.com/securelive/index.php?id=c2jultenok",
                 "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3"
             ],
             "m3u8_url": [
@@ -8803,6 +8803,7 @@
         "señales": {
             "iframe_url": [
                 "https://ssh101.com/securelive/index.php?id=uvatvhdrd",
+                "https://ssh101.com/securelive/index.php?id=myenergiatv",
                 "https://90minutos.co/en-vivo/"
             ],
             "m3u8_url": [],
@@ -8820,11 +8821,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://3abnlatino.tv/tv",
                 "https://avivamiento.com/avivamiento-tv.php"
             ],
-            "m3u8_url": [
-                "https://s1.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
             "yt_embed": "",
             "yt_playlist": "",
@@ -18874,7 +18874,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tvnpass.com/"
+                "https://tvnpass.com/",
+                "https://www.tvn-2.com/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -19133,7 +19134,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vimeo.com/event/97556/embed",
+                "https://fetv.org",
                 "https://serenotv.com/video/canal-fetv/",
                 "https://vimeo.com/fetv05",
                 "https://centrocristianobetania.org/tv-color-en-vivo/"
@@ -19175,7 +19176,14 @@
                 "https://irtp-player.iblups.com/tvperunoticias",
                 "https://iblups.com/e_tvperuHD",
                 "https://irtp-player.iblups.com/tvperuinternacional",
-                "https://iblups.com/e_tvperu72"
+                "https://iblups.com/e_tvperu72",
+                "https://iblups.com/mastertvangra",
+                "https://iblups.com/metaleitortv2",
+                "https://iblups.com/triunforadiotv",
+                "https://iblups.com/tvsanjua",
+                "https://iblups.com/tvupando",
+                "https://iblups.com/tvelohimhouston",
+                "https://iblups.com/ztvaqp"
             ],
             "m3u8_url": [
                 "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
@@ -19198,8 +19206,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://panamericana.pe/tvenvivo/noframes",
+                "https://panamericana.pe/tvenvivo/",
                 "https://iblups.com/embed/panamericanape",
+                "https://iblups.com/ficoatv",
+                "https://iblups.com/portalregionalnews",
                 "https://player.kick.com/ptv5",
                 "http://181.78.7.90:12500/play/a0gh",
                 "https://www.radiojaymar.com/?fbclid=IwY2xjawMB5v9leHRuA2FlbQIxMABicmlkETBzVDZsYnhsV09IUDROZ3hYAR4nAplBXXvvZcKLVJtlj0vy8v2XJmkO2y7ftCwsBIc2ceCxi7KUWiWJ1R-Atw_aem_mWIt4I1NdbW_4PEX5QL0uA",
