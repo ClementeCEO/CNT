@@ -19593,6 +19593,7 @@
                 "https://www.futxi.com/en-vivo/latina-television/"
             ],
             "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=",
                 "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0"
             ],
             "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
@@ -19615,6 +19616,7 @@
                 "https://www.youtube.com/embed/FlCcO7Ae5Y8?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
             "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=",
                 "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0"
             ],
             "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
@@ -31722,7 +31724,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.globovision.com/"
+                "https://www.globovision.com/",
+                "https://tvinsur.com/venezuela/globovision/"
             ],
             "m3u8_url": [],
             "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
@@ -31806,7 +31809,9 @@
         "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0"
+                "https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0",
+                "https://tvinsur.com/venezuela/reforma-tv/",
+                "https://tvinsur.com/venezuela/canal-once/"
             ],
             "m3u8_url": [],
             "yt_id": "UC_cL7HTt3R9Esk-Tj0XoC9Q",
