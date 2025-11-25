@@ -8776,6 +8776,8 @@
         "señales": {
             "iframe_url": [
                 "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3",
+                "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
+                "https://embed.saohgdasregions.fun/embed/caracol.html",
                 "https://tv.garden/co/ugDDmzcLdJhWCd",
                 "https://5900.tv/noticias-caracol-tv-colombia-en-vivo/",
                 "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
@@ -18064,11 +18066,12 @@
         "categoría": "news"
     },
     "TV4": {
-        "nombre": "TV4",
+        "nombre": "TV4 - Unicable",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://tvcuatro.tv/4-1/"
+                "https://tvcuatro.tv/4-1/",
+                "https://www.xtremo-stereo.com/unicable-en-vivo/"
             ],
             "m3u8_url": [],
             "yt_id": "",
