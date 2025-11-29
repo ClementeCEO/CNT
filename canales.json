@@ -1045,6 +1045,112 @@
         "país": "cl",
         "categoría": "entertainment"
     },
+  "13-kids": {
+    "nombre": "13 Kids",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/13kids"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "kids"
+  },
+  "13-canal-pruebas": {
+    "nombre": "Canal 13 (Señal de Pruebas)",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "general"
+  },
+  "13-deportes": {
+    "nombre": "13 Deportes",
+    "logo": "https://s.t13.cl/sites/default/files/t13/componentes/field-componente-logo/deportes13_1.png",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/13d"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "13-futgo": {
+    "nombre": "13 FutGO",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4a/FutGo.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/futgo"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.13.cl/",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "chv-deportes": {
+    "nombre": "CHV Deportes",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://pluto.tv/latam/live-tv/638df6f8b63cf100075ccfa1",
+    "país": "cl",
+    "categoría": "sports"
+  },
+  "mega-tiempo": {
+    "nombre": "MegaTiempo",
+    "logo": "https://logowik.com/content/uploads/images/mega-tiempo-new2760.logowik.com.webp",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCMlbrjJMsxg5KRSLVN-hbeg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.megatiempo.cl/",
+    "país": "cl",
+    "categoría": "weather"
+  },
     "voz-sobran": {
         "nombre": "La Voz De Los Que Sobran",
         "logo": "https://graph.facebook.com/delosquesobran/picture?width=800&height=800",
