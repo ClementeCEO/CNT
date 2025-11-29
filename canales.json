@@ -239,6 +239,48 @@
     "país": "cl",
     "categoría": "radio"
   },
+  "bbtv": {
+    "nombre": "Radio Biobio TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/bbtv?autoplay=true&volume=0",
+        "https://rudo.video/live/bbtv"
+      ],
+      "m3u8_url": [
+        "https://rudo.video/rudo.m3u8"
+      ],
+      "yt_id": "UCuvM3c8rmdApmk-g22shZ7w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.biobiochile.cl/biobiotv/",
+    "país": "cl",
+    "categoría": "radio"
+  },
+  "adn": {
+    "nombre": "Radio ADN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/adntv?autoplay=true&volume=0",
+        "https://rudo.video/live/adntv?volume=0&mute=1"
+      ],
+      "m3u8_url": [
+        "https://rudo.video/rudo.m3u8",
+        "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8",
+        "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
+      ],
+      "yt_id": "UCczkrFICr0xEgDsk51zZojA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.adnradio.cl/noticias/videos/",
+    "país": "cl",
+    "categoría": "radio"
+  },
   "meganoticias": {
     "nombre": "",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
@@ -259,48 +301,6 @@
     "país": "cl",
     "categoría": "news"
   },
-    "bbtv": {
-        "nombre": "Radio Biobio TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/bbtv?autoplay=true&volume=0",
-                "https://rudo.video/live/bbtv"
-            ],
-            "m3u8_url": [
-                "https://rudo.video/rudo.m3u8"
-            ],
-            "yt_id": "UCuvM3c8rmdApmk-g22shZ7w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.biobiochile.cl/biobiotv/",
-        "país": "cl",
-        "categoría": "radio"
-    },
-    "adn": {
-        "nombre": "Radio ADN",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/ADN_Radio_Chile.svg",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/adntv?autoplay=true&volume=0",
-                "https://rudo.video/live/adntv?volume=0&mute=1"
-            ],
-            "m3u8_url": [
-                "https://rudo.video/rudo.m3u8",
-                "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8",
-                "https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8"
-            ],
-            "yt_id": "UCczkrFICr0xEgDsk51zZojA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.adnradio.cl/noticias/videos/",
-        "país": "cl",
-        "categoría": "radio"
-    },
     "duna": {
         "nombre": "Radio Duna",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Logo_Radio_Duna_2005.jpg",
