@@ -26,58 +26,78 @@
     "país": "cl",
     "categoría": "news"
   },
-    "meganoticias-History-2-Latin-America-Girovisual": {
-        "nombre": "Meganoticias - Angienet TVpe-H2-SUR TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
-        "señales": {
-            "iframe_url": [
-                "https://servilive.com/hybrid-stream-video-widget/angienet",
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkccyEbqhhM3uKOI6Shm-4Q&autoplay=1&mute=1&modestbranding=1&showinfo=0",
-                "https://servilive.com/hybrid-stream-video-widget/angienet",
-                "https://sohag1192.github.io/Live-Tv-Server/",
-                "https://servertv.online/hybrid-stream-video-widget/demo",
-                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
-                "https://www.photocalltv.me/cv/embed.php?r=history-op2",
-                "https://www.photocalltv.me/cv/embed.php?r=history-op2",
-                "https://embed.sdfgnksbounce.com/embed2/history.html",
-                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history2-op2",
-                "https://www.photocalltv.me/cv/embed.php?r=history2-op2",
-                "https://embed.sdfgnksbounce.com/embed2/history2.html",
-                "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=goldenpremier2",
-                "https://www.photocalltv.me/cv/embed.php?r=goldenpremier2",
-                "https://embed.sdfgnksbounce.com/embed2/goldenpremier2.html",
-                "https://rudo.video/live/mega?autoplay=true&volume=0",
-                "https://mdstrm.com/live-stream/561430ae330428c223687e1e?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=gE8lTSgwBHjvtgngUtWjsWvbckRlL4L0c72Ej2bcBx19fVNbG1fAnMtbWWoeEItHEMwx6N5pWR4&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F",
-                "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=WimxeByVNdkoJIcyQ7fCI5RmCQKQ83z3t4qZoKLW8heeh5oRTkZc186oA5vuKI2j1Dh2jO8bp4g&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
-                "https://mdstrm.com/live-stream/56f97fc0b9bb39786b04a3b0?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=pAk21b6J8EhcCGKObFJjfydOneEjTXp4JwfBhIiQux3lfsgvUvb0ULCi7lkCEZK3KboocZi8Z0Q&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F",
-                "https://www.mega.cl/",
-                "https://www.mega.cl/senal-en-vivo/meganoticias/",
-                "https://www.rapifutboltv.com/en-vivo/history2-mx/",
-                "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
-                "https://zonahosting.es/",
-                "https://zonasurtv.cl/",
-                "https://m3u.cl/canal-iptv/74_Girovisual_TV",
-                "https://github.com/noteimporta1111/rejrfnq34ifg94tjw/blob/main/chile.m3u",
-                "https://www.surtv.cl/?fbclid=IwY2xjawL_ERdleHRuA2FlbQIxMABicmlkETBvTU9GUEE4QklDYk5xMFhLAR5pc8PrTZBjyINKaD3t82Xqo4AAjzu_NIzwwLr5wP7LTo_lrioTUQCil535Gw_aem_DfgvSuuTnbWXvPXuW77wjw",
-                "https://angienet-television1.odoo.com/",
-                "https://espectaculosenlinea.blogspot.com/"
-            ],
-            "m3u8_url": [
-                "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
-                "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
-                "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
-                "https://servilive.com:3624/stream/play.m3u8",
-                "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Meganoticiasoficial/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-                "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
-            ],
-            "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
-            "yt_embed": "YFAYLjGro84?",
-            "yt_playlist": "",
-            "twitch_id": "meganoticiascl"
-        },
-        "sitio_oficial": "https://www.mega.cl/",
-        "país": "cl",
-        "categoría": "news"
+  "meganoticias": {
+    "nombre": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "meganoticias-History-2-Latin-America-Girovisual": {
+    "nombre": "Meganoticias - Angienet TVpe-H2-SUR TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
+    "señales": {
+      "iframe_url": [
+        "https://servilive.com/hybrid-stream-video-widget/angienet",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkccyEbqhhM3uKOI6Shm-4Q&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://servilive.com/hybrid-stream-video-widget/angienet",
+        "https://sohag1192.github.io/Live-Tv-Server/",
+        "https://servertv.online/hybrid-stream-video-widget/demo",
+        "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history-op2",
+        "https://www.photocalltv.me/cv/embed.php?r=history-op2",
+        "https://www.photocalltv.me/cv/embed.php?r=history-op2",
+        "https://embed.sdfgnksbounce.com/embed2/history.html",
+        "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=history2-op2",
+        "https://www.photocalltv.me/cv/embed.php?r=history2-op2",
+        "https://embed.sdfgnksbounce.com/embed2/history2.html",
+        "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=goldenpremier2",
+        "https://www.photocalltv.me/cv/embed.php?r=goldenpremier2",
+        "https://embed.sdfgnksbounce.com/embed2/goldenpremier2.html",
+        "https://rudo.video/live/mega?autoplay=true&volume=0",
+        "https://mdstrm.com/live-stream/561430ae330428c223687e1e?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=gE8lTSgwBHjvtgngUtWjsWvbckRlL4L0c72Ej2bcBx19fVNbG1fAnMtbWWoeEItHEMwx6N5pWR4&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F",
+        "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=WimxeByVNdkoJIcyQ7fCI5RmCQKQ83z3t4qZoKLW8heeh5oRTkZc186oA5vuKI2j1Dh2jO8bp4g&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
+        "https://mdstrm.com/live-stream/56f97fc0b9bb39786b04a3b0?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=pAk21b6J8EhcCGKObFJjfydOneEjTXp4JwfBhIiQux3lfsgvUvb0ULCi7lkCEZK3KboocZi8Z0Q&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F",
+        "https://www.mega.cl/",
+        "https://www.mega.cl/senal-en-vivo/meganoticias/",
+        "https://www.rapifutboltv.com/en-vivo/history2-mx/",
+        "https://www.photocalltv.me/cv/embed.js?c=o4c546xcv5c",
+        "https://zonahosting.es/",
+        "https://zonasurtv.cl/",
+        "https://m3u.cl/canal-iptv/74_Girovisual_TV",
+        "https://github.com/noteimporta1111/rejrfnq34ifg94tjw/blob/main/chile.m3u",
+        "https://www.surtv.cl/?fbclid=IwY2xjawL_ERdleHRuA2FlbQIxMABicmlkETBvTU9GUEE4QklDYk5xMFhLAR5pc8PrTZBjyINKaD3t82Xqo4AAjzu_NIzwwLr5wP7LTo_lrioTUQCil535Gw_aem_DfgvSuuTnbWXvPXuW77wjw",
+        "https://angienet-television1.odoo.com/",
+        "https://espectaculosenlinea.blogspot.com/"
+      ],
+      "m3u8_url": [
+        "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
+        "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
+        "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
+        "https://servilive.com:3624/stream/play.m3u8",
+        "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Meganoticiasoficial/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
+        "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+      ],
+      "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
+      "yt_embed": "YFAYLjGro84?",
+      "yt_playlist": "",
+      "twitch_id": "meganoticiascl"
+    },
+    "sitio_oficial": "https://www.mega.cl/",
+    "país": "cl",
+    "categoría": "news"
     },
     "t13": {
         "nombre": "T13 - Fortaleza",
