@@ -26,26 +26,6 @@
     "país": "cl",
     "categoría": "news"
   },
-  "meganoticias": {
-    "nombre": "",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
-    "señales": {
-      "iframe_url": [
-        "",
-        ""
-      ],
-      "m3u8_url": [
-        ""
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
-    "país": "cl",
-    "categoría": "news"
-  },
   "meganoticias-History-2-Latin-America-Girovisual": {
     "nombre": "Meganoticias - Angienet TVpe-H2-SUR TV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
@@ -98,167 +78,187 @@
     "sitio_oficial": "https://www.mega.cl/",
     "país": "cl",
     "categoría": "news"
+  },
+  "t13": {
+    "nombre": "T13 - Fortaleza",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
+        "https://www.youtube.com/embed/R_V7FhsCPwM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://rudo.video/live/t13?autoplay=true&volume=0",
+        "https://fortalezatv.cl/",
+        "https://www.populartv.cl/"
+      ],
+      "m3u8_url": [
+        "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+        "https://multimedia.fortalezatv.cl/video/video.m3u8",
+        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+        "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+        "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+        "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+        "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+        "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+        "https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+        "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+        "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+        "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
+        "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
+        "https://github.com/jota-2020/valebot/blob/c153d3bcb30d1a1e046ddad8278572923eb328a9/media/cl.mp3#L20"
+      ],
+      "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "t13envivo"
     },
-    "t13": {
-        "nombre": "T13 - Fortaleza",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
-                "https://www.youtube.com/embed/R_V7FhsCPwM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://rudo.video/live/t13?autoplay=true&volume=0",
-                "https://fortalezatv.cl/",
-                "https://www.populartv.cl/"
-            ],
-            "m3u8_url": [
-                "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
-                "https://multimedia.fortalezatv.cl/video/video.m3u8",
-                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
-                "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
-                "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
-                "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
-                "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
-                "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
-                "https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
-                "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
-                "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
-                "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
-                "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
-                "https://github.com/jota-2020/valebot/blob/c153d3bcb30d1a1e046ddad8278572923eb328a9/media/cl.mp3#L20"
-            ],
-            "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "t13envivo"
-        },
-        "sitio_oficial": "https://www.t13.cl/en-vivo",
-        "país": "cl",
-        "categoría": "news"
+    "sitio_oficial": "https://www.t13.cl/en-vivo",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "cnn-cl": {
+    "nombre": "CNN Chile- Sol Musica",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/cnn?autoplay=true&volume=0",
+        "https://streamkit.net/tv/23652",
+        "https://streamkit.net/tv/29044",
+        "https://v2.tustreaming.cl:2020/public/maulevisiontv",
+        "https://sabortv.net/",
+        "https://novatv.cl/envivo/",
+        "https://m3u.cl/canal-iptv/1249_Molina_TV",
+        "https://radiogenial.cl/",
+        "https://maulevision.cl/"
+      ],
+      "m3u8_url": [
+        "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
+        "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
+        "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8",
+        "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
+        "https://v1.tustreaming.cl/sabortv/index.m3u8",
+        "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+        "https://github.com/Betito24/casa/blob/df7d379faee601ef0d229c40a4948c7babe74936/casa#L2196"
+      ],
+    "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "cnn-cl": {
-        "nombre": "CNN Chile- Sol Musica",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/cnn?autoplay=true&volume=0",
-                "https://streamkit.net/tv/23652",
-                "https://streamkit.net/tv/29044",
-                "https://v2.tustreaming.cl:2020/public/maulevisiontv",
-                "https://sabortv.net/",
-                "https://novatv.cl/envivo/",
-                "https://m3u.cl/canal-iptv/1249_Molina_TV",
-                "https://radiogenial.cl/",
-                "https://maulevision.cl/"
-            ],
-            "m3u8_url": [
-                "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
-                "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR",
-                "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8",
-                "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
-                "https://v1.tustreaming.cl/sabortv/index.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-                "https://github.com/Betito24/casa/blob/df7d379faee601ef0d229c40a4948c7babe74936/casa#L2196"
-            ],
-            "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cnnchile.com/page/en-vivo/",
-        "país": "cl",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cnnchile.com/page/en-vivo/",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "el-mostrador": {
+    "nombre": "El Mostrador",
+    "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCAOZvFm0xSBcom35r6-mcEA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-mostrador": {
-        "nombre": "El Mostrador",
-        "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCAOZvFm0xSBcom35r6-mcEA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elmostrador.cl/",
-        "país": "cl",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elmostrador.cl/",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "chv-noticias": {
+    "nombre": "CHV Noticias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
+    "señales": {
+      "iframe_url": [
+        "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCRsUoZYC1ULUspipMRnMhwg&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://www.youtube.com/embed/H3AFMMYG_tU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://rootmaster.xyz/player.php?id=1591430d",
+        "https://rootmaster.xyz/player.php?id=fe0e0a29",
+        "https://rootmaster.xyz/player.php?id=0ad6de20",
+        "https://embed.ksdjugfsddeports.fun/embed/space.html",
+        "https://www.rapifutboltv.com/en-vivo/space/",
+        "https://embed.ksdjugfsddeports.fun/embed/tnt.html",
+        "https://embed.ksdjugfsddeports.fun/embed/golden.html",
+        "https://www.cablevisionhd.com/discovery-science-en-vivo.html",
+        "https://www.chilevision.cl/senal-online",
+        "https://monitortv.vercel.app/Monitores/Senal/WEB/Se%C3%B1alCHV_IFRAME",
+        "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&volume=0&access_token=GlgG8dWTpgQw5Q1hM7TVuXHOmArgAtqtZWVBLBzko5bRBIbbcq2uQ4eainh54DBiJ04dlz2kLxa&custom.categoria_prontus=63ee47e1daeeb80a30d98ef4&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=%20&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.viendotele.cl%2Fassets-tele%2Fchv.php%3Fe%3D202403130826&custom.dfpRandomNumber=9320488302&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.amp=false&custom.app=false&custom.appname=&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D%20%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge",
+        "https://rudo.video/live/chvn?autoplay=true&volume=0",
+        "https://television-libre.online/html/clarovideo.html?r=CHVCL",
+        "https://www.tvonlinechile.cl/senal-chv"
+      ],
+      "m3u8_url": [
+        "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Chilevision/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
+        "https://marine2.miplay.cl/chvchile/index.m3u8",
+        "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
+        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR"
+      ],
+      "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
+      "yt_embed": "U7MOPDCxfcM?",
+      "yt_playlist": "",
+      "twitch_id": "chv_noticias"
     },
-    "chv-noticias": {
-        "nombre": "CHV Noticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
-        "señales": {
-            "iframe_url": [
-                "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCRsUoZYC1ULUspipMRnMhwg&autoplay=1&mute=1&modestbranding=1&showinfo=0",
-                "https://www.youtube.com/embed/H3AFMMYG_tU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://rootmaster.xyz/player.php?id=1591430d",
-                "https://rootmaster.xyz/player.php?id=fe0e0a29",
-                "https://rootmaster.xyz/player.php?id=0ad6de20",
-                "https://embed.ksdjugfsddeports.fun/embed/space.html",
-                "https://www.rapifutboltv.com/en-vivo/space/",
-                "https://embed.ksdjugfsddeports.fun/embed/tnt.html",
-                "https://embed.ksdjugfsddeports.fun/embed/golden.html",
-                "https://www.cablevisionhd.com/discovery-science-en-vivo.html",
-                "https://www.chilevision.cl/senal-online",
-                "https://monitortv.vercel.app/Monitores/Senal/WEB/Se%C3%B1alCHV_IFRAME",
-                "https://mdstrm.com/live-stream/63ee47e1daeeb80a30d98ef4?jsapi=true&autoplay=true&volume=0&access_token=GlgG8dWTpgQw5Q1hM7TVuXHOmArgAtqtZWVBLBzko5bRBIbbcq2uQ4eainh54DBiJ04dlz2kLxa&custom.categoria_prontus=63ee47e1daeeb80a30d98ef4&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=%20&custom.dfpVidId=63ee47e1daeeb80a30d98ef4&custom.dfpURLEncoded=https%3A%2F%2Fwww.viendotele.cl%2Fassets-tele%2Fchv.php%3Fe%3D202403130826&custom.dfpRandomNumber=9320488302&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.amp=false&custom.app=false&custom.appname=&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D%20%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D63ee47e1daeeb80a30d98ef4%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge",
-                "https://rudo.video/live/chvn?autoplay=true&volume=0",
-                "https://television-libre.online/html/clarovideo.html?r=CHVCL",
-                "https://www.tvonlinechile.cl/senal-chv"
-            ],
-            "m3u8_url": [
-                "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Chilevision/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-                "https://marine2.miplay.cl/chvchile/index.m3u8",
-                "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
-                "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR"
-            ],
-            "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
-            "yt_embed": "U7MOPDCxfcM?",
-            "yt_playlist": "",
-            "twitch_id": "chv_noticias"
-        },
-        "sitio_oficial": "https://www.chvnoticias.cl/senal-online/",
-        "país": "cl",
-        "categoría": "news"
+    "sitio_oficial": "https://www.chvnoticias.cl/senal-online/",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "cooperativa": {
+    "nombre": "Radio Cooperativa",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/coopetv?autoplay=true&volume=0",
+        "https://unlimited11-cl.dps.live/cooperativafm/aac/icecast.audio"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC13uZwIWmnmBJQuiTJWbVhQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cooperativa": {
-        "nombre": "Radio Cooperativa",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/coopetv?autoplay=true&volume=0",
-                "https://unlimited11-cl.dps.live/cooperativafm/aac/icecast.audio"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC13uZwIWmnmBJQuiTJWbVhQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://programas.cooperativa.cl/showalairelibre/",
-        "país": "cl",
-        "categoría": "radio"
+    "sitio_oficial": "http://programas.cooperativa.cl/showalairelibre/",
+    "país": "cl",
+    "categoría": "radio"
+  },
+  "CanalMunicipalidadArica-canal40hd-suyaitv": {
+    "nombre": "Municipalidad Arica - suyaitv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
+    "señales": {
+      "iframe_url": [
+        "https://suyaitv.cl/",
+        "https://canalsj.kozow.com/canal40/embed.html",
+        "https://canal40hd.com.ar/",
+        "https://www.youtube.com/embed/tYHCUIt-aU8?autoplay=1&mute=1&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCcVtpRl__F8KinypQGhO7VA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "CanalMunicipalidadArica-canal40hd-suyaitv": {
-        "nombre": "Municipalidad Arica - suyaitv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
-        "señales": {
-            "iframe_url": [
-                "https://suyaitv.cl/",
-                "https://canalsj.kozow.com/canal40/embed.html",
-                "https://canal40hd.com.ar/",
-                "https://www.youtube.com/embed/tYHCUIt-aU8?autoplay=1&mute=1&vq=medium&enablejsapi=1&modestbranding=1&showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCcVtpRl__F8KinypQGhO7VA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@CanalMunicipalidadArica",
-        "país": "cl",
-        "categoría": "radio"
+    "sitio_oficial": "https://www.youtube.com/@CanalMunicipalidadArica",
+    "país": "cl",
+    "categoría": "radio"
+  },
+  "meganoticias": {
+    "nombre": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "",
+    "país": "cl",
+    "categoría": "news"
+  },
     "bbtv": {
         "nombre": "Radio Biobio TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Biobio_TV_logo.jpg",
