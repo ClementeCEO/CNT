@@ -8004,56 +8004,61 @@
         "sitio_oficial": "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
         "país": "gr",
         "categoría": "news"
+  },
+  "guatemalaplus-online": {
+    "nombre": "Guatemala Plus - TN23 - Noti 7",
+    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+    "señales": {
+      "iframe_url": [
+        "https://embed.vhx.tv/videos/3634508?api=1&autoplay=1&buy_label=Registrarse&collection_id=962086&color=000000&context=https%3A%2F%2Fwww.guatemalaplus.com%2Ffeatured-category&is_trailer=false&live=1&locale=es&playsinline=1&product_id=169917&referrer=https%3A%2F%2Fwww.google.com%2F&vimeo=1",
+        "https://www.guatemalaplus.com/featured-category/events/canal-en-vivo",
+        "https://www.rtv.live/",
+        "https://www.chapintv.com/envivo-canal-3/?source=Internal&ref=Signals+Menu",
+        "https://www.tn23.tv/en-vivo/",
+        "https://canalantigua.tv/envivo/",
+        "https://www.guatemalaenvivo.net/2017/07/Cana-Vea-Tv-en-vivo.html",
+        "https://tvweb360.tv/live_embed_player_630px_sp?ch=frnnspr"
+      ],
+      "m3u8_url": [
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "guatemalaplus-online": {
-        "nombre": "Guatemala Plus - TN23",
-        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-        "señales": {
-            "iframe_url": [
-                "https://embed.vhx.tv/videos/3634508?api=1&autoplay=1&buy_label=Registrarse&collection_id=962086&color=000000&context=https%3A%2F%2Fwww.guatemalaplus.com%2Ffeatured-category&is_trailer=false&live=1&locale=es&playsinline=1&product_id=169917&referrer=https%3A%2F%2Fwww.google.com%2F&vimeo=1",
-                "https://www.guatemalaplus.com/featured-category/events/canal-en-vivo",
-                "https://www.rtv.live/",
-                "https://www.tn23.tv/en-vivo/",
-                "https://canalantigua.tv/envivo/",
-                "https://www.guatemalaenvivo.net/2017/07/Cana-Vea-Tv-en-vivo.html",
-                "https://tvweb360.tv/live_embed_player_630px_sp?ch=frnnspr"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "gt",
-        "categoría": "cristiana"
-    },
+    "sitio_oficial": "",
+    "país": "gt",
+    "categoría": "cristiana"
+  },
     "ebenezer2-online": {
         "nombre": "Ebenezer2 - Quesada Tv26 - Romance channel",
         "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
         "señales": {
-            "iframe_url": [
-                "https://cdn.streamhispanatv.net/live-stream-video-widget/canal26quezada",
-                "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
-                "https://ebenezer.hn/envivo",
-                "https://tvocanal23.com/tvo-en-vivo/",
-                "https://www.chapintv.com/envivo-canal-7/",
-                "https://www.enlace.org/envivo/",
-                "https://www.distro.tv/live/romance-channel/",
-                "https://www.timesnownews.com/live-tv"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
-        "país": "gt",
-        "categoría": "cristiana"
+      "iframe_url": [
+        "https://cdn.streamhispanatv.net/live-stream-video-widget/canal26quezada",
+        "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
+        "https://ebenezer.hn/envivo",
+        "https://tvocanal23.com/tvo-en-vivo/",
+        "https://www.chapintv.com/envivo-canal-7/",
+        "https://www.enlace.org/envivo/",
+        "https://www.distro.tv/live/romance-channel/",
+        "https://www.timesnownews.com/live-tv"
+      ],
+      "m3u8_url": [
+        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
+    "país": "gt",
+    "categoría": "cristiana"
+  },
     "canal-27G": {
         "nombre": "Canal 27G - Aztecaguate",
         "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
