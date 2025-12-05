@@ -4963,6 +4963,26 @@
     "país": "",
     "categoría": "news"
   },
+  "Metro-TV-Canal-12-HD": {
+    "nombre": "Metro TV Canal 12 - Argentina 12",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cambelltv.blogspot.com/p/metro-tv.html"
+      ],
+      "m3u8_url": [
+        "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL",
+        "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
+      ],
+      "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
+      "yt_embed": "ECFbTfcv_yE?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/watch?v=ECFbTfcv_yE",
+    "país": "ar",
+    "categoría": "news"
+  },
   "Canal-7-HD-La-RIOJA": {
     "nombre": "CANAL 7 LA RIOJA",
     "logo": "https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png?20240322",
@@ -5014,26 +5034,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.rioja4.tv/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "Metro-TV-Canal-12-HD": {
-        "nombre": "Metro TV Canal 12",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                ""
-            ],
-            "m3u8_url": [
-                "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL",
-                "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cambelltv.blogspot.com/p/metro-tv.html",
         "país": "ar",
         "categoría": "news"
     },
