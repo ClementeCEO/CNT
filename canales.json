@@ -4149,24 +4149,25 @@
         "país": "ar",
         "categoría": "news"
     },
-    "huarpe-tv": {
-        "nombre": "Huarpe Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/huarpetv",
-                "https://player.kick.com/elurbanoradio" 
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://kick.com/huarpetv",
-        "país": "ar",
-        "categoría": "news"
+  "huarpe-tv": {
+    "nombre": "Huarpe Tv - Argentinisima-satelital",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/huarpetv",
+        "https://player.kick.com/elurbanoradio",
+        "https://www.tvenvivo.com.ar/argentinisima-satelital/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://kick.com/huarpetv",
+    "país": "ar",
+    "categoría": "news"
+  },
     "canal-e-Business": {
         "nombre": "Canal E Business",
         "logo": "",
@@ -4942,23 +4943,44 @@
         "país": "ar",
         "categoría": "news"
     },
-    "Canal-7-HD-La-RIOJA": {
-        "nombre": "CANAL 7 LA RIOJA",
-        "logo": "https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png?20240322",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/x9xwn.html?video=x8dhao1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.7rioja.tv/",
-        "país": "ar",
-        "categoría": "news"
+  "joel-tv": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        "https://www.tvenvivo.com.ar/canal-7-mendoza/"
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "",
+    "país": "",
+    "categoría": "news"
+  },
+  "Canal-7-HD-La-RIOJA": {
+    "nombre": "CANAL 7 LA RIOJA",
+    "logo": "https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png?20240322",
+    "señales": {
+      "iframe_url": [
+        "https://geo.dailymotion.com/player/x9xwn.html?video=x8dhao1",
+        "https://www.tvenvivo.com.ar/canal-7-mendoza/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.7rioja.tv/",
+    "país": "ar",
+    "categoría": "news"
+  },
     "Canal-9-HD-LA-RIOJA": {
         "nombre": "Canal 9 LA RIOJA",
         "logo": "",
