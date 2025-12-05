@@ -3449,212 +3449,219 @@
         "sitio_oficial": "https://canal26.org/en-vivo/",
         "país": "ar",
         "categoría": "news"
+  },
+  "a24com": {
+    "nombre": "A24com",
+    "logo": "https://graph.facebook.com/A24com/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
+        "https://www.youtube.com/embed/QGpHLgRnrx4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://player.twitch.tv/?channel=a24noticias&parent=www.a24noticias.com.ar"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCR9120YBAqMfntqgRTKmkjQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "a24noticias"
     },
-    "a24com": {
-        "nombre": "A24com",
-        "logo": "https://graph.facebook.com/A24com/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
-                "https://www.youtube.com/embed/QGpHLgRnrx4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://player.twitch.tv/?channel=a24noticias&parent=www.a24noticias.com.ar"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCR9120YBAqMfntqgRTKmkjQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "a24noticias"
-        },
-        "sitio_oficial": "https://www.a24.com/vivo",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.a24.com/vivo",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "telefe-noticias": {
+    "nombre": "Telefe Noticias",
+    "logo": "https://graph.facebook.com/telefenoticias/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://embed.sdfgnksbounce.com/embed2/telefe.html",
+        "https://embed.sdfgnksbounce.com/embed/telefe.html",
+        "https://www.youtube.com/embed/live_stream?channel=UChxGASjdNEYHhVKpl667Huw&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0",
+        "https://ssl.cloud.telefe.com/vivo/",
+        "https://www.cablevisionhd.com/stream/telefe.php",
+        "https://www.cablevisionhd.com/stream2/telefe.php",
+        "https://www.cablevisionhd.com/stream4/telefe.php",
+        "https://www.cablevisionhd.com/stream5/telefe.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UChxGASjdNEYHhVKpl667Huw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "telefe-noticias": {
-        "nombre": "Telefe Noticias",
-        "logo": "https://graph.facebook.com/telefenoticias/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://embed.sdfgnksbounce.com/embed2/telefe.html",
-                "https://embed.sdfgnksbounce.com/embed/telefe.html",
-                "https://www.youtube.com/embed/live_stream?channel=UChxGASjdNEYHhVKpl667Huw&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0",
-                "https://ssl.cloud.telefe.com/vivo/",
-                "https://www.cablevisionhd.com/stream/telefe.php",
-                "https://www.cablevisionhd.com/stream2/telefe.php",
-                "https://www.cablevisionhd.com/stream4/telefe.php",
-                "https://www.cablevisionhd.com/stream5/telefe.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UChxGASjdNEYHhVKpl667Huw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://noticias.mitelefe.com/vivo",
-        "país": "ar",
-        "categoría": "news"
+      "sitio_oficial": "https://noticias.mitelefe.com/vivo",
+      "país": "ar",
+      "categoría": "news"
+  },
+  "cadena-3": {
+    "nombre": "Cadena 3 Argentina - Más FM 95.9",
+    "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/15cA3wMNDFA?mute=1&rel=0&autoplay=1&wmode=transparent&showinfo=0&enablejsapi=1",
+        "https://masfm.com/emisora/",
+        "https://www.cadena3.com/"
+      ],
+      "m3u8_url": [
+        "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
+      ],
+      "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cadena-3": {
-        "nombre": "Cadena 3 Argentina - Más FM 95.9",
-        "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/15cA3wMNDFA?mute=1&rel=0&autoplay=1&wmode=transparent&showinfo=0&enablejsapi=1",
-                "https://masfm.com/emisora/",
-                "https://www.cadena3.com/"
-            ],
-            "m3u8_url": [
-                "https://vivo.solumedia.com:19360/masfm/masfm.m3u8"
-            ],
-            "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cadena3.com/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cadena3.com/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "america-tv-americatucuman": {
+    "nombre": "América TV - América Tucuman",
+    "logo": "https://graph.facebook.com/AmericaTV/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363384",
+        "https://geo.dailymotion.com/player/xh1xr.html?video=x97fbac",
+        "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
+        "https://americatucuman.com/",
+        "https://teleradioamerica.com/envivo/"
+      ],
+      "m3u8_url": [
+        "https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8"
+      ],
+      "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "america-tv-americatucuman": {
-        "nombre": "América TV - América Tucuman",
-        "logo": "https://graph.facebook.com/AmericaTV/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363384",
-                "https://geo.dailymotion.com/player/xh1xr.html?video=x97fbac",
-                "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
-                "https://americatucuman.com/",
-                "https://teleradioamerica.com/envivo/"
-            ],
-            "m3u8_url": [
-                "https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8"
-            ],
-            "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.americatv.com.ar/vivo",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.americatv.com.ar/vivo",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "el-doce": {
+    "nombre": "El Doce",
+    "logo": "https://graph.facebook.com/eldocetv/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://eldoce.tv/vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCiaePeoCqpU8hBHiNrgkzrA",
+      "yt_embed": "sFZe_RPnNSo",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-doce": {
-        "nombre": "El Doce",
-        "logo": "https://graph.facebook.com/eldocetv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://eldoce.tv/vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCiaePeoCqpU8hBHiNrgkzrA",
-            "yt_embed": "sFZe_RPnNSo",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://eldoce.tv/vivo/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://eldoce.tv/vivo/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "el-litoral-argentina": {
+    "nombre": "El Litoral",
+    "logo": "https://graph.facebook.com/ellitoralcom/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCRtZO3mPqvCMYfmJogXyW7g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-litoral-argentina": {
-        "nombre": "El Litoral",
-        "logo": "https://graph.facebook.com/ellitoralcom/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCRtZO3mPqvCMYfmJogXyW7g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ellitoral.com/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ellitoral.com/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "ip-noticias-en-vivo": {
+    "nombre": "IP Noticias",
+    "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://arcast.com.ar/c7nq/",
+        "https://www.tvenvivo.com.ar/canal-7-jujuy/",
+        "https://www.tvenvivo.com.ar/canal-7-neuquen/",
+        "https://ipnoticias.ar/actualidad/19807-ip-en-vivo"
+      ],
+      "m3u8_url": [
+        "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+        "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+        "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
+      ],
+      "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "ip_noticias"
     },
-    "ip-noticias-en-vivo": {
-        "nombre": "IP Noticias",
-        "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://ipnoticias.ar/actualidad/19807-ip-en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "ip_noticias"
-        },
-        "sitio_oficial": "https://ipnoticias.ar/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://ipnoticias.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "nur-para-todos": {
+    "nombre": "Nur Para Todos - Metro",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://serenotv.com/video/canal-metro-tv/",
+        "https://www.teleonline.tv/canal/canal-12-metro-tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCLc18B2Tfn1C_suWOCKsMew",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "nurparatodosdigital"
     },
-    "nur-para-todos": {
-        "nombre": "Nur Para Todos - Metro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://serenotv.com/video/canal-metro-tv/",
-                "https://www.teleonline.tv/canal/canal-12-metro-tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCLc18B2Tfn1C_suWOCKsMew",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "nurparatodosdigital"
-        },
-        "sitio_oficial": "https://nurparatodos.com.ar/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://nurparatodos.com.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "el-destape": {
+    "nombre": "El Destape",
+    "logo": "https://graph.facebook.com/ElDestapeWeb/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC5wAqJ9NF0fpGH9dVf3h6HA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "eldestaperadio"
     },
-    "el-destape": {
-        "nombre": "El Destape",
-        "logo": "https://graph.facebook.com/ElDestapeWeb/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC5wAqJ9NF0fpGH9dVf3h6HA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "eldestaperadio"
-        },
-        "sitio_oficial": "https://www.eldestapeweb.com/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.eldestapeweb.com/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "dnews-ok": {
+    "nombre": "DNews",
+    "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.canalesargentinosenvivo.com/2021/09/canal-5tv-en-vivo.html",
+        "https://www.canalesargentinosenvivo.com/2021/09/catamarca-rtv-en-vivo.html",
+        "https://www.tec.gob.ar/en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC4dWvSKVWJ36tJyhjDQCCaQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "dnews-ok": {
-        "nombre": "DNews",
-        "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.canalesargentinosenvivo.com/2021/09/canal-5tv-en-vivo.html",
-                "https://www.canalesargentinosenvivo.com/2021/09/catamarca-rtv-en-vivo.html",
-                "https://www.tec.gob.ar/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC4dWvSKVWJ36tJyhjDQCCaQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "quierovertv-diputados": {
+    "nombre": "Quierovertv - Cámara de Diputados",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.quierovertv.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "quierovertv-diputados": {
-        "nombre": "Quierovertv - Cámara de Diputados",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.quierovertv.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.diputados.gob.ar/",
-        "país": "ar",
-        "categoría": "news"
-    },
+    "sitio_oficial": "https://www.diputados.gob.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
     "rivadavia": {
         "nombre": "Rivadavia -Radio Yguazú TV",
         "logo": "",
@@ -3674,7 +3681,7 @@
         "sitio_oficial": "https://rivadavia.com.ar/",
         "país": "ar",
         "categoría": "news"
-    },
+  },
     "grupo-television-litoral": {
         "nombre": "Grupo Television Litoral",
         "logo": "",
