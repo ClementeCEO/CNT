@@ -9663,23 +9663,25 @@
         "país": "co",
         "categoría": "general"
     },
-    "enlace-television-barrancabermeja": {
-        "nombre": "Barrancabermeja Santander",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://enlacetelevision.com/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.colombia.com/tv/enlace-television-barrancabermeja-1179",
-        "país": "co",
-        "categoría": "general"
+  "enlace-television-barrancabermeja": {
+    "nombre": "Barrancabermeja Santander - RTVCNoticias",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://enlacetelevision.com/en-vivo/",
+        "https://www.colombia.com/tv/enlace-television-barrancabermeja-1179",
+        "https://www.rtvcnoticias.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCykAfJIwT4VSQDFdRrZ1DXA",
+      "yt_embed": "TuXoBF1IUDA?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.youtube.com/@RTVCNoticias",
+    "país": "co",
+    "categoría": "news"
+  },
     "cali-tv-cali": {
         "nombre": "Cali TV",
         "logo": "",
