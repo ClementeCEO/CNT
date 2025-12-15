@@ -5,12 +5,14 @@
     "señales": {
       "iframe_url": [
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCTXNz3gjAypWp3EhlIATEJQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://www.viendotele.cl/",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
         "https://www.youtube.com/embed/h3Jn8f-YKRk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
         "https://s.emisoras.tv:2020/VideoPlayer/mimutv?autoplay=1",
         "https://mimutv.com/",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
+        "https://tvnplay.com/",
         "https://www.24horas.cl/envivo/"
       ],
       "m3u8_url": [
