@@ -40588,133 +40588,177 @@
         "país": "bd",
         "categoría": "news"
     },
-    "al-jazeera-english": {
-        "nombre": "Al Jazeera English",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
-                "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-            ],
-            "yt_id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aljazeera.com/live/",
-        "país": "qa",
-        "categoría": "news"
+  "alkass_sport-Zee-Alwan": {
+    "nombre": "Alkass sport - Zee Alwan",
+    "logo": "https://can2025.aflam4you.net/uploads/thumbs/79-1.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/live/channels.php?id=877",
+        "https://www.elahmad.com/tv/alkass_sport.php",
+        "https://can2025.aflam4you.net/zee-alwan-live-funding-tv_79.html",
+        "https://can2025.aflam4you.net/zremb472.php?vid=79&aflam_s=1&aflam_w=360&aflam_h=250&aflam_k=114554465565654423324",
+        "https://aflam4you.app/",
+        "https://www.elahmad.com/tv/live/live_stream.php?id=rotana_aflam_plus"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-jazeera-arabe": {
-        "nombre": "AlJazeera Channel قناة الجزيرة",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
-            ],
-            "yt_id": "UCfiwzLy-8yKzIbsmZTzxDgw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aljazeera.com/live/",
-        "país": "qa",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "al-jazeera-english": {
+    "nombre": "Al Jazeera English",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+        "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+      ],
+      "yt_id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-jazeera-mubasher": {
-        "nombre": "Aljazeera Mubasher",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/eksOMqVMINo?modestbranding=1"
-            ],
-            "m3u8_url": [
-                "https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",
-                "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
-                "https://live-hls-web-ajm24-fa.getaj.net/AJM24/04.m3u8",
-                "https://live-hls-web-ajm2-fa.getaj.net/AJM2/03.m3u8"
-            ],
-            "yt_id": "UCCv1Pd24oPErw5S7zJWltnQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aljazeeramubasher.net/live",
-        "país": "qa",
-        "categoría": "news"
+    "sitio_oficial": "https://www.aljazeera.com/live/",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "al-jazeera-arabe": {
+    "nombre": "AlJazeera Channel قناة الجزيرة",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+      ],
+      "yt_id": "UCfiwzLy-8yKzIbsmZTzxDgw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "qtv-HD": {
-        "nombre": "QTV",
-        "logo": "https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_qatar.jpg?h=195&la=en&w=261&modified=20211010091819",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=qatartv1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=qatar",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=qatartv2",
-                "http://www.parsatv.com/embed.php?name=Qatar-TV-1&auto=false"
-            ],
-            "m3u8_url": [
-                "https://streamer4.qna.org.qa/148133273_live/148133273_63.sdp/chunklist_w256415473.m3u8",
-                "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
-                "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
-                "https://streamer4.qna.org.qa/148133344_live/148133344_63.sdp/chunklist_w351607568.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.qtv.qa/",
-        "país": "qa",
-        "categoría": "news"
+    "sitio_oficial": "https://www.aljazeera.com/live/",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "al-jazeera-mubasher": {
+    "nombre": "Aljazeera Mubasher",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/eksOMqVMINo?modestbranding=1"
+      ],
+      "m3u8_url": [
+        "https://live-hls-web-ajm.getaj.net/AJM/04.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8",
+        "https://live-hls-web-ajm24-fa.getaj.net/AJM24/04.m3u8",
+        "https://live-hls-web-ajm2-fa.getaj.net/AJM2/03.m3u8"
+      ],
+      "yt_id": "UCCv1Pd24oPErw5S7zJWltnQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "qna-HD": {
-        "nombre": "QnA",
-        "logo": "https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_alrayan2.jpg?h=195&la=en&w=261&modified=20211010092244",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alrayyan1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alrayyan",
-                "https://www.elahmad.com/tv/radiant.php?id=al_rayyan2_1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alrayyan2"
-            ],
-            "m3u8_url": [
-                "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/chunklist_w1721072028.m3u8",
-                "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8",
-                "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_360p/chunks_dvr.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.qna.org.qa/en/Live-Streaming-Channel-Page",
-        "país": "qa",
-        "categoría": "news"
+    "sitio_oficial": "https://www.aljazeeramubasher.net/live",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "qtv-HD": {
+    "nombre": "QTV",
+    "logo": "https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_qatar.jpg?h=195&la=en&w=261&modified=20211010091819",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=qatartv1",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=qatar",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=qatartv2",
+        "http://www.parsatv.com/embed.php?name=Qatar-TV-1&auto=false"
+      ],
+      "m3u8_url": [
+        "https://streamer4.qna.org.qa/148133273_live/148133273_63.sdp/chunklist_w256415473.m3u8",
+        "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+        "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+        "https://streamer4.qna.org.qa/148133344_live/148133344_63.sdp/chunklist_w351607568.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "jeem-HD": {
-        "nombre": "JEEM",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=jscc1",
-                "https://www.elahmad.com/tv/mpegts_player.php?id=jeemtv"
-            ],
-            "m3u8_url": [
-                "http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8",
-                "http://azrotv.com/pyr/tara-back.php?id=http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/jeem.php",
-        "país": "qa",
-        "categoría": "news"
+    "sitio_oficial": "https://www.qtv.qa/",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "qna-HD": {
+    "nombre": "QnA",
+    "logo": "https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_alrayan2.jpg?h=195&la=en&w=261&modified=20211010092244",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/radiant.php?id=alrayyan1",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alrayyan",
+        "https://www.elahmad.com/tv/radiant.php?id=al_rayyan2_1",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alrayyan2"
+      ],
+      "m3u8_url": [
+        "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/chunklist_w1721072028.m3u8",
+        "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8",
+        "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_360p/chunks_dvr.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.qna.org.qa/en/Live-Streaming-Channel-Page",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "jeem-HD": {
+    "nombre": "JEEM",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/radiant.php?id=jscc1",
+        "https://www.elahmad.com/tv/mpegts_player.php?id=jeemtv"
+      ],
+      "m3u8_url": [
+        "http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8",
+        "http://azrotv.com/pyr/tara-back.php?id=http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/jeem.php",
+    "país": "qa",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "qa",
+    "categoría": "news"
+  },
     "baraem-HD": {
         "nombre": "baraem",
         "logo": "",
