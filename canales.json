@@ -33893,619 +33893,686 @@
         "país": "sv",
         "categoría": "news"
     },
-    "abc7-swfl": {
-        "nombre": "ABC7 SWFL - MI FLOLKLORE TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvcableperusatipo.com/mi-folklore/",
-                "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
-                "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
-                "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
-                "https://www.youtube.com/embed/YUJl2vWNsWU?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
-                "https://www.youtube.com/embed/hiWkGIgEr0M?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
-                "https://abc7chicago.com/watch/live/",
-                "https://abc7news.com/watch/live/",
-                "https://abc7.com/watch/live/",
-                "https://www.abc-7.com/",
-                "https://www.gulfcoastnewsnow.com/article/live-stream/46210476"
-            ],
-            "m3u8_url": [
-                "https://www.livehdtv.com/embed/ch612/",
-                "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
-                "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8"
-            ],
-            "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
-            "yt_embed": "sj2cWegO1OU",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.abc-7.com/",
-        "país": "us",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "abc-news": {
-        "nombre": "ABC News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://abcnews.go.com/Live",
-                "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
-                "https://www.livehdtv.com/embed/ch92/"
-            ],
-            "m3u8_url": [
-                "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad."
-            ],
-            "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://abcnews.go.com/Live",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "us",
+    "categoría": "news"
+  },
+  "univision3-US-Tlnovelas": {
+    "nombre": "Univision3 Noticias US Tlnovelas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://amorlatinochat.com/index.html#Univivion",
+        "https://streamtp4.com/global1.php?stream=univision_usa",
+        "https://amorlatinochat.com/index.html#Univivion",
+        "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
+        "https://vix.com/es-es/canales/univision"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cbs-news": {
-        "nombre": "CBS News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/cbs-news-usa-en-directo-online/",
-                "https://thedaddy.to/embed/stream-767.php",
-                "https://epctv.com/stream/CBS-Stream_3.html",
-                "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
-                "https://www.cbsnews.com/live/",
-                "https://www.cbs.com/live-tv/stream/cbs-news/"
-            ],
-            "m3u8_url": [
-                "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
-            ],
-            "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/cbs-news-usa-en-directo-online/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.tvlibrehd.com/en-vivo/univision",
+    "país": "us",
+    "categoría": "news"
+  },
+  "abc7-swfl": {
+    "nombre": "ABC7 SWFL - MI FLOLKLORE TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tvcableperusatipo.com/mi-folklore/",
+        "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
+        "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
+        "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+        "https://www.youtube.com/embed/YUJl2vWNsWU?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+        "https://www.youtube.com/embed/hiWkGIgEr0M?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+        "https://abc7chicago.com/watch/live/",
+        "https://abc7news.com/watch/live/",
+        "https://abc7.com/watch/live/",
+        "https://www.abc-7.com/",
+        "https://www.gulfcoastnewsnow.com/article/live-stream/46210476"
+      ],
+      "m3u8_url": [
+        "https://www.livehdtv.com/embed/ch612/",
+        "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8"
+      ],
+      "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
+      "yt_embed": "sj2cWegO1OU",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cbsnews": {
-        "nombre": "CBSNews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cbsnews.com/live/",
-                "https://thedaddy.to/embed/stream-767.php",
-                "https://epctv.com/stream/CBS-Stream_3.html",
-                "https://www.youtube.com/embed/0LDpOEhJXdw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.livehdtv.com/embed/cbsn/"
-            ],
-            "m3u8_url": [
-                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
-                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/74b11949-6f25-4212-8a36-e77f7b11c7bc:SCL/variant/c5978f1497cc006085b1a374230e90d9/bandwidth/1872292.m3u8"
-            ],
-            "yt_id": "UC8p1vwvWtl6T73JiExfWs1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cbsnews.com/live/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.abc-7.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "ABC7": {
+    "nombre": "ABC7",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://abc7.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cbs8-news": {
-        "nombre": "CBS8 News",
-        "logo": "https://media.cbs8.com/assets/KFMB/images/e4fca405-db6c-4ee6-991a-f249077ce56b/e4fca405-db6c-4ee6-991a-f249077ce56b_1920x1080.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://www.cbs8.com/watch"
-            ],
-            "m3u8_url": [
-                "https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cbs8.com/watch",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@ABC7",
+    "país": "us",
+    "categoría": "news"
+  },
+  "abc-news": {
+    "nombre": "ABC News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://abcnews.go.com/Live",
+        "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
+        "https://www.livehdtv.com/embed/ch92/"
+      ],
+      "m3u8_url": [
+        "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+        "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad."
+      ],
+      "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cbs58-news": {
-        "nombre": "CBS58 News",
-        "logo": "https://newscdn2.weigelbroadcasting.com/j9kqz-1579122951-70-image_feeds-58%20News%20Live.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://www.cbs58.com/stream/live-stream-1"
-            ],
-            "m3u8_url": [
-                "https://video.cbs58.com/live/wdjt/live1/live1.m3u8"
-            ],
-            "yt_id": "UCDI-R_ASsdHUo4zQYKsFx3g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cbs58.com/stream/live-stream-1",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://abcnews.go.com/Live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "cbs-news": {
+    "nombre": "CBS News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/cbs-news-usa-en-directo-online/",
+        "https://thedaddy.to/embed/stream-767.php",
+        "https://epctv.com/stream/CBS-Stream_3.html",
+        "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
+        "https://www.cbsnews.com/live/",
+        "https://www.cbs.com/live-tv/stream/cbs-news/"
+      ],
+      "m3u8_url": [
+        "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+        "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
+      ],
+      "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "agenda-free-tv": {
-        "nombre": "Agenda Free TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCshCsg1YVKli8yBai-wa78w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "agendafreetv"
-        },
-        "sitio_oficial": "https://twitter.com/agendafreetv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/cbs-news-usa-en-directo-online/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "cbsnews-0": {
+    "nombre": "CBSNews 0",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cbsnews.com/live/",
+        "https://thedaddy.to/embed/stream-767.php",
+         "https://epctv.com/stream/CBS-Stream_3.html",
+        "https://www.youtube.com/embed/0LDpOEhJXdw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://www.livehdtv.com/embed/cbsn/"
+      ],
+      "m3u8_url": [
+        "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+        "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/74b11949-6f25-4212-8a36-e77f7b11c7bc:SCL/variant/c5978f1497cc006085b1a374230e90d9/bandwidth/1872292.m3u8"
+      ],
+      "yt_id": "UC8p1vwvWtl6T73JiExfWs1g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "bloomberg-us": {
-        "nombre": "Bloomberg US",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.bloomberg.com/",
-                "https://www.livehdtv.com/embed/bloomberg/"
-            ],
-            "m3u8_url": [
-                "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
-                "https://www.bloomberg.com/media-manifest/streams/us.m3u8"
-            ],
-            "yt_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bloomberg.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cbsnews.com/live/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "cbs8-news": {
+    "nombre": "CBS8 News",
+    "logo": "https://media.cbs8.com/assets/KFMB/images/e4fca405-db6c-4ee6-991a-f249077ce56b/e4fca405-db6c-4ee6-991a-f249077ce56b_1920x1080.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.cbs8.com/watch"
+      ],
+      "m3u8_url": [
+        "https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "bloomberg-europe": {
-        "nombre": "Bloomberg Europe",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.bloomberg.com/europe"
-            ],
-            "m3u8_url": [
-                "https://www.bloomberg.com/media-manifest/streams/eu.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bloomberg.com/europe",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cbs8.com/watch",
+    "país": "us",
+    "categoría": "news"
+  },
+  "cbs58-news": {
+    "nombre": "CBS58 News",
+    "logo": "https://newscdn2.weigelbroadcasting.com/j9kqz-1579122951-70-image_feeds-58%20News%20Live.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.cbs58.com/stream/live-stream-1"
+      ],
+      "m3u8_url": [
+        "https://video.cbs58.com/live/wdjt/live1/live1.m3u8"
+      ],
+      "yt_id": "UCDI-R_ASsdHUo4zQYKsFx3g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "bloomberg-quicktake": {
-        "nombre": "Bloomberg QuickTake",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.bloomberg.com/Quicktake"
-            ],
-            "m3u8_url": [
-                "https://www.bloomberg.com/media-manifest/streams/qt.m3u8"
-            ],
-            "yt_id": "UChirEOpgFCupRAk5etXqPaA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bloomberg.com/Quicktake",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cbs58.com/stream/live-stream-1",
+    "país": "us",
+    "categoría": "news"
+  },
+  "agenda-free-tv": {
+    "nombre": "Agenda Free TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCshCsg1YVKli8yBai-wa78w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "agendafreetv"
     },
-    "cheddar": {
-        "nombre": "Cheddar",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cheddar.com/live",
-                "http://www.parsatv.com/embed.php?name=Cheddar-News&auto=false",
-                "https://www.livehdtv.com/embed/cheddar-news/"
-            ],
-            "m3u8_url": [
-                "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8"
-            ],
-            "yt_id": "UC04KsGq3npibMCE9Td3mVDg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cheddar.com/live",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://twitter.com/agendafreetv",
+    "país": "us",
+    "categoría": "news"
+  },
+  "bloomberg-us": {
+    "nombre": "Bloomberg US",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.bloomberg.com/",
+        "https://www.livehdtv.com/embed/bloomberg/"
+      ],
+      "m3u8_url": [
+        "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "https://www.bloomberg.com/media-manifest/streams/us.m3u8"
+      ],
+      "yt_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "livenow-from-fox": {
-        "nombre": "LiveNOW from FOX",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.newsmax.com/"
-            ],
-            "m3u8_url": [
-                "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
-            ],
-            "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livenowfox.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.bloomberg.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "bloomberg-europe": {
+    "nombre": "Bloomberg Europe",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.bloomberg.com/europe"
+      ],
+      "m3u8_url": [
+        "https://www.bloomberg.com/media-manifest/streams/eu.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "newsmax": {
-        "nombre": "Newsmax",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.newsmax.com/",
-                "https://www.livehdtv.com/embed/newsmax-tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCx6h-dWzJ5NpAlja1YsApdg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.newsmax.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.bloomberg.com/europe",
+    "país": "us",
+    "categoría": "news"
+  },
+  "bloomberg-quicktake": {
+    "nombre": "Bloomberg QuickTake",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.bloomberg.com/Quicktake"
+      ],
+      "m3u8_url": [
+        "https://www.bloomberg.com/media-manifest/streams/qt.m3u8"
+      ],
+      "yt_id": "UChirEOpgFCupRAk5etXqPaA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "nbc-news": {
-        "nombre": "NBC News - Dateline NBC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.nbcnews.com/watch",
-                "https://www.cxtvlive.com/live-tv/dateline-nbc",
-                "https://www.nbcnews.com/watch",
-                "https://www.nbc.com/live?brand=nbc-news&callsign=NBCNN"
-            ],
-            "m3u8_url": [
-                "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
-                "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u"
-            ],
-            "yt_id": "UCeY0bbntWzzVIaj2z3QigXg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.nbcnews.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.bloomberg.com/Quicktake",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Cheddar": {
+    "nombre": "Cheddar",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cheddar.com/live",
+        "http://www.parsatv.com/embed.php?name=Cheddar-News&auto=false",
+        "https://www.livehdtv.com/embed/cheddar-news/"
+      ],
+      "m3u8_url": [
+        "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8"
+      ],
+      "yt_id": "UC04KsGq3npibMCE9Td3mVDg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "telemundo-nbcnews-teleonce": {
-        "nombre": "Noticias Telemundo PR - NBCnews - Teleonce",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundopr.com/en-vivo",
-                "https://www.telemundo.com/noticias/noticias-telemundo-ahora",
-                "https://www.nbcnews.com/watch",
-                "https://www.nbcboston.com/watch/",
-                "https://www.cbsnews.com/live/",
-                "https://www.livenowfox.com/live",
-                "https://www.livehdtv.com/embed/nbc-news/",
-                "https://www.livehdtv.com/nbc-news/",
-                "https://www.globaltvapp.net/telemundo",
-                "https://www.tvlibrehd.com/en-vivo/telemundo",
-                "https://wapa.tv/envivo/",
-                "https://cdn.teleonce.com/en-vivo/",
-                "https://www.nbc.com/live?brand=nbc-news&callsign=NBCNN",
-                "https://www.msnbc.com/live",
-                "https://embed.sdfgnksbounce.com/embed2/telemundopuertorico.html"
-            ],
-            "m3u8_url": [
-                "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
-                "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
-                "https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/391882de-d0ce-434b-b840-2c8bdb82be3f/6.m3u8",
-                "https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/391882de-d0ce-434b-b840-2c8bdb82be3f/5.m3u8"
-            ],
-            "yt_id": "UCx2F6LSGZQbEg7ZAL5uNecQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "txl_092l"
-        },
-        "sitio_oficial": "https://www.telemundo.com/noticias",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://cheddar.com/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "livenow-from-fox": {
+    "nombre": "LiveNOW from FOX",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.newsmax.com/"
+      ],
+      "m3u8_url": [
+        "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo52-California": {
-        "nombre": "Telemundo52 California",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundo52.com/ver/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundo52.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.livenowfox.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "newsmax": {
+    "nombre": "Newsmax",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.newsmax.com/",
+        "https://www.livehdtv.com/embed/newsmax-tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCx6h-dWzJ5NpAlja1YsApdg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo52-San-Diego": {
-        "nombre": "Telemundo52 San Diego",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundo20.com/ver/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundo20.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.newsmax.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "nbc-news": {
+    "nombre": "NBC News - Dateline NBC",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.nbcnews.com/watch",
+        "https://www.cxtvlive.com/live-tv/dateline-nbc",
+        "https://www.nbcnews.com/watch",
+        "https://www.nbc.com/live?brand=nbc-news&callsign=NBCNN"
+      ],
+      "m3u8_url": [
+        "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
+        "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u"
+      ],
+      "yt_id": "UCeY0bbntWzzVIaj2z3QigXg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo60-San-Antonio": {
-        "nombre": "Telemundo60 San Antonio TEXAS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundosanantonio.com/ver/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundosanantonio.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.nbcnews.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "telemundo-nbcnews-teleonce": {
+    "nombre": "Noticias Telemundo PR - NBCnews - Teleonce",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundopr.com/en-vivo",
+        "https://www.telemundo.com/noticias/noticias-telemundo-ahora",
+        "https://www.nbcnews.com/watch",
+        "https://www.nbcboston.com/watch/",
+        "https://www.cbsnews.com/live/",
+        "https://www.livenowfox.com/live",
+        "https://www.livehdtv.com/embed/nbc-news/",
+        "https://www.livehdtv.com/nbc-news/",
+        "https://www.globaltvapp.net/telemundo",
+        "https://www.tvlibrehd.com/en-vivo/telemundo",
+        "https://wapa.tv/envivo/",
+        "https://cdn.teleonce.com/en-vivo/",
+        "https://www.nbc.com/live?brand=nbc-news&callsign=NBCNN",
+        "https://www.msnbc.com/live"
+      ],
+      "m3u8_url": [
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+        "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+        "https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/391882de-d0ce-434b-b840-2c8bdb82be3f/6.m3u8",
+        "https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/391882de-d0ce-434b-b840-2c8bdb82be3f/5.m3u8"
+      ],
+      "yt_id": "UCx2F6LSGZQbEg7ZAL5uNecQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "txl_092l"
     },
-    "Telemundo-Washington-DC": {
-        "nombre": "Telemundo Washington DC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundosanantonio.com/ver/",
-                "https://miztv.shop/tele/stream-131.php",
-                "https://miztv.shop/stream/stream-131.php"
-            ],
-            "m3u8_url": [
-              "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundosanantonio.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundo.com/noticias",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo52-California": {
+    "nombre": "Telemundo52 California",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundo52.com/ver/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo51-Maiami-Florida": {
-        "nombre": "Telemundo51 Maiami-Florida",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundo51.com/ver/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundo51.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundo52.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo52-San-Diego": {
+    "nombre": "Telemundo52 San Diego",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundo20.com/ver/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo31-Orlando-Florida": {
-        "nombre": "Telemundo31 Orlando Florida",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundo31.com/ver/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundo31.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundo20.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo60-San-Antonio": {
+    "nombre": "Telemundo60 San Antonio TEXAS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundosanantonio.com/ver/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo47-NewYork-Noreste": {
-        "nombre": "Telemundo47 NEWYORK NORESTE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundo47.com/ver/",
-                "https://www.telemundo47.com/noticias/puerto-rico/mira-aqui-nuestra-programacion-en-vivo-3/2014133/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundo47.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundosanantonio.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo-Washington-DC": {
+    "nombre": "Telemundo Washington DC",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundosanantonio.com/ver/",
+        "https://miztv.shop/tele/stream-131.php",
+        "https://miztv.shop/stream/stream-131.php"
+      ],
+      "m3u8_url": [
+        "https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo-dallas-Noreste": {
-        "nombre": "Telemundo DallasFT Worth",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundodallas.com/ver/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundodallas.com/ver/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundosanantonio.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo51-Maiami-Florida": {
+    "nombre": "Telemundo51 Maiami-Florida",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundo51.com/ver/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Telemundo-Laredo": {
-        "nombre": "Telemundo Laredo",
-        "logo": "//webpubcontent.gray.tv/gray/arc-fusion-assets/images/logo-off-site/kxnu.png?d=457",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemundolaredo.tv/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundolaredo.tv/en-vivo/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundo51.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo31-Orlando-Florida": {
+    "nombre": "Telemundo31 Orlando Florida",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundo31.com/ver/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "abc13houston": {
-        "nombre": "ABC13Houston",
-        "logo": "https://graph.facebook.com/abc13Houston/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://abc13.com/watch/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://abc13.com/watch/live/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundo31.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo47-NewYork-Noreste": {
+    "nombre": "Telemundo47 NEWYORK NORESTE",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundo47.com/ver/",
+        "https://www.telemundo47.com/noticias/puerto-rico/mira-aqui-nuestra-programacion-en-vivo-3/2014133/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wplg-local-10": {
-        "nombre": "WPLG Local 10",
-        "logo": "https://graph.facebook.com/WPLGLocal10/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.local10.com/?utm_source=youtube&utm_medium=button&utm_campaign=wplg&utm_content=cover"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCgVZ0mrM3liHNhRYC5Mchgg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundo47.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo-dallas-Noreste": {
+    "nombre": "Telemundo DallasFT Worth",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundodallas.com/ver/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "abc7chicago": {
-        "nombre": "ABC 7 Chicago",
-        "logo": "https://graph.facebook.com/abc7chicago/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://abc7chicago.com/watch/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC_vFLohxs5PkAxlk7Y6jEtw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://abc7chicago.com/watch/live/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundodallas.com/ver/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Telemundo-Laredo": {
+    "nombre": "Telemundo Laredo",
+    "logo": "//webpubcontent.gray.tv/gray/arc-fusion-assets/images/logo-off-site/kxnu.png?d=457",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemundolaredo.tv/en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "usatoday": {
-        "nombre": "USA TODAY",
-        "logo": "https://graph.facebook.com/usatoday/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://thetvapp.to/tv/usa-network-live-stream/",
-                "https://www.usanetwork.com/live?brand=usa",
-                "https://www.youtube.com/embed/vZYMwAm8sso?&autoplay=1&rel=0&start=0&enablejsapi=1&origin=https%3A%2F%2Fwww.usatoday.com",
-                "https://www.usatoday.com/story/news/2024/03/21/usa-today-247-live-stream/73052197007/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCP6HGa63sBC7-KHtkme-p-g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.usatoday.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telemundolaredo.tv/en-vivo/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "abc13houston": {
+    "nombre": "ABC13Houston",
+    "logo": "https://graph.facebook.com/abc13Houston/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://abc13.com/watch/live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCDmNmxF3ZVMeGyvWE9tOqPQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cnbc": {
-        "nombre": "CNBC",
-        "logo": "https://graph.facebook.com/CNBC/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.cnbctv18.com/awaaz/live-tv/",
-                "https://www.livehdtv.com/embed/ch93/"
-            ],
-            "m3u8_url": [
-                "http://ott-cdn.ucom.am/s65/index.m3u8"
-            ],
-            "yt_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cnbc.com/live-tv/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://abc13.com/watch/live/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "wplg-local-10": {
+    "nombre": "WPLG Local 10",
+    "logo": "https://graph.facebook.com/WPLGLocal10/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.local10.com/?utm_source=youtube&utm_medium=button&utm_campaign=wplg&utm_content=cover"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCgVZ0mrM3liHNhRYC5Mchgg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "evtv": {
-        "nombre": "EVTV MIAMI",
-        "logo": "https://graph.facebook.com/evtvmiami/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://evtv.online/noticias-de-venezuela/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCshe7-1A5MN_ArHsG_3V41g",
-            "yt_embed": "lON8KX0FJcA?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://evtv.online/noticias-de-venezuela/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg",
+    "país": "us",
+    "categoría": "news"
+  },
+  "abc7chicago": {
+    "nombre": "ABC 7 Chicago",
+    "logo": "https://graph.facebook.com/abc7chicago/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://abc7chicago.com/watch/live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC_vFLohxs5PkAxlk7Y6jEtw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "naciones-unidas": {
-        "nombre": "Naciones Unidas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC5O114-PQNYkurlTg6hekZw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.un.org/",
-        "país": "us",
-        "categoría": "general"
+    "sitio_oficial": "https://abc7chicago.com/watch/live/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "USA-TODAY": {
+    "nombre": "USA TODAY",
+    "logo": "https://graph.facebook.com/usatoday/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://thetvapp.to/tv/usa-network-live-stream/",
+        "https://www.usanetwork.com/live?brand=usa",
+        "https://www.youtube.com/embed/vZYMwAm8sso?&autoplay=1&rel=0&start=0&enablejsapi=1&origin=https%3A%2F%2Fwww.usatoday.com",
+        "https://www.usatoday.com/story/news/2024/03/21/usa-today-247-live-stream/73052197007/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCP6HGa63sBC7-KHtkme-p-g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.usatoday.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "CNBC": {
+    "nombre": "CNBC",
+    "logo": "https://graph.facebook.com/CNBC/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.cnbctv18.com/awaaz/live-tv/",
+        "https://www.livehdtv.com/embed/ch93/"
+      ],
+      "m3u8_url": [
+        "http://ott-cdn.ucom.am/s65/index.m3u8"
+      ],
+      "yt_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.cnbc.com/live-tv/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "EVTV-MIAMI": {
+    "nombre": "EVTV MIAMI",
+    "logo": "https://graph.facebook.com/evtvmiami/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://evtv.online/noticias-de-venezuela/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCshe7-1A5MN_ArHsG_3V41g",
+      "yt_embed": "lON8KX0FJcA?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://evtv.online/noticias-de-venezuela/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "naciones-unidas": {
+    "nombre": "Naciones Unidas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC5O114-PQNYkurlTg6hekZw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.un.org/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "us",
+    "categoría": "news"
+  },
     "30a-tv": {
         "nombre": "30A TV Business",
         "logo": "",
@@ -36539,38 +36606,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.americateve.com/en-vivo",
-        "país": "us",
-        "categoría": "news"
-    },
-    "univision-US-Tlnovelas": {
-        "nombre": "Univision2 Noticias US Tlnovelas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://streamtp4.com/global1.php?stream=univision_usa",
-                "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=univision",
-                "https://tele-libre.org/en-vivo-online/univision/embed2.php",
-                "https://embed.sdfgnksbounce.com/embed/univision.html",
-                "https://thetvapp.to/tv/univision-east-live-stream/",
-                "https://amorlatinochat.com/index.html#Univivion",
-                "https://streamtp4.com/global1.php?stream=univision_usa",
-                "https://vix.com/es-es/canales/univision",
-                "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
-                "https://deportelibre.space/canales-sport.php?id=daznf1",
-                "https://deportelibre.space/canales/universo/",
-                "https://tele-libre.org/en-vivo-online/tlnovelas/embed.php",
-                "https://embed.sdfgnksbounce.com/embed/univision.html",
-                "https://thetvapp.to/tv/univision-east-live-stream/",
-                "https://deportelibre.space/",
-                "https://amorlatinochat.com/index.html#Univivion"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
-            "yt_embed": "V4C7VNfRATA?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvlibrehd.com/en-vivo/univision",
         "país": "us",
         "categoría": "news"
     },
