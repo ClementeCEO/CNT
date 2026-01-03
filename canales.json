@@ -5,6 +5,7 @@
     "señales": {
       "iframe_url": [
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCTXNz3gjAypWp3EhlIATEJQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&player=585a9076c4b653ae71315e55&custom.preroll=sz%3D640x480%26iu%3D%2F317342475%2F24horas_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3Dhttps%3A%2F%2Fwww.24horas.cl%2Felecciones-2021%2F%26correlator%3D%5Btimestamp%5D&custom.overlay=sz%3D640x480%26iu%3D%2F317342475%2F24horas_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3Dhttps%3A%2F%2Fwww.24horas.cl%2Felecciones-2021%2F%26correlator%3D%5Btimestamp%5D",
         "https://www.viendotele.cl/",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
         "https://www.youtube.com/embed/h3Jn8f-YKRk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
@@ -17,10 +18,11 @@
       ],
       "m3u8_url": [
         "https://s.emisoras.tv:8081/mimutv/index.m3u8",
+        "https://cl-a9-p-e-pt11.cdn.mdstrm.com/live-stream/57d1a22064f5d85712b20dab/publish/media_1500.m3u8?aid=51c2f628b440bd797900051f&uid=rlPWmsmqvgJ0T5Fx8eo09YBitG5IqyIG&sid=b1n2KbAjTdMLDmMQjlnUfG81zeLFlkmw&pid=6bcM8XLcnMWGB1IFMHWbRq7FTD7XQAoR&pid_dvr=6kHRuJ4ickSLlWf9tO5W4tkWKmx3N5PY&ref=&without_cookies=false&listenerid=&dnt=true&es=cl-a9-p-e-pt11.cdn.mdstrm.com&ote=1767547975867&ot=aXtD_L5iMXBJM5Qxve7Trw&proto=https&pz=cl&CMCD=cid%3D%2257d1a22064f5d85712b20dab%22%2Cmtp%3D8000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%226bcM8XLcnMWGB1IFMHWbRq7FTD7XQAoR%22",
         "https://cl-a3-p-e-av11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/Vhsu2zp3REyknGR4Sb3qbg/stream/fde4a5f7-bd59-4db5-915b-d0f52f687957:CBF2/variant/ccc5ea100ce22656d0073fe92b9b7cee/bandwidth/1755600.m3u8?aid=51c2f628b440bd797900051f&adInsertionGoogleStreamId=fde4a5f7-bd59-4db5-915b-d0f52f687957%3ACBF2&pid=rJUxKQ9Y52G5MGY6atGLVv7glx8brbc5&sid=pm326esjeRHB8tGdaQdr1xtl7RL9kxxd&uid=rrcNqegzH7rQFPCnY1v7Cazqmqd3ry3G&es=cl-a3-p-e-av11.cdn.mdstrm.com&ote=1726844026721&ot=RDme5sS9jpd2tEVjgNoWow&proto=https&pz=cl"
       ],
       "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
-      "yt_embed": "",
+      "yt_embed": "N-bwYlUQNd0?",
       "yt_playlist": "",
       "twitch_id": "24horas_tvn"
     },
@@ -189,10 +191,13 @@
         "https://www.tvonlinechile.cl/senal-chv"
       ],
       "m3u8_url": [
+        "http://38.250.127.17:9800/play/a08e/index.m3u8",
+        "http://38.250.127.17:9800/play/a05h/index.m3u8",
+        "http://38.250.127.17:9800/play/a0al/index.m3u8",
         "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Chilevision/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-        "https://marine2.miplay.cl/chvchile/index.m3u8",
         "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8",
-        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR"
+        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+        "https://github.com/DanArea/Xmltv-para-chile/tree/main"
       ],
       "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
       "yt_embed": "U7MOPDCxfcM?",
