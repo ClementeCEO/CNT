@@ -12859,7 +12859,7 @@
         "https://www.youtube.com/embed/ZRj6QBopxfo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
       ],
       "m3u8_url": [],
-      "yt_id": "القاهرة_والناس"",
+      "yt_id": "القاهرة_والناس",
       "yt_embed": "bwQhWhtipNs?",
       "yt_playlist": "",
       "twitch_id": ""
@@ -17976,28 +17976,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tele-libre.com/en-vivo-online/azteca-7/",
-        "país": "mx",
-        "categoría": "news"
-    },
-    "univision-US-Tlnovelas": {
-        "nombre": "Univision2 Noticias US Tlnovelas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://thetvapp.to/tv/univision-east-live-stream/",
-                "https://amorlatinochat.com/index.html#Univivion",
-                "https://vix.com/es-es/canales?lang=canales",
-                "https://vix.com/es-es/canales/univision",
-                "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
-                "https://amorlatinochat.com/index.html#Univivion"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
-            "yt_embed": "V4C7VNfRATA?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvlibrehd.com/en-vivo/univision",
         "país": "mx",
         "categoría": "news"
     },
