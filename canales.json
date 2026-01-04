@@ -12761,1258 +12761,1254 @@
         "país": "ec",
         "categoría": "news"
     },
-    "ecuador-WuanPlus": {
-        "nombre": "Ecuador WuanPlus",
-        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.wuanplus.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.movilocho.com/tv/ec-tv-wuan-plus.html",
-        "país": "ec",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "alhayat-tv": {
-        "nombre": "Alhayat Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.alhayat.tv/"
-            ],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8",
-                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/media-unbi0c38t_b2128000_65589.ts"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.alhayat.tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "ec",
+    "categoría": "news"
+  },
+  "ecuador-WuanPlus": {
+    "nombre": "Ecuador WuanPlus",
+    "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.wuanplus.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "aghapy-tv": {
-        "nombre": "Aghapy Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smccdn.com/aghapy.tv/",
-                "https://www.lyngsat.com/tvchannels/eg/Aghapy-TV.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lyngsat.com/tvchannels/eg/Aghapy-TV.html",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "http://www.movilocho.com/tv/ec-tv-wuan-plus.html",
+    "país": "ec",
+    "categoría": "news"
+  },
+  "alhayat-tv": {
+    "nombre": "Alhayat Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.alhayat.tv/"
+      ],
+      "m3u8_url": [
+        "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8",
+        "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/media-unbi0c38t_b2128000_65589.ts"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wedo-tv": {
-        "nombre": "Wedo Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://wedotv.com/"
-            ],
-            "m3u8_url": [
-                "https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv.m3u8?app_bundle=&app_name=wedotv&app_store_url=https%3A%2F%2Fwedotv.com&url=https%3A%2F%2Fwedotv.com&gdpr=1&channel_name=Motorvision+TV+English&content_custom_1_param=Motorvision+TV+English"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wedotv.com/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.alhayat.tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "aghapy-tv": {
+    "nombre": "Aghapy Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://smccdn.com/aghapy.tv/",
+        "https://www.lyngsat.com/tvchannels/eg/Aghapy-TV.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "alkaherawalnas-2": {
-        "nombre": "alkaherawalnas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.alkaherawalnas.com/",
-                "https://www.youtube.com/embed/ZRj6QBopxfo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "القاهرة_والناس",
-            "yt_embed": "bwQhWhtipNs?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.alkaherawalnas.com/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.lyngsat.com/tvchannels/eg/Aghapy-TV.html",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "wedo-tv": {
+    "nombre": "Wedo Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://wedotv.com/"
+      ],
+      "m3u8_url": [
+        "https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv.m3u8?app_bundle=&app_name=wedotv&app_store_url=https%3A%2F%2Fwedotv.com&url=https%3A%2F%2Fwedotv.com&gdpr=1&channel_name=Motorvision+TV+English&content_custom_1_param=Motorvision+TV+English"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "maspero-tv": {
-        "nombre": "Maspero Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.maspero.eg/stream",
-                "https://geo.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.maspero.eg/stream",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://wedotv.com/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "alkaherawalnas-2": {
+    "nombre": "alkaherawalnas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.alkaherawalnas.com/",
+        "https://www.youtube.com/embed/ZRj6QBopxfo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "القاهرة_والناس"",
+      "yt_embed": "bwQhWhtipNs?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "huda-tv": {
-        "nombre": "HUDA Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://huda.tv/live-streaming/"
-            ],
-            "m3u8_url": [
-                "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://huda.tv/live-streaming/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "http://www.alkaherawalnas.com/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "maspero-tv": {
+    "nombre": "Maspero Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.maspero.eg/stream",
+        "https://geo.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "mekameleen-tv": {
-        "nombre": "Mekameleen Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mekameleen.tv/"
-            ],
-            "m3u8_url": [
-                "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mekameleen.tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.maspero.eg/stream",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "huda-tv": {
+    "nombre": "HUDA Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://huda.tv/live-streaming/"
+      ],
+      "m3u8_url": [
+        "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ctv-channel": {
-        "nombre": "CTV Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smccdn.com/ctvchannel.tv/",
-                "https://www.ctvchannel.tv/"
-            ],
-            "m3u8_url": [
-                "https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1876464346_b1728000_slar_t64SEQ=.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ctvchannel.tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://huda.tv/live-streaming/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "mekameleen-tv": {
+    "nombre": "Mekameleen Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mekameleen.tv/"
+      ],
+      "m3u8_url": [
+        "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "nile-comedy-tv": {
-        "nombre": "Nile Comedy",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_cinema",
-                "https://www.niletc.tv/Channel/comedy",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecinema",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_drama",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=niledrama",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_comedy",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecomedy",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_family",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_life",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=nilelife",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=nileculture",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nilesport",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_sport",
-                "https://www.niletc.tv/indexc.html",
-                "https://www.niletc.tv/indexc.html",
-                "https://www.niletc.tv/indexc.html",
-                "/indexc.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.niletc.tv/Channel/comedy",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mekameleen.tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "ctv-channel": {
+    "nombre": "CTV Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://smccdn.com/ctvchannel.tv/",
+        "https://www.ctvchannel.tv/"
+      ],
+      "m3u8_url": [
+        "https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1876464346_b1728000_slar_t64SEQ=.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "nile-news-tv": {
-        "nombre": "Nile News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_news",
-                "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ctvchannel.tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "nile-comedy-tv": {
+    "nombre": "Nile Comedy",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_cinema",
+        "https://www.niletc.tv/Channel/comedy",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecinema",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_drama",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=niledrama",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_comedy",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecomedy",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_family",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_life",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=nilelife",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=nileculture",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nilesport",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_sport",
+        "https://www.niletc.tv/indexc.html",
+        "https://www.niletc.tv/indexc.html",
+        "https://www.niletc.tv/indexc.html",
+        "/indexc.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-kahera-wal-nas": {
-        "nombre": "Al Kahera Wal NaS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/ZRj6QBopxfo",
-                "https://es.livetvcentral.com/tv/al-kahera-wal-nas",
-                "https://www.youtube.com/embed/bwQhWhtipNs"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/al-kahera-wal-nas",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.niletc.tv/Channel/comedy",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "nile-news-tv": {
+    "nombre": "Nile News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_news",
+        "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-hayat-2": {
-        "nombre": "Al Hayat",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.alhayat.tv/"
-            ],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.alhayat.tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-kahera-wal-nas": {
+    "nombre": "Al Kahera Wal NaS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/ZRj6QBopxfo",
+        "https://es.livetvcentral.com/tv/al-kahera-wal-nas",
+        "https://www.youtube.com/embed/bwQhWhtipNs"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Alghad-tv": {
-        "nombre": "Alghad Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.alghad.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "https://www.youtube.com/@alghadtv",
-            "yt_embed": "9WdJul7wgV4?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.alghad.tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/al-kahera-wal-nas",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-hayat-2": {
+    "nombre": "Al Hayat",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.alhayat.tv/"
+      ],
+      "m3u8_url": [
+        "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-ahly-tv": {
-        "nombre": "Al Ahly TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alahly_tv",
-                "https://es.livetvcentral.com/tv/al-ahly-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCmeqakSoEdmxEtTnCFSbunw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/al-ahly-tv",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.alhayat.tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "Alghad-tv": {
+    "nombre": "Alghad Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.alghad.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "https://www.youtube.com/@alghadtv",
+      "yt_embed": "9WdJul7wgV4?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ntu-ertu-tv": {
-        "nombre": "ERTU Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://thewatchtv.com/watch-maspero-zaman-ntu-ertu-live-tv-from-egypt/",
-                "https://www.dailymotion.com/embed/video/x8n6e4h?wmode=transparent",
-                "https://geo.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://thewatchtv.com/watch-maspero-zaman-ntu-ertu-live-tv-from-egypt/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.alghad.tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-ahly-tv": {
+    "nombre": "Al Ahly TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alahly_tv",
+        "https://es.livetvcentral.com/tv/al-ahly-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCmeqakSoEdmxEtTnCFSbunw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "salam-tv": {
-        "nombre": "Salam Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.salam-tv.net/live/index.html?v=33",
-                "https://www.salam-tv.net/ar/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.salam-tv.net/ar/live",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/al-ahly-tv",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "ntu-ertu-tv": {
+    "nombre": "ERTU Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://thewatchtv.com/watch-maspero-zaman-ntu-ertu-live-tv-from-egypt/",
+        "https://www.dailymotion.com/embed/video/x8n6e4h?wmode=transparent",
+        "https://geo.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-rahma-tv": {
-        "nombre": "Al Rahma Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alrahma_1",
-                "https://television-live.com/3407-al-rahma-tv.html",
-                "https://player.twitch.tv/?channel=alrahmatvsocial&parent=television-live.com"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "alrahmatvsocial"
-        },
-        "sitio_oficial": "https://television-live.com/3407-al-rahma-tv.html",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://thewatchtv.com/watch-maspero-zaman-ntu-ertu-live-tv-from-egypt/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "salam-tv": {
+    "nombre": "Salam Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.salam-tv.net/live/index.html?v=33",
+        "https://www.salam-tv.net/ar/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cbc-egipt-tv": {
-        "nombre": "CBC Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
-                "https://es.livetvcentral.com/tv/cbc-egipt",
-                "https://www.elahmad.com/tv/youtube.php?id=CBCEgypt",
-                "https://www.elahmad.com/tv/youtube.php?id=CBCDramaStream",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/cbc-egipt",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.salam-tv.net/ar/live",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-rahma-tv": {
+    "nombre": "Al Rahma Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alrahma_1",
+        "https://television-live.com/3407-al-rahma-tv.html",
+        "https://player.twitch.tv/?channel=alrahmatvsocial&parent=television-live.com"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "alrahmatvsocial"
     },
-    "al-nahar-tv": {
-        "nombre": "Al Nahar Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nahar_tv1",
-                "https://www.ennaharonline.com/live/",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahar",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahardrama",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nahar_drama1",
-                "https://www.elahmad.com/tv/radiant.php?id=nahar_tv1",
-                "https://www.elahmad.com/tv/radiant.php?id=nahar_drama1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahar",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahardrama",
-                "https://ennahar.dzsecurity.net/embed/player.php?v=1"
-            ],
-            "m3u8_url": [
-                "https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ennaharonline.com/live/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://television-live.com/3407-al-rahma-tv.html",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "cbc-egipt-tv": {
+    "nombre": "CBC Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
+        "https://es.livetvcentral.com/tv/cbc-egipt",
+        "https://www.elahmad.com/tv/youtube.php?id=CBCEgypt",
+        "https://www.elahmad.com/tv/youtube.php?id=CBCDramaStream",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cbcsofra-tv": {
-        "nombre": "cbcsofra Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_sofra",
-                "https://cbcsofra.com/",
-                "https://www.elahmad.com/tv/youtube.php?id=CBCSofraStream",
-                "https://www.elahmad.com/tv/watchtv.php?id=cbc_sofra"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cbcsofra.com/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/cbc-egipt",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-nahar-tv": {
+    "nombre": "Al Nahar Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nahar_tv1",
+        "https://www.ennaharonline.com/live/",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahar",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahardrama",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nahar_drama1",
+        "https://www.elahmad.com/tv/radiant.php?id=nahar_tv1",
+        "https://www.elahmad.com/tv/radiant.php?id=nahar_drama1",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahar",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahardrama",
+        "https://ennahar.dzsecurity.net/embed/player.php?v=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cima-tv": {
-        "nombre": "CIMA Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=cima",
-                "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ennaharonline.com/live/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "cbcsofra-Tv": {
+    "nombre": "cbcsofra Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_sofra",
+        "https://cbcsofra.com/",
+        "https://www.elahmad.com/tv/youtube.php?id=CBCSofraStream",
+        "https://www.elahmad.com/tv/watchtv.php?id=cbc_sofra"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "mawada-tv": {
-        "nombre": "mawada Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mawadatv",
-                "https://fomny-tv.com/Television/A-Tv--Egypt.php",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mawadatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://cbcsofra.com/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "CIMA-Tv": {
+    "nombre": "CIMA Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=cima",
+        "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "safa-tv": {
-        "nombre": "Safa Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=safatv",
-                "https://www.elahmad.com/tv/safaatv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/safaatv.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "mawada-tv": {
+    "nombre": "mawada Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mawadatv",
+        "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mawadatv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "alnas-tv": {
-        "nombre": "Alnas Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elnastv",
-                "https://www.elahmad.com/tv/alnas-tv-live.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alnas-tv-live.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "safa-tv": {
+    "nombre": "Safa Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=safatv",
+        "https://www.elahmad.com/tv/safaatv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Azhari-tv": {
-        "nombre": "Azhari Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/live/channel.php?id=azharitv",
-                "https://azharitv.net/",
-                "https://www.elahmad.com/tv/live/channel.php?id=azharitv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "azharitv"
-        },
-        "sitio_oficial": "https://azharitv.net/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/safaatv.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "alnas-tv": {
+    "nombre": "Alnas Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elnastv",
+        "https://www.elahmad.com/tv/alnas-tv-live.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "elsharq-tv": {
-        "nombre": "Elsharq Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/oAOyJUu1Bqk?controls=0?autoplay=1?frameborder=0",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elsharqtv2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elsharqtv1",
-                "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1",
-                "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1"
-            ],
-            "m3u8_url": [
-                "https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8"
-            ],
-            "yt_id": "UCxx-W7y5qIoFKHp7W-Efhcw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCxx-W7y5qIoFKHp7W-Efhcw",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/alnas-tv-live.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "Azhari-tv": {
+    "nombre": "Azhari Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/live/channel.php?id=azharitv",
+        "https://azharitv.net/",
+        "https://www.elahmad.com/tv/live/channel.php?id=azharitv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "azharitv"
     },
-    "AlfathChannel-tv": {
-        "nombre": "Alfath Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alfath_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCRFmZkXLPh94Evh190JN-3w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Alfat7Channel/streams",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://azharitv.net/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "elsharq-tv": {
+    "nombre": "Elsharq Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/oAOyJUu1Bqk?controls=0?autoplay=1?frameborder=0",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elsharqtv2",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elsharqtv1",
+        "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1",
+        "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Watan-Egypt-tv": {
-        "nombre": "Watan Egypt",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://api.tvplayer.online/full_player.php?app=watantv-ssl&autostart=no",
-                "https://www.watanegypt.tv/",
-                "https://api.tvplayer.online/full_player.php?app=watantv-ssl&autostart=no",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=watanegypt"
-            ],
-            "m3u8_url": [
-                "https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8?nimblesessionid=15656913"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.watanegypt.tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UCxx-W7y5qIoFKHp7W-Efhcw",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "AlfathChannel-tv": {
+    "nombre": "Alfath Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alfath_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCRFmZkXLPh94Evh190JN-3w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-masriyah-tv": {
-        "nombre": "Al Masriyah",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://geo2.dailymotion.com/player/xi5eg.html?video=x856hbh&playlist=x7zhig",
-                "https://www.elahmad.com/tv/al-masriyah-live.php",
-                "https://www.elahmad.com/tv/radiant.php?id=almasriyah",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almasriyah",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=almasriyah",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egypt_channel1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almasriyah",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egypt_channel1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/al-masriyah-live.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@Alfat7Channel/streams",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "Watan-Egypt-tv": {
+    "nombre": "Watan Egypt",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://api.tvplayer.online/full_player.php?app=watantv-ssl&autostart=no",
+        "https://www.watanegypt.tv/",
+        "https://api.tvplayer.online/full_player.php?app=watantv-ssl&autostart=no",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=watanegypt"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Noticias-del-Nilo-tv": {
-        "nombre": "Noticias del Nilo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://geo2.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig",
-                "https://www.maspero.eg/stream"
-            ],
-            "m3u8_url": [
-                "https://live-b.cf.dmcdn.net/sec2(k3Zhq3Wh1ojSEeWm8NL5Q7UvOWb4lwP3B5txNApwH9GoZpye6xWr0ZzdjjBQwhEzM1S1D_SsVnyTZsnEmQNy6Wm2dGxrR5-K6FFkTSQTp9g)/dm/3/x84nwne/s/live-720.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.maspero.eg/stream",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.watanegypt.tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-masriyah-tv": {
+    "nombre": "Al Masriyah",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://geo2.dailymotion.com/player/xi5eg.html?video=x856hbh&playlist=x7zhig",
+        "https://www.elahmad.com/tv/al-masriyah-live.php",
+        "https://www.elahmad.com/tv/radiant.php?id=almasriyah",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=almasriyah",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=almasriyah",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egypt_channel1",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=almasriyah",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egypt_channel1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-masriyah-tv": {
-        "nombre": "Al Masriyah Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.maspero.eg/stream/4",
-                "https://geo2.dailymotion.com/player/xi5eg.html?video=x84nun4&playlist=x7zhig",
-                "https://www.elahmad.com/tv/radiant.php?id=almasriyah",
-                "https://geo2.dailymotion.com/player/xi5eg.html?video=x8n6dm7",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=al_thaniya",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=al_thaniya",
-                "https://www.elahmad.com/tv/radiant.php?id=al_thaniya",
-                "https://www.elahmad.com/tv/radiant.php?id=al_thaniya",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almasriyah"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.maspero.eg/stream/4",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/al-masriyah-live.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "Noticias-del-Nilo-tv": {
+    "nombre": "Noticias del Nilo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://geo2.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig",
+        "https://www.maspero.eg/stream"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "egyptian-tv": {
-        "nombre": "Egyptian Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egyptian_tv",
-                "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.maspero.eg/stream",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "al-masriyah-tv": {
+    "nombre": "Al Masriyah Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.maspero.eg/stream/4",
+        "https://geo2.dailymotion.com/player/xi5eg.html?video=x84nun4&playlist=x7zhig",
+        "https://www.elahmad.com/tv/radiant.php?id=almasriyah",
+        "https://geo2.dailymotion.com/player/xi5eg.html?video=x8n6dm7",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=al_thaniya",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=al_thaniya",
+        "https://www.elahmad.com/tv/radiant.php?id=al_thaniya",
+        "https://www.elahmad.com/tv/radiant.php?id=al_thaniya",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=almasriyah"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sada-el-balad-tv": {
-        "nombre": "Sada El Balad",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=sadaelbalad",
-                "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=sadaelbalad",
-                "https://www.elahmad.com/tv/youtube.php?id=BaladtvLive",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elbaladtv2",
-                "https://www.elahmad.com/tv/youtube.php?id=elbaladtv2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=sadadrama",
-                "https://www.elahmad.com/tv/radiant.php?id=sadaelbalad",
-                "https://www.elahmad.com/tv/watchtv.php?id=sadaelbalad",
-                "https://www.elahmad.com/tv/radiant.php?id=sadadrama",
-                "https://www.elahmad.com/tv/radiant.php?id=elbaladtv2",
-                "https://www.elahmad.com/tv/sada-elbaladtv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.maspero.eg/stream/4",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "egyptian-tv": {
+    "nombre": "Egyptian Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=egyptian_tv",
+        "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Al-Kahira-wa-nass-tv": {
-        "nombre": "Al Kahira Wa Nass",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1",
-                "https://www.youtube.com/channel/UCzWdc0aUo0IDk5ysLrt04hw",
-                "https://www.elahmad.com/tv/youtube.php?id=alkaherawalnas1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas2",
-                "https://www.elahmad.com/tv/youtube.php?id=alkaherawalnas2",
-                "https://www.youtube.com/embed/ZRj6QBopxfo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.youtube.com/embed/bwQhWhtipNs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1",
-                "https://www.youtube.com/embed/bwQhWhtipNs?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Ffomny-tv.com%2F&enablejsapi=1&widgetid=1",
-                "https://www.youtube.com/embed/ZRj6QBopxfo?controls=0?autoplay=1?frameborder=0",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "ZRj6QBopxfo?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCzWdc0aUo0IDk5ysLrt04hw",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "sada-el-balad-tv": {
+    "nombre": "Sada El Balad",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/watchtv.php?id=sadaelbalad",
+        "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=sadaelbalad",
+        "https://www.elahmad.com/tv/youtube.php?id=BaladtvLive",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elbaladtv2",
+        "https://www.elahmad.com/tv/youtube.php?id=elbaladtv2",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=sadadrama",
+        "https://www.elahmad.com/tv/radiant.php?id=sadaelbalad",
+        "https://www.elahmad.com/tv/watchtv.php?id=sadaelbalad",
+        "https://www.elahmad.com/tv/radiant.php?id=sadadrama",
+        "https://www.elahmad.com/tv/radiant.php?id=elbaladtv2",
+        "https://www.elahmad.com/tv/sada-elbaladtv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "dmc-tv": {
-        "nombre": "DCM TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-                "https://fomny-tv.com/Television/A-Tv--Egypt.php",
-                "https://www.elahmad.com/tv/watchtv.php?id=dmc",
-                "https://www.elahmad.com/tv/watchtv.php?id=dmc_drama",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "Al-Kahira-wa-nass-tv": {
+    "nombre": "Al Kahira Wa Nass",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1",
+        "https://www.youtube.com/channel/UCzWdc0aUo0IDk5ysLrt04hw",
+        "https://www.elahmad.com/tv/youtube.php?id=alkaherawalnas1",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas2",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas2",
+        "https://www.elahmad.com/tv/youtube.php?id=alkaherawalnas2",
+        "https://www.youtube.com/embed/bwQhWhtipNs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://www.youtube.com/embed/bwQhWhtipNs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://www.youtube.com/embed/bwQhWhtipNs?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Ffomny-tv.com%2F&enablejsapi=1&widgetid=1",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1",
+        "https://www.youtube.com/embed/ZRj6QBopxfo?controls=0?autoplay=1?frameborder=0",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "ZRj6QBopxfo?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "-tv": {
-        "nombre": " TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1",
-                "https://www.elahmad.com/tv/otv_eg.php",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama",
-                "https://www.elahmad.com/tv/radiant.php?id=ontv1",
-                "https://www.elahmad.com/tv/radiant.php?id=on_sport",
-                "https://www.elahmad.com/tv/radiant.php?id=on_drama",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports3"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/otv_eg.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UCzWdc0aUo0IDk5ysLrt04hw",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "dmc-tv": {
+    "nombre": "DCM TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+        "https://www.elahmad.com/tv/watchtv.php?id=dmc",
+        "https://www.elahmad.com/tv/watchtv.php?id=dmc_drama",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Extra-news-tv": {
-        "nombre": "Extra News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/U9woNTV6jdE?controls=0?autoplay=1?frameborder=0",
-                "https://fomny-tv.com/Video-5/Egypt/Extra-news/Extra-news.php",
-                "https://www.elahmad.com/tv/youtube.php?id=CBCEgyptPlus",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
-                "https://www.youtube.com/embed/H_RCQLDGbu0?controls=0?autoplay=1?frameborder=0",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_sofra",
-                "https://www.elahmad.com/tv/watchtv.php?id=cbc_sofra"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://fomny-tv.com/Video-5/Egypt/Extra-news/Extra-news.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+    "país": "es",
+    "categoría": "news"
+  },
+  "ontv1": {
+    "nombre": "ONTV1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1",
+        "https://www.elahmad.com/tv/otv_eg.php",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama",
+        "https://www.elahmad.com/tv/radiant.php?id=ontv1",
+        "https://www.elahmad.com/tv/radiant.php?id=on_sport",
+        "https://www.elahmad.com/tv/radiant.php?id=on_drama",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports3"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "zamalek-tv": {
-        "nombre": "Zamalek TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek",
-                "https://fomny-tv.com/Video-5/Egypt/Zamalek-TV/Zamalek-TV.php",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://fomny-tv.com/Video-5/Egypt/Zamalek-TV/Zamalek-TV.php",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/otv_eg.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "Extra-news-tv": {
+    "nombre": "Extra News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/U9woNTV6jdE?controls=0?autoplay=1?frameborder=0",
+        "https://fomny-tv.com/Video-5/Egypt/Extra-news/Extra-news.php",
+        "https://www.elahmad.com/tv/youtube.php?id=CBCEgyptPlus",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
+        "https://www.youtube.com/embed/H_RCQLDGbu0?controls=0?autoplay=1?frameborder=0",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_sofra",
+        "https://www.elahmad.com/tv/watchtv.php?id=cbc_sofra"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "alhayat-tv": {
-        "nombre": "alhayat TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_drama",
-                "https://www.elahmad.com/tv/",
-                "https://www.elahmad.com/tv/watchtv.php?id=alhayat_drama",
-                "https://www.elahmad.com/tv/watchtv.php?id=alhayat",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://fomny-tv.com/Video-5/Egypt/Extra-news/Extra-news.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "zamalek-tv": {
+    "nombre": "Zamalek TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek",
+        "https://fomny-tv.com/Video-5/Egypt/Zamalek-TV/Zamalek-TV.php",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-mehwar-tv": {
-        "nombre": "El Mehwar TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elmehwar",
-                "https://www.elahmad.com/tv/elmehwartv.htm",
-                "https://www.elahmad.com/tv/radiant.php?id=elmehwar",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=elmehwar"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/elmehwartv.htm",
-        "país": "eg",
-        "categoría": "news"
+    "sitio_oficial": "https://fomny-tv.com/Video-5/Egypt/Zamalek-TV/Zamalek-TV.php",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "alhayat-tv": {
+    "nombre": "alhayat TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_drama",
+        "https://www.elahmad.com/tv/",
+        "https://www.elahmad.com/tv/watchtv.php?id=alhayat_drama",
+        "https://www.elahmad.com/tv/watchtv.php?id=alhayat",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtve-Noticias": {
-        "nombre": "RTVE Noticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
-                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
-                "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/"
-            ],
-            "m3u8_url": [
-                "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-                "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-                "https://ztnr.rtve.es/ztnr/1688885.m3u8",
-                "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
-            ],
-            "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rtve.es/noticias",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "el-mehwar-tv": {
+    "nombre": "El Mehwar TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elmehwar",
+        "https://www.elahmad.com/tv/elmehwartv.htm",
+        "https://www.elahmad.com/tv/radiant.php?id=elmehwar",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=elmehwar"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "malaga24h": {
-        "nombre": "Málaga 24h TV Noticias",
-        "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://canalmalaga.es/tv-directo",
-                "https://www.canalsur.es/tv_directo-1193.html",
-                "https://iteleflix.com/ver/7-tv-sevilla-en-directo-online/",
-                "https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html",
-                "https://www.ptvtelecom.com/tv-en-directo/",
-                "https://www.101tv.es/sevilla/directosevilla/",
-                "https://ondacadiz.es/television-directo",
-                "http://test.jawaltv.com/spain/watch/tv/m95.php",
-                "https://tv.libertaddigital.com/directo.html",
-                "https://www.101tv.es/endirecto101tv/"
-            ],
-            "m3u8_url": [
-                "https://streaming004.gestec-video.com/hls/7TVSEVILLA.m3u8"
-            ],
-            "yt_id": "UCoMWImnPAur6JhXDK63dpAg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://malaga24h.com/directo-de-malaga-24-horas/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/elmehwartv.htm",
+    "país": "eg",
+    "categoría": "news"
+  },
+  "rtve-Noticias": {
+    "nombre": "RTVE Noticias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
+        "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
+        "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/"
+      ],
+      "m3u8_url": [
+        "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+        "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+        "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+        "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
+      ],
+      "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "television-de-galicia": {
-        "nombre": "Televisión de Galicia",
-        "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.agalega.gal/",
-                "https://agalega.gal/videos/76475-tvg",
-                "https://www.agalega.gal/videos/77550-tv-g2",
-                "https://www.agalega.gal/videos/77552-en-directo-radio-galega",
-                "https://www.agalega.gal/videos/76478-mira-rg"
-            ],
-            "m3u8_url": [
-                "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
-                "https://crtvg-radiogalega-hls.flumotion.cloud/chunklist_DVR.m3u8",
-                "https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8",
-                "https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8"
-            ],
-            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TVG",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.rtve.es/noticias",
+    "país": "es",
+    "categoría": "news"
+  },
+  "malaga24h": {
+    "nombre": "Málaga 24h TV Noticias",
+    "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://canalmalaga.es/tv-directo",
+        "https://www.canalsur.es/tv_directo-1193.html",
+        "https://iteleflix.com/ver/7-tv-sevilla-en-directo-online/",
+        "https://www.la7tv.es/video/a-la-carta/7tv-en-directo/20220810150726000939.html",
+        "https://www.ptvtelecom.com/tv-en-directo/",
+        "https://www.101tv.es/sevilla/directosevilla/",
+        "https://ondacadiz.es/television-directo",
+        "http://test.jawaltv.com/spain/watch/tv/m95.php",
+        "https://tv.libertaddigital.com/directo.html",
+        "https://www.101tv.es/endirecto101tv/"
+      ],
+      "m3u8_url": [
+        "https://streaming004.gestec-video.com/hls/7TVSEVILLA.m3u8"
+      ],
+      "yt_id": "UCoMWImnPAur6JhXDK63dpAg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Mírame-Televisión-more4-la7": {
-        "nombre": "Mírame Televisión - More4 - la7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://mirametv.com/",
-                "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
-                "https://www.currenttime.tv/embed/player/1/92.html?type=video",
-                "https://www.livehdtv.com/token.php?stream=more4",
-                "https://www.livehdtv.com/token.php?stream=more4",
-                "https://www.livehdtv.com/more4/2/",
-                "https://www.cyltv.es/live/la7",
-                "https://7tvandalucia.es/portada/"
-            ],
-            "m3u8_url": [
-                "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
-                "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
-            ],
-            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://martv.live/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://malaga24h.com/directo-de-malaga-24-horas/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "television-de-galicia": {
+    "nombre": "Televisión de Galicia",
+    "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.agalega.gal/",
+        "https://agalega.gal/videos/76475-tvg",
+        "https://www.agalega.gal/videos/77550-tv-g2",
+        "https://www.agalega.gal/videos/77552-en-directo-radio-galega",
+        "https://www.agalega.gal/videos/76478-mira-rg"
+      ],
+      "m3u8_url": [
+        "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8",
+        "https://crtvg-radiogalega-hls.flumotion.cloud/chunklist_DVR.m3u8",
+        "https://crtvg-mirarg-schlive.flumotion.cloud/crtvglive/smil:channel1PRG.smil/chunklist_b2200000.m3u8",
+        "https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8"
+      ],
+      "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "televisioncanaria": {
-        "nombre": "TelevisionCanaria",
-        "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://rtvc.es/en-directo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtvc.es/en-directo/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@TVG",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Mírame-Televisión-more4-la7": {
+    "nombre": "Mírame Televisión - More4 - la7",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://mirametv.com/",
+        "https://mijascomunicacion.com/mijas-340-tv-en-directo/",
+        "https://www.currenttime.tv/embed/player/1/92.html?type=video",
+        "https://www.livehdtv.com/token.php?stream=more4",
+        "https://www.livehdtv.com/token.php?stream=more4",
+        "https://www.livehdtv.com/more4/2/",
+        "https://www.cyltv.es/live/la7",
+        "https://7tvandalucia.es/portada/"
+      ],
+      "m3u8_url": [
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+      ],
+      "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "camarasdetraficodevigo8409": {
-        "nombre": "Cámaras de tráfico de Vigo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC30mmDZa-tMpIS-cIXoErsA",
-            "yt_embed": "z1E5ciDe3a0",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
-        "país": "es",
-        "categoría": "camera"
+    "sitio_oficial": "https://martv.live/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "televisioncanaria": {
+    "nombre": "TelevisionCanaria",
+    "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://rtvc.es/en-directo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-confidencial": {
-        "nombre": "El Confidencial",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.hispanochannel.tv/el-confidencial/"
-            ],
-            "m3u8_url": [
-                "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hispanochannel.tv/el-confidencial/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://rtvc.es/en-directo/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "camarasdetraficodevigo8409": {
+    "nombre": "Cámaras de tráfico de Vigo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC30mmDZa-tMpIS-cIXoErsA",
+      "yt_embed": "z1E5ciDe3a0",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "condado-vision": {
-        "nombre": "condado vision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/player/?url=5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
-                "https://www.mitele.uno/condado-vision/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/condado-vision/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
+    "país": "es",
+    "categoría": "camera"
+  },
+  "el-confidencial": {
+    "nombre": "El Confidencial",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.hispanochannel.tv/el-confidencial/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-sur": {
-        "nombre": "canal sur",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/canal-sur/",
-                "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-sur/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.hispanochannel.tv/el-confidencial/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "condado-vision": {
+    "nombre": "condado vision",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://condavision.es/en-directo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "la-7-murcia": {
-        "nombre": "la 7 murcia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/la-7-murcia/",
-                "https://app.enlatele.tv/player-es/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8",
-                "https://www.mitele.uno/player/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/la-7-murcia/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://condavision.es/en-directo/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-sur": {
+    "nombre": "canal sur",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mitele.uno/canal-sur/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-10-emporda": {
-        "nombre": "canal 10 emporda",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/canal-10-emporda/",
-                "https://app.enlatele.tv/player-es/?url=ventdelnord.tv:8080/escala/directe.m3u8",
-                "https://www.mitele.uno/player/?url=ventdelnord.tv:8080/escala/directe.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-10-emporda/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/canal-sur/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "la-7-murcia": {
+    "nombre": "la 7 murcia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mitele.uno/la-7-murcia/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "9-la-loma-tv": {
-        "nombre": "9 la loma tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/9-la-loma-tv/",
-                "https://app.enlatele.tv/player-es/?url=directo.9laloma.tv/live/720.m3u8",
-                "https://www.mitele.uno/player/?url=directo.9laloma.tv/live/720.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/9-la-loma-tv/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/la-7-murcia/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-10-emporda": {
+    "nombre": "canal 10 emporda",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mitele.uno/canal-10-emporda/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-4-mancha-centro": {
-        "nombre": "canal 4 mancha centro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/canal-4-mancha-centro/",
-                "https://app.enlatele.tv/player-es/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
-                "https://www.mitele.uno/player/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-4-mancha-centro/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/canal-10-emporda/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "9-la-loma-tv": {
+    "nombre": "9 la loma tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mitele.uno/9-la-loma-tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-4-tenerife": {
-        "nombre": "canal 4 tenerife",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/canal-4-tenerife/",
-                "https://videoserver.tmcreativos.com:2020/VideoPlayer/ccxwhsfcnq?autoplay=1",
-                "https://www.canal4tenerife.tv/directo/"
-            ],
-            "m3u8_url": [
-                "https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-4-tenerife/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/9-la-loma-tv/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-4-mancha-centro": {
+    "nombre": "canal 4 mancha centro",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mitele.uno/canal-4-mancha-centro/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-4-TELEVISION": {
-        "nombre": "canal 4 TELEVISION",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
-                "https://tvcuatro.tv/4-1/",
-                "https://www.cuatro.com/en-directo/",
-                "https://canal4jujuy.elcuatro.com/",
-                "https://www.canal4tenerife.tv/directo/",
-                "https://www.mitele.es/directo/cuatro/",
-                "https://www.canal4.com.ni/en-vivo/",
-                "https://eltorotv.com/directo-tv",
-                "https://misionescuatro.com/",
-                "https://www.elcuatro.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "socialclub977"
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-4-4/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/canal-4-mancha-centro/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-4-tenerife": {
+    "nombre": "canal 4 tenerife",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mitele.uno/canal-4-tenerife/",
+        "https://videoserver.tmcreativos.com:2020/VideoPlayer/ccxwhsfcnq?autoplay=1",
+        "https://www.canal4tenerife.tv/directo/"
+      ],
+      "m3u8_url": [
+        "https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cuatro-4-TELEVISION-es": {
-        "nombre": "Cuatro 4 TELEVISION ES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://nebunexa.co/clappr/?id=CUATRO",
-                "https://www.mitele.uno/cuatro/",
-                "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
-                "https://tele-libre.org/en-vivo-online/la-cuatro/embed2.php"
-            ],
-            "m3u8_url": [
-                "https://tvnoov.com/application/player/?id=/fadoo/cuatrohd.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/cuatro/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/canal-4-tenerife/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-4-TELEVISION": {
+    "nombre": "canal 4 TELEVISION",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
+        "https://tvcuatro.tv/4-1/",
+        "https://www.cuatro.com/en-directo/",
+        "https://canal4jujuy.elcuatro.com/",
+        "https://www.canal4tenerife.tv/directo/",
+        "https://www.mitele.es/directo/cuatro/",
+        "https://www.canal4.com.ni/en-vivo/",
+        "https://eltorotv.com/directo-tv",
+        "https://misionescuatro.com/",
+        "https://www.elcuatro.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "socialclub977"
     },
-    "Telecinco-5-Canal-Coín-Radio-Televisión": {
-        "nombre": "Telecinco 5 - Canal Coín Radio y Televisión",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/telecinco/embed.php",
-                "https://teleonline.org/canal/informacion-tv/",
-                "https://teleonline.org/canal/canal-coin/",
-                "https://www.mitele.es/directo/telecinco/",
-                "https://canalcoin.com/tv-directo/",
-                "https://www.telecinco.es/endirecto/"
-            ],
-            "m3u8_url": [
-                "https://tvnoov.com/application/player/?id=/fadoo/telecincohd.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "informaciontv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/informaciontv",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/canal-4-4/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "cuatro-4-TELEVISION-es": {
+    "nombre": "Cuatro 4 TELEVISION ES",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://nebunexa.co/clappr/?id=CUATRO",
+        "https://www.cuatro.com/en-directo/",
+        "https://www.mitele.uno/cuatro/",
+        "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
+        "https://tele-libre.org/en-vivo-online/la-cuatro/embed2.php"
+      ],
+      "m3u8_url": [
+        "https://tvnoov.com/application/player/?id=/fadoo/cuatrohd.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-3-24": {
-        "nombre": "canal 3-24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/player/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8",
-                "https://www.mitele.uno/canal-3-24/",
-                "https://app.enlatele.tv/player-es/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-3-24/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mitele.uno/cuatro/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Telecinco-5-Canal-Coín-Radio-Televisión": {
+    "nombre": "Telecinco 5 - Canal Coín Radio y Televisión",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telecinco.es/endirecto/#utm_source=directo_desktop",
+        "https://teleonline.org/canal/informacion-tv/",
+        "https://teleonline.org/canal/canal-coin/",
+        "https://www.mitele.es/directo/telecinco/",
+        "https://canalcoin.com/tv-directo/",
+        "https://www.telecinco.es/endirecto/"
+      ],
+      "m3u8_url": [
+        "https://tvnoov.com/application/player/?id=/fadoo/telecincohd.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "informaciontv"
     },
-    "cnnee": {
-        "nombre": "CNN en Español",
-        "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://tviplayer.iol.pt/direto/CNN",
-                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPW9kaXNlYQ=="
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cnnespanol.cnn.com/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/informaciontv",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-3-24": {
+    "nombre": "canal 3-24",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.3cat.cat/3cat/directes/3catinfo-tv/#so_id=7&desplacament=123&start=1767524402",
+        "https://www.3cat.cat/3cat/directes/3catinfo-tv/"
+      ],
+      "m3u8_url": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8?start=1767524402&start-tag=true"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.mitele.uno/canal-3-24/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "cnee": {
+    "nombre": "CNN en Español",
+    "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://cnnportugal.iol.pt/direto",
+        "https://tviplayer.iol.pt/direto/CNN",
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://cnnespanol.cnn.com/",
+    "país": "pt",
+    "categoría": "news"
+  },
     "nuestra-comarca-television": {
         "nombre": "nuestra comarca television Toros",
         "logo": "",
