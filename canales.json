@@ -9000,111 +9000,128 @@
         "país": "cr",
         "categoría": "news"
     },
-    "plous-tv": {
-        "nombre": "Plous TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3437&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/plous-tv"
-            ],
-            "m3u8_url": [
-                "https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1288032643.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/plous-tv",
-        "país": "cr",
-        "categoría": "news"
+  "plous-tv": {
+    "nombre": "Plous TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3437&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/plous-tv"
+      ],
+      "m3u8_url": [
+        "https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1288032643.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-tiempo": {
-        "nombre": "EL TIEMPO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eltiempo.com/",
-        "país": "co",
-        "categoría": "news"
+    "sitio_oficial": "https://www.vivalivetv.com/channel/plous-tv",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "el-tiempo": {
+    "nombre": "EL TIEMPO",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "noticias-caracol": {
-        "nombre": "Noticias Caracol - Señal Colombia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3",
-                "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
-                "https://embed.saohgdasregions.fun/embed/caracol.html",
-                "https://tv.garden/co/ugDDmzcLdJhWCd",
-                "https://5900.tv/noticias-caracol-tv-colombia-en-vivo/",
-                "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
-                "https://www.noticiascaracol.com/senal-en-vivo",
-                "https://cdn.chatytvgratis.net/embed.php?id=sencol",
-                "https://deporflix.com/canales/caracol-tv/",
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
-                "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
-                "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
-                "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0",
-                "https://www.chatytvgratis.net/caracol-colombia/",
-                "https://www.tvporinternet.org/2025/05/Canal-Caracol-en-Vivo-por-Internet.html",
-                "https://www.tvporinternet.org/2025/06/Senal-colombia-en-vivo-hd.html",
-                "https://cdn.chatytvgratis.net/sencol02.php",
-                "https://ssh101.com/securelive/index.php?id=c2jultenok",
-                "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3"
-            ],
-            "m3u8_url": [
-                "https://live20.bozztv.com/giatv/giatv-scjulsevscjulsev/scjulsevscjulsev/chunks.m3u8"
-            ],
-            "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.noticiascaracol.com/ahora",
-        "país": "co",
-        "categoría": "news"
+    "sitio_oficial": "https://www.eltiempo.com/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "noticias-caraco": {
+    "nombre": "Noticias Caracol - Señal Colombia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3",
+        "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
+        "https://embed.saohgdasregions.fun/embed/caracol.html",
+        "https://tv.garden/co/ugDDmzcLdJhWCd",
+        "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
+        "https://5900.tv/noticias-caracol-tv-colombia-en-vivo/",
+        "https://www.noticiascaracol.com/senal-en-vivo",
+        "https://cdn.chatytvgratis.net/embed.php?id=sencol",
+        "https://deporflix.com/canales/caracol-tv/",
+        "https://deporflix.com/canales/caracol-tv/",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
+        "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
+        "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0",
+        "https://www.chatytvgratis.net/caracol-colombia/",
+        "https://www.tvporinternet.org/2025/05/Canal-Caracol-en-Vivo-por-Internet.html",
+        "https://www.tvporinternet.org/2025/06/Senal-colombia-en-vivo-hd.html",
+        "https://cdn.chatytvgratis.net/sencol02.php",
+        "https://ssh101.com/securelive/index.php?id=c2jultenok",
+        "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3"
+      ],
+      "m3u8_url": [
+        "https://video.ejeserver.com/live/teledoradahd.m3u8",
+        "https://github.com/caliwyr/Software/blob/00c10301dc4a4b6ceba7eaebcc1c4171f17192f6/IPTV/co.m3u#L4"
+      ],
+      "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+      "yt_embed": "ZA6YS0CYoTA?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Caracol-Televisión": {
-        "nombre": "Caracol Televisión",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCcpE1fmG2qBZatj28bak2ng",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@caracoltv",
-        "país": "co",
-        "categoría": "news"
+    "sitio_oficial": "https://www.noticiascaracol.com/ahora",
+    "país": "co",
+    "categoría": "news"
+  },
+  "Caracol-Televisión": {
+    "nombre": "Caracol Televisión",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCcpE1fmG2qBZatj28bak2ng",
+      "yt_embed": "r3ApAhHiJcE?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Noticiero90Minutos-co": {
-        "nombre": "Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca) - uvatvhd rd",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=uvatvhdrd",
-                "https://ssh101.com/securelive/index.php?id=myenergiatv",
-                "https://90minutos.co/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://90minutos.co/",
-        "país": "co",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@caracoltv",
+    "país": "co",
+    "categoría": "music"
+  },
+  "Noticiero90Minutos-co": {
+    "nombre": "Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca) - uvatvhd rd",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ssh101.com/securelive/index.php?id=uvatvhdrd",
+        "https://ssh101.com/securelive/index.php?id=myenergiatv",
+        "https://90minutos.co/en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://90minutos.co/",
+    "país": "co",
+    "categoría": "music"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "music"
+  },
     "avivamiento-tv-online": {
         "nombre": "Avivamiento TV Cristiana",
         "logo": "",
