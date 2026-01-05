@@ -76,10 +76,25 @@
       ],
       "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
       "yt_embed": "YFAYLjGro84?",
-      "yt_playlist": "",
+      "yt_playlist": "cfxV-pQ2c0U?",
       "twitch_id": "meganoticiascl"
     },
     "sitio_oficial": "https://www.mega.cl/",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "MEGA-Oficial": {
+    "nombre": "MEGA Oficial",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCEpId-jtRABuZyX6D2z6FZQ",
+      "yt_embed": "zlhH_QNMkMs?",
+      "yt_playlist": "https://www.mega.cl/",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@megaoficial",
     "país": "cl",
     "categoría": "news"
   },
@@ -144,7 +159,7 @@
         "https://github.com/Betito24/casa/blob/df7d379faee601ef0d229c40a4948c7babe74936/casa#L2196"
       ],
     "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-    "yt_embed": "",
+    "yt_embed": "4mS6u0eDpD4?",
     "yt_playlist": "",
     "twitch_id": ""
     },
@@ -33887,26 +33902,28 @@
     "país": "us",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "CNN-en-Español": {
+    "nombre": "CNN en Español",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
+      "yt_embed": "Qr61waJ6AZg?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@cnnee",
     "país": "us",
     "categoría": "news"
   },
-  "cnn-TVmas-Unbeaten": {
-    "nombre": "CNN - TV+ - Unbeaten",
+  "cnn-TVmas-Unbeaten-CNN-News18": {
+    "nombre": "CNN - TV+ - CNN-News18 - Unbeaten",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "",
+        "https://www.news18.com/",
         "https://iteleflix.com/ver/cnn-en-directo-online/",
         "https://www.livehdtv.com/yayin/?kanal=612&yayin=&guvenlik=$2y$10$Y.XhfsncgmPZCGXbrKEe/.BIgvod5qiBHGfjOPeaKxKqUeh5NdYda",
         "https://www.livehdtv.com/ch612/1/",
@@ -33928,8 +33945,8 @@
         "https://i.mjh.nz/world/",
         "https://github.com/caliwyr/Software/blob/00c10301dc4a4b6ceba7eaebcc1c4171f17192f6/IPTV/us_tcl.m3u"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCef1-8eOpJgud7szVPlZQAQ",
+      "yt_embed": "MXNEtHeXj1U?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -34612,19 +34629,21 @@
     "país": "us",
     "categoría": "news"
   },
-  "fox-soul": {
-    "nombre": "Fox Soul",
+  "fox-soul-LiveNOW-from-FOX": {
+    "nombre": "Fox Soul - LiveNOW from FOX",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.livestreamtvhub.com/us/culture/fox-soul-foxsoulus-1080p-505",
-        "https://foxsoul.tv/"
+        "https://foxsoul.tv/",
+        "https://www.livenowfox.com/"
       ],
       "m3u8_url": [
-        "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
+        "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+        "https://www.youtube.com/watch?v=4nMfRpesYfw"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+      "yt_embed": "4nMfRpesYfw?",
       "yt_playlist": "",
       "twitch_id": ""
     },
