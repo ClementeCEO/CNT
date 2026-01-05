@@ -34416,8 +34416,8 @@
     "país": "us",
     "categoría": "news"
   },
-  "Telemundo47-NewYork-Noreste": {
-    "nombre": "Telemundo47 NEWYORK NORESTE",
+  "Telemundo47-NewYork-Noreste-Noticias-Telemundo": {
+    "nombre": "Telemundo47 NEWYORK NORESTE - Noticias Telemundo AHORA",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -34425,8 +34425,8 @@
         "https://www.telemundo47.com/noticias/puerto-rico/mira-aqui-nuestra-programacion-en-vivo-3/2014133/"
       ],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
+      "yt_embed": "c660thEPeeY?",
       "yt_playlist": "",
       "twitch_id": ""
     },
