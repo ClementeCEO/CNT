@@ -4,6 +4,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
     "señales": {
       "iframe_url": [
+        "https://www.channelstv.com/live/",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCTXNz3gjAypWp3EhlIATEJQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&player=585a9076c4b653ae71315e55&custom.preroll=sz%3D640x480%26iu%3D%2F317342475%2F24horas_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3Dhttps%3A%2F%2Fwww.24horas.cl%2Felecciones-2021%2F%26correlator%3D%5Btimestamp%5D&custom.overlay=sz%3D640x480%26iu%3D%2F317342475%2F24horas_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3Dhttps%3A%2F%2Fwww.24horas.cl%2Felecciones-2021%2F%26correlator%3D%5Btimestamp%5D",
         "https://www.viendotele.cl/",
@@ -9020,11 +9021,15 @@
     "categoría": "news"
   },
   "el-tiempo": {
-    "nombre": "EL TIEMPO",
-    "logo": "",
+    "nombre": "EL TIEMPO - Canal 45 TV",
+    "logo": "https://diretele.com/wp-content/uploads/2019/03/Canal-45-Ja%C3%A9n-en-directo-100x70.png",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+        "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+        "https://github.com/pertenet/listasSSIPTV/blob/6db6ed95b6213673c6dc3639a2164a38025168e6/TDT_TV.m3u"
+      ],
       "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
       "yt_embed": "",
       "yt_playlist": "",
@@ -9074,11 +9079,16 @@
     "categoría": "news"
   },
   "Caracol-Televisión": {
-    "nombre": "Caracol Televisión",
+    "nombre": "Caracol Televisión - NumberOne Turquía #",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/"
+      ],
+      "m3u8_url": [
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+        "https://github.com/pertenet/listasSSIPTV/blob/6db6ed95b6213673c6dc3639a2164a38025168e6/TDT_TV.m3u"
+      ],
       "yt_id": "UCcpE1fmG2qBZatj28bak2ng",
       "yt_embed": "r3ApAhHiJcE?",
       "yt_playlist": "",
