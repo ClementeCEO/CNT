@@ -9039,7 +9039,7 @@
     "país": "co",
     "categoría": "news"
   },
-  "noticias-caraco": {
+  "noticias-caracol": {
     "nombre": "Noticias Caracol - Señal Colombia",
     "logo": "",
     "señales": {
@@ -45744,123 +45744,142 @@
         "país": "kp",
         "categoría": "news"
     },
-    "alsahraatv-Navez": {
-        "nombre": "alsahraatv Navez",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alsahraatv",
-                "https://www.elahmad.com/tv/youtube.php?id=alsahraatv1",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=alsahraatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alsahraatv.php",
-        "país": "sa",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ssc-sport-Navez": {
-        "nombre": "ssc sport Navez",
-        "logo": "http://www.elahmad.com/tv/images/og_video.png",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=SSC-1-HD",
-                "http://azrotv.com/pyr/?id=http://5.62.130.10:80/iptv/iptv/12.m3u8",
-                "https://azrotv.com/local/ssc/sn.php",
-                "https://azrotv.com/local/ssc/s1.php",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/ssc-sport-live.php",
-        "país": "sa",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "alsahraatv-Navez": {
+    "nombre": "alsahraatv Navez",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/radiant.php?id=alsahraatv",
+        "https://www.elahmad.com/tv/youtube.php?id=alsahraatv1",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=alsahraatv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ZEE-Navez": {
-        "nombre": "ZEE Navez",
-        "logo": "https://tv.tflix.app/wp-content/uploads/2024/08/tflix.webp",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=ZEE-ALWAN",
-                "http://azrotv.com/m3u8/geo/?id=zeeaflam",
-                "http://azrotv.com/m3u8/san-ts/?id=ZEE-AFLAM",
-                "http://azrotv.com/m3u8/geo/?id=zeealwan"
-            ],
-            "m3u8_url": [
-                "https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8",
-                "https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/zeeal.php",
-        "país": "sa",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/alsahraatv.php",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "ssc-sport-Navez": {
+    "nombre": "ssc sport Navez",
+    "logo": "http://www.elahmad.com/tv/images/og_video.png",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=SSC-1-HD",
+        "http://azrotv.com/pyr/?id=http://5.62.130.10:80/iptv/iptv/12.m3u8",
+        "https://azrotv.com/local/ssc/sn.php",
+        "https://azrotv.com/local/ssc/s1.php",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "mbfm-Navez": {
-        "nombre": "Mbfm Navez",
-        "logo": "https://tv.tflix.app/wp-content/uploads/2024/08/tflix.webp",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/pyr/?id=https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"
-            ],
-            "m3u8_url": [
-                "http://azrotv.com/pyr/?id=https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
-                "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_4.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/mbfm.php",
-        "país": "sa",
-        "categoría": "news"
+    "sitio_oficial": "https://www.elahmad.com/tv/ssc-sport-live.php",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "ZEE-Navez": {
+    "nombre": "ZEE Navez",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=ZEE-ALWAN",
+        "http://azrotv.com/m3u8/geo/?id=zeeaflam",
+        "http://azrotv.com/m3u8/san-ts/?id=ZEE-AFLAM",
+        "http://azrotv.com/m3u8/geo/?id=zeealwan"
+      ],
+      "m3u8_url": [
+        "https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8",
+        "https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "asharq-news-Navez": {
-        "nombre": "asharq news Navez Business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
-                "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
-                "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
-                "https://asharq.com/live/"
-            ],
-            "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
-            ],
-            "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
-            "yt_embed": "f6VpkfV7m4Y?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
-        "país": "sa",
-        "categoría": "news"
+    "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/zeeal.php",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "mbfm-Navez": {
+    "nombre": "Mbfm Navez",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/pyr/?id=https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"
+      ],
+      "m3u8_url": [
+        "http://azrotv.com/pyr/?id=https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
+        "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_4.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/mbfm.php",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "asharq-news-Navez": {
+    "nombre": "asharq news Navez Business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "https://www.elahmad.com/tv/asharq-news-live.php",
+        "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
+        "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
+        "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
+        "https://asharq.com/live/",
+        "http://azrotv.com/iphone/arabic/ch2/asharq_news.php",
+        "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
+        "https://www.youtube.com/watch?v=f6VpkfV7m4Y"
+      ],
+      "m3u8_url": [
+        "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
+      ],
+      "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
+      "yt_embed": "f6VpkfV7m4Y?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
+    "país": "sa",
+    "categoría": "news"
+  },
     "iqraa-Navez": {
         "nombre": "Iqraa Navez",
         "logo": "",
