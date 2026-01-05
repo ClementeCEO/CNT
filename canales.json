@@ -14006,24 +14006,6 @@
     "país": "es",
     "categoría": "news"
   },
-  "cnee": {
-    "nombre": "CNN en Español",
-    "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [
-        "https://cnnportugal.iol.pt/direto",
-        "https://tviplayer.iol.pt/direto/CNN"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://cnnespanol.cnn.com/",
-    "país": "pt",
-    "categoría": "news"
-  },
     "nuestra-comarca-television": {
         "nombre": "nuestra comarca television Toros",
         "logo": "",
@@ -33902,6 +33884,24 @@
     "país": "us",
     "categoría": "news"
   },
+  "cnee": {
+    "nombre": "CNN en Español",
+    "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://cnnportugal.iol.pt/direto",
+        "https://tviplayer.iol.pt/direto/CNN"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://cnnespanol.cnn.com/",
+    "país": "pt",
+    "categoría": "news"
+  },
   "CNN-en-Español": {
     "nombre": "CNN en Español",
     "logo": "",
@@ -33922,7 +33922,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "",
         "https://www.news18.com/",
         "https://iteleflix.com/ver/cnn-en-directo-online/",
         "https://www.livehdtv.com/yayin/?kanal=612&yayin=&guvenlik=$2y$10$Y.XhfsncgmPZCGXbrKEe/.BIgvod5qiBHGfjOPeaKxKqUeh5NdYda",
@@ -34134,6 +34133,25 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.cbs58.com/stream/live-stream-1",
+    "país": "us",
+    "categoría": "news"
+  },
+  "WQOW-18-NEWS": {
+    "nombre": "WQOW 18 NEW",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.wowt.com/livestream/",
+        "https://www.wqow.com/livestream/",
+        "https://www.wqow.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCWZ6ll839N3RC2J5Uqlxg9g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.wqow.com/",
     "país": "us",
     "categoría": "news"
   },
