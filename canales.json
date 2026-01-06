@@ -19750,245 +19750,293 @@
         "país": "pa",
         "categoría": "news"
     },
-    "tv-peru": {
-        "nombre": "TVPerú Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://irtp-player.iblups.com/tvperuhd",
-                "https://iblups.com/e_tvperu73",
-                "https://irtp-player.iblups.com/tvperunoticias",
-                "https://iblups.com/e_tvperuHD",
-                "https://irtp-player.iblups.com/tvperuinternacional",
-                "https://iblups.com/e_tvperu72",
-                "https://iblups.com/mastertvangra",
-                "https://iblups.com/metaleitortv2",
-                "https://iblups.com/triunforadiotv",
-                "https://iblups.com/tvsanjua",
-                "https://iblups.com/tvupando",
-                "https://iblups.com/tvelohimhouston",
-                "https://iblups.com/ztvaqp"
-            ],
-            "m3u8_url": [
-                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
-                "https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8",
-                "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
-                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
-                "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
-            ],
-            "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
-            "yt_embed": "Z32evS15N-g?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvperu.gob.pe/noticias/play",
-        "país": "pe",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "panamericana-tv-JaymarTV-HOYPERUTVCAJAMARCA-ANDINOTVHUARAZ": {
-        "nombre": "Panamericana TV - JaymarTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://panamericana.pe/tvenvivo/",
-                "https://iblups.com/embed/panamericanape",
-                "https://iblups.com/ficoatv",
-                "https://iblups.com/portalregionalnews",
-                "https://player.kick.com/ptv5",
-                "http://181.78.7.90:12500/play/a0gh",
-                "https://www.radiojaymar.com/?fbclid=IwY2xjawMB5v9leHRuA2FlbQIxMABicmlkETBzVDZsYnhsV09IUDROZ3hYAR4nAplBXXvvZcKLVJtlj0vy8v2XJmkO2y7ftCwsBIc2ceCxi7KUWiWJ1R-Atw_aem_mWIt4I1NdbW_4PEX5QL0uA",
-                "https://iblups.com/e_ptvpe",
-                "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
-                "https://gia.tv/watchssh101.php?sn=jaymar",
-                "https://gia.tv/watchssh101.php?sn=dball",
-                "https://gia.tv/watchssh101.php?sn=NEOMIXHD",
-                "https://gia.tv/watchssh101.php?sn=Supercanal",
-                "https://gia.tv/watchssh101.php?sn=quilpueo196208"
-            ],
-            "m3u8_url": [
-                "https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8",
-                "https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8",
-                "https://live-evg25.tv360.bitel.com.pe/bitel/andinotv/chunks.m3u8",
-                "https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8",
-                "https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8",
-                "https://live20.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8",
-                "https://www.facebook.com/radiojaymar95.1fm"
-            ],
-            "yt_id": "UCngb4rxO4iUE6BrIs29WXwA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "panamericanatvpe"
-        },
-        "sitio_oficial": "https://panamericana.pe/tvenvivo",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "tv-peru": {
+    "nombre": "TVPerú Noticias",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://irtp-player.iblups.com/tvperuhd",
+        "https://iblups.com/e_tvperu73",
+        "https://irtp-player.iblups.com/tvperunoticias",
+        "https://iblups.com/e_tvperuHD",
+        "https://irtp-player.iblups.com/tvperuinternacional",
+        "https://iblups.com/e_tvperu72",
+        "https://iblups.com/mastertvangra",
+        "https://iblups.com/metaleitortv2",
+        "https://iblups.com/triunforadiotv",
+        "https://iblups.com/tvsanjua",
+        "https://iblups.com/tvupando",
+        "https://iblups.com/tvelohimhouston",
+        "https://iblups.com/ztvaqp"
+      ],
+      "m3u8_url": [
+        "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+        "https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8",
+        "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+        "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+        "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
+      ],
+      "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
+      "yt_embed": "Z32evS15N-g?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tumpis-tv-tvperuanisima-N-CANAL": {
-        "nombre": "⭐UMPIS - TVperuanisima -boomixtv - N CANAL⭐",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://telezeta.cl/#tropical",
-                "https://v2.ssh101.com/detailng.php?id=tlzeta",
-                "https://v2.ssh101.com/detailng.php?id=boomixtv",
-                "https://tumpistv.pe/transmision-en-vivo-tumpis-tv/",
-                "https://tvperuanisima.com/"
-            ],
-            "m3u8_url": [
-                "http://177.234.230.206:8011/play/a02d/index.m3u8",
-                "https://servilive.com:3531/stream/play.m3u8",
-                "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tumpistv.pe/",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://www.tvperu.gob.pe/noticias/play",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "panamericana-tv-JaymarTV-HOYPERUTVCAJAMARCA-ANDINOTVHUARAZ": {
+    "nombre": "Panamericana TV - JaymarTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://panamericana.pe/tvenvivo/",
+        "https://iblups.com/embed/panamericanape",
+        "https://iblups.com/ficoatv",
+        "https://iblups.com/portalregionalnews",
+        "https://player.kick.com/ptv5",
+        "http://181.78.7.90:12500/play/a0gh",
+        "https://www.radiojaymar.com/?fbclid=IwY2xjawMB5v9leHRuA2FlbQIxMABicmlkETBzVDZsYnhsV09IUDROZ3hYAR4nAplBXXvvZcKLVJtlj0vy8v2XJmkO2y7ftCwsBIc2ceCxi7KUWiWJ1R-Atw_aem_mWIt4I1NdbW_4PEX5QL0uA",
+        "https://iblups.com/e_ptvpe",
+        "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
+        "https://gia.tv/watchssh101.php?sn=jaymar",
+        "https://gia.tv/watchssh101.php?sn=dball",
+        "https://gia.tv/watchssh101.php?sn=NEOMIXHD",
+        "https://gia.tv/watchssh101.php?sn=Supercanal",
+        "https://gia.tv/watchssh101.php?sn=quilpueo196208"
+      ],
+      "m3u8_url": [
+        "https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8",
+        "https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8",
+        "https://live-evg25.tv360.bitel.com.pe/bitel/andinotv/chunks.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-Supercanal/Supercanal/playlist.m3u8",
+        "https://live20.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8",
+        "https://www.facebook.com/radiojaymar95.1fm"
+      ],
+      "yt_id": "UCngb4rxO4iUE6BrIs29WXwA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "panamericanatvpe"
     },
-    "canal-ipe": {
-        "nombre": "CANAL IPE - Pasco TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/e_canalipe",
-                "https://iblups.com/e_canalipe",
-                "https://iblups.com/umalerta",
-                "https://iblups.com/tvnilcera",
-                "https://iblups.com/tvguadalupeoficial",
-                "https://iblups.com/planetaradiotv"
-            ],
-            "m3u8_url": [
-                "https://live20.bozztv.com/akamaissh101/ssh101/suaveteve/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canalipe.gob.pe/",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://panamericana.pe/tvenvivo",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "tumpis-tv-tvperuanisima-N-CANAL": {
+    "nombre": "⭐UMPIS - TVperuanisima -boomixtv - N CANAL⭐",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://telezeta.cl/#tropical",
+        "https://v2.ssh101.com/detailng.php?id=tlzeta",
+        "https://v2.ssh101.com/detailng.php?id=boomixtv",
+        "https://tumpistv.pe/transmision-en-vivo-tumpis-tv/",
+        "https://tvperuanisima.com/"
+      ],
+      "m3u8_url": [
+        "http://177.234.230.206:8011/play/a02d/index.m3u8",
+        "https://servilive.com:3531/stream/play.m3u8",
+        "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "América-Televisión-oficialPE": {
-        "nombre": "América Televisión OficialPE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
-                "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
-                "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
-                "https://player.twitch.tv/?channel=americatv_envivo&parent=americatv_envivo",
-                "https://embed.ksdjugfsddeports.fun/embed2/americatv.html",
-                "https://betzta.com/canales.php?stream=america",
-                "https://www.tvenvivo.net/america-tv/"
-            ],
-            "m3u8_url": [
-                "http://38.199.5.160:8000/play/a05f/index.m3u8",
-                "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8",
-                "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
-                "http://181.188.216.5:18000/play/a014/index.m3u8"
-            ],
-            "yt_id": "UCGGry4kGWZUqIfG6LLNhOmg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "americatv_envivo"
-        },
-        "sitio_oficial": "https://www.americatv.com.pe/",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://tumpistv.pe/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "canal-ipe": {
+    "nombre": "CANAL IPE - Pasco TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/e_canalipe",
+        "https://iblups.com/e_canalipe",
+        "https://iblups.com/umalerta",
+        "https://iblups.com/tvnilcera",
+        "https://iblups.com/tvguadalupeoficial",
+        "https://iblups.com/planetaradiotv"
+      ],
+      "m3u8_url": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/suaveteve/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "lamegamundial-RPP-Noticias": {
-        "nombre": "Lamegamundial - RPP Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://lamegamundial.com",
-                "https://mdstrm.com/live-stream/68b9f14bd7cd40aa500402b1?autoplay=true&volume=0&title=%20&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F1028310%2FRpp2_rpptv_Video%26description_url%3Dhttp%253A%252F%252Frpp.pe%252F%26tfcd%3D0%26npa%3D0%26sz%3D400x300%257C640x480%26gdfp_req%3D1%26unviewed_position_start%3D1%26output%3Dvast%26env%3Dvp%26impl%3Ds%26correlator%3D23318437120%26vpmute%3D1%26vpa%3D0%26url%3Dhttps%253A%252F%252Frpp.pe%252F%26plcmt%3D1%26vpa%3Dauto%26vpos%3Dpreroll%26vconp%3D2&ads[volume]=0"
-            ],
-            "m3u8_url": [
-                "http://38.199.6.1:17001/play/a0cv//index.m3u8",
-                "http://181.176.69.236:8028/play/a0ai/index.m3u8",
-                "https://github.com/CRACKED10PRO/TVPREMIUMPLUS_2025/blob/main/1000-TVPREMIUM.M3U8"
-            ],
-            "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@RPPNoticias",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://www.canalipe.gob.pe/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "América-Televisión-oficialPE": {
+    "nombre": "América Televisión OficialPE",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
+        "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
+        "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
+        "https://player.twitch.tv/?channel=americatv_envivo&parent=americatv_envivo",
+        "https://embed.ksdjugfsddeports.fun/embed2/americatv.html",
+        "https://betzta.com/canales.php?stream=america",
+        "https://www.tvenvivo.net/america-tv/"
+      ],
+      "m3u8_url": [
+        "http://38.199.5.160:8000/play/a05f/index.m3u8",
+        "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8",
+        "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
+        "http://181.188.216.5:18000/play/a014/index.m3u8"
+      ],
+      "yt_id": "UCGGry4kGWZUqIfG6LLNhOmg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "americatv_envivo"
     },
-    "exitosa": {
-        "nombre": "EXITOSA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0",
-                "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.exitosanoticias.pe/tv/envivo",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://www.americatv.com.pe/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "lamegamundial-RPP-Noticias": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://lamegamundial.com",
+        "https://mdstrm.com/live-stream/68b9f14bd7cd40aa500402b1?autoplay=true&volume=0&title=%20&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F1028310%2FRpp2_rpptv_Video%26description_url%3Dhttp%253A%252F%252Frpp.pe%252F%26tfcd%3D0%26npa%3D0%26sz%3D400x300%257C640x480%26gdfp_req%3D1%26unviewed_position_start%3D1%26output%3Dvast%26env%3Dvp%26impl%3Ds%26correlator%3D23318437120%26vpmute%3D1%26vpa%3D0%26url%3Dhttps%253A%252F%252Frpp.pe%252F%26plcmt%3D1%26vpa%3Dauto%26vpos%3Dpreroll%26vconp%3D2&ads[volume]=0"
+      ],
+      "m3u8_url": [
+        "http://38.199.6.1:17001/play/a0cv//index.m3u8",
+        "http://181.176.69.236:8028/play/a0ai/index.m3u8",
+        "https://github.com/CRACKED10PRO/TVPREMIUMPLUS_2025/blob/main/1000-TVPREMIUM.M3U8"
+      ],
+      "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "congreso": {
-        "nombre": "CONGRESO TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/rH3y5Q-YXCM?si=1OYI9O4exwaQD9o_",
-                "https://www.youtube.com/embed/live_stream?channel=UCBBfJ9Y_Cl3AA10wGz7jxXQ"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wb2server.congreso.gob.pe/transmision-canales/#/",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@RPPNoticias",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "exitosa": {
+    "nombre": "EXITOSA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0",
+        "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "QuatroTvGO": {
-        "nombre": "QUATRO TVGO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://la12hd.com/vivo/canales.php?stream=movistar",
-                "https://la12hd.com/vivo/canales.php?stream=telefe",
-                "https://la12hd.com/vivo/canales.php?stream=tycinternacional",
-                "https://la12hd.com/vivo/canales.php?stream=winsportsplus",
-                "https://la12hd.com/vivo/canales.php?stream=foxsportspremium",
-                "https://la12hd.com/vivo/canales.php?stream=hisports",
-                "https://la12hd.com/vivo/canales.php?stream=canal5",
-                "https://la12hd.com/vivo/canales.php?stream=calientetv",
-                "https://la12hd.com/vivo/canales.php?stream=dsports",
-                "https://la12hd.com/vivo/canales.php?stream=dsportsplus",
-                "https://la12hd.com/vivo/canales.php?stream=vtvplus",
-                "https://la12hd.com/vivo/canales.php?stream=espn2",
-                "https://la12hd.com/vivo/canales.php?stream=espn6",
-                "https://app.plex.tv/desktop/#!/live-tv",
-                "https://player.twitch.tv/?autoplay=false&channel=quatrotvgo&height=100%25&parent=tvgratisperu.com&referrer=https%3A%2F%2Ftvgratisperu.com%2Fpages%2Fperu%2Fre%2Fquatrotvgo_op1.php&width=100%25"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cuatro.com/en-directo/",
-        "país": "pe",
-        "categoría": "news"
+    "sitio_oficial": "https://www.exitosanoticias.pe/tv/envivo",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "Claro-Sports": {
+    "nombre": "Claro Sports",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.clarosports.com/en-vivo-latam/",
+        "https://www.youtube.com/watch?v=9c12dWtDNKM"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
+      "yt_embed": "9c12dWtDNKM?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.clarosports.com/en-vivo-latam/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "congreso": {
+    "nombre": "CONGRESO TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://comunicaciones.congreso.gob.pe/wp-content/themes/congreso-comunicaciones/streaming/index.php",
+        "https://www.youtube.com/embed/live_stream?channel=UCBBfJ9Y_Cl3AA10wGz7jxXQ"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://wb2server.congreso.gob.pe/transmision-canales/#/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "QuatroTvGO": {
+    "nombre": "QUATRO TVGO",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://la12hd.com/vivo/canales.php?stream=movistar",
+        "https://la12hd.com/vivo/canales.php?stream=telefe",
+        "https://la12hd.com/vivo/canales.php?stream=tycinternacional",
+        "https://la12hd.com/vivo/canales.php?stream=winsportsplus",
+        "https://la12hd.com/vivo/canales.php?stream=foxsportspremium",
+        "https://la12hd.com/vivo/canales.php?stream=hisports",
+        "https://la12hd.com/vivo/canales.php?stream=canal5",
+        "https://la12hd.com/vivo/canales.php?stream=calientetv",
+        "https://la12hd.com/vivo/canales.php?stream=dsports",
+        "https://la12hd.com/vivo/canales.php?stream=dsportsplus",
+        "https://la12hd.com/vivo/canales.php?stream=vtvplus",
+        "https://la12hd.com/vivo/canales.php?stream=espn2",
+        "https://la12hd.com/vivo/canales.php?stream=espn6",
+        "https://app.plex.tv/desktop/#!/live-tv",
+        "https://player.twitch.tv/?autoplay=false&channel=quatrotvgo&height=100%25&parent=tvgratisperu.com&referrer=https%3A%2F%2Ftvgratisperu.com%2Fpages%2Fperu%2Fre%2Fquatrotvgo_op1.php&width=100%25"    
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.cuatro.com/en-directo/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "pe",
+    "categoría": "news"
+  },
     "cuatroTV": {
         "nombre": "QUATROTV",
         "logo": "",
