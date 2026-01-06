@@ -34021,10 +34021,11 @@
     "categoría": "news"
   },
   "abc7-swfl": {
-    "nombre": "ABC7 SWFL - MI FLOLKLORE TV",
+    "nombre": "ABC7 SWFL - MI FLOLKLORE - LRT Lituanica",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1y5kN9EkM4kMo31hpmZWKSGwzUKiSv-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
         "https://tvcableperusatipo.com/mi-folklore/",
         "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
         "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
@@ -34035,12 +34036,15 @@
         "https://abc7news.com/watch/live/",
         "https://abc7.com/watch/live/",
         "https://www.abc-7.com/",
-        "https://www.gulfcoastnewsnow.com/article/live-stream/46210476"
+        "https://www.gulfcoastnewsnow.com/article/live-stream/46210476",
+        "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
       ],
       "m3u8_url": [
         "https://www.livehdtv.com/embed/ch612/",
         "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
-        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8"
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
+        "https://stream-live.lrt.lt/lituanica/master.m3u8",
+        "https://github.com/r3414385-debug/IPTV/blob/master/playlists/playlist_lithuania.m3u8"
       ],
       "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
       "yt_embed": "sj2cWegO1OU",
