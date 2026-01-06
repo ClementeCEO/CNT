@@ -16352,6 +16352,181 @@
         "país": "ly",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "ly",
+    "categoría": "news"
+  },
+  "LRT-Lituanica": {
+    "nombre": "LRT Lituanica",
+    "logo": "https://i.imgur.com/FL2ZuGC.png",
+    "señales": {
+      "iframe_url": [
+        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1y5kN9EkM4kMo31hpmZWKSGwzUKiSv-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
+        "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
+      ],
+      "m3u8_url": [
+        "https://github.com/r3414385-debug/IPTV/blob/master/playlists/playlist_lithuania.m3u8",
+        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8",
+        "https://github.com/r3414385-debug/IPTV/blob/master/playlists/playlist_lithuania.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija",
+    "país": "lt",
+    "categoría": "news"
+  },
+  "Lietuvos-Rytas-TV": {
+    "nombre": "Lietuvos Rytas TV",
+    "logo": "https://i.imgur.com/5wpxVI0.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live.lietuvosryto.tv/live/hls/eteris.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tv.lrytas.lt/",
+    "país": "lt",
+    "categoría": "news"
+  },
+  "Šiauli?-televizija": {
+    "nombre": "Šiauli? televizija",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.etaplius.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.etaplius.tv/",
+    "país": "lt",
+    "categoría": "news"
+  },
+  "Marijampol?s-TV": {
+    "nombre": "Marijampol?s TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.marijampoles.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.marijampoles.tv/",
+    "país": "lt",
+    "categoría": "news"
+  },
+  "Delfi-TV": {
+    "nombre": "Delfi TV",
+    "logo": "https://i.imgur.com/IFoHP5M.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://s1.dcdn.lt/live/televizija/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.delfi.lt/tv/",
+    "país": "lt",
+    "categoría": "news"
+  },
+  "Vidusdaugavas-Televīzija": {
+    "nombre": "Vidusdaugavas Televīzija",
+    "logo": "https://i.imgur.com/L5U3PQR.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.vdtv.lv/"
+      ],
+      "m3u8_url": [
+        "https://straume.vdtv.lv/vdtv2/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vdtv.lv/",
+    "país": "lv",
+    "categoría": "news"
+  },
+  "jekabpilslaiks": {
+    "nombre": "jekabpilslaiks",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.jekabpilslaiks.lv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.jekabpilslaiks.lv/",
+    "país": "lv",
+    "categoría": "news"
+  },
+  "RETV": {
+    "nombre": "RETV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://retv.lv/tiesraide/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://retv.lv/tiesraide/",
+    "país": "lv",
+    "categoría": "news"
+  },
+  "TV-Jūrmala": {
+    "nombre": "TV Jūrmala",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://jurmala.tv/tiesraide/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://jurmala.tv/tiesraide/",
+    "país": "lv",
+    "categoría": "news"
+  },
     "aloula1-tv": {
         "nombre": "Aloula1",
         "logo": "",
