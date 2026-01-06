@@ -854,27 +854,6 @@
         "país": "cl",
         "categoría": "culture"
     },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "",
-        ""
-      ],
-      "m3u8_url": [
-        "",
-        ""
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
-    "país": "cl",
-    "categoría": "radio"
-  },
     "TNTSportsCL": {
         "nombre": "TNTSportsCL",
         "logo": "",
@@ -3319,93 +3298,94 @@
         "país": "at",
         "categoría": "news"
     },
-    "abn-avivamiento-Caribbean-Advantage-TV": {
-        "nombre": "Abn Avivamiento AR Cristiana - Canal 79 Santa Clara del Mar",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://caribbeanadvantage.com/index.php/online-tv",
-                "https://streamkit.net/tv/20421",
-                "https://canal79tv.com.ar/santa-clara-del-mar/#google_vignette",
-                "https://musicacristiana.com.ar/tv/abn-avivamiento-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
-                "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-                "https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8",
-                "https://telejay.com/index.php/main-news/5156-cnn-2"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/abn-avivamiento.html",
-        "país": "ar",
-        "categoría": "cristiana"
+  "abn-avivamiento-Caribbean-Advantage-TV": {
+    "nombre": "Abn Avivamiento AR Cristiana - Canal 79 Santa Clara del Mar",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://caribbeanadvantage.com/index.php/online-tv",
+        "https://streamkit.net/tv/20421",
+        "https://canal79tv.com.ar/santa-clara-del-mar/#google_vignette",
+        "https://musicacristiana.com.ar/tv/abn-avivamiento-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://video2.getstreamhosting.com:19360/8216/8216.m3u8",
+        "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+        "https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8",
+        "https://telejay.com/index.php/main-news/5156-cnn-2"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "todo-noticias": {
-        "nombre": "Todo noticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/cb12KmMMDJA?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Ftn.com.ar&widgetid=1",
-                "https://tn.com.ar/envivo/24hs/",
-                "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363280",
-                "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363386"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "todonoticias"
-        },
-        "sitio_oficial": "https://tn.com.ar/envivo/24hs/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://musicacristiana.com.ar/abn-avivamiento.html",
+    "país": "ar",
+    "categoría": "cristiana"
+  },
+  "todo-noticias": {
+    "nombre": "Todo noticias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
+    "señales": {
+      "iframe_url": [
+        "https://tn.com.ar/envivo/24hs/",
+        "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363280",
+        "https://www.youtube.com/embed/cb12KmMMDJA?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Ftn.com.ar&widgetid=1",
+        "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363386"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "todonoticias"
     },
-    "c5n": {
-        "nombre": "C5N",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/2048px-C5N_logo.svg.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.c5n.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.c5n.com/vivo",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://tn.com.ar/envivo/24hs/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "c5n": {
+    "nombre": "C5N",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/2048px-C5N_logo.svg.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.c5n.com/",
+        ""
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "net-tv": {
-        "nombre": "Net TV - +Caras tv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/nettv?autoplay=true&volume=0",
-                "https://www.canalnet.tv/programas/caras/"
-            ],
-            "m3u8_url": [
-                "https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8",
-                "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
-                "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-                "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
-                "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
-                "https://github.com/masterentertainment/listas/blob/main/Chubut.m3u"
-            ],
-            "yt_id": "UC8aY1r3sNj1nujEisGkxtyA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canalnet.tv/page/senal-en-vivo",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.c5n.com/vivo",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "net-tv": {
+    "nombre": "Net TV - +Caras tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/nettv?autoplay=true&volume=0",
+        "https://www.canalnet.tv/programas/caras/"
+      ],
+      "m3u8_url": [
+        "https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8",
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
+        "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8",
+        "https://github.com/masterentertainment/listas/blob/main/Chubut.m3u"
+      ],
+      "yt_id": "UC8aY1r3sNj1nujEisGkxtyA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.canalnet.tv/page/senal-en-vivo",
+    "país": "ar",
+    "categoría": "radio"
+  },
     "tv-publica-arg": {
         "nombre": "Televisión Pública - Celta TV - Canal 40 Caucete",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
