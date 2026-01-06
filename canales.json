@@ -5680,221 +5680,236 @@
         "país": "ar",
         "categoría": "news"
     },
-    "abnews-business": {
-        "nombre": "ABNews business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://abnews.am/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC4JBub7CJc8KYMiXhRaYf8g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://onlinetvplayer.com/category/business/",
-        "país": "am",
-        "categoría": "news"
+  "abnews-business": {
+    "nombre": "ABNews business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://abnews.am/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC4JBub7CJc8KYMiXhRaYf8g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Metro-TV": {
-        "nombre": "Metro TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://s.emisoras.tv:2020/VideoPlayer/metrotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lametrohn.com/Metro-TV",
-        "país": "hn",
-        "categoría": "news"
+    "sitio_oficial": "https://onlinetvplayer.com/category/business/",
+    "país": "am",
+    "categoría": "news"
+  },
+  "Metro-TV": {
+    "nombre": "Metro TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://s.emisoras.tv:2020/VideoPlayer/metrotv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "bakutv": {
-        "nombre": "Bakutv",
-        "logo": "/assets/frontend/img/hd-logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://baku.tv/az/live/embed"
-            ],
-            "m3u8_url": [
-                "//rtmp.baku.tv/streams/bakutv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://baku.tv/",
-        "país": "az",
-        "categoría": "news"
+    "sitio_oficial": "https://www.lametrohn.com/Metro-TV",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "bakutv": {
+    "nombre": "Bakutv",
+    "logo": "/assets/frontend/img/hd-logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://baku.tv/az/live/embed"
+      ],
+      "m3u8_url": [
+        "//rtmp.baku.tv/streams/bakutv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "gunaz": {
-        "nombre": "Gunaz",
-        "logo": "/assets/frontend/img/hd-logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://yodaplayer.yodacdn.net/gunaztv/index.php"
-            ],
-            "m3u8_url": [
-                "https://str1.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=8855b7fde6325c21ac78c5015d10b5dd416c7568-d13b4b3865066e03ee844af244b1cee4-1724093503-1724082703"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://gunaz.tv/az/live-tv",
-        "país": "az",
-        "categoría": "news"
+    "sitio_oficial": "https://baku.tv/",
+    "país": "az",
+    "categoría": "news"
+  },
+  "Gunaz": {
+    "nombre": "Gunaz",
+    "logo": "/assets/frontend/img/hd-logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://yodaplayer.yodacdn.net/gunaztv/index.php"
+      ],
+      "m3u8_url": [
+        "https://str1.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=8855b7fde6325c21ac78c5015d10b5dd416c7568-d13b4b3865066e03ee844af244b1cee4-1724093503-1724082703"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "okku-tv": {
-        "nombre": "Okku Tv",
-        "logo": "/assets/frontend/img/hd-logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.canlitv.day/embed/?id=13385"
-            ],
-            "m3u8_url": [
-                "https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=5e8a1418e07748b5651f5590f6483414"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canlitv.com/okku-tv",
-        "país": "az",
-        "categoría": "news"
+    "sitio_oficial": "https://gunaz.tv/az/live-tv",
+    "país": "az",
+    "categoría": "news"
+  },
+  "okku-tv": {
+    "nombre": "Okku Tv",
+    "logo": "/assets/frontend/img/hd-logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.canlitv.day/embed/?id=13385"
+      ],
+      "m3u8_url": [
+        "https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=5e8a1418e07748b5651f5590f6483414"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "esmas-tv": {
-        "nombre": "Esmas Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.canlitv.day/embed/?id=13409"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canlitv.com/esma-tv-azerbaycan?ulke=az",
-        "país": "az",
-        "categoría": "news"
+    "sitio_oficial": "https://canlitv.com/okku-tv",
+    "país": "az",
+    "categoría": "news"
+  },
+  "esmas-tv": {
+    "nombre": "Esmas Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.canlitv.day/embed/?id=13409"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ant-tv": {
-        "nombre": "Ant Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.canlitv.day/embed/?id=13206"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canlitv.com/ant-tv?ulke=az",
-        "país": "az",
-        "categoría": "news"
+    "sitio_oficial": "https://canlitv.com/esma-tv-azerbaycan?ulke=az",
+    "país": "az",
+    "categoría": "news"
+  },
+  "Ant-Tv": {
+    "nombre": "Ant Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.canlitv.day/embed/?id=13206"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "red-uno-bolivia": {
-        "nombre": "Red uno Bolivia",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x9n2qyk?syndication=278713",
-                "https://www.reduno.com.bo/play",
-                "https://www.reduno.com.bo",
-                "https://www.dailymotion.com/embed/video/k3IMZ2j8woY8WbCNDcM?syndication=278713",
-                "https://www.boliviapuntotv.com/red-uno/"
-            ],
-            "m3u8_url": [
-                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.reduno.com.bo/senal-en-vivo",
-        "país": "bo",
-        "categoría": "news"
+    "sitio_oficial": "https://canlitv.com/ant-tv?ulke=az",
+    "país": "az",
+    "categoría": "news"
+  },
+  "red-uno-bolivia": {
+    "nombre": "Red uno Bolivia",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x9n2qyk?syndication=278713",
+        "https://www.reduno.com.bo/play",
+        "https://www.reduno.com.bo",
+        "https://www.dailymotion.com/embed/video/k3IMZ2j8woY8WbCNDcM?syndication=278713",
+        "https://www.boliviapuntotv.com/red-uno/"
+      ],
+      "m3u8_url": [
+        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "unitel": {
-        "nombre": "Unitel",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
-                "https://www.dailymotion.com/video/x7vsfua",
-                "https://television.unitel.bo",
-                "https://www.boliviapuntotv.com/unitel/",
-                "https://www.dailymotion.com/video/x7vsezg"
-            ],
-            "m3u8_url": [
-                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-                "https://github.com/GatoJustiniano/M3U-Bolivia-SCZ/blob/main/canales-bolivia.m3u"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://television.unitel.bo/",
-        "país": "bo",
-        "categoría": "news"
+    "sitio_oficial": "https://www.reduno.com.bo/senal-en-vivo",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "Unitel": {
+    "nombre": "Unitel",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
+        "https://www.dailymotion.com/video/x7vsfua",
+        "https://television.unitel.bo",
+        "https://www.boliviapuntotv.com/unitel/",
+        "https://www.dailymotion.com/video/x7vsezg"
+      ],
+      "m3u8_url": [
+        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "https://github.com/GatoJustiniano/M3U-Bolivia-SCZ/blob/main/canales-bolivia.m3u"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Tv-megavision": {
-        "nombre": "Tv Megavision",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://tvmegavision.com/",
-                "https://www.megavisiontvrd.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "megavisionbo"
-        },
-        "sitio_oficial": "https://tvmegavision.com/",
-        "país": "bo",
-        "categoría": "news"
+    "sitio_oficial": "https://television.unitel.bo/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "Tv-Megavision": {
+    "nombre": "Tv Megavision",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.megavisiontvrd.com/",
+        "https://tvmegavision.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "megavisionbo"
     },
-    "gogoplaytv": {
-        "nombre": "Gogoplaytv",
-        "logo": "https://graph.facebook.com/migogoplay/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=mixboliviatvhd",
-                "https://ssh101.com/securelive/index.php?id=gogoplaysd",
-                "https://ssh101.com/securelive/index.php?id=gogoplay",
-                "https://ok.ru/videoembed/3881666289207",
-                "https://ok.ru/videoembed/7151290031671",
-                "https://ok.ru/videoembed/4428538453706",
-                "https://ok.ru/videoembed/7354260725450"
-            ],
-            "m3u8_url": [
-                "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
-            ],
-            "yt_id": "UC3r9EG2f85nh9BaqmDU20VA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "gogoplaytve"
-        },
-        "sitio_oficial": "https://www.gogoplaytv.com/",
-        "país": "bo",
-        "categoría": "entertainment"
+    "sitio_oficial": "https://tvmegavision.com/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "Gogoplaytv": {
+    "nombre": "Gogoplaytv",
+    "logo": "https://graph.facebook.com/migogoplay/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://ssh101.com/securelive/index.php?id=mixboliviatvhd",
+        "https://ssh101.com/securelive/index.php?id=gogoplaysd",
+        "https://ssh101.com/securelive/index.php?id=gogoplay",
+        "https://ok.ru/videoembed/3881666289207",
+        "https://ok.ru/videoembed/7151290031671",
+        "https://ok.ru/videoembed/4428538453706",
+        "https://ok.ru/videoembed/7354260725450"
+      ],
+      "m3u8_url": [
+        "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
+      ],
+      "yt_id": "UC3r9EG2f85nh9BaqmDU20VA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "gogoplaytve"
     },
+    "sitio_oficial": "https://www.gogoplaytv.com/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "bo",
+    "categoría": "news"
+  },
     "Megatv-bolivia-boliviapuntotv": {
         "nombre": "Megatv bolivia - boliviapuntotv",
         "logo": "https://television-libre.online/img/rcn.webp",
