@@ -32377,7 +32377,6 @@
                 "https://mblive.telesur.ultrabase.net/",
                 "https://mblive.telesur.ultrabase.net/",
                 "https://www.telesurtv.net/"
-                
             ],
             "m3u8_url": [
                 "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", 
@@ -32412,25 +32411,27 @@
         "país": "ve",
         "categoría": "news"
     },
-    "ntn24": {
-        "nombre": "NTN24",
-        "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://tvinsur.com/cuba/tele-rebelde/",
-                "https://www.telerebelde.icrt.cu/category/en-vivo/",
-                "https://teveo.cu/live/video"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ntn24.com/en-vivo",
-        "país": "ve",
-        "categoría": "news"
+  "ntn24": {
+    "nombre": "NTN24",
+    "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.ntn24.com/en-vivo",
+        "https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true",
+        "https://tvinsur.com/cuba/tele-rebelde/",
+        "https://www.telerebelde.icrt.cu/category/en-vivo/",
+        "https://teveo.cu/live/video"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://tvinsur.com/cuba/tele-rebelde/",
+    "país": "ve",
+    "categoría": "news"
+  },
     "televentv-tves-tv": {
         "nombre": "TelevenTV - TvEs",
         "logo": "https://graph.facebook.com/TelevenTV/picture?width=800&height=800",
