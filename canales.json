@@ -32456,6 +32456,95 @@
     "país": "ve",
     "categoría": "news"
   },
+  "la-iguana-tv": {
+    "nombre": "La Iguana TV",
+    "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.laiguana.tv/envivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "laiguanatv"
+    },
+    "sitio_oficial": "https://www.laiguana.tv/envivo/",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "MundoURenVivo": {
+    "nombre": "MundoURenVivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.lorini.net/tvs/",
+        "https://valetv.info/",
+        "https://tvfamilia.com/",
+        "https://www.reformatv.net/",
+        "https://www.nubeh.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC9LrWd-4NU7NJYhBvwIgFkQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://mundour.com/",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "ultimachance": {
+    "nombre": "Lista Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCw2ceOxZ4VhgRSre0ny2RcA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "ultimachance_"
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "vtv-ve-vtvradiofm": {
+    "nombre": "VTV RADIO Venezuela",
+    "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1",
+        "https://www.vtv.gob.ve/en-vivo/",
+        "https://canal8.com.ve/en-directo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC2_P7AV2jJ9_gYK0VS-w2rA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.atom.bio/vtvradio_",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "vnradio1049fm": {
+    "nombre": "Venezuela News Radio",
+    "logo": "https://graph.facebook.com/agenciaVenezuelaNews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://customer-6usl3cynfiimbl78.cloudflarestream.com/00d86ee9f866c69da0cfc961bd3c9c8c/iframe"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://venezuela-news.com/radio/",
+    "país": "ve",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -32471,95 +32560,6 @@
     "país": "ve",
     "categoría": "news"
   },
-    "la-iguana-tv": {
-        "nombre": "La Iguana TV",
-        "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.laiguana.tv/envivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "laiguanatv"
-        },
-        "sitio_oficial": "https://www.laiguana.tv/envivo/",
-        "país": "ve",
-        "categoría": "news"
-    },
-    "mundourenvivo": {
-        "nombre": "MundoURenVivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.lorini.net/tvs/",
-                "https://valetv.info/",
-                "https://tvfamilia.com/",
-                "https://www.reformatv.net/",
-                "https://www.nubeh.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC9LrWd-4NU7NJYhBvwIgFkQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://mundour.com/",
-        "país": "ve",
-        "categoría": "radio"
-    },
-    "ultimachance": {
-        "nombre": "Lista Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCw2ceOxZ4VhgRSre0ny2RcA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "ultimachance_"
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA",
-        "país": "ve",
-        "categoría": "radio"
-    },
-    "vtv-ve-vtvradiofm": {
-        "nombre": "VTV RADIO Venezuela",
-        "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1",
-                "https://www.vtv.gob.ve/en-vivo/",
-                "https://canal8.com.ve/en-directo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC2_P7AV2jJ9_gYK0VS-w2rA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.atom.bio/vtvradio_",
-        "país": "ve",
-        "categoría": "radio"
-    },
-    "vnradio1049fm": {
-        "nombre": "Venezuela News Radio",
-        "logo": "https://graph.facebook.com/agenciaVenezuelaNews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://customer-6usl3cynfiimbl78.cloudflarestream.com/00d86ee9f866c69da0cfc961bd3c9c8c/iframe"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCV1P8lGXINAFEK_SGnvQtQw",
-            "yt_embed": "43iLR1O7QhA?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://venezuela-news.com/radio/",
-        "país": "ve",
-        "categoría": "radio"
-    },
     "anzoategui-tv": {
         "nombre": "Anzoátegui TV",
         "logo": "",
@@ -32579,25 +32579,42 @@
         "país": "ve",
         "categoría": "general"
     },
-    "bta-tv": {
-        "nombre": "BTA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://btatv.tv/"
-            ],
-            "m3u8_url": [
-                "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://btatv.tv/",
-        "país": "ve",
-        "categoría": "general"
+  "bta-tv": {
+    "nombre": "BTA TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://btatv.tv/",
+        "https://www.tvvnetwork.com/",
+        "https://vwchannel.net/#"
+      ],
+      "m3u8_url": [
+        "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://btatv.tv/",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "ve",
+    "categoría": "news"
+  },
     "canal-21-tachira": {
         "nombre": "Canal 21 Táchira",
         "logo": "",
