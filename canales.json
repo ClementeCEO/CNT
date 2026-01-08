@@ -9112,6 +9112,126 @@
     "país": "co",
     "categoría": "music"
   },
+  "avivamiento-tv-online-la-kalle": {
+    "nombre": "Avivamiento TV Cristiana - La Kalle",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://3abnlatino.tv/tv",
+        "https://avivamiento.com/avivamiento-tv.php",
+        "https://lakalle.bluradio.com/senal-en-vivo-la-kalle"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
+    "país": "co",
+    "categoría": "cristiana"
+  },
+  "la-fm-colombia-canalpyc": {
+    "nombre": "LA FM Colombia - Canalpyc",
+    "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.colombia.com/tv/cristo-vision-bogota-644",
+        "https://canalpyc.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC6GkkHjigCzoVgvtYg8UB9g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lafm.com.co/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "teleantioquia-noticiasta": {
+    "nombre": "Teleantioquia Noticias",
+    "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.teleantioquia.co/al-aire/#"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.teleantioquia.co/noticias/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "eatlantico": {
+    "nombre": "EAtlantico",
+    "logo": "https://graph.facebook.com/EmisorAtlantico/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.colombia.com/tv/imagen-universal-tv-san-francisco-de-macoris-5043"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCPsO0NrAGNWX518uPPs7M9Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://emisoraatlantico.com.co/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "hoy-noticias-agencia-de-medios": {
+    "nombre": "HOY NOTICIAS AGENCIA DE MEDIOS",
+    "logo": "https://i0.wp.com/agenciademedioshoynoticias.com/wp-content/uploads/2020/01/agencia3.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC5L5pCozOuxg7_3CZpCZ6L",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://agenciademedioshoynoticias.com/",
+    "país": "co",
+    "categoría": "music"
+  },
+  "la-q-digital": {
+    "nombre": "La Q Digital",
+    "logo": "https://graph.facebook.com/laqdigital.palmira/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCNCwZcHiMq-hiKUifqVgWLQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCNCwZcHiMq-hiKUifqVgWLQ",
+    "país": "co",
+    "categoría": "news"
+  },
+  "cnc-choco": {
+    "nombre": "CNC CHOCÓ",
+    "logo": "https://graph.facebook.com/cncquibdo/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.canalcncsanta.com/",
+        "https://player.twitch.tv/?channel=canalcncsantarosa&parent=www.colombia.com",
+        "https://emisoraatlantico.com.co/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC1y9xnPuEvaPCqwJTFDr-8Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC1y9xnPuEvaPCqwJTFDr-8Q",
+    "país": "co",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -9125,126 +9245,8 @@
     },
     "sitio_oficial": "",
     "país": "co",
-    "categoría": "music"
+    "categoría": "news"
   },
-    "avivamiento-tv-online": {
-        "nombre": "Avivamiento TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://3abnlatino.tv/tv",
-                "https://avivamiento.com/avivamiento-tv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
-        "país": "co",
-        "categoría": "cristiana"
-    },
-    "la-fm-colombia-canalpyc": {
-        "nombre": "LA FM Colombia - Canalpyc",
-        "logo": "https://graph.facebook.com/lafmcolombia/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.colombia.com/tv/cristo-vision-bogota-644",
-                "https://canalpyc.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC6GkkHjigCzoVgvtYg8UB9g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lafm.com.co/",
-        "país": "co",
-        "categoría": "news"
-    },
-    "teleantioquia-noticiasta": {
-        "nombre": "Teleantioquia Noticias",
-        "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.teleantioquia.co/al-aire/#"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC6bwdK-GgRTE1C4Sc9Pe3kg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.teleantioquia.co/noticias/",
-        "país": "co",
-        "categoría": "news"
-    },
-    "eatlantico": {
-        "nombre": "EAtlantico",
-        "logo": "https://graph.facebook.com/EmisorAtlantico/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.colombia.com/tv/imagen-universal-tv-san-francisco-de-macoris-5043"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCPsO0NrAGNWX518uPPs7M9Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://emisoraatlantico.com.co/",
-        "país": "co",
-        "categoría": "news"
-    },
-    "hoy-noticias-agencia-de-medios": {
-        "nombre": "HOY NOTICIAS AGENCIA DE MEDIOS",
-        "logo": "https://i0.wp.com/agenciademedioshoynoticias.com/wp-content/uploads/2020/01/agencia3.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC5L5pCozOuxg7_3CZpCZ6LA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://agenciademedioshoynoticias.com/",
-        "país": "co",
-        "categoría": "news"
-    },
-    "la-q-digital": {
-        "nombre": "La Q Digital",
-        "logo": "https://graph.facebook.com/laqdigital.palmira/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCNCwZcHiMq-hiKUifqVgWLQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCNCwZcHiMq-hiKUifqVgWLQ",
-        "país": "co",
-        "categoría": "news"
-    },
-    "cnc-choco": {
-        "nombre": "CNC CHOCÓ",
-        "logo": "https://graph.facebook.com/cncquibdo/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.canalcncsanta.com/",
-                "https://player.twitch.tv/?channel=canalcncsantarosa&parent=www.colombia.com"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1y9xnPuEvaPCqwJTFDr-8Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canalcncsantarosa"
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC1y9xnPuEvaPCqwJTFDr-8Q",
-        "país": "co",
-        "categoría": "news"
-    },
     "rcpc-9-tuuniversotv": {
         "nombre": "RCPC Tuuniversotv",
         "logo": "",
