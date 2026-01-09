@@ -34491,14 +34491,19 @@
     "país": "us",
     "categoría": "news"
   },
-  "WQOW-18-NEWS": {
-    "nombre": "WQOW 18 NEW",
+  "WQOW-18-NEWS-wxow119": {
+    "nombre": "WQOW 18 NEW - wxow 19",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.wqow.com/livestream/wkow-livestream2/",
+        "https://www.wqow.com/livestream/kadn-livestream/",
+        "https://www.wxow.com/livestream/",
         "https://www.wowt.com/livestream/",
         "https://www.wqow.com/livestream/",
-        "https://www.wqow.com/"
+        "https://www.wqow.com/",
+        "https://www.wqow.com/wxow-livestream/html_d71de0b6-4a67-11ed-83d9-bb6c1bbe1c11.html",
+        "https://www.wxow.com/"
       ],
       "m3u8_url": [],
       "yt_id": "UCWZ6ll839N3RC2J5Uqlxg9g",
