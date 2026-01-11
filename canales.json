@@ -3344,14 +3344,18 @@
     "categoría": "radio"
   },
   "c5n": {
-    "nombre": "C5N",
+    "nombre": "C5N - tvcinco",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/2048px-C5N_logo.svg.png",
     "señales": {
       "iframe_url": [
         "https://www.c5n.com/",
-        ""
+        "https://cincotv.com.ar/cinco-tv-en-vivo/",
+        "https://www.tvcinco.com/",
+        "https://www.telecinco.es/endirecto/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL"
+      ],
       "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
       "yt_embed": "",
       "yt_playlist": "",
@@ -3386,120 +3390,123 @@
     "país": "ar",
     "categoría": "radio"
   },
-    "tv-publica-arg": {
-        "nombre": "Televisión Pública - Celta TV - Canal 40 Caucete",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
-        "señales": {
-            "iframe_url": [
-                "https://canalsj.kozow.com/canal40/embed.html",
-                "https://solumedia.com.ar/video/celta/index.html",
-                "https://canal40hd.com.ar/",
-                "https://www.celtatv.com.ar/canal-local"
-            ],
-            "m3u8_url": [
-                "https://vivo.solumedia.com:19360/celta/celta.m3u8"
-            ],
-            "yt_id": "UCs231K71Bnu5295_x0MB5Pg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvpublica.com.ar/",
-        "país": "ar",
-        "categoría": "news"
+  "tv-publica-arg": {
+    "nombre": "Televisión Pública - Celta TV - Canal 40 Caucete",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
+    "señales": {
+      "iframe_url": [
+        "https://canalsj.kozow.com/canal40/embed.html",
+        "https://solumedia.com.ar/video/celta/index.html",
+        "https://canal40hd.com.ar/",
+        "https://www.celtatv.com.ar/canal-local"
+      ],
+      "m3u8_url": [
+        "https://vivo.solumedia.com:19360/celta/celta.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cronica-tv": {
-        "nombre": "Crónica TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/avly0uwZzOE?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cronica.com.ar/cronica-en-vivo/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.tvpublica.com.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "Crónica-TV": {
+    "nombre": "Crónica TV - cn247tv",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+      ],
+      "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "la-nacion-caras": {
-        "nombre": "LA NACION - Caras",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Nación.svg/2560px-Logo_La_Nación.svg.png",
-        "señales": {
-            "iframe_url": [
-                "https://carac.tv/lives/carac-1",
-                "https://caras.perfil.com/",
-                "https://tvcaras.com.br/",
-                "https://5900.tv/la-nacion-ln-en-vivo-las-24-horas/",
-                "https://www.youtube.com/embed/qqcJsi4yfw4?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
-            "yt_embed": "5f__Ls4_VYQ",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lanacion.com.ar/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cronica.com.ar/cronica-en-vivo/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "la-nacion-caras": {
+    "nombre": "LA NACION - Caras",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Nación.svg/2560px-Logo_La_Nación.svg.png",
+    "señales": {
+      "iframe_url": [
+        "https://carac.tv/lives/carac-1",
+        "https://caras.perfil.com/",
+        "https://tvcaras.com.br/",
+        "https://5900.tv/la-nacion-ln-en-vivo-las-24-horas/",
+        "https://www.youtube.com/embed/qqcJsi4yfw4?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
+      "yt_embed": "5f__Ls4_VYQ",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-26": {
-        "nombre": "Canal 26 - Lapacho TV Canal 11",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
-        "señales": {
-            "iframe_url": [
-                "https://xtrematv.com/233-punto-99-retro-series-copy-copy/",
-                "https://www.retroxtv.com/",
-                "https://serenotv.com/video/canal-retrox-tv/",
-                "https://www.youtube.com/embed/BTaSHvWJW5A?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com",
-                "https://www.canal26.com/canal26-en-vivo/",
-                "https://5900.tv/canal-26/",
-                "https://magickids.site/",
-                "https://lapachocanal11.com.ar/vivo/",
-                "https://www.vivalivetv.com/channel/dreiko-tv",
-                "https://serenotv.com/video/canal-dreiko-tv/",
-                "https://tele-libre.org/en-vivo-online/canal-26/embed.php",
-                "https://tele-libre.org/en-vivo-online/canal-26/embed2.php",
-                "https://www.youtube.com/embed/35LSnUPu5RY?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
-            ],
-            "m3u8_url": [
-                "https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8"
-            ],
-            "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal26.com/canal26-en-vivo",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.lanacion.com.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "canal-26": {
+    "nombre": "Canal 26 - Lapacho TV Canal 11",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
+    "señales": {
+      "iframe_url": [
+        "https://xtrematv.com/233-punto-99-retro-series-copy-copy/",
+        "https://www.retroxtv.com/",
+        "https://serenotv.com/video/canal-retrox-tv/",
+        "https://www.youtube.com/embed/BTaSHvWJW5A?autoplay=1&enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com",
+        "https://www.canal26.com/canal26-en-vivo/",
+        "https://5900.tv/canal-26/",
+        "https://magickids.site/",
+        "https://lapachocanal11.com.ar/vivo/",
+        "https://www.vivalivetv.com/channel/dreiko-tv",
+        "https://serenotv.com/video/canal-dreiko-tv/",
+        "https://tele-libre.org/en-vivo-online/canal-26/embed.php",
+        "https://tele-libre.org/en-vivo-online/canal-26/embed2.php",
+        "https://www.youtube.com/embed/35LSnUPu5RY?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+      ],
+      "m3u8_url": [
+        "http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+        "https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8"
+      ],
+      "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-26-org": {
-        "nombre": "Canal 26 ORG - CHAMAME TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
-        "señales": {
-            "iframe_url": [
-                "https://mi-television.com/envivo.php",
-                "https://chamametv.com.ar/",
-                "https://canalinmobiliario.tv/",
-                "https://www.yupptv.com/channels/latino-classic-channel/live",
-                "https://canal26.org/en-vivo/",
-                "https://mi-television.com/"
-            ],
-            "m3u8_url": [
-                "https://panel.streamingtv-mediacp.online:1936/8002/8002/playlist.m3u8"
-            ],
-            "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canal26.org/en-vivo/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://www.canal26.com/canal26-en-vivo",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "canal-26-org": {
+    "nombre": "Canal 26 ORG - CHAMAME TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
+    "señales": {
+      "iframe_url": [
+        "https://mi-television.com/envivo.php",
+        "https://chamametv.com.ar/",
+        "https://canalinmobiliario.tv/",
+        "https://www.yupptv.com/channels/latino-classic-channel/live",
+        "https://canal26.org/en-vivo/",
+        "https://mi-television.com/"
+      ],
+      "m3u8_url": [
+        "https://panel.streamingtv-mediacp.online:1936/8002/8002/playlist.m3u8"
+      ],
+      "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://canal26.org/en-vivo/",
+    "país": "ar",
+    "categoría": "news"
   },
   "a24com": {
     "nombre": "A24com",
@@ -3713,49 +3720,71 @@
     "país": "ar",
     "categoría": "news"
   },
-    "rivadavia": {
-        "nombre": "Rivadavia -Radio Yguazú TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rivadavia.com.ar/video/",
-                "https://radioiguazu.com/miranos-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
-            ],
-            "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rivadavia.com.ar/",
-        "país": "ar",
-        "categoría": "news"
-  },
-    "grupo-television-litoral": {
-        "nombre": "Grupo Television Litoral",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x8z8w7c?autoplay=1#amp=1",
-                "https://www.elocho.tv/el-ocho-en-vivo.html",
-                "https://www.elonce.tv/senal-en-vivo/",
-                "https://www.rosario3.com/el-tres-en-vivo/index.html",
-                "https://www.rosario3.com/radios/fmplus.html%20",
-                "https://www.fmvida.com.ar/",
-                "https://www.rosario3.com/radios/radio2.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCy-r-BQ5BQRU6rzGS73-WBQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.grupotelevisionlitoral.com/",
-        "país": "ar",
-        "categoría": "news"
+  "rivadavia": {
+    "nombre": "Rivadavia -Radio Yguazú TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rivadavia.com.ar/video/",
+        "https://radioiguazu.com/miranos-en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
+      ],
+      "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://rivadavia.com.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "grupo-television-litoral": {
+    "nombre": "Grupo Television Litoral",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x8z8w7c?autoplay=1#amp=1",
+        "https://www.elocho.tv/el-ocho-en-vivo.html",
+        "https://www.elonce.tv/senal-en-vivo/",
+        "https://www.rosario3.com/el-tres-en-vivo/index.html",
+        "https://www.rosario3.com/radios/fmplus.html%20",
+        "https://www.fmvida.com.ar/",
+        "https://www.rosario3.com/radios/radio2.html"
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "UCy-r-BQ5BQRU6rzGS73-WBQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.grupotelevisionlitoral.com/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "ar",
+    "categoría": "news"
+  },
     "cadena-heat": {
         "nombre": "Cadena Heat",
         "logo": "",
@@ -19938,14 +19967,25 @@
     "categoría": "news"
   },
   "Claro-Sports": {
-    "nombre": "Claro Sports",
+    "nombre": "Claro Sports - Fox Deportes XumoTv - FuboTv FS US HD - STADIUM SPORTS - Tennis Channel HD",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://iblups.com/embed/acotv",
+        "https://iblups.com/acotv",
+        "https://deporflix.com/canales/serie-a-%f0%9f%87%ae%f0%9f%87%b9/",
         "https://www.clarosports.com/en-vivo-latam/",
         "https://www.youtube.com/watch?v=9c12dWtDNKM"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://live-stream.iblups.com/live/9ea16f14e1b5fcd1f14a508747912cfdcdd0b0bc.m3u8",
+        "https://en-vivo.clarosports.com/en-vivo/index.m3u8",
+        "https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8",
+        "https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true",
+        "https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8",
+        "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+        "https://github.com/panik1820/listas/blob/main/peru.m3u"
+      ],
       "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
       "yt_embed": "9c12dWtDNKM?",
       "yt_playlist": "",
