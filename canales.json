@@ -5745,8 +5745,8 @@
     "país": "cf",
     "categoría": "news"
   },
-  "gbnews-skynew": {
-    "nombre": "GB NEW - SKY NEW",
+  "skynew": {
+    "nombre": "SKY NEW",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -5757,6 +5757,25 @@
       ],
       "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ",
       "yt_embed": "YDvsBbKfLPA?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.skynews.com.au",
+    "país": "au",
+    "categoría": "news"
+  },
+  "gbnews": {
+    "nombre": "GB NEWS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.gbnews.com/"
+      ],
+      "m3u8_url": [
+        "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=a23bc6f6-63ee-4be4-a894-19b700cc3ccf&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=e76563c5-b4a4-42d1-a501-2131911f1f70&userId=&serverSideAds=true"
+      ],
+      "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "yt_embed": "QliL4CGc7iY?",
       "yt_playlist": "",
       "twitch_id": ""
     },
