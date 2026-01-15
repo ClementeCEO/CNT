@@ -30956,6 +30956,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
         "https://salintv.com/video/tv3-live/embed/",
         "http://www.imvbox.tv/es/iribtv3/live-channel/play",
         "https://darya.stream/live-tv/irib3-tv-live/",
@@ -31139,6 +31140,162 @@
     "país": "ir",
     "categoría": "news"
   },
+  "Omidtv24": {
+    "nombre": "Omidtv24",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://bradmax.com/client/embed-player/8124fa3454121635f7628fc1b21974a7644b28e3_5040?mediaUrl=https%3A%2F%2F2nbyjj2by53k-hls-live.5centscdn.com%2FOmidTV24%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Fplaylist.m3u8&title=OmidTV24%2Flive&id=16150",
+        "https://omidtv24.com/live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://omidtv24.com/live/",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "IRINN-2-Shabakeh-Khabar-2": {
+    "nombre": "IRINN 2 - Shabakeh Khabar 2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://sepehrtv.ir/live/irinn2",
+        "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
+        "http://www.imvbox.tv/es/irinn/live-channel/play",
+        "https://telewebion.com/live/irinn2",
+        "https://darya.stream/live-tv/irib2-tv-live/",
+        "https://www.persianleague.com/iran-live-tv/video/31-live-khabar%3E"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "IRIB-Pooya": {
+    "nombre": "IRIB Pooya",
+    "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
+    "señales": {
+      "iframe_url": [
+        "https://telewebion.com/live/pooya",
+        "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "IRIB-Namayesh": {
+    "nombre": "IRIB Namayesh",
+    "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
+    "señales": {
+      "iframe_url": [
+        "https://telewebion.com/live/namayesh",
+        "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "IRIB Tamasha": {
+    "nombre": "IRIB Tamasha",
+    "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
+    "señales": {
+      "iframe_url": [
+        "https://telewebion.com/live/hdtest",
+        "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "Voa-Noticias": {
+    "nombre": "Voa Noticias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
+    "señales": {
+      "iframe_url": [
+        "https://ir.voanews.com/live/video/86",
+        "https://tv.voa24.news/monitor.html",
+        "https://abdimedia.net/en/world/voa-persian-tv-was-temporarily-shut-down",
+        "http://www.parsatv.com/embed.php?name=Channel-One-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=Iran-International-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=Pars-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=VOA-Persian&auto=false",
+        "http://www.parsatv.com/embed.php?name=BBC-Persian&auto=false",
+        "http://www.parsatv.com/embed.php?name=Manoto-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=Mihan-TV&auto=false",
+        "https://www.voanews.com/embed/player/1/126.html?type=video",
+        "https://www.voanews.com/embed/player/1/116.html?type=video"
+      ],
+      "m3u8_url": [
+        "https://ch1hls.wns.live/hls/stream.m3u8",
+        "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+        "https://parshls.wns.live/hls/stream.m3u8",
+        "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
+        "https://iptv.mihantv.com/mihantv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.voanews.com/",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "Irane-Farda": {
+    "nombre": "Irane Farda",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Iran-e-Farda.svg",
+    "señales": {
+      "iframe_url": [
+        "http://iranefardalive.com/livestream/",
+        "https://www.presstv.ir/live",
+        "http://www.parsatv.com/embed.php?name=Irane-Farda&auto=false",
+        "http://www.parsatv.com/embed.php?name=Iran-Aryaee&auto=false",
+        "http://www.parsatv.com/embed.php?name=Novin-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=Fareh-Iran-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=Didgah-TV&auto=false",
+        "http://www.parsatv.com/embed.php?name=Israel-Pars-TV&auto=false"
+      ],
+      "m3u8_url": [
+        "https://hls.iranfarda.live/hls/stream.m3u8",
+        "https://hls.farehirantv.live/hls/stream.m3u8",
+        "https://live.pars-israel.com/iptv/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://iranefardalive.com/",
+    "país": "ir",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -31154,162 +31311,6 @@
     "país": "ir",
     "categoría": "news"
   },
-    "omidtv24": {
-        "nombre": "Omidtv24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://bradmax.com/client/embed-player/8124fa3454121635f7628fc1b21974a7644b28e3_5040?mediaUrl=https%3A%2F%2F2nbyjj2by53k-hls-live.5centscdn.com%2FOmidTV24%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Fplaylist.m3u8&title=OmidTV24%2Flive&id=16150",
-                "https://omidtv24.com/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://omidtv24.com/live/",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "irinn-2-shabakeh-khabar-2": {
-        "nombre": "IRINN 2 - Shabakeh Khabar 2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://sepehrtv.ir/live/irinn2",
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
-                "http://www.imvbox.tv/es/irinn/live-channel/play",
-                "https://telewebion.com/live/irinn2",
-                "https://darya.stream/live-tv/irib2-tv-live/",
-                "https://www.persianleague.com/iran-live-tv/video/31-live-khabar%3E"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "irib-pooya": {
-        "nombre": "IRIB Pooya",
-        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
-        "señales": {
-            "iframe_url": [
-                "https://telewebion.com/live/pooya",
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "irib-namayesh": {
-        "nombre": "IRIB Namayesh",
-        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
-        "señales": {
-            "iframe_url": [
-                "https://telewebion.com/live/namayesh",
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "irib-tamasha": {
-        "nombre": "IRIB Tamasha",
-        "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
-        "señales": {
-            "iframe_url": [
-                "https://telewebion.com/live/hdtest",
-                "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-tamasha",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "voa": {
-        "nombre": "voa noticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
-        "señales": {
-            "iframe_url": [
-                "https://ir.voanews.com/live/video/86",
-                "https://tv.voa24.news/monitor.html",
-                "https://abdimedia.net/en/world/voa-persian-tv-was-temporarily-shut-down",
-                "http://www.parsatv.com/embed.php?name=Channel-One-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=Iran-International-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=Pars-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=VOA-Persian&auto=false",
-                "http://www.parsatv.com/embed.php?name=BBC-Persian&auto=false",
-                "http://www.parsatv.com/embed.php?name=Manoto-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=Mihan-TV&auto=false",
-                "https://www.voanews.com/embed/player/1/126.html?type=video",
-                "https://www.voanews.com/embed/player/1/116.html?type=video"
-            ],
-            "m3u8_url": [
-                "https://ch1hls.wns.live/hls/stream.m3u8",
-                "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
-                "https://parshls.wns.live/hls/stream.m3u8",
-                "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
-                "https://iptv.mihantv.com/mihantv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.voanews.com/",
-        "país": "ir",
-        "categoría": "news"
-    },
-    "Irane": {
-        "nombre": "Irane Farda",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Iran-e-Farda.svg",
-        "señales": {
-            "iframe_url": [
-                "http://iranefardalive.com/livestream/",
-                "https://www.presstv.ir/live",
-                "http://www.parsatv.com/embed.php?name=Irane-Farda&auto=false",
-                "http://www.parsatv.com/embed.php?name=Iran-Aryaee&auto=false",
-                "http://www.parsatv.com/embed.php?name=Novin-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=Fareh-Iran-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=Didgah-TV&auto=false",
-                "http://www.parsatv.com/embed.php?name=Israel-Pars-TV&auto=false"
-            ],
-            "m3u8_url": [
-                "https://hls.iranfarda.live/hls/stream.m3u8",
-                "https://hls.farehirantv.live/hls/stream.m3u8",
-                "https://live.pars-israel.com/iptv/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iranefardalive.com/",
-        "país": "ir",
-        "categoría": "news"
-    },
     "irtvis": {
         "nombre": "Iran TV Israel",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Iran_International.svg",
