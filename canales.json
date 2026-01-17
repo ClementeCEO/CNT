@@ -3395,10 +3395,11 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
     "señales": {
       "iframe_url": [
-        "https://canalsj.kozow.com/canal40/embed.html",
+        "https://www.celtatv.com.ar/canal-local",
+        "https://www.tvpublica.com.ar/",
         "https://solumedia.com.ar/video/celta/index.html",
         "https://canal40hd.com.ar/",
-        "https://www.celtatv.com.ar/canal-local"
+        "https://canalsj.kozow.com/canal40/embed.html"
       ],
       "m3u8_url": [
         "https://vivo.solumedia.com:19360/celta/celta.m3u8"
@@ -3416,7 +3417,9 @@
     "nombre": "Crónica TV - cn247tv",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.cronica.com.ar/cronica-en-vivo/",
+      ],
       "m3u8_url": [
         "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
       ],
@@ -3440,9 +3443,7 @@
         "https://5900.tv/la-nacion-ln-en-vivo-las-24-horas/",
         "https://www.youtube.com/embed/qqcJsi4yfw4?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
       ],
-      "m3u8_url": [
-        ""
-      ],
+      "m3u8_url": [],
       "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
       "yt_embed": "5f__Ls4_VYQ",
       "yt_playlist": "",
