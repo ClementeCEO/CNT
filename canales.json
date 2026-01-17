@@ -3513,11 +3513,14 @@
     "logo": "https://graph.facebook.com/A24com/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=true&mute=true",
         "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
         "https://www.youtube.com/embed/QGpHLgRnrx4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://player.twitch.tv/?channel=a24noticias&parent=www.a24noticias.com.ar"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/f65df9db-17b4-4cff-90cc-3dcde69a1274:SCL2/master.m3u8"
+      ],
       "yt_id": "UCR9120YBAqMfntqgRTKmkjQ",
       "yt_embed": "",
       "yt_playlist": "",
