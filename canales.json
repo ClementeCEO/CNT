@@ -13755,32 +13755,6 @@
     "país": "eg",
     "categoría": "news"
   },
-  "dmc-tv": {
-    "nombre": "DCM TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-        "https://fomny-tv.com/Television/A-Tv--Egypt.php",
-        "https://www.elahmad.com/tv/watchtv.php?id=dmc",
-        "https://www.elahmad.com/tv/watchtv.php?id=dmc_drama",
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
-        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
-    "país": "es",
-    "categoría": "news"
-  },
   "ontv1": {
     "nombre": "ONTV1",
     "logo": "",
@@ -13893,6 +13867,32 @@
     },
     "sitio_oficial": "https://www.elahmad.com/tv/elmehwartv.htm",
     "país": "eg",
+    "categoría": "news"
+  },
+  "dmc-tv": {
+    "nombre": "DCM TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+        "https://www.elahmad.com/tv/watchtv.php?id=dmc",
+        "https://www.elahmad.com/tv/watchtv.php?id=dmc_drama",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+    "país": "es",
     "categoría": "news"
   },
   "rtve-Noticias": {
@@ -14209,11 +14209,14 @@
         "https://tele-libre.org/en-vivo-online/la-cuatro/embed2.php"
       ],
       "m3u8_url": [
-        "https://tvnoov.com/application/player/?id=/fadoo/cuatrohd.m3u8"
+        "http://176.65.146.237:8401/play/a09s/index.m3u8",
+        "http://176.65.146.237:8401/play/a09h/index.m3u8",
+        "https://tvnoov.com/application/player/?id=/fadoo/cuatrohd.m3u8",
+        "https://github.com/search?q=tvperu.m3u&type=code"
       ],
       "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
+      "yt_embed": "https://github.com/myfriendqaz/LiveTVCollector/blob/8b872113bbca49b06f4f01d9c144be94a34d3af3/LiveTV/Peru/LiveTV.txt#L5",
+      "yt_playlist": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.mitele.uno/cuatro/",
@@ -14233,6 +14236,7 @@
         "https://www.telecinco.es/endirecto/"
       ],
       "m3u8_url": [
+        "http://176.65.146.237:8401/play/a09r/index.m3u8",
         "https://tvnoov.com/application/player/?id=/fadoo/telecincohd.m3u8"
       ],
       "yt_id": "",
@@ -14264,144 +14268,131 @@
     "país": "es",
     "categoría": "news"
   },
-    "nuestra-comarca-television": {
-        "nombre": "nuestra comarca television Toros",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://teleonline.org/canal/telemundo/",
-                "https://tele-libre.org/en-vivo-online/toros/embed.php",
-                "https://tele-libre.org/en-vivo-online/toros/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "nuestracomarcatelevision"
-        },
-        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-quickie-divinity": {
-        "nombre": "Canal Quickie - NOVA - Divinity",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://teleonline.org/canal/divinity/",
-                "https://teleonline.org/canal/fibwi/",
-                "https://teleonline.org/canal/nova/",
-                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPW5vdmE="
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canalquickie"
-        },
-        "sitio_oficial": "https://www.twitch.tv/canalquickie",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-blunatv": {
-        "nombre": "Blunatv dmax",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.eitb.eus/es/television/etb2/",
-                "https://www.eitb.eus/es/television/eitb-basque/",
-                "https://teleonline.org/canal/etb-eventos-1/",
-                "https://www.eitb.eus/es/television/etb1/",
-                "https://www.eitb.eus/es/en-directo/",
-                "https://tele-libre.org/en-vivo-online/dmax/embed2.php",
-                "https://tele-libre.org/en-vivo-online/dmax/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "blunatv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/blunatv",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-blue-crow-tv-canalcostatv": {
-        "nombre": "Blue Crowtv - Canalcostatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://canalcostatv.es/en-directo/",
-                "https://embed.azhr.tv/canalcosta-tv/live/directo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "bluecrowtv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/bluecrowtv",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-33-online": {
-        "nombre": "canal 33 Madrid",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
-                "https://teleonline.org/canal/quiero-tv-mexico/"
-            ],
-            "m3u8_url": [
-                "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
-        "país": "es",
-        "categoría": "news"
-    },
-    "Canal-Antena-3": {
-        "nombre": "Canal Antena 3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://nebunexa.co/clappr/?id=ANTENA3",
-                "https://tele-libre.org/en-vivo-online/antena-3/embed.php",
-                "https://tele-libre.org/en-vivo-online/antena-3/embed2.php",
-                "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM="
-            ],
-            "m3u8_url": [
-                "https://tvnoov.com/application/player/?id=/fadoo/antena3.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvlibreonline.net/en-vivo/antena3/",
-        "país": "es",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "nuestra-comarca-television": {
+    "nombre": "nuestra comarca television Toro",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://teleonline.org/canal/telemundo/",
+        "https://tele-libre.org/en-vivo-online/toros/embed.php",
+        "https://tele-libre.org/en-vivo-online/toros/embed2.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "nuestracomarcatelevision"
+    },
+    "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-quickie-divinity": {
+    "nombre": "Canal Quickie - NOVA - Divinity",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://teleonline.org/canal/divinity/",
+        "https://teleonline.org/canal/fibwi/",
+        "https://teleonline.org/canal/nova/",
+        "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPW5vdmE="
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.twitch.tv/canalquickie",
     "país": "es",
     "categoría": "news"
   },
-  "A3series": {
+  "canal-blunatv": {
+    "nombre": "Blunatv dmax",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.eitb.eus/es/television/etb2/",
+        "https://www.eitb.eus/es/television/eitb-basque/",
+        "https://teleonline.org/canal/etb-eventos-1/",
+        "https://www.eitb.eus/es/television/etb1/",
+        "https://www.eitb.eus/es/en-directo/",
+        "https://tele-libre.org/en-vivo-online/dmax/embed2.php",
+        "https://tele-libre.org/en-vivo-online/dmax/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/blunatv",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-blue-crow-tv-canalcostatv": {
+    "nombre": "Blue Crowtv - Canalcostatv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://canalcostatv.es/en-directo/",
+        "https://embed.azhr.tv/canalcosta-tv/live/directo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/bluecrowtv",
+    "país": "es",
+    "categoría": "news"
+  },
+  "canal-33-Madrid": {
+    "nombre": "canal 33 Madrid",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
+        "https://teleonline.org/canal/quiero-tv-mexico/"
+      ],
+      "m3u8_url": [
+        "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Canal-Antena-3": {
+    "nombre": "Canal Antena 3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://nebunexa.co/clappr/?id=ANTENA3",
+        "https://tele-libre.org/en-vivo-online/antena-3/embed.php",
+        "https://tele-libre.org/en-vivo-online/antena-3/embed2.php",
+        "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM="
+      ],
+      "m3u8_url": [
+        "http://176.65.146.237:8401/play/a0ae/index.m3u8",
+        "http://38.183.182.166:8000/play/a0sx/index.m3u8",
+        "https://tvnoov.com/application/player/?id=/fadoo/antena3.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvlibreonline.net/en-vivo/antena3/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "A3SERIES": {
     "nombre": "A3SERIES",
     "logo": "",
     "señales": {
@@ -14416,6 +14407,21 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://tvhd.pe/a3series-en-vivo/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
     "país": "es",
     "categoría": "news"
   },
