@@ -20001,14 +20001,11 @@
         "https://iblups.com/ztvaqp"
       ],
       "m3u8_url": [
-        "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
-        "https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8",
-        "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
-        "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
-        "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
+        "https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8",
+        "https://github.com/antholyber1a/lista-iptv-peru/blob/c3c708a39a41d2f9823841767a52a8ca1b5123ea/iptvperu.m3u#L4"
       ],
       "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
-      "yt_embed": "Z32evS15N-g?",
+      "yt_embed": "2yxQtYxdcn0?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -20037,7 +20034,8 @@
         "https://gia.tv/watchssh101.php?sn=quilpueo196208"
       ],
       "m3u8_url": [
-        "https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8",
+        "https://live-evg18.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_720p/chunks.m3u8",
+        "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8",
         "https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8",
         "https://live-evg25.tv360.bitel.com.pe/bitel/andinotv/chunks.m3u8",
         "https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8",
@@ -20054,8 +20052,8 @@
     "país": "pe",
     "categoría": "news"
   },
-  "tumpis-tv-tvperuanisima-N-CANAL": {
-    "nombre": "⭐UMPIS - TVperuanisima -boomixtv - N CANAL⭐",
+  "tumpis-tv-tvperuanisima-N-CANAL-Antena-SUR": {
+    "nombre": "⭐UMPIS - TVperuanisima -boomixtv - Nuestro CANAL⭐",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -20063,12 +20061,16 @@
         "https://v2.ssh101.com/detailng.php?id=tlzeta",
         "https://v2.ssh101.com/detailng.php?id=boomixtv",
         "https://tumpistv.pe/transmision-en-vivo-tumpis-tv/",
-        "https://tvperuanisima.com/"
+        "https://tvperuanisima.com/",
+        "https://tv360.bitel.com.pe/tv/nuestro-canal?ch=457"
       ],
       "m3u8_url": [
+        "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+        "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+        "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/chunks.m3u8",
         "http://177.234.230.206:8011/play/a02d/index.m3u8",
         "https://servilive.com:3531/stream/play.m3u8",
-        "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8"
+        "https://github.com/myfriendqaz/LiveTVCollector/blob/8b872113bbca49b06f4f01d9c144be94a34d3af3/LiveTV/Peru/LiveTV.txt#L5"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -20084,7 +20086,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://iblups.com/e_canalipe",
+        "https://www.canalipe.gob.pe/streaming",
+        "https://planeatvjaen.com/",
         "https://iblups.com/e_canalipe",
         "https://iblups.com/umalerta",
         "https://iblups.com/tvnilcera",
@@ -20118,6 +20121,7 @@
       ],
       "m3u8_url": [
         "http://38.199.5.160:8000/play/a05f/index.m3u8",
+        "https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8",
         "https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8",
         "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8",
         "http://181.188.216.5:18000/play/a014/index.m3u8"
