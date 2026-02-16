@@ -33055,9 +33055,11 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://snippet.univtec.com/player.html?data-insight=eyJndWlkIjoiODAwNDc1ZjItMGMzOS00NWVhLTg4NGItMzZiYjM0ZDcyNTIwIiwidHlwZSI6ImNoYW5uZWxzIiwiYWNjb3VudElkIjoiNjY5MThmYjcyYmRkYmY3NGFiNGRiNjg3IiwiY2xpZW50IjoiY2FuYWxpIiwiYXBpIjoiaHR0cHM6Ly9pbnNpZ2h0LWFwaS1mcmFua2x5LnVuaXZ0ZWMuY29tLyJ9"
+        "https://canal-i.com/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://streaming.canal-i.com/master.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
