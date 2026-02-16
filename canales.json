@@ -9274,6 +9274,8 @@
     "señales": {
       "iframe_url": [
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
+        "https://play.tdtchannels.com/television/CitytvColombia",
+        "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
         "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://tv.garden/co/ugDDmzcLdJhWCd",
         "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
@@ -34575,7 +34577,12 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://n1info.hr/n1-tv-live-stream/",
+        "https://votv.cat/votv-en-directe/",
+        "https://play.tdtchannels.com/television/VOTV",
+        "https://www.distro.tv/live/comercio-tv/",
         "https://tvcableperusatipo.com/mi-folklore/",
+        "https://watch.plex.tv/es/live-tv/category/en-espanol",
         "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
         "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
         "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
@@ -34590,6 +34597,7 @@
         "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
       ],
       "m3u8_url": [
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
         "https://www.livehdtv.com/embed/ch612/",
         "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
         "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
