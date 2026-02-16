@@ -9274,7 +9274,7 @@
     "señales": {
       "iframe_url": [
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
-        "https://play.tdtchannels.com/television/CitytvColombia",
+        "https://play.tdtchannels.com/television/NoticiasCaracolColombia",
         "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
         "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://tv.garden/co/ugDDmzcLdJhWCd",
@@ -9778,23 +9778,39 @@
         "país": "co",
         "categoría": "news"
     },
-    "citytv-hd": {
-        "nombre": "Citytv HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://citytv.eltiempo.com/en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/c/citytvbogota",
-        "país": "co",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
+  "Citytv-HD": {
+    "nombre": "Citytv HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play.tdtchannels.com/television/CitytvColombia",
+        "https://citytv.eltiempo.com/en-vivo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/c/citytvbogota",
+    "país": "co",
+    "categoría": "news"
+  },
     "redmas-hd": {
         "nombre": "Redmas HD",
         "logo": "https://redmas.com.co/__export/1676481006000/sites/redmas/arte/apps/facebook_1200x630.png_1589854477.png",
@@ -12240,35 +12256,51 @@
         "país": "ge",
         "categoría": "news"
     },
-    "duendetvec-oromartv-ecuador": {
-        "nombre": "Oromartv - DuendeTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ecuatel.com/tvs/vostv/",
-                "https://oromartv.com/tv-en-vivo/",
-                "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
-                "https://www.vostv.com.ni/directo/",
-                "https://www.vosytv.com/",
-                "https://duendetv.com/en-vivo/",
-                "https://www.trodi.dev/tv/EC/AntenaUnoRadiovideo.ec",
-                "https://www.antenauno.com/",
-                "https://monseteve.com/monseteve-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
-                "https://live-sa.streann.tech/vostv1/vostv1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3OS42LjE2OC4zNyIsImV4cCI6MTc1ODY4MjgzMywicmlkIjoiNWZhMWVkMmYyY2RjYmVhYWVhYzBmOTg2Iiwia2V5Ijoia2V5MSIsImNpZCI6IjVmYTFlZmZjMmNkYzA3N2Q1MjM4NzExYiJ9.NVWzlW0ESOp4MyGRxfJ1JGzZAeMfumQZNPOZvrHbKQk",
-                "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://oromartv.com",
-        "país": "ec",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "",
+    "país": "ec",
+    "categoría": "news"
+  },
+  "duendetvec-oromartv-ecuador": {
+    "nombre": "Oromartv - DuendeTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ecuatel.com/tvs/vostv/",
+        "https://play.tdtchannels.com/television/OromarTVEcuador",
+        "https://oromartv.com/tv-en-vivo/",
+        "https://livestreamlinks.net/onlinetv/ecuador/vos-y-tv",
+        "https://www.vostv.com.ni/directo/",
+        "https://www.vosytv.com/",
+        "https://duendetv.com/en-vivo/",
+        "https://www.trodi.dev/tv/EC/AntenaUnoRadiovideo.ec",
+        "https://www.antenauno.com/",
+        "https://monseteve.com/monseteve-en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8",
+        "https://live-sa.streann.tech/vostv1/vostv1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3OS42LjE2OC4zNyIsImV4cCI6MTc1ODY4MjgzMywicmlkIjoiNWZhMWVkMmYyY2RjYmVhYWVhYzBmOTg2Iiwia2V5Ijoia2V5MSIsImNpZCI6IjVmYTFlZmZjMmNkYzA3N2Q1MjM4NzExYiJ9.NVWzlW0ESOp4MyGRxfJ1JGzZAeMfumQZNPOZvrHbKQk",
+        "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://oromartv.com",
+    "país": "ec",
+    "categoría": "news"
+  },
     "ecuavisa-LaPipolTvec": {
         "nombre": "Ecuavisa - LaPipolTv.ec",
         "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
