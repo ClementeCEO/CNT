@@ -17919,6 +17919,21 @@
     "twitch_id": ""
     },
     "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "Primer-Impacto": {
+    "nombre": "Primer Impacto",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "UC9SUMV0oYm0XK9H-c3GmKaQ",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@PrimerImpactoUnivision",
     "país": "mx",
     "categoría": "news"
   },
@@ -18174,7 +18189,7 @@
         "https://github.com/jsosao/m3u/blob/main/mylist.m3u8"
       ],
     "yt_id": "UCUsm-fannqOY02PNN67C0KA",
-    "yt_embed": "",
+    "yt_embed": "UC9SUMV0oYm0XK9H-c3GmKaQ",
     "yt_playlist": "",
     "twitch_id": ""
     },
@@ -18201,6 +18216,23 @@
     "twitch_id": ""
     },
     "sitio_oficial": "https://live.adn40.mx/",
+    "país": "mx",
+    "categoría": "news"
+  },
+  "Telemundo-Ahora": {
+    "nombre": "Telemundo Ahora",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://vix.com/es-es/canales?lang=canales"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
+      "yt_embed": "8hl9htCf1w0",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/noticias",
     "país": "mx",
     "categoría": "news"
   },
@@ -18592,23 +18624,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
-    "país": "mx",
-    "categoría": "news"
-  },
-  "Telemundo-Ahora": {
-    "nombre": "Telemundo Ahora",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://vix.com/es-es/canales?lang=canales"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
-      "yt_embed": "8hl9htCf1w0",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.youtube.com/noticias",
     "país": "mx",
     "categoría": "news"
   },
