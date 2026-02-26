@@ -48905,6 +48905,46 @@
         "país": "uy",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "uy",
+    "categoría": "news"
+  },
     "TVCiudad61-canal-11-canal-4-florida": {
         "nombre": "TVCiudad6.1 - canal-11 - Canal-4-florida",
         "logo": "",
@@ -48928,158 +48968,190 @@
         "país": "uy",
         "categoría": "news"
     },
-    "megavision-univtec-Canal-8-Artigas-uruguay": {
-        "nombre": "Megavision Univtec - Canal 8 Artigas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6p1",
-                "https://megavision.univtec.com/#!/"
-            ],
-            "m3u8_url": [
-                "https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8",
-                "https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8",
-                "https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8",
-                "https://mgv-corazon.akamaized.net/hls/live/2039835/MGV_CORAZON/0/streamPlaylist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://megavision.univtec.com/#!/",
-        "país": "sv",
-        "categoría": "news"
+  "megavision-univtec-Canal-8-Artigas-uruguay": {
+    "nombre": "Megavision Univtec - Canal 8 Artigas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://megavision.univtec.com/player/channel/62b9cbcc98e2b50012d7a8cb",
+        "https://megavision.univtec.com/page/64da1c748f3a39d93769d43d",
+        "https://anteltv.com.uy/play/2s6p1",
+        "https://megavision.univtec.com/#!/"
+      ],
+      "m3u8_url": [
+        "https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8",
+        "https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8",
+        "https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8",
+        "https://mgv-corazon.akamaized.net/hls/live/2039835/MGV_CORAZON/0/streamPlaylist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "El-Salvador-Noticia-tvo-en-vivo": {
-        "nombre": "El Salvador Noticia - Tvo Canal 23",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/tvo/",
-                "https://tvocanal23.com/tvo-en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCQta9-R9uTND_oZG6aY5qqQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@ElSalvadorNoticia",
-        "país": "sv",
-        "categoría": "radio"
+    "sitio_oficial": "https://megavision.univtec.com/#!/",
+    "país": "sv",
+    "categoría": "news"
+  },
+  "El-Salvador-Noticia-tvo-en-vivo": {
+    "nombre": "El Salvador Noticia - Tvo Canal 23",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://conceptoweb-studio.com/radio/video/tvo/",
+        "https://tvocanal23.com/tvo-en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wow-el-salvador-wow-mx": {
-        "nombre": "wow el salvador - wow mx",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.wowmx.tv/",
-                "https://www.wowelsalvador.com/"
-            ],
-            "m3u8_url": [
-                "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.wowelsalvador.com/",
-        "país": "sv",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@ElSalvadorNoticia",
+    "país": "sv",
+    "categoría": "Radio"
+  },
+  "wow-el-salvador-wow-mx": {
+    "nombre": "wow el salvador - wow mx",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.wowmx.tv/",
+        "https://www.wowelsalvador.com/"
+      ],
+      "m3u8_url": [
+        "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Lao-LiveTV-Free-CF": {
-        "nombre": "LONE SINH LAO TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.malimar.tv/channels/lone_sinh_lao_tv?grid=Lao_LiveTV_Free_CF"
-            ],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.malimar.tv/channels/lone_sinh_lao_tv?grid=Lao_LiveTV_Free_CF",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "https://www.wowelsalvador.com/",
+    "país": "sv",
+    "categoría": "news"
+  },
+  "orbit-tv": {
+    "nombre": "Orbit TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://orbittv.net/",
+        "https://www.vivalivetv.com/channel/orbit-tv",
+        "https://v2.ssh101.com/detail.php?id=OrbitaFM"
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Brian-TV": {
-        "nombre": "Brian TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://artv.watch/embed.php?channel=BrianTV.la"
-            ],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://artv.watch/en/LA/BrianTV.la",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "sv",
+    "categoría": "news"
+  },
+  "Lao-LiveTV-Free-CF": {
+    "nombre": "LONE SINH LAO TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.malimar.tv/channels/lone_sinh_lao_tv?grid=Lao_LiveTV_Free_CF",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "DaoLaneXang-TV": {
-        "nombre": "DaoLaneXang TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://artv.watch/embed.php?channel=DaoLaneXangTV.la"
-            ],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://artv.watch/en/LA/DaoLaneXangTV.la",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "https://www.malimar.tv/channels/lone_sinh_lao_tv?grid=Lao_LiveTV_Free_CF",
+    "país": "la",
+    "categoría": "news"
+  },
+  "Brian-TV": {
+    "nombre": "Brian TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://artv.watch/embed.php?channel=BrianTV.la",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "air-tv": {
-        "nombre": "AIR TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.malimar.tv/channels/air_tv?grid=Lao_LiveTV_Free_CF",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "https://artv.watch/en/LA/BrianTV.la",
+    "país": "la",
+    "categoría": "news"
+  },
+  "DaoLaneXang-TV": {
+    "nombre": "DaoLaneXang TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://artv.watch/embed.php?channel=DaoLaneXangTV.la",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "dhammasapha-tv": {
-        "nombre": "DHAMMASAPHA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.malimar.tv/channels/dhammasapha_tv?grid=Lao_LiveTV_Free_CF",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "https://artv.watch/en/LA/DaoLaneXangTV.la",
+    "país": "la",
+    "categoría": "news"
+  },
+  "AIR-TV": {
+    "nombre": "AIR TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.malimar.tv/channels/air_tv?grid=Lao_LiveTV_Free_CF",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.malimar.tv/channels/air_tv?grid=Lao_LiveTV_Free_CF",
+    "país": "la",
+    "categoría": "news"
+  },
+  "dhammasapha-tv": {
+    "nombre": "DHAMMASAPHA TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.malimar.tv/channels/dhammasapha_tv?grid=Lao_LiveTV_Free_CF",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.malimar.tv/channels/dhammasapha_tv?grid=Lao_LiveTV_Free_CF",
+    "país": "la",
+    "categoría": "news"
+  },
     "houngfa-shop": {
         "nombre": "HOUNG FA SYDARA PHA SHOP",
         "logo": "",
@@ -49097,6 +49169,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "is-tv": {
         "nombre": "ISTV",
         "logo": "",
@@ -49114,6 +49206,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "lao-champa-tv": {
         "nombre": "LAO CHAMPA TV 1",
         "logo": "",
@@ -49134,6 +49246,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "lao-champa-tv2": {
         "nombre": "LAO CHAMPA TV 2",
         "logo": "",
@@ -49153,6 +49285,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "lao-champa-tv3": {
         "nombre": "LAO CHAMPA TV 3",
         "logo": "",
@@ -49173,6 +49325,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "Vati-Lao-TV": {
         "nombre": "Vati Lao TV",
         "logo": "",
@@ -49191,6 +49363,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "MVMall-Living": {
         "nombre": "MVMall Living",
         "logo": "",
@@ -49210,6 +49402,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "thaitvus": {
         "nombre": "thaitvus",
         "logo": "https://thaitvus.com/wp-content/uploads/2022/08/B6B842C1-7E28-4088-9E63-A03FA647E902.jpeg",
@@ -49227,6 +49439,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "MVC": {
         "nombre": "MV Lao TV",
         "logo": "",
@@ -49244,6 +49476,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "lao-sv-tv": {
         "nombre": "LAO SV TV",
         "logo": "",
@@ -49261,6 +49513,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "lao-thai-tv": {
         "nombre": "LAO THAI TV",
         "logo": "",
@@ -49280,6 +49552,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "laos-planet-tv": {
         "nombre": "LAOS PLANET TV",
         "logo": "",
@@ -49299,6 +49591,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "look-thoong-tv-hd": {
         "nombre": "LOOK THOONG TV HD",
         "logo": "",
@@ -49318,6 +49630,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "ls-tv-1": {
         "nombre": "LS TV 1",
         "logo": "",
@@ -49337,6 +49669,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "ning-tv": {
         "nombre": "NING TV",
         "logo": "",
@@ -49356,6 +49708,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "pntv": {
         "nombre": "PNTV",
         "logo": "",
@@ -49375,6 +49747,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "sieng-khaen-lao-tv": {
         "nombre": "SIENG KHAEN LAO TV",
         "logo": "",
@@ -49394,6 +49786,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "tea-tv": {
         "nombre": "TEA TV",
         "logo": "",
@@ -49411,6 +49823,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "uniquely-thai": {
         "nombre": "UNIQUELY THAI",
         "logo": "",
@@ -49428,6 +49860,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "vanphenh-tv": {
         "nombre": "VANPHENH TV",
         "logo": "",
@@ -49445,6 +49897,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "Lao-Net-TV": {
         "nombre": "Lao Net TV",
         "logo": "",
@@ -49462,6 +49934,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "Oh-Muang-Lao-TV": {
         "nombre": "Oh Muang Lao TV",
         "logo": "",
@@ -49479,6 +49971,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "MVMall-Best": {
         "nombre": "MVMall Best - Lao PSTV",
         "logo": "",
@@ -49498,6 +50010,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "อีสานทีวี-tv": {
         "nombre": "อีสานทีวี tv",
         "logo": "",
@@ -49515,6 +50047,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "MV-GO-SPORT": {
         "nombre": "MV GO SPORT",
         "logo": "",
@@ -49532,6 +50084,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "มูเตลู-tv": {
         "nombre": "มูเตลู",
         "logo": "",
@@ -49550,6 +50122,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "TTD1-tv": {
         "nombre": "TTD1",
         "logo": "",
@@ -49567,6 +50159,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "TTD2-tv": {
         "nombre": "TTD2",
         "logo": "",
@@ -49584,6 +50196,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "TTD4-tv": {
         "nombre": "TTD4",
         "logo": "",
@@ -49601,6 +50233,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "TTD5-tv": {
         "nombre": "TTD5",
         "logo": "",
@@ -49618,6 +50270,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "TTD6-tv": {
         "nombre": "TTD6",
         "logo": "",
@@ -49635,6 +50307,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "MVMall-Family": {
         "nombre": "MVMall Family",
         "logo": "",
@@ -49652,6 +50344,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "V2H2-tv": {
         "nombre": "V2H2",
         "logo": "",
@@ -49669,6 +50381,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "V2H3-tv": {
         "nombre": "V2H3",
         "logo": "",
@@ -49703,6 +50435,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "V2H5-tv": {
         "nombre": "V2H5",
         "logo": "",
@@ -49720,6 +50472,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "V2H6-tv": {
         "nombre": "V2H6",
         "logo": "",
@@ -49737,6 +50509,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "V2H7-tv": {
         "nombre": "V2H7",
         "logo": "",
@@ -49754,6 +50546,26 @@
         "país": "la",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "la",
+    "categoría": "news"
+  },
     "V2H8-tv": {
         "nombre": "V2H8",
         "logo": "",
@@ -49890,90 +50702,114 @@
         "país": "la",
         "categoría": "news"
     },
-    "CVA-HMONG-FRESNO": {
-        "nombre": "CVA HMONG FRESNO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.hmongusatv.com/live/"
-            ],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.malimar.tv/channels/cva_hmong_fresno?grid=HmongTV_Live_CF",
-        "país": "la",
-        "categoría": "news"
+  "CVA-HMONG-FRESNO": {
+    "nombre": "CVA HMONG FRESNO",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.hmongusatv.com/live/",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "VAJTSWV-TXOJLUS": {
-        "nombre": "VAJTSWV TXOJLUS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/vajtswv.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.malimar.tv/channels/vajtswv_txojlus?grid=HmongTV_Live_CF",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "https://www.malimar.tv/channels/cva_hmong_fresno?grid=HmongTV_Live_CF",
+    "país": "la",
+    "categoría": "news"
+  },
+  "VAJTSWV-TXOJLUS": {
+    "nombre": "VAJTSWV TXOJLUS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/vajtswv.sdp/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "HMONG-STAR-TV": {
-        "nombre": "HMONG STAR TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://icanlive.tv/live/15535/hmong-star-tv.html",
-                "https://livestreamlinks.net/onlinetv/laos/hmong-star-tv"
-            ],
-            "m3u8_url": [
-                "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.malimar.tv/channels/hmong_star_tv?grid=HmongTV_Live_CF",
-        "país": "la",
-        "categoría": "news"
+    "sitio_oficial": "https://www.malimar.tv/channels/vajtswv_txojlus?grid=HmongTV_Live_CF",
+    "país": "la",
+    "categoría": "news"
+  },
+  "HMONG-STAR-TV": {
+    "nombre": "HMONG STAR TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://icanlive.tv/live/15535/hmong-star-tv.html",
+        "https://livestreamlinks.net/onlinetv/laos/hmong-star-tv"
+      ],
+      "m3u8_url": [
+        "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "BAYON-tv": {
-        "nombre": "BAYON TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://mekongtv.net/channels/bayontv",
-                "http://www.khmerlive.tv/bayon/",
-                "http://www.itver.cc/bayon-tv/",
-                "https://lcotiv.com/tv/68220602971.html",
-                "https://lcotiv.com/cou.html",
-                "https://lcotiv.com/cou.html",
-                "http://www.khmerlive.tv/bayonnews/",
-                "https://iptv-org.github.io/channels/kh/BayonTV"
-            ],
-            "m3u8_url": [
-                "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
-                "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8",
-                "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479491&mtvhash=6XZogPlnjJuMH0h6TSAtUxoszNJbHo7yHN0JAZ6Q2M4="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bayontv.com.kh/",
-        "país": "kh",
-        "categoría": "news"
+    "sitio_oficial": "https://www.malimar.tv/channels/hmong_star_tv?grid=HmongTV_Live_CF",
+    "país": "la",
+    "categoría": "news"
+  },
+  "BAYON-TV": {
+    "nombre": "BAYON TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://mekongtv.net/channels/bayontv",
+        "http://www.khmerlive.tv/bayon/",
+        "http://www.itver.cc/bayon-tv/",
+        "https://lcotiv.com/tv/68220602971.html",
+        "https://lcotiv.com/cou.html",
+        "https://lcotiv.com/cou.html",
+        "http://www.khmerlive.tv/bayonnews/",
+        "https://iptv-org.github.io/channels/kh/BayonTV"
+      ],
+      "m3u8_url": [
+        "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+        "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8",
+        "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1725479491&mtvhash=6XZogPlnjJuMH0h6TSAtUxoszNJbHo7yHN0JAZ6Q2M4="
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://bayontv.com.kh/",
+    "país": "kh",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "kh",
+    "categoría": "news"
+  },
     "tvk-tv": {
         "nombre": "TVK",
         "logo": "",
@@ -50110,73 +50946,93 @@
         "país": "kh",
         "categoría": "news"
     },
-    "netlink-tv-apsara-TV": {
-        "nombre": "Netlink - APASARA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://worldtv.netlinkbroadcaster.com/channel/netlink-tv?category=local-tv",
-                "https://netlinkbroadcaster.com/",
-                "https://worldtv.netlinkbroadcaster.com/channel/ams?category=local-tv",
-                "https://www.phumikomsan.com/2024/09/apsara-tv-live-channel.html",
-                "http://mekongtv.net/channels/apsaratv",
-                "https://ams.com.kh/",
-                "https://livestreamlinks.net/en/onlinetv/cambodia/apsara-tv11"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://mekongtv.net/channels/apsaratv",
-        "país": "kh",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Miến-Điện-pnn-TV": {
-        "nombre": "Miến Điện MNTV - Pnn TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://worldtv.netlinkbroadcaster.com/channel/pnn-tv?category=local-tv",
-                "https://www.myanmartvchannels.com/mntv-channel.html",
-                "http://mekongtv.net/channels/pnn",
-                "https://mrtv.gov.mm/mm/live-stream"
-            ],
-            "m3u8_url": [
-                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "mitvchannel"
-        },
-        "sitio_oficial": "https://onlinetvplayer.com/location/kh/",
-        "país": "kh",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "kh",
+    "categoría": "news"
+  },
+  "netlink-tv-apsara-TV": {
+    "nombre": "Netlink - APASARA TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://worldtv.netlinkbroadcaster.com/channel/netlink-tv?category=local-tv",
+        "https://netlinkbroadcaster.com/",
+        "https://worldtv.netlinkbroadcaster.com/channel/ams?category=local-tv",
+        "https://www.phumikomsan.com/2024/09/apsara-tv-live-channel.html",
+        "http://mekongtv.net/channels/apsaratv",
+        "https://ams.com.kh/",
+        "https://livestreamlinks.net/en/onlinetv/cambodia/apsara-tv11"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wiki-TV": {
-        "nombre": "WIKI TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eja.tv/play/?https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8#9d9871b6faeb12bab94b24704f3fc73e1ca43fa1a117057bc8717b0e72a96150",
-                "http://mekongtv.net/channels/wikitv",
-                "https://onlinetvplayer.com/play/#7w0p3m0z",
-                "https://seehd24.com/live?ch=wikitv2&chh=local"
-            ],
-            "m3u8_url": [
-                "http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1725480205&mtvhash=0fWTmiHmGADQvd_MGVUcndbN6mOQgpjfaK_FF_WqD7Y="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://eja.tv/?country=kh",
-        "país": "kh",
-        "categoría": "news"
+    "sitio_oficial": "http://mekongtv.net/channels/apsaratv",
+    "país": "kh",
+    "categoría": "news"
+  },
+  "Miến-Điện-pnn-TV": {
+    "nombre": "Miến Điện MNTV - Pnn TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://worldtv.netlinkbroadcaster.com/channel/pnn-tv?category=local-tv",
+        "https://www.myanmartvchannels.com/mntv-channel.html",
+        "http://mekongtv.net/channels/pnn",
+        "https://mrtv.gov.mm/mm/live-stream"
+      ],
+      "m3u8_url": [
+        "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://onlinetvplayer.com/location/kh/",
+    "país": "kh",
+    "categoría": "news"
+  },
+  "WIKI-TV": {
+    "nombre": "WIKI TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eja.tv/play/?https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8#9d9871b6faeb12bab94b24704f3fc73e1ca43fa1a117057bc8717b0e72a96150",
+        "http://mekongtv.net/channels/wikitv",
+        "https://onlinetvplayer.com/play/#7w0p3m0z",
+        "https://seehd24.com/live?ch=wikitv2&chh=local"
+      ],
+      "m3u8_url": [
+        "http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1725480205&mtvhash=0fWTmiHmGADQvd_MGVUcndbN6mOQgpjfaK_FF_WqD7Y="
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://eja.tv/?country=kh",
+    "país": "kh",
+    "categoría": "news"
+  },
   "game-master-tv": {
     "nombre": "Game Master TV",
     "logo": "",
