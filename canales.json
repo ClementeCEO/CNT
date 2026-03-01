@@ -19938,6 +19938,21 @@
     "país": "pe",
     "categoría": "news"
   },
+  "Snit-Noticias-Tv": {
+    "nombre": "Snit Noticias Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCQ7rh1gyiRSWP7Ig7tEm1BQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@snitnoticiastv",
+    "país": "pe",
+    "categoría": "news"
+  },
   "lamegamundial-RPP-Noticias": {
     "nombre": "",
     "logo": "",
