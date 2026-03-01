@@ -15131,220 +15131,263 @@
         "país": "tn",
         "categoría": "news"
     },
-    "24-news-tv": {
-        "nombre": "24 News",
-        "logo": "https://www.twentyfournews.com/wp-content/themes/24News_v5/images/logo-new.png?x11794",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/1wECsnGZcfc? modestbranding=1&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCup3etEdjyF1L3sRbU-rKLw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.twentyfournews.com/live",
-        "país": "in",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "KAN-11": {
-        "nombre": "KAN 11",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.kan.org.il/page.aspx?landingPageId=1009"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wwitv.com/tv_channels/b6996-https://wwitv.com/tv_channels/b6996-KAN-11-TV-Israel.htm-TV-Israel.htm",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "il",
+    "categoría": "news"
+  },
+  "24-news-tv": {
+    "nombre": "24 News",
+    "logo": "https://www.twentyfournews.com/wp-content/themes/24News_v5/images/logo-new.png?x11794",
+    "señales": {
+      "iframe_url": [
+        "https://www.twentyfournews.com/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCup3etEdjyF1L3sRbU-rKLw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "channel-13": {
-        "nombre": "channel 13",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/channel-13-live/",
-                "https://babaktv.com/embed/reshet-13-link01/",
-                "https://babaktv.com/embed/reshet-13-link02/",
-                "https://babaktv.com/embed/reshet-13-link03/"
-            ],
-            "m3u8_url": [
-                "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_1.m3u8",
-                "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://13tv.co.il/live/",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twentyfournews.com/live",
+    "país": "in",
+    "categoría": "news"
+  },
+  "KAN-11": {
+    "nombre": "KAN 11",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kan.org.il/live/",
+        "https://www.knesset.tv/live/",
+        "https://www.makan.org.il/makan-live_page/",
+        "https://24music.live/visual-radio/",
+        "https://www.mako.co.il/24tv",
+        "https://player.teleon.tv/en/channel/channel-10-israel",
+        "https://player.teleon.tv/en/channel/hala-tv-israel",
+        "https://www.hidabroot.org/live",
+        "https://www.20il.co.il/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "channel-12": {
-        "nombre": "channel 12",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD",
-                "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livehdtv.com/channel-12-live-stream-from-isreal/",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "https://wwitv.com/tv_channels/b6996-https://wwitv.com/tv_channels/b6996-KAN-11-TV-Israel.htm-TV-Israel.htm",
+    "país": "il",
+    "categoría": "news"
+  },
+  "Channel-12": {
+    "nombre": "Channel 12",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD",
+        "https://www.mako.co.il/news-channel2/Channel-2-Newscast-q3_2019/Article-3bf5c3a8e967f51006.htm",
+        "https://player.teleon.tv/en/channel/keshet-12",
+        "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Now-14": {
-        "nombre": "Now 14",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCKEImtWikw9usC1pl_9m1nQ&modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCKEImtWikw9usC1pl_9m1nQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wwitv.com/tv_channels/b7402-Now-14.htm",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "https://www.livehdtv.com/channel-12-live-stream-from-isreal/",
+    "país": "il",
+    "categoría": "news"
+  },
+  "channel-13": {
+    "nombre": "Channel 13",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cdnapisec.kaltura.com//p/2748741/embedPlaykitJs/uiconf_id/50272542?iframeembed=true&entry_id=1_0dqzmi9x",
+        "https://13tv.co.il/allshows/2010263/",
+        "https://www.livehdtv.com/channel-13-live/",
+        "https://babaktv.com/embed/reshet-13-link01/",
+        "https://babaktv.com/embed/reshet-13-link02/",
+        "https://babaktv.com/embed/reshet-13-link03/"
+      ],
+      "m3u8_url": [
+        "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_1.m3u8",
+        "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "pars-tv": {
-        "nombre": "Pars tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.parsatv.com/embed.php?name=Israel-Pars-TV",
-                "https://babaktv.com/embed/israel-pars-tv-link03/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://babaktv.com/israel-pars-tv/",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "https://13tv.co.il/live/",
+    "país": "il",
+    "categoría": "news"
+  },
+  "Now-14": {
+    "nombre": "Now 14",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.c14.co.il/live?t=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCKEImtWikw9usC1pl_9m1nQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "makan-hd": {
-        "nombre": "Makan HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.babaktv.com/2023/09/makan-33-link01.html?m=0",
-                "https://embed.babaktv.com/2023/09/makan-33-link02.html?m=0",
-                "https://embed.babaktv.com/2023/09/makan-33-link03.html?m=0"
-            ],
-            "m3u8_url": [
-                "https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.makan.org.il/makan-live_page/",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "https://www.c14.co.il/",
+    "país": "il",
+    "categoría": "news"
+  },
+  "Pars-tv": {
+    "nombre": "Pars tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.parsatv.com/embed.php?name=Israel-Pars-TV",
+        "https://babaktv.com/embed/israel-pars-tv-link03/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "i24news": {
-        "nombre": "i24news",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=i24ar",
-                "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
-                "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
-                "https://www.elahmad.com/tv/watchtv.php?id=i24news_fr"
-            ],
-            "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8",
-                "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8",
-                "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1722630600~exp=1722634200~acl=/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/*~hmac=dbfe95001cc7cbd9c7f85a127706ec89fb4eeb3962afff6879e98fcca380c239",
-                "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1722632400~exp=1722636000~acl=/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/*~hmac=9b4d6bcb7fd129d1de8b45386919957ee13f090ec0aaecca17000a560c47408b"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.i24news.tv/en",
-        "país": "il",
-        "categoría": "news"
+    "sitio_oficial": "https://babaktv.com/israel-pars-tv/",
+    "país": "il",
+    "categoría": "news"
+  },
+  "Makan-HD": {
+    "nombre": "Makan HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.babaktv.com/2023/09/makan-33-link01.html?m=0",
+        "https://www.makan.org.il/makan-live_page/",
+        "https://embed.babaktv.com/2023/09/makan-33-link02.html?m=0",
+        "https://embed.babaktv.com/2023/09/makan-33-link03.html?m=0"
+      ],
+      "m3u8_url": [
+        "https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "RCTI": {
-        "nombre": "RCTI",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rctiplus.com/tv/rcti",
-                "https://embed.rctiplus.com/live/rcti/sindonews",
-                "https://video.sindonews.com/tv/rcti/live-streaming",
-                "https://tv.okezone.com/streaming/rcti"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rctiplus.com/tv/rcti",
-        "país": "id",
-        "categoría": "news"
+    "sitio_oficial": "https://www.makan.org.il/makan-live_page/",
+    "país": "il",
+    "categoría": "news"
+  },
+  "i24news": {
+    "nombre": "i24news",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/watchtv.php?id=i24ar",
+        "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
+        "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
+        "https://www.elahmad.com/tv/watchtv.php?id=i24news_fr"
+      ],
+      "m3u8_url": [
+        "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8",
+        "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8",
+        "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1722630600~exp=1722634200~acl=/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/*~hmac=dbfe95001cc7cbd9c7f85a127706ec89fb4eeb3962afff6879e98fcca380c239",
+        "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1722632400~exp=1722636000~acl=/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/*~hmac=9b4d6bcb7fd129d1de8b45386919957ee13f090ec0aaecca17000a560c47408b"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ANTV": {
-        "nombre": "ANTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
-                "https://www.indihometv.com/livetv/antv"
-            ],
-            "m3u8_url": [
-                "https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=tjy-gEFtzvi4YxrqkyLQlA&exp=1727799350&encp=ZuxN9WYHaefK8gtm5Ay3Ww&expp=1727809850"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.indihometv.com/livetv/antv",
-        "país": "id",
-        "categoría": "news"
+    "sitio_oficial": "https://www.i24news.tv/en",
+    "país": "il",
+    "categoría": "news"
+  },
+  "RCTI": {
+    "nombre": "RCTI",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rctiplus.com/tv/rcti",
+        "https://embed.rctiplus.com/live/rcti/sindonews",
+        "https://video.sindonews.com/tv/rcti/live-streaming",
+        "https://tv.okezone.com/streaming/rcti"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ANTV-l": {
-        "nombre": "ANTV l",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://antv.gov.vn/",
-                "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.antvklik.com/",
-        "país": "id",
-        "categoría": "news"
+    "sitio_oficial": "https://www.rctiplus.com/tv/rcti",
+    "país": "id",
+    "categoría": "news"
+  },
+  "ANTV": {
+    "nombre": "ANTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
+        "https://www.indihometv.com/livetv/antv"
+      ],
+      "m3u8_url": [
+        "https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=tjy-gEFtzvi4YxrqkyLQlA&exp=1727799350&encp=ZuxN9WYHaefK8gtm5Ay3Ww&expp=1727809850"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.indihometv.com/livetv/antv",
+    "país": "id",
+    "categoría": "news"
+  },
+  "ANTV-l": {
+    "nombre": "ANTV l",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://antv.gov.vn/",
+        "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCIg56SgvoZF8Qg0Jx_gh6Pg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.antvklik.com/",
+    "país": "id",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "id",
+    "categoría": "news"
+  },
     "TVOne": {
         "nombre": "TVOne",
         "logo": "",
