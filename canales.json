@@ -9669,6 +9669,23 @@
         "país": "ca",
         "categoría": "news"
     },
+  "cbc-news": {
+    "nombre": "CBC News",
+    "logo": "https://i.imgur.com/SjTdhvJ.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://livetv-fa.tubi.video/cbc2/master.m3u8"
+      ],
+      "yt_id": "UCuFFtHWoLl5fauMMD5Ww2jA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA",
+    "país": "ca",
+    "categoría": "news"
+  },
     "multimedios-costa-rica": {
         "nombre": "Multimedios Costa Rica",
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
@@ -9909,14 +9926,15 @@
         "país": "cr",
         "categoría": "news"
     },
-    "espn-2": {
-        "nombre": "PEREZ ZELEDON TV SUR 14",
+    "TVSUR-14": {
+        "nombre": "PEREZ ZELEDON TV SUR 14 - Extratvcr",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w718890644.m3u8"
+            "iframe_url": [
+              "https://www.extratvcr.com/envivo/",
+              "https://www.tvsur.co.cr/envivo/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -9930,10 +9948,10 @@
         "nombre": "GUATUSO TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist_w1378355567.m3u8"
+            "iframe_url": [
+              "https://www.costaricayplayas.com/p/guatuso-tv.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -15137,6 +15155,21 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/@TVG",
+    "país": "es",
+    "categoría": "news"
+  },
+  "la-vanguardia": {
+    "nombre": "La Vanguardia",
+    "logo": "https://graph.facebook.com/LaVanguardia/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UClLLRs_mFTsNT5U-DqTYAGg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg",
     "país": "es",
     "categoría": "news"
   },
@@ -28480,6 +28513,38 @@
         "país": "pk",
         "categoría": "news"
     },
+  "globalquake": {
+    "nombre": "GlobalQuake",
+    "logo": "https://img1.wsimg.com/isteam/ip/b2e252f8-5387-4660-ba31-3f433af7b108/blob-8a5d034.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCZmcd4cQ2H_ELWAuUdOMgRQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "globalquake"
+    },
+    "sitio_oficial": "https://globalquake.net/",
+    "país": "cz",
+    "categoría": "news"
+  },
+  "gbnewsonline": {
+    "nombre": "GBNews",
+    "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+      ],
+      "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.gbnews.com/watch/live",
+    "país": "gb-eng",
+    "categoría": "news"
+  },
     "vsh-news": {
         "nombre": "VSH News Nonton langsung",
         "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/vsh-news.webp",
@@ -36241,6 +36306,26 @@
     "país": "us",
     "categoría": "news"
   },
+  "thegameawards": {
+    "nombre": "The Game Awards",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Game_Awards_Logo_2024.svg/1200px-The_Game_Awards_Logo_2024.svg.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/d-BDeU3R5ic?si=UaCOnWDbRIjwRiOS",
+        "https://www.youtube.com/embed/uFcNRQ3FkHs?si=LOleyBD75pI-AJ6z",
+        "https://www.youtube.com/embed/RzwMieh9c_8?si=qjk_6B2juXHLw0QU",
+        "https://thegameawards.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCqDS7KWjAPKv-7ZSlro9OiQ",
+      "yt_embed": "d-BDeU3R5ic",
+      "yt_playlist": "PLi9Mlnjwioo-mdNAFb4KUMdJi8WzbcuBh",
+      "twitch_id": "thegameawards"
+    },
+    "sitio_oficial": "https://thegameawards.com/",
+    "país": "us",
+    "categoría": "entertainment"
+  },
   "MSNBC": {
     "nombre": "MSNBC",
     "logo": "",
@@ -36880,6 +36965,81 @@
         "país": "us",
         "categoría": "music"
     },
+  "lorain-portand-finance-authority": {
+    "nombre": "Lorain Port and Finance Authority",
+    "logo": "https://lorainport.com/wp-content/uploads/2020/09/lpfa-logo-full-color-rgb-extended-300x130.jpg",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCMMBk7t5_yJ03OWwHdGTWOw",
+      "yt_embed": "1MVB3fgg7kg",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lorainport.com/",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-1": {
+    "nombre": "Castro Street Cam 1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCoFUleuZUyRUVDjO4JcCSTQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCoFUleuZUyRUVDjO4JcCSTQ",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-2": {
+    "nombre": "Castro Street Cam 2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UClSdxxEoPbpZHrujhfQcdow",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UClSdxxEoPbpZHrujhfQcdow",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-3": {
+    "nombre": "Castro Street Cam 3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCKxzK9FBETp6vK3wdqrUelQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCKxzK9FBETp6vK3wdqrUelQ",
+    "país": "us",
+    "categoría": "outdoor"
+  },
+  "castro-street-cam-4": {
+    "nombre": "Castro Street Cam 4",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC7bQdkO4Q21ZU1Akc1kKVjA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC7bQdkO4Q21ZU1Akc1kKVjA",
+    "país": "us",
+    "categoría": "outdoor"
+  },
     "axisexperiencecentersouthc7747": {
         "nombre": "Axis Experience Center South Central",
         "logo": "https://graph.facebook.com/axiscommunications/picture?width=800&height=800",
@@ -41768,6 +41928,56 @@
         "país": "in",
         "categoría": "news"
     },
+  "india-today": {
+    "nombre": "India Today",
+    "logo": "https://graph.facebook.com/IndiaToday/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+        "https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8"
+      ],
+      "yt_id": "UCYPvAwZP8pZhSMW8qs7cVCw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw",
+    "país": "in",
+    "categoría": "news"
+  },
+  "cnbctv18india": {
+    "nombre": "CNBC-TV18",
+    "logo": "https://graph.facebook.com/cnbctv18india/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8"
+      ],
+      "yt_id": "UCmRbHAgG2k2vDUvb3xsEunQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ",
+    "país": "in",
+    "categoría": "news"
+  },
+  "hindustan-times": {
+    "nombre": "Hindustan Times",
+    "logo": "https://graph.facebook.com/hindustantimes/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCm7lHFkt2yB_WzL67aruVBQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCm7lHFkt2yB_WzL67aruVBQ",
+    "país": "in",
+    "categoría": "news"
+  },
     "ndtv-profit": {
         "nombre": "Ndtv Profit",
         "logo": "",
