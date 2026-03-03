@@ -5,6 +5,7 @@
     "señales": {
       "iframe_url": [
         "https://www.channelstv.com/live/",
+        "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCTXNz3gjAypWp3EhlIATEJQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&player=585a9076c4b653ae71315e55&custom.preroll=sz%3D640x480%26iu%3D%2F317342475%2F24horas_prerroll%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer%5D%26description_url%3Dhttps%3A%2F%2Fwww.24horas.cl%2Felecciones-2021%2F%26correlator%3D%5Btimestamp%5D&custom.overlay=sz%3D640x480%26iu%3D%2F317342475%2F24horas_overlay%26impl%3Ds%26gdfp_req%3D1%26env%3Dvp%26output%3Dxml_vast3%26unviewed_position_start%3D1%26url%3D%5Breferrer_url%5D%26description_url%3Dhttps%3A%2F%2Fwww.24horas.cl%2Felecciones-2021%2F%26correlator%3D%5Btimestamp%5D",
         "https://www.viendotele.cl/",
@@ -13,7 +14,6 @@
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
         "https://s.emisoras.tv:2020/VideoPlayer/mimutv?autoplay=1",
         "https://mimutv.com/",
-        "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
         "https://tvnplay.com/",
         "https://www.24horas.cl/envivo/"
       ],
@@ -36,7 +36,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
     "señales": {
       "iframe_url": [
-        "https://servilive.com/hybrid-stream-video-widget/angienet",
+        "https://rudo.video/live/mega",
+        "https://rudo.video/live/mega?autoplay=true&volume=0",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkccyEbqhhM3uKOI6Shm-4Q&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://servilive.com/hybrid-stream-video-widget/angienet",
         "https://sohag1192.github.io/Live-Tv-Server/",
@@ -51,7 +52,6 @@
         "https://www.rapifutboltv.com/en-vivo/player/embed.php?r=goldenpremier2",
         "https://www.photocalltv.me/cv/embed.php?r=goldenpremier2",
         "https://embed.sdfgnksbounce.com/embed2/goldenpremier2.html",
-        "https://rudo.video/live/mega?autoplay=true&volume=0",
         "https://mdstrm.com/live-stream/561430ae330428c223687e1e?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=gE8lTSgwBHjvtgngUtWjsWvbckRlL4L0c72Ej2bcBx19fVNbG1fAnMtbWWoeEItHEMwx6N5pWR4&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmeganoticias%2F",
         "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=WimxeByVNdkoJIcyQ7fCI5RmCQKQ83z3t4qZoKLW8heeh5oRTkZc186oA5vuKI2j1Dh2jO8bp4g&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F",
         "https://mdstrm.com/live-stream/56f97fc0b9bb39786b04a3b0?jsapi=true&loop=false&autoplay=true&volume=0&player=5e5597b9171de20f8f30667a&access_token=pAk21b6J8EhcCGKObFJjfydOneEjTXp4JwfBhIiQux3lfsgvUvb0ULCi7lkCEZK3KboocZi8Z0Q&mse=true&ads[map]=&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2Fmegatiempo%2F",
@@ -141,6 +141,7 @@
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/cnn?autoplay=true&volume=0",
+        "https://rudo.video/live/cnn",
         "https://streamkit.net/tv/23652",
         "https://streamkit.net/tv/29044",
         "https://v2.tustreaming.cl:2020/public/maulevisiontv",
@@ -168,27 +169,13 @@
     "país": "cl",
     "categoría": "news"
   },
-  "el-mostrador": {
-    "nombre": "El Mostrador",
-    "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "UCAOZvFm0xSBcom35r6-mcEA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.elmostrador.cl/",
-    "país": "cl",
-    "categoría": "news"
-  },
   "chv-noticias": {
     "nombre": "CHV Noticias",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
     "señales": {
       "iframe_url": [
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
+        "https://rudo.video/live/chvn",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCRsUoZYC1ULUspipMRnMhwg&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://www.youtube.com/embed/H3AFMMYG_tU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://rootmaster.xyz/player.php?id=1591430d",
@@ -224,11 +211,27 @@
     "país": "cl",
     "categoría": "news"
   },
+  "el-mostrador": {
+    "nombre": "El Mostrador",
+    "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCAOZvFm0xSBcom35r6-mcEA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elmostrador.cl/",
+    "país": "cl",
+    "categoría": "news"
+  },
   "cooperativa": {
     "nombre": "Radio Cooperativa",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
     "señales": {
       "iframe_url": [
+        "https://rudo.video/live/coopetv",
         "https://rudo.video/live/coopetv?autoplay=true&volume=0",
         "https://unlimited11-cl.dps.live/cooperativafm/aac/icecast.audio"
       ],
