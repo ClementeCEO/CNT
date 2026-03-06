@@ -88,8 +88,8 @@
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
-        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=bbb895cbbbbd6a333e57d1636fd4bde0&expires=1772833051&sig=bd21173c5ecfa14129de83ab50332bcd304156e3eaefe0b0f974b6322732e62e",
+        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8",
         "https://content.uplynk.com/ext/75f2a934c5084e63820c74703c51d68f/260306_160006_1_wbbh.m3u8?ad=wbbhmidroll&boundary.adx=skip",
         "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
         "https://www.livehdtv.com/embed/ch612/",
@@ -156,7 +156,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.mgtv.com/live/"
+        "https://www.mgtv.com/live/",
+        "https://tv.cctv.com/live/cctv1/"
       ],
       "m3u8_url": [
         "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS",
@@ -169,7 +170,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://tv.cctv.com/live/cctv1/",
+    "sitio_oficial": "https://www.tvchinese.net/",
     "país": "co",
     "categoría": "news"
   },
