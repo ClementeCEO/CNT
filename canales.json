@@ -31,6 +31,125 @@
     "país": "cl",
     "categoría": "news"
   },
+  "asharq-news-Navez": {
+    "nombre": "asharq news Navez Business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://gg.hls2.xyz/live/tv3/playlist.m3u8",
+        "https://live-news.asharq.com/asharq_1080p30.m3u8",
+        "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
+      ],
+      "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
+      "yt_embed": "f6VpkfV7m4Y?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "asharq-news-Navez-2": {
+    "nombre": "asharq news Navez Business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/asharq-news-live.php",
+        "https://asharq.com/iran/173800/live-blog-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/",
+        "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
+        "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
+        "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
+        "https://asharq.com/live/",
+        "http://azrotv.com/iphone/arabic/ch2/asharq_news.php",
+        "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
+        "https://www.youtube.com/watch?v=f6VpkfV7m4Y"
+      ],
+      "m3u8_url": [
+        "https://gg.hls2.xyz/live/tv3/playlist.m3u8",
+        "https://live-news.asharq.com/asharq_1080p30.m3u8",
+        "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+        "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
+      ],
+      "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
+      "yt_embed": "f6VpkfV7m4Y?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
+    "país": "sa",
+    "categoría": "news"
+  },
+  "abc7-swfl": {
+    "nombre": "ABC7 SWFL - MI FLOLKLORE - LRT Lituanica",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=bbb895cbbbbd6a333e57d1636fd4bde0&expires=1772833051&sig=bd21173c5ecfa14129de83ab50332bcd304156e3eaefe0b0f974b6322732e62e",
+        "https://content.uplynk.com/ext/75f2a934c5084e63820c74703c51d68f/260306_160006_1_wbbh.m3u8?ad=wbbhmidroll&boundary.adx=skip",
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
+        "https://www.livehdtv.com/embed/ch612/",
+        "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
+        "https://stream-live.lrt.lt/lituanica/master.m3u8",
+        "https://github.com/r3414385-debug/IPTV/blob/master/playlists/playlist_lithuania.m3u8"
+      ],
+      "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
+      "yt_embed": "sj2cWegO1OU",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.abc-7.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "abc7-swfl-2": {
+    "nombre": "ABC7 SWFL - MI FLOLKLORE - LRT Lituanica",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://n1info.hr/n1-tv-live-stream/",
+        "https://votv.cat/votv-en-directe/",
+        "https://play.tdtchannels.com/television/VOTV",
+        "https://www.distro.tv/live/comercio-tv/",
+        "https://www.livenewsnow.com/featured/foxnews.html",
+        "https://streamfare.com/foxnews",
+        "https://tvcableperusatipo.com/mi-folklore/",
+        "https://watch.plex.tv/es/live-tv/category/en-espanol",
+        "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
+        "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
+        "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+        "https://www.youtube.com/embed/YUJl2vWNsWU?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+        "https://www.youtube.com/embed/hiWkGIgEr0M?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
+        "https://abc7chicago.com/watch/live/",
+        "https://abc7news.com/watch/live/",
+        "https://abc7.com/watch/live/",
+        "https://www.abc-7.com/",
+        "https://www.gulfcoastnewsnow.com/article/live-stream/46210476",
+        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1HoecwsFtSMfrZtMjSK8Jmc9G7DP2EgJu8-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
+        "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
+      ],
+      "m3u8_url": [
+        "https://content.uplynk.com/ext/75f2a934c5084e63820c74703c51d68f/260306_160006_1_wbbh.m3u8?ad=wbbhmidroll&boundary.adx=skip",
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
+        "https://www.livehdtv.com/embed/ch612/",
+        "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
+        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
+        "https://stream-live.lrt.lt/lituanica/master.m3u8",
+        "https://github.com/r3414385-debug/IPTV/blob/master/playlists/playlist_lithuania.m3u8"
+      ],
+      "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
+      "yt_embed": "sj2cWegO1OU",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.abc-7.com/",
+    "país": "us",
+    "categoría": "news"
+  },
   "meganoticias-History-2-Latin-America-Girovisual": {
     "nombre": "Meganoticias - Angienet TVpe-H2-SUR TV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
@@ -35623,47 +35742,6 @@
     "país": "us",
     "categoría": "news"
   },
-  "abc7-swfl": {
-    "nombre": "ABC7 SWFL - MI FLOLKLORE - LRT Lituanica",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://n1info.hr/n1-tv-live-stream/",
-        "https://votv.cat/votv-en-directe/",
-        "https://play.tdtchannels.com/television/VOTV",
-        "https://www.distro.tv/live/comercio-tv/",
-        "https://tvcableperusatipo.com/mi-folklore/",
-        "https://watch.plex.tv/es/live-tv/category/en-espanol",
-        "https://www.livehdtv.com/yayin/?kanal=612&yayin=1&guvenlik=$2y$10$TpinXNzOKgucn.OpZfBjZeZnbw7NlfBizsOY95ye3bfxngEwVg2d6",
-        "https://www.livehdtv.com/yayin/?kanal=612&yayin=ch612&guvenlik=$2y$10$JD34tSyvIz3y/L3BGInyyew.I0egwUKviOolshsJb2siNt2KVVQjm",
-        "https://www.youtube.com/embed/0nREkmFWIcA?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
-        "https://www.youtube.com/embed/YUJl2vWNsWU?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
-        "https://www.youtube.com/embed/hiWkGIgEr0M?si=5IkbAV-d-7eRSizb&start=0&enablejsapi=1&origin=https://www.gulfcoastnewsnow.com",
-        "https://abc7chicago.com/watch/live/",
-        "https://abc7news.com/watch/live/",
-        "https://abc7.com/watch/live/",
-        "https://www.abc-7.com/",
-        "https://www.gulfcoastnewsnow.com/article/live-stream/46210476",
-        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
-        "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
-      ],
-      "m3u8_url": [
-        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
-        "https://www.livehdtv.com/embed/ch612/",
-        "https://github.com/hackalka/iptv_ck/blob/master/streams/us.m3u",
-        "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
-        "https://stream-live.lrt.lt/lituanica/master.m3u8",
-        "https://github.com/r3414385-debug/IPTV/blob/master/playlists/playlist_lithuania.m3u8"
-      ],
-      "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
-      "yt_embed": "sj2cWegO1OU",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.abc-7.com/",
-    "país": "us",
-    "categoría": "news"
-  },
   "ABC7": {
     "nombre": "ABC7",
     "logo": "",
@@ -47699,34 +47777,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/mbfm.php",
-    "país": "sa",
-    "categoría": "news"
-  },
-  "asharq-news-Navez": {
-    "nombre": "asharq news Navez Business",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.elahmad.com/tv/asharq-news-live.php",
-        "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
-        "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
-        "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
-        "https://asharq.com/live/",
-        "http://azrotv.com/iphone/arabic/ch2/asharq_news.php",
-        "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-        "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
-        "https://www.youtube.com/watch?v=f6VpkfV7m4Y"
-      ],
-      "m3u8_url": [
-        "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
-        "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
-      ],
-      "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
-      "yt_embed": "f6VpkfV7m4Y?",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
     "país": "sa",
     "categoría": "news"
   },
