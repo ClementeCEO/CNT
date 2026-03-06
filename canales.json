@@ -37,7 +37,7 @@
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
-        "https://gg.hls2.xyz/live/tv3/playlist.m3u8",
+        "https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/tv3/chunks.m3u8",
         "https://live-news.asharq.com/asharq_1080p30.m3u8",
         "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
         "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
@@ -148,6 +148,27 @@
     },
     "sitio_oficial": "https://www.abc-7.com/",
     "país": "us",
+    "categoría": "news"
+  },
+  "noticias-caracol": {
+    "nombre": "Noticias Caracol - Señal Colombia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html"
+      ],
+      "m3u8_url": [
+        "http://156.238.248.80:8880/play/1.m3u8",
+        "https://video.ejeserver.com/live/teledoradahd.m3u8",
+        "http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
+      ],
+      "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+      "yt_embed": "ZA6YS0CYoTA?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.noticiascaracol.com/ahora",
+    "país": "co",
     "categoría": "news"
   },
   "meganoticias-History-2-Latin-America-Girovisual": {
@@ -10538,7 +10559,7 @@
     "país": "co",
     "categoría": "news"
   },
-  "noticias-caracol": {
+  "noticias-caracol-1": {
     "nombre": "Noticias Caracol - Señal Colombia",
     "logo": "",
     "señales": {
