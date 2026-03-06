@@ -155,10 +155,9 @@
     "nombre": "Noticias Caracol - Señal Colombia",
     "logo": "",
     "señales": {
-      "iframe_url": [
-        "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html"
-      ],
+      "iframe_url": [],
       "m3u8_url": [
+        "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS",
         "http://156.238.248.80:8880/play/1.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
         "http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
@@ -168,7 +167,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.noticiascaracol.com/ahora",
+    "sitio_oficial": "https://tv.cctv.com/live/cctv1/",
     "país": "co",
     "categoría": "news"
   },
