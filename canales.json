@@ -37,8 +37,8 @@
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
-        "https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/tv3/chunks.m3u8",
         "https://live-news.asharq.com/asharq_1080p30.m3u8",
+        "https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/tv3/chunks.m3u8",
         "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
         "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/profile_1/chunklist.m3u8"
       ],
@@ -88,6 +88,7 @@
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
+        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=bbb895cbbbbd6a333e57d1636fd4bde0&expires=1772833051&sig=bd21173c5ecfa14129de83ab50332bcd304156e3eaefe0b0f974b6322732e62e",
         "https://content.uplynk.com/ext/75f2a934c5084e63820c74703c51d68f/260306_160006_1_wbbh.m3u8?ad=wbbhmidroll&boundary.adx=skip",
         "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
@@ -102,7 +103,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.abc-7.com/",
+    "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8/hls/US-FoxBussinessChannel.m3u8",
     "país": "us",
     "categoría": "news"
   },
@@ -169,6 +170,43 @@
     },
     "sitio_oficial": "https://www.noticiascaracol.com/ahora",
     "país": "co",
+    "categoría": "news"
+  },
+  "hostlivetv-CRISTIANA": {
+    "nombre": "Hostlivetv CRISTIANA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://yahoo-samsung.amagi.tv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8/hls/YahooFinance.m3u8",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "hostlivetv-CRISTIANA-2": {
+    "nombre": "Hostlivetv CRISTIANA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1"
+      ],
+      "m3u8_url": [
+        "https://eu1.servers10.com:8081/8106/index.m3u8",
+        "https://eu1.servers10.com:8081/8106/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "hostlivetv"
+    },
+    "sitio_oficial": "https://www.twitch.tv/hostlivetv",
+    "país": "pe",
     "categoría": "news"
   },
   "meganoticias-History-2-Latin-America-Girovisual": {
@@ -25114,26 +25152,6 @@
         "país": "pe",
         "categoría": "news"
     },
-    "hostlivetv-CRISTIANA": {
-        "nombre": "Hostlivetv CRISTIANA",
-        "logo": "https://globalhostlive.com/wp-content/uploads/2019/05/cropped-logo_identidad-180x180.png",
-        "señales": {
-            "iframe_url": [
-                "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://eu1.servers10.com:8081/8106/index.m3u8",
-                "https://eu1.servers10.com:8081/8106/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "hostlivetv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/hostlivetv",
-        "país": "pe",
-        "categoría": "news"
-    },
     "jemora70-tv-veeps": {
         "nombre": "Jemora70 TV - Veeps",
         "logo": "",
@@ -32236,7 +32254,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.giniko.com/watch.php?id=372",
         "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live",
         "https://salintv.com/video/tv3-live/embed/",
         "http://www.imvbox.tv/es/iribtv3/live-channel/play",
@@ -32245,10 +32262,12 @@
         "https://sepehrtv.ir/live/irinn",
         "https://darya.stream/live-tv/irib-khabar-tv-live/",
         "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib2-live",
+        "https://www.giniko.com/watch.php?id=372",
         "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib3-live"
       ],
       "m3u8_url": [
-        "https://gg.hls2.xyz/live/tv3/playlist.m3u8"
+        "https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/tv3/chunks.m3u8",
+        "https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/tv3/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
