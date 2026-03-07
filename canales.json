@@ -182,7 +182,9 @@
     "nombre": "Hostlivetv CRISTIANA",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://watch.plex.tv/es/live-tv/channel/yahoo-finance"
+      ],
       "m3u8_url": [
         "https://yahoo-samsung.amagi.tv/playlist.m3u8"
       ],
