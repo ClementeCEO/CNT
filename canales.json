@@ -215,30 +215,6 @@
     "país": "pe",
     "categoría": "news"
   },
-  "GEM-TV-Live-presstv": {
-    "nombre": "GEM TV Live - Presstv",
-    "logo": "/thumb.php?w=560&h=315&src=https://www.irtv.website/index_files/channels/gemtv1.png",
-    "señales": {
-      "iframe_url": [
-        "https://persianhub1.com/watch/live/Mihan%20TV",
-        "https://www.presstv.ir/Live",
-        "https://www.persianity.com/ch=GEM-TV",
-        "https://www.persianity.com/ch=Kanal-Yek",
-        "https://fa.ch1.cc/live-tv/",
-        "https://www.irtv.website/embed.php?name=GEM-TV"
-      ],
-      "m3u8_url": [
-        "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.persianity.com/ch=GEM-TV",
-    "país": "ir",
-    "categoría": "news"
-  },
   "meganoticias-History-2-Latin-America-Girovisual": {
     "nombre": "Meganoticias - Angienet TVpe-H2-SUR TV",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
@@ -32570,6 +32546,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
     "señales": {
       "iframe_url": [
+        "https://persianhub1.com/watch/live/VOA%20Persian",
         "https://ir.voanews.com/live/video/86",
         "https://tv.voa24.news/monitor.html",
         "https://abdimedia.net/en/world/voa-persian-tv-was-temporarily-shut-down",
@@ -32596,6 +32573,31 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.voanews.com/",
+    "país": "ir",
+    "categoría": "news"
+  },
+  "GEM-TV-Live-presstv": {
+    "nombre": "GEM TV Live - Presstv",
+    "logo": "/thumb.php?w=560&h=315&src=https://www.irtv.website/index_files/channels/gemtv1.png",
+    "señales": {
+      "iframe_url": [
+        "https://persianhub1.com/watch/live/Mihan%20TV",
+        "https://www.presstv.ir/Live",
+        "https://persianhub1.com/watch/live/MBC%20Persia%20Live",
+        "https://www.persianity.com/ch=GEM-TV",
+        "https://www.persianity.com/ch=Kanal-Yek",
+        "https://fa.ch1.cc/live-tv/",
+        "https://www.irtv.website/embed.php?name=GEM-TV"
+      ],
+      "m3u8_url": [
+        "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.persianity.com/ch=GEM-TV",
     "país": "ir",
     "categoría": "news"
   },
