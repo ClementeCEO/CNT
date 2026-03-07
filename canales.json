@@ -35,7 +35,9 @@
     "nombre": "asharq news Navez Business",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://persianhub1.com/watch/live/BBC%20Persian%20Live"
+      ],
       "m3u8_url": [
         "https://live-news.asharq.com/asharq_1080p30.m3u8",
         "https://spf-cors-aprt-9ke54jdbe1.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/tv3/chunks.m3u8",
@@ -89,7 +91,9 @@
       "iframe_url": [],
       "m3u8_url": [
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=bbb895cbbbbd6a333e57d1636fd4bde0&expires=1772833051&sig=bd21173c5ecfa14129de83ab50332bcd304156e3eaefe0b0f974b6322732e62e",
+        "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=6cad7565ea4ecb78687a706ba8b76d4e&expires=1772907007&sig=ca1a7df96ef9bcad04b28d02fd248e624b19e2f31826047ea5fe9d09146076cb",
         "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8",
+        "https://cdn.livenewsplayer.com/hls/cnnsd/cnnsd/playlist.m3u8?secstarttime=1772885416&secendtime=1772892616&sechash=aSBGsuhqAPNd1q1_sUiShgL7jkP9mDFbt8rsKuiF7hA=",
         "https://content.uplynk.com/ext/75f2a934c5084e63820c74703c51d68f/260306_160006_1_wbbh.m3u8?ad=wbbhmidroll&boundary.adx=skip",
         "https://7.innovatestream.pe:19360/mifolklore/mifolklore.m3u8",
         "https://www.livehdtv.com/embed/ch612/",
@@ -209,6 +213,30 @@
     },
     "sitio_oficial": "https://www.twitch.tv/hostlivetv",
     "país": "pe",
+    "categoría": "news"
+  },
+  "GEM-TV-Live-presstv": {
+    "nombre": "GEM TV Live - Presstv",
+    "logo": "/thumb.php?w=560&h=315&src=https://www.irtv.website/index_files/channels/gemtv1.png",
+    "señales": {
+      "iframe_url": [
+        "https://persianhub1.com/watch/live/Mihan%20TV",
+        "https://www.presstv.ir/Live",
+        "https://www.persianity.com/ch=GEM-TV",
+        "https://www.persianity.com/ch=Kanal-Yek",
+        "https://fa.ch1.cc/live-tv/",
+        "https://www.irtv.website/embed.php?name=GEM-TV"
+      ],
+      "m3u8_url": [
+        "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.persianity.com/ch=GEM-TV",
+    "país": "ir",
     "categoría": "news"
   },
   "meganoticias-History-2-Latin-America-Girovisual": {
