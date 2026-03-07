@@ -36851,34 +36851,19 @@
     "país": "us",
     "categoría": "news"
   },
-  "Yahoo-Finance-business": {
-    "nombre": "Yahoo! Finance US Business",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://finance.yahoo.com/live/"
-      ],
-      "m3u8_url": [
-        "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
-    "país": "us",
-    "categoría": "news"
-  },
   "finance-yahoo-tv": {
     "nombre": "Finance Yahoo Business",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://finance.yahoo.com/live/"
+        "https://finance.yahoo.com/live/",
+        "https://watch.plex.tv/es/live-tv/channel/yahoo-finance",
+        "https://sports.yahoo.com/watch/",
+        "https://www.livestreamtvhub.com/us/business"
       ],
       "m3u8_url": [
-        "https://content-ause1-ur-yahoo1.uplynk.com/event/8b121622be10443397296e9b6a4e5e42/f.m3u8?tc=1&exp=1735419722&rn=3850&ct=e&cid=8b121622be10443397296e9b6a4e5e42&iph=210118e0c00e49f3d4e9c261584eb9e5f1af996f03316262e04f4fbbe4252ccd&ad.adUnit=%2Fus%2Fyfin%2Flive%2Fdt%2Fus_yfin_live_dt_video&ad.cust_params=lmsid%3Da0a6T00000U832dQAB%26spaceid%3D97370765%26bucket%3Dyf-csn-on%2Cyf-advchart-nimbus%2Cnewslatestnativead-control%26site%3Dfinance%26region%3DUS%26lang%3Den-US&ad.description_url=https%3A%2F%2Ffinance.yahoo.com&ad.gdpr=0&ad.gpp=DBAA&ad.gpp_sid=-1&ad.ltd=0&ad.npa=0&ad.url=https%3A%2F%2Ffinance.yahoo.com&ad.us_privacy=1---&expand=gam&rays=defabc&secure=true&sig=6de48d45ee9cbe3df5767b52d7eb3c96e012304ea9cc8409300fe8fb8203353c&pbs=c1c4ab5cd238447e9baf0bc4a0c0427b"
+        "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+        "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -36961,164 +36946,113 @@
     "país": "us",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "the-weather-channel": {
+    "nombre": "The Weather Channel",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://thetvapp.to/tv/the-weather-channel-live-stream/",
+        "https://www.livehdtv.com/embed/the-weather-channel/"
+      ],
+      "m3u8_url": [
+        "https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/the-weather-channel/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "wfaa-channel": {
+    "nombre": "WFAA Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.wfaa.com/liveweatherchannel"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.wfaa.com/liveweatherchannel",
     "país": "us",
     "categoría": "news"
   },
-    "the-weather-channel": {
-        "nombre": "The Weather Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://thetvapp.to/tv/the-weather-channel-live-stream/",
-                "https://www.livehdtv.com/embed/the-weather-channel/"
-            ],
-            "m3u8_url": [
-                "https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livehdtv.com/the-weather-channel/",
-        "país": "us",
-        "categoría": "general"
+  "Sky-News": {
+    "nombre": "Sky News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://news.sky.com/watch-live",
+        "https://tunein.com/embed/player/s2583/",
+        "https://www.livehdtv.com/embed/skynews/"
+      ],
+      "m3u8_url": [
+        "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8",
+        "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8"
+      ],
+      "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "yt_embed": "oJUvTVdTMyY?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wfaa-channel": {
-        "nombre": "WFAA Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.wfaa.com/liveweatherchannel"
-            ],
-            "m3u8_url": [
-                "https://video.tegnaone.com/wfaa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA-Production/live/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.wfaa.com/liveweatherchannel",
-        "país": "us",
-        "categoría": "general"
+    "sitio_oficial": "https://www.livehdtv.com/skynews/",
+    "país": "uk",
+    "categoría": "news"
+  },
+  "QVC": {
+    "nombre": "QVC",
+    "logo": "https://qvc.scene7.com/is/image/QVC/pic/aem/rebrand/shop-live-tv-start-poster-rebrand.jpg?qlt=86,1",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/UqFzfqlb60g",
+        "https://www.livehdtv.com/embed/qvc/",
+        "https://www.qvc.com/content/shop-live-tv.html",
+        "https://www.qvcuk.com/content/shop-live-tv.html?srsltid=AfmBOoqwypzBTxpNc0Igw_m22xo9gQSSd32yvoeytVe9wDwwQwvZRs40",
+        "https://plus.qvc.com/channels/qvc",
+        "https://www.qvc.com/content/shop-live-tv.html?qq=mh"
+      ],
+      "m3u8_url": [
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/medhigh.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
+        "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/medhigh.m3u8"
+      ],
+      "yt_id": "UCW4gXUEypFeI3xgoQ27LFBA",
+      "yt_embed": "UqFzfqlb60g",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sky-news": {
-        "nombre": "Sky News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://news.sky.com/watch-live"
-            ],
-            "m3u8_url": [
-                "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livehdtv.com/skynews/",
-        "país": "us",
-        "categoría": "general"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/qvc-us",
+    "país": "us",
+    "categoría": "news"
+  },
+  "ihopkc": {
+    "nombre": "International House of Prayer",
+    "logo": "https://graph.facebook.com/ihopkc/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist.m3u8"
+      ],
+      "yt_id": "UCqSYig9Cmx6DJ3XaUYg4vpw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "qvc": {
-        "nombre": "QVC",
-        "logo": "https://qvc.scene7.com/is/image/QVC/pic/aem/rebrand/shop-live-tv-start-poster-rebrand.jpg?qlt=86,1",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/UqFzfqlb60g",
-                "https://www.livehdtv.com/embed/qvc/",
-                "https://www.qvc.com/content/shop-live-tv.html",
-                "https://www.qvcuk.com/content/shop-live-tv.html?srsltid=AfmBOoqwypzBTxpNc0Igw_m22xo9gQSSd32yvoeytVe9wDwwQwvZRs40",
-                "https://plus.qvc.com/channels/qvc"
-            ],
-            "m3u8_url": [
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
-            ],
-            "yt_id": "UCW4gXUEypFeI3xgoQ27LFBA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/qvc-us",
-        "país": "us",
-        "categoría": "general"
-    },
-    "qvc2": {
-        "nombre": "QVC2",
-        "logo": "https://qvc.scene7.com/is/image/QVC/pic/aem/rebrand/shop-live-tv-start-poster-rebrand.jpg?qlt=86,1",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/UqFzfqlb60g"
-            ],
-            "m3u8_url": [
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/medhigh.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/medhigh.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.qvc.com/content/shop-live-tv.html?qq=mh",
-        "país": "us",
-        "categoría": "general"
-    },
-    "skynews": {
-        "nombre": "Sky News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tunein.com/embed/player/s2583/",
-                "https://www.livehdtv.com/embed/skynews/"
-            ],
-            "m3u8_url": [
-                "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8"
-            ],
-            "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ",
-            "yt_embed": "oJUvTVdTMyY?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livehdtv.com/skynews/",
-        "país": "uk",
-        "categoría": "general"
-    },
-    "ihopkc": {
-        "nombre": "International House of Prayer",
-        "logo": "https://graph.facebook.com/ihopkc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_68FBe1c2dE/playlist.m3u8"
-            ],
-            "yt_id": "UCqSYig9Cmx6DJ3XaUYg4vpw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ihopkc.org/prayerroom/",
-        "país": "us",
-        "categoría": "music"
-    },
+    "sitio_oficial": "https://www.ihopkc.org/prayerroom/",
+    "país": "us",
+    "categoría": "music"
+  },
   "lorain-portand-finance-authority": {
     "nombre": "Lorain Port and Finance Authority",
     "logo": "https://lorainport.com/wp-content/uploads/2020/09/lpfa-logo-full-color-rgb-extended-300x130.jpg",
@@ -37209,6 +37143,21 @@
         "país": "us",
         "categoría": "camera"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "us",
+    "categoría": "news"
+  },
     "times-square": {
         "nombre": "Times Square Live 4K",
         "logo": "",
