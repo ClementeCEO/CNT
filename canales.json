@@ -33802,15 +33802,55 @@
     "señales": {
       "iframe_url": [
         "https://www.globovision.com/",
-        "https://tvinsur.com/venezuela/globovision/"
+        "https://tvinsur.com/venezuela/globovision/",
+        "https://tv.legal/watch/tv-oasis-trujillo-ve",
+        "https://tv.legal/watch/torococo-tv-ve"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8",
+        "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8",
+        "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8",
+        "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+        "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
+        "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8",
+        "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+        "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8"
+      ],
       "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.globovision.com/",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "venevisionplay-tv": {
+    "nombre": "Venevision Play",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://snippet.univtec.com/player-mobile.html?stream=https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8&live=true&autoplay=true&volume=1&vast=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTY0MHg0ODAmaXU9LzQzNDU5MjcxLDIyNzE3NjA3MDU4L2xvYy1kZXNrdG9wL3ZlbmV2aXNpb25wbGF5L3dlYi9saXZlJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZhZF9ydWxlPTAmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9aHR0cHM6Ly93d3cudmVuZXZpc2lvbnBsYXkuY29tJmRlc2NyaXB0aW9uX3VybD17e0VOQ09ERURfVVJMfX0mdnBvcz1wcmVyb2xsJnRmY2Q9MCZucGE9MCZvcmQ9e3tDQUNIRUJVU1RFUn19JmNvcnJlbGF0b3I9e3tDQUNIRUJVU1RFUn19&client=venevision&label=Venevision%20Internacional&guid=6a22d48f-7753-4da3-9b9e-8e7a7ac1cc8b&uuid=90d7f237-555e-4334-a316-f7157d965aab&maincategory=Live&pip=true&ip=179.6.168.249&lat=-12.0432&lon=-77.0282&channel_name=Venevision%20Internacional&data-skin=aviva_epg&api=",
+        "https://www.venevisionplay.com/",
+        "https://www.venevisionplay.com/player/channel/639c979af920bd0012de6bc9",
+        "https://tv.legal/watch/venevision-ve",
+        "https://guarotv.net/",
+        "https://grandefmtv.com.ve/television",
+        "https://tv.legal/watch/intertv-ve",
+        "https://globoview.cam/directorio/venezuela/fortuna-tv/",
+        "https://www.venevision.com/"
+      ],
+      "m3u8_url": [
+        "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+        "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8",
+        "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+      ],
+      "yt_id": "UCR1tLg8fy9dklmhZPf0qCWQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@NoticieroVenevision",
     "país": "ve",
     "categoría": "news"
   },
@@ -33901,17 +33941,21 @@
     "categoría": "news"
   },
   "ntn24": {
-    "nombre": "NTN24",
+    "nombre": "NTN24- UN24",
     "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
         "https://www.ntn24.com/en-vivo",
+        "https://un24.tv/",
+        "https://tv.legal/watch/un24-ve",
         "https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true",
         "https://tvinsur.com/cuba/tele-rebelde/",
         "https://www.telerebelde.icrt.cu/category/en-vivo/",
         "https://teveo.cu/live/video"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8"
+      ],
       "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
       "yt_embed": "",
       "yt_playlist": "",
@@ -34133,28 +34177,6 @@
     "sitio_oficial": "https://www.cantinatv.com/",
     "país": "ve",
     "categoría": "musica"
-  },
-  "venevisionplay-tv": {
-    "nombre": "Venevision Play",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://snippet.univtec.com/player-mobile.html?stream=https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8&live=true&autoplay=true&volume=1&vast=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTY0MHg0ODAmaXU9LzQzNDU5MjcxLDIyNzE3NjA3MDU4L2xvYy1kZXNrdG9wL3ZlbmV2aXNpb25wbGF5L3dlYi9saXZlJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZhZF9ydWxlPTAmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9aHR0cHM6Ly93d3cudmVuZXZpc2lvbnBsYXkuY29tJmRlc2NyaXB0aW9uX3VybD17e0VOQ09ERURfVVJMfX0mdnBvcz1wcmVyb2xsJnRmY2Q9MCZucGE9MCZvcmQ9e3tDQUNIRUJVU1RFUn19JmNvcnJlbGF0b3I9e3tDQUNIRUJVU1RFUn19&client=venevision&label=Venevision%20Internacional&guid=6a22d48f-7753-4da3-9b9e-8e7a7ac1cc8b&uuid=90d7f237-555e-4334-a316-f7157d965aab&maincategory=Live&pip=true&ip=179.6.168.249&lat=-12.0432&lon=-77.0282&channel_name=Venevision%20Internacional&data-skin=aviva_epg&api=",
-        "https://www.venevisionplay.com/",
-        "https://www.venevisionplay.com/player/channel/639c979af920bd0012de6bc9",
-        "https://www.venevision.com/"
-      ],
-      "m3u8_url": [
-        "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
-      ],
-      "yt_id": "UCR1tLg8fy9dklmhZPf0qCWQ",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.youtube.com/@NoticieroVenevision",
-    "país": "ve",
-    "categoría": "news"
   },
   "alegre-tv-rd": {
     "nombre": "Alegre TV RD",
