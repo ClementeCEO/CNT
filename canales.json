@@ -40248,31 +40248,57 @@
         "país": "cn",
         "categoría": "news"
     },
-    "CNA-Guangxi-GNXTV-Gansu-zxc-GuizhouTV-GuangdongTV-Talentvision": {
-        "nombre": "CNA INTERNATIONAL - Guangxi-GNXTV - Talentvision",
-        "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/XWq5kBlakcQ?modestbranding=1",
-                "https://www.gstv.com.cn/zxc.jhtml",
-                "https://www.gzstv.com/tv/ch01",
-                "https://www.gdtv.cn/tvChannelDetail/43",
-                "https://www.talentvisiontv.com/ch/",
-                "https://www.fairchildtv.com/ch/",
-                "https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html"
-            ],
-            "m3u8_url": [
-                "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-            ],
-            "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.channelnewsasia.com/international",
-        "país": "cn",
-        "categoría": "news"
+  "CNA-Guangxi-GNXTV-Gansu-zxc-GuizhouTV-GuangdongTV-Talentvision": {
+    "nombre": "CNA INTERNATIONAL - Guangxi-GNXTV - Talentvision",
+    "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://bread-tv.com/",
+        "https://iptvhdplayer.com/watch?channel=neimonggoltvagricultureanimalchannel-cn-sd",
+        "https://www.globalfreetv.com/channels/BreadTV.cn",
+        "https://www.fairchildtv.com/ch/",
+        "https://www.talentvisiontv.com/ch/",
+        "https://www.gdtv.cn/tvChannelDetail/43",
+        "https://www.gzstv.com/tv/ch01",
+        "https://www.gstv.com.cn/zxc.jhtml",
+        "https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html"
+        
+      ],
+      "m3u8_url": [
+        "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+        "https://hls.gstv.com.cn/skt649/p9xpey.m3u8",
+        "https://stream.hrbtv.net/yspd/sd/live.m3u8",
+        "https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=a4ee7d27726409aa117203afe3cfd7cf-Zrnd%2FFhFohGaNudDVlO2P9pjA71B6XaDW2qsFyqDA0SU0vVzRZqAg9kN5JVeWyc%2FZXfFOt2ejH16b9YgkT9cpcHc1Vs%2BKaBRfd%2F2yc763Vr2Em6vMe90mhcDJ79VU9GV2fT44QkJA7agYfiPKBBE15%2BuQP2XKIRq87a1VPQ0Naa8hER%2BDwo%2FzCirn5ScKs%2FYQeaF6lfA4Fwj8R%2BrW6lsapuNUWoI3QnFBfbfvVEge%2Bekof4%2Bj%2BNsRSWN901b9oJPmPQEOAxRflx%2FjZK%2Fve4KnKPpRw94mZHdRxCoS6DV3iQ6YQrFhaocDAaIYL%2FdAi1zjwW5FANXwcyNRu00tS0QPg%3D%3D"
+      ],
+      "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.channelnewsasia.com/international",
+    "país": "cn",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "",
+        ""
+      ],
+      "m3u8_url": [
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "cn",
+    "categoría": "news"
+  },V
     "nbs-CDTV1-": {
         "nombre": "NBS - CDTV1",
         "logo": "",
