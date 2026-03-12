@@ -9802,19 +9802,167 @@
     "país": "bg",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
-    "logo": "",
+  "TVNova-hr": {
+    "nombre": "TV Nova - Televizija Slavonije i Baranje (STV) - CMCTV.hr ",
+    "logo": "https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "http://live.stv.hr/",
+        "https://cmc.com.hr/jugoton-tv-stream/",
+        "https://stv.hr/"
+      ],
+      "m3u8_url": [
+        "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+        "http://89.201.163.244:8080/hls/hdmi.m3u8",
+        "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvnova.hr/",
+    "país": "hr",
+    "categoría": "news"
+  },
+  "TVJadran-hr-LibertasTV-hr": {
+    "nombre": "TV Jadran Libertas TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://tvjadran.hr/tv-jadran-gledaj-uzivo/",
+        "https://www.libertas.tv/",
+        "https://tv.legal/watch/tv-jadran-hr",
+        "https://iptvhdplayer.com/channel/trendtv-hr-sd",
+        "https://trend.com.hr/live/",
+        "https://www.globalfreetv.com/channels/TrendTV.hr"
+      ],
+      "m3u8_url": [
+        "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+        "https://stream.luci.xyz/hls/LTV.m3u8",
+        "http://185.62.75.22:1935/trend/myStream/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
     "sitio_oficial": "",
-    "país": "ca",
+    "país": "hr",
+    "categoría": "news"
+  },
+  "diadoratv": {
+    "nombre": "diadoratv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://diadora.tv/hd-live-stream/",
+        "https://iptvhdplayer.com/channel/hrt1-hr",
+        "https://iptvhdplayer.com/channel/diadoratv-hr-sd",
+        "https://online-television.org/2189-hrt-1-live-stream.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hrti.hrt.hr/home",
+    "país": "hr",
+    "categoría": "news"
+  },
+  "Klape-i-Tambure": {
+    "nombre": "Klape i Tambure TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iptvhdplayer.com/channel/klapeitamburetv-hr-sd",
+        "https://www.globalfreetv.com/channels/KlapeiTambureTV.hr"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://myx.global/",
+    "país": "ph",
+    "categoría": "news"
+  },
+  "Bilyonaryonewschannel": {
+    "nombre": "Bilyonaryonewschannel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iptvhdplayer.com/channel/bilyonaryonewschannel-ph-sd",
+        "https://iptvhdplayer.com/channel/cinemaone-ph-sd"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "myxglobal"
+    },
+    "sitio_oficial": "",
+    "país": "ph",
+    "categoría": "news"
+  },
+  "Dushanbe-HD": {
+    "nombre": "Dushanbe HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://dushanbetv.tj/",
+        "https://www.globalfreetv.com/channels/DushanbeHD.tj"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "myxglobal"
+    },
+    "sitio_oficial": "https://dushanbetv.tj/",
+    "país": "tj",
+    "categoría": "news"
+  },
+  "taxonomy-HD": {
+    "nombre": "Taxonomy HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://teleradiocom.tj/tj/taxonomy/term/11",
+        "https://www.globalfreetv.com/channels/TVBahoriston.tj",
+        "https://globetv.app/mr/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "myxglobal"
+    },
+    "sitio_oficial": "https://teleradiocom.tj/tj/taxonomy/term/11",
+    "país": "tj",
+    "categoría": "news"
+  },
+  "i-news": {
+    "nombre": "I_News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=i_news",
+        "https://www.i-news.tv/live",
+        "https://ina.iq/en/live.html",
+        "https://www.gksat.tv/",
+        "https://www.globalfreetv.com/countries/iraq"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/mobile-live-stream/?id=iraq",
+    "país": "iq",
     "categoría": "news"
   },
     "ctv-news-channel": {
