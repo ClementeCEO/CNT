@@ -7329,6 +7329,149 @@
     "país": "bo",
     "categoría": "news"
   },
+  "Megatv-bolivia-boliviapuntotv": {
+    "nombre": "Megatv bolivia - boliviapuntotv",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://serenotv.com/video/canal-coral-tv/",
+        "https://v2.ssh101.com/detailng.php?id=variedtvonline",
+        "https://www.boliviapuntotv.com/",
+        "https://serenotv.com/video/canal-bolivia-punto-tv/"
+      ],
+      "m3u8_url": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8",
+        "https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://megatvbolivia.com/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "f10-tv-bolivia": {
+    "nombre": "F10 TV bolivia - Ceacom-bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://f10.tv.bo/f10-live/",
+        "https://video.live.com.bo/live-stream-video-widget/f10hd",
+        "https://ceacomtv.com/tv-en-vivo",
+        "https://iptvplay.stream/ceacom-bo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://f10.tv.bo/f10-live/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "intv": {
+    "nombre": "Intv - Catv-pr",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://in.tv.bo/en-vivo/",
+        "https://www.globaltvapp.net/notiuno-tv",
+        "https://iptvplay.stream/catv-pr"
+      ],
+      "m3u8_url": [
+        "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://in.tv.bo/en-vivo/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "bolivia-71-72": {
+    "nombre": "Bolivia 7-1 7-2 - catolica",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://geo.dailymotion.com/player/x1eztm.html?video=x9odadc",
+        "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
+        "https://hoca4u.xyz/player/boliviatv1.php",
+        "https://tvinsur.com/bolivia/deportes-tv/",
+        "https://www.boliviatv.bo/principal/vivo71.php",
+        "https://rumble.com/embed/v58mfdh/?pub=3grnb9",
+        "https://conceptoweb-studio.com/radio/video/boliviatv/",
+        "https://tvinsur.com/bolivia/catolica-tv/",
+        "https://www.boliviatv.bo/principal/vivo72.php"
+      ],
+      "m3u8_url": [
+        "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8",
+        "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w304572931.m3u8",
+        "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8"
+      ],
+      "yt_id": "UCKadCx-t_VmwzfWczlWE98w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.canalesbolivianosenvivo.com/2018/12/canal-bolivia-tv-7.1-envivo.html",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "red-bolivision-Canal-5": {
+    "nombre": "RED Bolivision - Canal 5",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
+        "https://www.boliviatv.bo/principal/vivo71.php",
+        "https://www.redbolivision.tv.bo/envivo-canal-5/",
+        "https://www.boliviapuntotv.com/hd/",
+        "https://www.boliviapuntotv.com/hd3/",
+        "https://rumble.com/embed/v6ozbta/?pub=4",
+        "https://rumble.com/v6r6wu2-u.s.-bombs-yemen-d.c.-only-cares-about-a-leak-uk-journalist-addresses-spy-a.html"
+      ],
+      "m3u8_url": [
+        "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
+        "https://d3ew2cr4djta2j.cloudfront.net/original.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.redbolivision.tv.bo/envivo-canal-5/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "atb": {
+    "nombre": "ATB - RedCCTV.bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
+        "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
+        "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
+        "https://www.boliviapuntotv.com/atb/",
+        "https://redcctvbolivia.com/",
+        "https://www.trodi.dev/tv/BO/RedCCTV.bo"
+      ],
+      "m3u8_url": [
+        "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w897107554.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.atb.com.bo/atb-en-vivo/",
+    "país": "bo",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -7344,146 +7487,6 @@
     "país": "bo",
     "categoría": "news"
   },
-    "Megatv-bolivia-boliviapuntotv": {
-        "nombre": "Megatv bolivia - boliviapuntotv",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://serenotv.com/video/canal-coral-tv/",
-                "https://v2.ssh101.com/detailng.php?id=variedtvonline",
-                "https://www.boliviapuntotv.com/",
-                "https://serenotv.com/video/canal-bolivia-punto-tv/"
-            ],
-            "m3u8_url": [
-                "https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8",
-                "https://stream-usa4.hostpannel.lat:19360/puntotv/puntotv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://megatvbolivia.com/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "f10-tv-bolivia": {
-        "nombre": "F10 TV bolivia - Ceacom-bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://f10.tv.bo/f10-live/",
-                "https://video.live.com.bo/live-stream-video-widget/f10hd",
-                "https://ceacomtv.com/tv-en-vivo",
-                "https://iptvplay.stream/ceacom-bo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://f10.tv.bo/f10-live/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "intv": {
-        "nombre": "Intv - Catv-pr",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://in.tv.bo/en-vivo/",
-                "https://www.globaltvapp.net/notiuno-tv",
-                "https://iptvplay.stream/catv-pr"
-            ],
-            "m3u8_url": [
-                "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://in.tv.bo/en-vivo/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "bolivia-71-72": {
-        "nombre": "Bolivia 7-1 7-2 - catolica",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/x1eztm.html?video=x9odadc",
-                "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
-                "https://hoca4u.xyz/player/boliviatv1.php",
-                "https://tvinsur.com/bolivia/deportes-tv/",
-                "https://www.boliviatv.bo/principal/vivo71.php",
-                "https://rumble.com/embed/v58mfdh/?pub=3grnb9",
-                "https://conceptoweb-studio.com/radio/video/boliviatv/",
-                "https://tvinsur.com/bolivia/catolica-tv/",
-                "https://www.boliviatv.bo/principal/vivo72.php"
-            ],
-            "m3u8_url": [
-                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8",
-                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w304572931.m3u8",
-                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8"
-            ],
-            "yt_id": "UCKadCx-t_VmwzfWczlWE98w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canalesbolivianosenvivo.com/2018/12/canal-bolivia-tv-7.1-envivo.html",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "red-bolivision-Canal-5": {
-        "nombre": "RED Bolivision - Canal 5",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.redbolivision.tv.bo/envivo-canal-5/",
-                "https://www.boliviapuntotv.com/hd/",
-                "https://www.boliviapuntotv.com/hd3/",
-                "https://rumble.com/embed/v6ozbta/?pub=4",
-                "https://rumble.com/v6r6wu2-u.s.-bombs-yemen-d.c.-only-cares-about-a-leak-uk-journalist-addresses-spy-a.html"
-            ],
-            "m3u8_url": [
-                "https://d3ew2cr4djta2j.cloudfront.net/index.m3u8",
-                "https://d3ew2cr4djta2j.cloudfront.net/original.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.redbolivision.tv.bo/envivo-canal-5/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "atb": {
-        "nombre": "ATB - RedCCTV.bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
-                "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
-                "https://www.boliviapuntotv.com/atb/",
-                "https://redcctvbolivia.com/",
-                "https://www.trodi.dev/tv/BO/RedCCTV.bo"
-            ],
-            "m3u8_url": [
-                "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w897107554.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.atb.com.bo/atb-en-vivo/",
-        "país": "bo",
-        "categoría": "news"
-    },
     "rtpbolivia": {
         "nombre": "RTP BOLIVIA - RadioUnoPST.bo",
         "logo": "https://television-libre.online/img/rcn.webp",
