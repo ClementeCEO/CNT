@@ -50673,13 +50673,18 @@
     "país": "uy",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "TVCiudad61-canal-11-canal-4-florida": {
+    "nombre": "TVCiudad6.1 - canal-11 - Canal-4-florida",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "",
-        ""
+        "https://cds-frontend.vera.com.uy/api-compartir/compartir?public_id=2sgsm&courier=tvciudad&autenticacion_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjUwLjExNS4yMi4yMSIsImV4cCI6MTc0ODIwODkyNCwiaWF0IjoxNzQ1NjE2OTI0fQ.z3g1z8xlfHTIy4MxPqoIeD8enJpG2OLqrpMGXwEUWWI",
+        "https://www.tvciudad.uy/",
+        "https://canal11.uy/",
+        "https://tvinsur.com/uruguay/canal-11-las-piedras",
+        "https://www.tvflorida.com.uy/",
+        "https://tvinsur.com/uruguay/canal-4-florida",
+        "https://www.elonce.com/envivo"
       ],
       "m3u8_url": [
         ""
@@ -50689,33 +50694,10 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/channel/UCcEFFCUo9fD5DK1FcclyKUA",
     "país": "uy",
     "categoría": "news"
   },
-    "TVCiudad61-canal-11-canal-4-florida": {
-        "nombre": "TVCiudad6.1 - canal-11 - Canal-4-florida",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cds-frontend.vera.com.uy/api-compartir/compartir?public_id=2sgsm&courier=tvciudad&autenticacion_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjUwLjExNS4yMi4yMSIsImV4cCI6MTc0ODIwODkyNCwiaWF0IjoxNzQ1NjE2OTI0fQ.z3g1z8xlfHTIy4MxPqoIeD8enJpG2OLqrpMGXwEUWWI",
-                "https://www.tvciudad.uy/",
-                "https://canal11.uy/",
-                "https://tvinsur.com/uruguay/canal-11-las-piedras",
-                "https://www.tvflorida.com.uy/",
-                "https://tvinsur.com/uruguay/canal-4-florida",
-                "https://www.elonce.com/envivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCcEFFCUo9fD5DK1FcclyKUA",
-        "país": "uy",
-        "categoría": "news"
-    },
   "megavision-univtec-Canal-8-Artigas-uruguay": {
     "nombre": "Megavision Univtec - Canal 8 Artigas",
     "logo": "",
@@ -50764,8 +50746,13 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://player.kick.com/wowtv-sv",
         "https://www.wowmx.tv/",
-        "https://www.wowelsalvador.com/"
+        "https://www.wowelsalvador.com/",
+        "https://www.canalesdelsalvadorenvivo.com/2024/12/canal-21-en-vivo.html",
+        "https://vercanal.com/tv-el-salvador/10-tves/",
+        "https://www.wowt.com/livestream/",
+        "https://kick.com/wowtv-sv"
       ],
       "m3u8_url": [
         "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
@@ -50786,7 +50773,8 @@
       "iframe_url": [
         "https://orbittv.net/",
         "https://www.vivalivetv.com/channel/orbit-tv",
-        "https://v2.ssh101.com/detail.php?id=OrbitaFM"
+        "https://v2.ssh101.com/detail.php?id=OrbitaFM",
+        "https://canaltrv.com/"
       ],
       "m3u8_url": [
         ""
