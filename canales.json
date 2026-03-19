@@ -7269,6 +7269,7 @@
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
+        "https://mdstrm.com/live-stream/692b7e7ac84183fcf9e3462d?jsapi=true&player=69132f19f5398246a0193ebe",
         "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
         "https://www.dailymotion.com/video/x7vsfua",
         "https://television.unitel.bo",
@@ -7375,10 +7376,12 @@
     "categoría": "news"
   },
   "intv": {
-    "nombre": "Intv - Catv-pr",
+    "nombre": "Intv - unica - Catv-pr",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
+        "https://www.unicatvbolivia.com/",
+        "https://tvinsur.com/bolivia/canal-unica-tv-de-bolivia-en-vivo/",
         "https://in.tv.bo/en-vivo/",
         "https://www.globaltvapp.net/notiuno-tv",
         "https://iptvplay.stream/catv-pr"
@@ -7396,19 +7399,22 @@
     "categoría": "news"
   },
   "bolivia-71-72": {
-    "nombre": "Bolivia 7-1 7-2 - catolica",
+    "nombre": "Bolivia 7-1 7-2 -Canal Bolivia TV - catolica",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
+        "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
         "https://geo.dailymotion.com/player/x1eztm.html?video=x9odadc",
         "https://geo.dailymotion.com/player/x12yfi.html?video=x9nzqpo",
+        "https://tvinsur.com/bolivia/canal-bolivia-tv/",
         "https://hoca4u.xyz/player/boliviatv1.php",
         "https://tvinsur.com/bolivia/deportes-tv/",
         "https://www.boliviatv.bo/principal/vivo71.php",
         "https://rumble.com/embed/v58mfdh/?pub=3grnb9",
         "https://conceptoweb-studio.com/radio/video/boliviatv/",
         "https://tvinsur.com/bolivia/catolica-tv/",
-        "https://www.boliviatv.bo/principal/vivo72.php"
+        "https://www.boliviatv.bo/principal/vivo72.php",
+        "https://www.boliviatv.bo/principal/"
       ],
       "m3u8_url": [
         "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8",
@@ -9619,6 +9625,7 @@
         "https://embed.vhx.tv/videos/3634508?api=1&autoplay=1&buy_label=Registrarse&collection_id=962086&color=000000&context=https%3A%2F%2Fwww.guatemalaplus.com%2Ffeatured-category&is_trailer=false&live=1&locale=es&playsinline=1&product_id=169917&referrer=https%3A%2F%2Fwww.google.com%2F&vimeo=1",
         "https://www.guatemalaplus.com/featured-category/events/canal-en-vivo",
         "https://www.rtv.live/",
+        "https://emisorasgt.com/canal-3/",
         "https://tvinsur.com/guatemala/canal-7/",
         "https://www.chapintv.com/envivo-canal-3/?source=Internal&ref=Signals+Menu",
         "https://www.tn23.tv/en-vivo/",
