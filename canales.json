@@ -215,12 +215,64 @@
         "https://eu1.servers10.com:8081/8106/index.m3u8",
         "https://eu1.servers10.com:8081/8106/tracks-v1a1/mono.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UClErHbdZKUnD1NyIUeQWvuQ",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": "hostlivetv"
     },
     "sitio_oficial": "https://www.twitch.tv/hostlivetv",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "Bloomberg-Television-2": {
+    "nombre": "Bloomberg Television JAPON",
+    "logo": "https://trefoil.tv/uploads/posts/2023-11/thumbs/bloomberg-television.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://clementeceo.github.io",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+        "https://www.mtn.co.kr/",
+        "https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/live",
+        "https://www.bloomberg.com/uk",
+        "https://www.cnbctv18.com/awaaz/live-tv/",
+        "https://www.etnownews.com/live-tv",
+        "https://www.idxchannel.com/idxc-live",
+        "https://www.metroradio.com.hk/superhome/",
+        "https://www.ntn24.com/en-vivo",
+        "https://mtn-tv.com/watch-live/",
+        "https://www.deraktionaer.de/",
+        "https://worldbusinessoutlook.com/news/"
+      ],
+      "m3u8_url": [
+        "https://live2.telvi.de/hls/aktionaertv.m3u8",
+        "https://2-fss-2.streamhoster.com/pl_120/206514-4561398-1/playlist.m3u8"
+      ],
+      "yt_id": "UClErHbdZKUnD1NyIUeQWvuQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@der.aktionaer/streams",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "-2": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        ""
+      ],
+      "m3u8_url": [
+        "",
+        ""
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
     "país": "pe",
     "categoría": "news"
   },
