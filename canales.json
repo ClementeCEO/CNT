@@ -228,7 +228,7 @@
     "nombre": "Bloomberg Television JAPON",
     "logo": "https://trefoil.tv/uploads/posts/2023-11/thumbs/bloomberg-television.webp",
     "señales": {
-      "iframe_url": [
+      "iframe_src=": [
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://clementeceo.github.io",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
         "https://www.mtn.co.kr/",
