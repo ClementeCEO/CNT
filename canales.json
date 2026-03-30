@@ -220,7 +220,7 @@
       "yt_playlist": "",
       "twitch_id": "hostlivetv"
     },
-    "sitio_oficial": "https://www.twitch.tv/hostlivetv",
+    "sitio_oficial": "https://www.youtube.com/@der.aktionaer/streams",
     "país": "pe",
     "categoría": "news"
   },
@@ -228,11 +228,10 @@
     "nombre": "Bloomberg Television JAPON",
     "logo": "https://trefoil.tv/uploads/posts/2023-11/thumbs/bloomberg-television.webp",
     "señales": {
-      "iframe_src=": [
-        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://clementeceo.github.io",
-        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCIALMKvObZNtJ6AmdCLP7Lg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+      "iframe_url=": [
         "https://www.mtn.co.kr/",
-        "https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/live",
+        "https://www.bloomberg.com/live/asia",
+        "https://www.bloomberg.com/live/asia_stream",
         "https://www.bloomberg.com/uk",
         "https://www.cnbctv18.com/awaaz/live-tv/",
         "https://www.etnownews.com/live-tv",
@@ -241,38 +240,19 @@
         "https://www.ntn24.com/en-vivo",
         "https://mtn-tv.com/watch-live/",
         "https://www.deraktionaer.de/",
-        "https://worldbusinessoutlook.com/news/"
+        "https://worldbusinessoutlook.com/news/",
+        "https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/live"
       ],
       "m3u8_url": [
         "https://live2.telvi.de/hls/aktionaertv.m3u8",
         "https://2-fss-2.streamhoster.com/pl_120/206514-4561398-1/playlist.m3u8"
       ],
-      "yt_id": "UClErHbdZKUnD1NyIUeQWvuQ",
-      "yt_embed": "",
+      "yt_id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+      "yt_embed": "iEpJwprxDdk?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.youtube.com/@der.aktionaer/streams",
-    "país": "pe",
-    "categoría": "news"
-  },
-  "-2": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        ""
-      ],
-      "m3u8_url": [
-        "",
-        ""
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@markets",
     "país": "pe",
     "categoría": "news"
   },
