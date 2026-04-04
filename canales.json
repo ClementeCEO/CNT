@@ -33,10 +33,14 @@
     "categoría": "news"
   },
   "BBC-PERSIAN-Navez": {
-    "nombre": "BBC-PERSIAN Navez Business",
+    "nombre": "BBC PERSIANavez - IRIBusiness3",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.irtv.website/embed.php?name=Shabakeh-3",
+        "https://www.irtv.website/embed.php?name=BBC-Persian",
+        "https://www.persianity.com/ch=BBC-Persian",
+        "https://www.bbc.com/persian/media-49522521 ",
         "https://persianhub1.com/watch/live/bbc-persian-live"
       ],
       "m3u8_url": [
@@ -50,7 +54,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
+    "sitio_oficial": "https://www.bbc.com/persian/media-49522521 ",
     "país": "sa",
     "categoría": "news"
   },
@@ -87,7 +91,7 @@
     "categoría": "news"
   },
   "FOX-NEW": {
-    "nombre": "FOX-NEW - MI FLOLKLORE - LRT Lituanica",
+    "nombre": "FOX-NEWS - MI FLOLKLORE - LRT Lituanica",
     "logo": "",
     "señales": {
       "iframe_url": [],
@@ -182,7 +186,7 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.tvchinese.net/",
-    "país": "co",
+    "país": "cn",
     "categoría": "news"
   },
   "YAHOO-BUSSINES-NAVEZ": {
