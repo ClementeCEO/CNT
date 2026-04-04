@@ -32,12 +32,12 @@
     "país": "cl",
     "categoría": "news"
   },
-  "asharq-news-Navez": {
-    "nombre": "asharq news Navez Business",
+  "BBC-PERSIAN-Navez": {
+    "nombre": "BBC-PERSIAN Navez Business",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://persianhub1.com/watch/live/BBC%20Persian%20Live"
+        "https://persianhub1.com/watch/live/bbc-persian-live"
       ],
       "m3u8_url": [
         "https://live-news.asharq.com/asharq_1080p30.m3u8",
@@ -68,6 +68,7 @@
         "http://azrotv.com/iphone/arabic/ch2/asharq_news.php",
         "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
+        "https://persianhub1.com/watch/live/BBC%20Persian%20Live",
         "https://www.youtube.com/watch?v=f6VpkfV7m4Y"
       ],
       "m3u8_url": [
@@ -85,8 +86,8 @@
     "país": "sa",
     "categoría": "news"
   },
-  "abc7-swfl": {
-    "nombre": "ABC7 SWFL - MI FLOLKLORE - LRT Lituanica",
+  "FOX-NEW": {
+    "nombre": "FOX-NEW - MI FLOLKLORE - LRT Lituanica",
     "logo": "",
     "señales": {
       "iframe_url": [],
@@ -156,8 +157,8 @@
     "país": "us",
     "categoría": "news"
   },
-  "noticias-caracol": {
-    "nombre": "Noticias Caracol - Señal Colombia",
+  "MGTV-NAVEZ": {
+    "nombre": "MGTV-NAVEZ",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -184,8 +185,8 @@
     "país": "co",
     "categoría": "news"
   },
-  "hostlivetv-CRISTIANA": {
-    "nombre": "Hostlivetv CRISTIANA",
+  "YAHOO-BUSSINES-NAVEZ": {
+    "nombre": "YAHOO BUSSINES NAVEZ",
     "logo": "",
     "señales": {
       "iframe_url": [],
