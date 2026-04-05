@@ -15322,7 +15322,7 @@
     "categoría": "news"
   },
   "Al-Kahira-wa-nass-tv": {
-    "nombre": "Al Kahira Wa Nass",
+    "nombre": "Al Kahira Wa Nass - Aghapy TV",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -15339,7 +15339,9 @@
         "https://www.youtube.com/embed/ZRj6QBopxfo?controls=0?autoplay=1?frameborder=0",
         "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "ZRj6QBopxfo?",
       "yt_playlist": "",
@@ -15350,7 +15352,7 @@
     "categoría": "news"
   },
   "ontv1": {
-    "nombre": "ONTV1",
+    "nombre": "ONTV1 - ATVSat",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -15367,13 +15369,15 @@
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports3"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/otv_eg.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/live-arabic-channels.php",
     "país": "eg",
     "categoría": "news"
   },
@@ -15382,20 +15386,19 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.youtube.com/embed/U9woNTV6jdE?controls=0?autoplay=1?frameborder=0",
+        "https://www.elahmad.org/tv/cbc-eg.php",
         "https://fomny-tv.com/Video-5/Egypt/Extra-news/Extra-news.php",
         "https://www.elahmad.com/tv/youtube.php?id=CBCEgyptPlus",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
-        "https://www.youtube.com/embed/H_RCQLDGbu0?controls=0?autoplay=1?frameborder=0",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_sofra",
         "https://www.elahmad.com/tv/watchtv.php?id=cbc_sofra"
       ],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UC65F33K2cXk9hGDbOQYhTOw",
+      "yt_embed": "VYvW35nKn7w?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -15408,6 +15411,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://koraplus.com/",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek",
         "https://fomny-tv.com/Video-5/Egypt/Zamalek-TV/Zamalek-TV.php",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek"
@@ -15427,6 +15431,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.alhayat.tv/",
+        "https://www.globalfreetv.com/channels/AlhayatTV.eg",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_drama",
         "https://www.elahmad.com/tv/",
         "https://www.elahmad.com/tv/watchtv.php?id=alhayat_drama",
@@ -15444,7 +15450,7 @@
     "categoría": "news"
   },
   "el-mehwar-tv": {
-    "nombre": "El Mehwar TV",
+    "nombre": "El Mehwar - Koogi TV",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -15453,7 +15459,9 @@
         "https://www.elahmad.com/tv/radiant.php?id=elmehwar",
         "https://www.elahmad.com/tv/arabic-tv-online.php?id=elmehwar"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -15464,7 +15472,7 @@
     "categoría": "news"
   },
   "dmc-tv": {
-    "nombre": "DCM TV",
+    "nombre": "DCM TV - Mekameleen TV",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -15479,7 +15487,9 @@
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
         "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
