@@ -180,11 +180,13 @@
         "https://tv.cctv.com/live/cctv1/"
       ],
       "m3u8_url": [
+        "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8",
         "https://us.streaminghd.cl/canalpais/tracks-v1a1/mono.ts.m3u8",
         "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS",
         "http://156.238.248.80:8880/play/1.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
-        "http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "https://github.com/iptv-ch/iptv-ch.github.io/blob/master/netplus.m3u8"
       ],
       "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
       "yt_embed": "ZA6YS0CYoTA?",
@@ -207,6 +209,8 @@
         "http://8.243.126.131:8000/play/a058/index.m3u8",
         "http://video.oct.dc.gov/out/u/DCN.m3u8",
         "http://video.oct.dc.gov/out/u/DKN.m3u8",
+        "https://raw.githubusercontent.com/AlexDev404/AlexDev404/refs/heads/main/master.m3u8",
+        "https://raw.githubusercontent.com/AlexDev404/AlexDev404/refs/heads/main/master.m3u8",
         "https://github.com/arkina1234-undenified/IPTV/blob/bb20bd5ce57f5c96b41ae73b8a7033ec36e09edd/livetv/peg.m3u#L4"
       ],
       "yt_id": "",
