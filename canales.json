@@ -22857,8 +22857,8 @@
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "andestv": {
+    "nombre": "ANDESTV",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -23151,8 +23151,8 @@
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "mochannel": {
+    "nombre": "Mo Channel",
     "logo": "",
     "señales": {
       "iframe_url": [
