@@ -21036,375 +21036,6 @@
         "país": "ly",
         "categoría": "news"
     },
-    "libya_alhadath": {
-        "nombre": "libya_alhadath",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=libya_alhadath"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://libyaalhadath.net/",
-        "país": "ly",
-        "categoría": "news"
-    },
-    "hispaniamedia-telemetro13": {
-        "nombre": "Hispaniamedia - Telemetro Reporta",
-        "logo": "https://graph.facebook.com/TReporta/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.streaming507.net:2020/VideoPlayer/hispaniamediatv",
-                "https://www.telemetro.com/endirecto",
-                "https://www.streaming507.net:2020/public/hispaniamediatv",
-                "https://www.hispaniamedia.tv/transmision-en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCeFTJ001tE38wOXKgPvK1XQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemetro.com/endirecto",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "alvaroalvarado4703": {
-        "nombre": "Alvaro Alvarado - Noticias 180 Minutos",
-        "logo": "https://graph.facebook.com/alvaroalvaradoc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/channel_guide"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC4RoqlERckC4gIhLEGb9Jjw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "sertv": {
-        "nombre": "sertv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x81cvsk?autoplay=1",
-                "https://www.tvenvivo.com.ar/sertv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvenvivo.com.ar/sertv/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "GRUPO-tvn2": {
-        "nombre": "GRUPO TVN2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvnpass.com/",
-                "https://www.tvn-2.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvnpass.com/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "mas23tv": {
-        "nombre": "Mas23tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vcp8.myplaytv.com:2020/VideoPlayer/mas23?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://vcp8.myplaytv.com:1936/mas23/mas23/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://mas23tv.com/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "hosanna-vision": {
-        "nombre": "Hosanna Visión",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canalesdepanama.com/2021/09/canal-hosanna-vision-en-vivo.html",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "farotv3865-tvn-2": {
-        "nombre": "FARO TV - Tvn-2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvn-2.com/en-directo/",
-                "https://www.farodedavid.com/"
-            ],
-            "m3u8_url": [
-                "https://tv.farodedavid.com:8090/farotv/live.m3u8"
-            ],
-            "yt_id": "UCH70iZotY9DHPZA_XCJbXGQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "circulo-tv": {
-        "nombre": "Círculo TV",
-        "logo": "https://graph.facebook.com/elcirculotv1/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCDPbA7nEEmzhRb5NnItyKag",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "circulotv"
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "hosannavision-online": {
-        "nombre": "Hosanna Vision CRISTIANA",
-        "logo": "/site/templates/theme/img/logo/logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://hosannavision.com/en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8"
-            ],
-            "yt_id": "UCBRWfsg6d6BttI4WIE-b5xQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hosannavision.com/en-vivo/",
-        "país": "pa",
-        "categoría": "cristiana"
-    },
-    "tvocanal23-online": {
-        "nombre": "Tvocanal23",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/tvo/",
-                "https://tvocanal23.com/tvo-en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC6I2jcV3S014kAM1q3lr1uQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvocanal23.com/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "oyetv-online": {
-        "nombre": "OYE TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://oyetv.com.pa/",
-                "https://go.medcom.com.pa/oyetv",
-                "https://geo.dailymotion.com/player/xhq0f.html?video=x8odgha"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://oyetv.com.pa/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "CALIENTE-online": {
-        "nombre": "CALIENTE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://go.medcom.com.pa/radio-caliente",
-                "https://caliente.tv/",
-                "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe65z"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCpJN_3WCOtfICbsKKxZcBsg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "somoscalientetv"
-        },
-        "sitio_oficial": "https://go.medcom.com.pa/radio-caliente",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "RPC-online": {
-        "nombre": "RPC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://go.medcom.com.pa/radio-rpc",
-                "https://www.rpcradio.com/en-linea/",
-                "https://www.rpctv.com/endirecto",
-                "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe65h"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://go.medcom.com.pa/radio-rpc",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "radio-telemetro-CALLE7": {
-        "nombre": "Radio Telemetro - CALLE7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.telemetro.com/endirecto",
-                "https://go.medcom.com.pa/radio-telemetro",
-                "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe642",
-                "https://go.medcom.com.pa/calle-7",
-                "https://www.telemetro.com/calle-7",
-                "https://geo.dailymotion.com/player/xhq0f.html?video=x90xloo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCm-EJjdw2bKskUFF5YyWYog",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "telemetropanama"
-        },
-        "sitio_oficial": "https://www.youtube.com/@TelemetroPa",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "especiales-online": {
-        "nombre": "Especiales",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://go.medcom.com.pa/especiales",
-                "https://geo.dailymotion.com/player/xhq0f.html?video=x8pp1se"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://go.medcom.com.pa/especiales",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "nexpanama-online": {
-        "nombre": "Nexpanama",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vcp8.myplaytv.com:2020/VideoPlayer/nextv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://nexpanama.com/en-vivo/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "Canal-Bocas-BTV-online": {
-        "nombre": "Canal Bocas BTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.btvpanama.com/en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCoQt2GRq9WZCrbMeJuGbCfQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.btvpanama.com/en-vivo",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "fetv-Tv-Color-online": {
-        "nombre": "Fetv - Tv Color",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://fetv.org",
-                "https://serenotv.com/video/canal-fetv/",
-                "https://vimeo.com/fetv05",
-                "https://centrocristianobetania.org/tv-color-en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://centrocristianobetania.org/tv-color-en-vivo/",
-        "país": "pa",
-        "categoría": "news"
-    },
-    "btvpanama": {
-        "nombre": "Btv Panamá - Noticias 180 Minutos",
-        "logo": "https://graph.facebook.com/alvaroalvaradoc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.btvpanama.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCjqxr5ZOE15xgHgcYNPuRyg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.btvpanama.com/",
-        "país": "pa",
-        "categoría": "news"
-    },
   "": {
     "nombre": "",
     "logo": "",
@@ -21417,6 +21048,375 @@
       "twitch_id": ""
     },
     "sitio_oficial": "",
+    "país": "ly",
+    "categoría": "news"
+  },
+  "libya-alhadath": {
+    "nombre": "libya_alhadath",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/radiant.php?id=libya_alhadath"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://libyaalhadath.net/",
+    "país": "ly",
+    "categoría": "news"
+  },
+  "Hispaniamedia-TelemetroReporta": {
+    "nombre": "Hispaniamedia - Telemetro Reporta",
+    "logo": "https://graph.facebook.com/TReporta/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.streaming507.net:2020/VideoPlayer/hispaniamediatv",
+        "https://www.telemetro.com/endirecto",
+        "https://www.streaming507.net:2020/public/hispaniamediatv",
+        "https://www.hispaniamedia.tv/transmision-en-vivo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCeFTJ001tE38wOXKgPvK1XQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.telemetro.com/endirecto",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "AlvaroAlvarado-Noticias180Minutos": {
+    "nombre": "Alvaro Alvarado - Noticias 180 Minutos",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.vivalivetv.com/channel_guide"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC4RoqlERckC4gIhLEGb9Jjw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC4RoqlERckC4gIhLEGb9Jjw",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "sertv": {
+    "nombre": "Sertv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x81cvsk?autoplay=1",
+        "https://www.tvenvivo.com.ar/sertv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.tvenvivo.com.ar/sertv/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "GRUPO-TVN2": {
+    "nombre": "GRUPO TVN2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tvnpass.com/",
+        "https://www.tvn-2.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvnpass.com/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "Mas23tv": {
+    "nombre": "Mas23tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://vcp8.myplaytv.com:2020/VideoPlayer/mas23?autoplay=1"
+      ],
+      "m3u8_url": [
+        "https://vcp8.myplaytv.com:1936/mas23/mas23/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://mas23tv.com/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "Hosanna-Visión": {
+    "nombre": "Hosanna Visión",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.canalesdepanama.com/2021/09/canal-hosanna-vision-en-vivo.html",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "FAROTV-Tvn-2": {
+    "nombre": "FARO TV - Tvn-2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvn-2.com/en-directo/",
+        "https://www.farodedavid.com/"
+      ],
+      "m3u8_url": [
+        "https://tv.farodedavid.com:8090/farotv/live.m3u8"
+      ],
+      "yt_id": "UCH70iZotY9DHPZA_XCJbXGQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCH70iZotY9DHPZA_XCJbXGQ",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "CírculoTV": {
+    "nombre": "Círculo TV",
+    "logo": "https://graph.facebook.com/elcirculotv1/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCDPbA7nEEmzhRb5NnItyKag",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCDPbA7nEEmzhRb5NnItyKag",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "HosannaVisionCRISTIANA": {
+    "nombre": "Hosanna Vision CRISTIANA",
+    "logo": "/site/templates/theme/img/logo/logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://hosannavision.com/en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8"
+      ],
+      "yt_id": "UCBRWfsg6d6BttI4WIE-b5xQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hosannavision.com/en-vivo/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "Tvocanal23": {
+    "nombre": "Tvocanal23",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://conceptoweb-studio.com/radio/video/tvo/",
+        "https://tvocanal23.com/tvo-en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC6I2jcV3S014kAM1q3lr1uQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvocanal23.com/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "OYETV": {
+    "nombre": "OYE TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://oyetv.com.pa/",
+        "https://go.medcom.com.pa/oyetv",
+        "https://geo.dailymotion.com/player/xhq0f.html?video=x8odgha"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://oyetv.com.pa/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "CALIENTE": {
+    "nombre": "CALIENTE",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://go.medcom.com.pa/radio-caliente",
+        "https://caliente.tv/",
+        "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe65z"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCpJN_3WCOtfICbsKKxZcBsg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "somoscalientetv"
+    },
+    "sitio_oficial": "https://go.medcom.com.pa/radio-caliente",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "RPC": {
+    "nombre": "RPC",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://go.medcom.com.pa/radio-rpc",
+        "https://www.rpcradio.com/en-linea/",
+        "https://www.rpctv.com/endirecto",
+        "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe65h"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://go.medcom.com.pa/radio-rpc",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "RadioTelemetro-CALLE7": {
+    "nombre": "Radio Telemetro - CALLE7",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.telemetro.com/endirecto",
+        "https://go.medcom.com.pa/radio-telemetro",
+        "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe642",
+        "https://go.medcom.com.pa/calle-7",
+        "https://www.telemetro.com/calle-7",
+        "https://geo.dailymotion.com/player/xhq0f.html?video=x90xloo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCm-EJjdw2bKskUFF5YyWYog",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "telemetropanama"
+    },
+    "sitio_oficial": "https://www.youtube.com/@TelemetroPa",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "Especiales": {
+    "nombre": "Especiales",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://go.medcom.com.pa/especiales",
+        "https://geo.dailymotion.com/player/xhq0f.html?video=x8pp1se"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://go.medcom.com.pa/especiales",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "Nexpanama": {
+    "nombre": "Nexpanama",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://vcp8.myplaytv.com:2020/VideoPlayer/nextv?autoplay=1"
+      ],
+      "m3u8_url": [
+        "https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://nexpanama.com/en-vivo/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "Canal-Bocas-BTV-online": {
+    "nombre": "Canal Bocas BTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.btvpanama.com/en-vivo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCoQt2GRq9WZCrbMeJuGbCfQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.btvpanama.com/en-vivo",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "fetv-Tv-Color-online": {
+    "nombre": "Fetv - Tv Color",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://fetv.org",
+        "https://serenotv.com/video/canal-fetv/",
+        "https://vimeo.com/fetv05",
+        "https://centrocristianobetania.org/tv-color-en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://centrocristianobetania.org/tv-color-en-vivo/",
+    "país": "pa",
+    "categoría": "news"
+  },
+  "btvpanama": {
+    "nombre": "Btv Panamá - Noticias 180 Minutos",
+    "logo": "https://graph.facebook.com/alvaroalvaradoc/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.btvpanama.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCjqxr5ZOE15xgHgcYNPuRyg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.btvpanama.com/",
     "país": "pa",
     "categoría": "news"
   },
@@ -21816,10 +21816,11 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
+        "https://geo.dailymotion.com/player/x14ru6.html?video=k2eC5HQOmJKHuUE1muC",
         "https://willax.pe/en-vivo",
         "https://live.saohgdasregions.fun/latam4.php?stream=153_#",
-        "https://www.tvenvivo.net/willax-television/"
+        "https://www.tvenvivo.net/willax-television/",
+        "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0"
       ],
       "m3u8_url": [],
       "yt_id": "UCort3mldTtMErPqprSlSfng",
