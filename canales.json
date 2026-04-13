@@ -21596,7 +21596,7 @@
     "categoría": "news"
   },
   "lamegamundial-RPP-Noticias": {
-    "nombre": "",
+    "nombre": "Lamegamundial - RPP-Noticias",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -21959,6 +21959,358 @@
     "país": "pe",
     "categoría": "news"
   },
+  "rtv-total-yurimaguas8963": {
+    "nombre": "RTV TOTAL YURIMAGUAS",
+    "logo": "https://graph.facebook.com/rtvtotal/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://innovatestream.com/tv/v2/rtv.php"
+      ],
+      "m3u8_url": [
+        "https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "UCVKQ8rkQt4P0YQ6YLciG3tQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://rtvtotal.pe/tv-online",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "CharapaTV-avance-social-noticias4816": {
+    "nombre": "CharapaTV (Pucallpa) - Avance Social Noticias",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play.agenciastreaming.com:8081/charapatv/embed.html",
+        "https://charaparadio.com/",
+        "https://www.facebook.com/p/Charapa-TV-canal-digital-100037144987138/"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8168/index.m3u8"
+      ],
+      "yt_id": "UCo75W2AP1hnjUF4V_ovOAsg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "orbit-tv-MyTimeMovieNetworkes-ideeleradionhd": {
+    "nombre": "Orbit - MyTimeMovieNetwork.es - Ideeleradio",
+    "logo": "https://graph.facebook.com/idlradio/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://player.teleon.tv/do/channel/orbit-tv",
+        "https://player.teleon.tv/en/channel/daystar-uk"
+      ],
+      "m3u8_url": [
+        "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+      ],
+      "yt_id": "UCqURueAPBefOz3YhpfDErmw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.ideeleradio.pe/",
+    "país": "pe",
+    "categoría": "radio"
+  },
+  "ovacion-tv": {
+    "nombre": "Radio Ovación TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ujjina.info/cdn/ovaciontv1.html"
+      ],
+      "m3u8_url": [
+        "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+      ],
+      "yt_id": "UCRk_9ejeHHz-7zuz5n98tKw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ovacion.pe/radio",
+    "país": "pe",
+    "categoría": "radio"
+  },
+  "san-borja": {
+    "nombre": "Radio San Borja Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://radiosanborjatv.com/",
+        "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
+      ],
+      "m3u8_url": [
+        "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
+      ],
+      "yt_id": "UCRdGjpVs7vnyDXcEs6W8hkA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://radiosanborjatv.com/",
+    "país": "pe",
+    "categoría": "radio"
+  },
+  "radio-onda-digital": {
+    "nombre": "Radio Onda Digital",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ondadigital.pe/"
+      ],
+      "m3u8_url": [
+        "https://tv.ondadigital.pe/ondadigital/index.m3u8"
+      ],
+      "yt_id": "UCAzIHVV3BvVIvddYDdtLJ3A",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.ondadigital.pe/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "radio-tropical": {
+    "nombre": "Radio Tropical 99.1 FM",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1",
+        "https://reproductor.tmcreativos.com/radiotropical/",
+        "https://radiotropical.pe/television/"
+      ],
+      "m3u8_url": [
+        "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
+      ],
+      "yt_id": "UCvu5Hqd9mIUuzNJb9Ilm28g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://radiotropical.pe/television/",
+    "país": "pe",
+    "categoría": "radio"
+  },
+  "HuachoPeruTV-radio-la-luz": {
+    "nombre": "HuachoPeruTV - Radio La Luz",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.huachotv.com/",
+        "https://ott.streann.com/streaming/player.html?U2FsdGVkX19EHB5+1aUJEMrE+WomqLCdpnQH8FSQ6lfrlLKOLqA6N+3PbNBYWdDWLsUzEISIrehK8N1jsyVe8NGmea9uH+ppSntnU+uQRGKDMl6WPIAiJbqUqhEqWYXQirkDZyJX+OBfUTgRhv+15k2L+iKRodEEtF4hkBKjui9mfmmP2eQbtr/1bHapfhQd/u2KppU9VQ7kGKtrcOBa14rbsf+wjYpuPaeDB12yCdnjExU1rB4VcXlPX2jJD4EHTlCMVD8jkHfcRKsEy+aKiIYd3A0lfHr/IfASyRjQRJCDXJe04DLbHptDmVoLSz7+hD5XUl8G5WRBcZ3O9oxifw==",
+        "http://radiolaluz.com/tv-en-vivo/",
+        "https://www.facebook.com/huachotvperu/?locale=es_LA"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://radiolaluz.com/",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "radio-bacan-Misterio-Series-y-novelas": {
+    "nombre": "Radio Bacan - Misterio Series y Novelas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eu1.servers10.com:2020/VideoPlayer/8300?autoplay=1",
+        "https://radiobacanpro.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC5cAHf5BZEVCILZo7JZ83Lg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "rbacansat1130"
+    },
+    "sitio_oficial": "https://www.youtube.com/@Misterio-Seriesynovelas",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "reformatv-radio-uno": {
+    "nombre": "Reformatv - Radio Uno 93.7 FM",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://radiouno.pe/",
+        "https://radiouno.pe/radiolive8/index.php",
+        "https://www.reformatv.net/"
+      ],
+      "m3u8_url": [
+        "https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8"
+      ],
+      "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://radiouno.pe/",
+    "país": "pe",
+    "categoría": "radio"
+  },
+  "Best-Cable": {
+    "nombre": "Best Cable",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv",
+        "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable",
+        "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports"
+      ],
+      "m3u8_url": [
+        "https://servilive.com:3528/live/conect2tvlive.m3u8"
+      ],
+      "yt_id": "UCHVTQQj5AKPIl8yNsahGNhA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://bestcableperu.com.pe/lima/enVivo",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "ctv-pe-LTV-VIVO": {
+    "nombre": "CTV PE - LTV VIVO",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ca2.inka.net.pe/ctvperu-live/embed.html?autoplay=false&token=96032c874ce04fdad22af117bf7418d7e5819960-4420a5b154af7a9aff56f81701f99d6f-1731607160-1731596360&remote=179.6.168.65",
+        "https://www.ctv.pe/en-vivo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCp72OmnHc7U4dLeFbU3UESg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@LTVVIVO",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "radio-sabor-mix-Me-Gustan-Las-Series-Turcas": {
+    "nombre": "Radio Sabor Mix - Me Gustan Las Series Turcas",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUndGA1W52zylSsdoQiRLVQXpaAVBxWxr1CsdI1KpBOjmHF_w-brVA_aem_CJ2LdD129ElkJMzbGSsn4A",
+        "https://www.youtube.com/embed/bad5HyO2SGo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+      ],
+      "m3u8_url": [
+        "https://7.innovatestream.pe:19360/sabormixtv/sabormixtv.m3u8"
+      ],
+      "yt_id": "UCb8uLCUMNE5eiBhwa-Jmo9g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@lasseriestv",
+    "país": "pe",
+    "categoría": "radio"
+  },
+  "canal-33-ayacucho-MangoTV-Drama-Official": {
+    "nombre": "canal 33 ayacucho - MangoTV Drama Official",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.canal33ayacucho.com/",
+        "https://www.youtube.com/channel/UCTulSfEm1c14WWRbSN-CNAQ/live"
+      ],
+      "m3u8_url": [
+        "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
+        "https://cdnhd.iblups.com/hls/I5YHCGXRQI.m3u8"
+      ],
+      "yt_id": "UCTulSfEm1c14WWRbSN-CNAQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@MangoTVDramaOfficial",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "chincha-tv-joel-sport-televisionomega-iQIYI-official": {
+    "nombre": "Chincha Tv - JOEL SPORT - Televisionomega - iQIYI Official",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjy2Xx6KDD2C-Ni2kyRMfsDsbG62FhSB1YcpM8FrocRdVfG1ZDEI9779v2WE5bnL0zIRn5127vcKhGJkobpLFOB_nTnNjwWzT3FCXp9HuPVeVte0sfm90vUYvQnH03b7jj52T-Itm4T0xnCGF4sOOClFLOTMLcxsH0oxhXneFwgdFvcaH7cjdWGvifvbdU=s658",
+    "señales": {
+      "iframe_url": [
+        "https://www.chincha.tv/",
+        "https://vaughn.live/chinchatv",
+        "https://vdo.voxhdnet.com/live-stream-video-widget/mytvcanal19",
+        "https://vaughn.live/televisionomega",
+        "https://vaughn.live/tvmaxteustepe",
+        "https://mytvcanal19.com/",
+        "https://ok.ru/videoembed/7151290031671",
+        "https://futbollibre-hd.com/en-vivo/directv-sports-plus-online",
+        "https://ok.ru/videoembed/5439500131845",
+        "https://vaughn.live/browse/espanol"
+      ],
+      "m3u8_url": [
+        "https://github.com/dennyschang/listatv/blob/main/briam.m3u"
+      ],
+      "yt_id": "UCUhpu5MJQ_bjPkXO00jyxsw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@iQIYIofficial",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "Intereconomía": {
+    "nombre": "Intereconomía",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.intereconomia.com/directo/"
+      ],
+      "m3u8_url": [
+        "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8",
+        "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
+      ],
+      "yt_id": "UCNKomgId0-uTA-vVLM9v1pw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@Intereconomiamedia",
+    "país": "pe",
+    "categoría": "news"
+  },
+  "canalb-negocios-Business-sport-Navez1": {
+    "nombre": "CanalB - Negocios Business - sport Navez1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
+    "señales": {
+      "iframe_url": [
+        "https://canalb.pe/live/",
+        "https://streaming013.gestec-video.com/negociostv.php",
+        "https://www.negocios.com/directo/",
+        "https://www.repretel.com/envivo-canal2/?source=Internal&ref=Signals+Menu",
+        "https://canal6.com.ni/en-vivo/",
+        "https://1.deporte-libre.org/"
+      ],
+      "m3u8_url": [
+        "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "https://d30230c1j3h08x.cloudfront.net/index.m3u8"
+      ],
+      "yt_id": "UCFrOdZIiGOGFP5kk4xZgH6Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://canalb.pe/",
+    "país": "pe",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -21974,355 +22326,6 @@
     "país": "pe",
     "categoría": "news"
   },
-    "rtv-total-yurimaguas8963": {
-        "nombre": "RTV TOTAL YURIMAGUAS",
-        "logo": "https://graph.facebook.com/rtvtotal/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://innovatestream.com/tv/v2/rtv.php"
-            ],
-            "m3u8_url": [
-                "https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "UCVKQ8rkQt4P0YQ6YLciG3tQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtvtotal.pe/tv-online",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "CharapaTV-avance-social-noticias4816": {
-        "nombre": "CharapaTV (Pucallpa) - Avance Social Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play.agenciastreaming.com:8081/charapatv/embed.html",
-                "https://charaparadio.com/",
-                "https://www.facebook.com/p/Charapa-TV-canal-digital-100037144987138/"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8168/index.m3u8"
-            ],
-            "yt_id": "UCo75W2AP1hnjUF4V_ovOAsg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "orbit-tv-MyTimeMovieNetworkes-ideeleradionhd": {
-        "nombre": "Orbit - MyTimeMovieNetwork.es - Ideeleradio",
-        "logo": "https://graph.facebook.com/idlradio/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://player.teleon.tv/do/channel/orbit-tv",
-                "https://player.teleon.tv/en/channel/daystar-uk"
-            ],
-            "m3u8_url": [
-                "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
-            ],
-            "yt_id": "UCqURueAPBefOz3YhpfDErmw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ideeleradio.pe/",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "ovacion-tv": {
-        "nombre": "Radio Ovación TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.ujjina.info/cdn/ovaciontv1.html"
-            ],
-            "m3u8_url": [
-                "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
-            ],
-            "yt_id": "UCRk_9ejeHHz-7zuz5n98tKw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ovacion.pe/radio",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "san-borja": {
-        "nombre": "Radio San Borja Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://radiosanborjatv.com/",
-                "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
-            ],
-            "m3u8_url": [
-                "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
-            ],
-            "yt_id": "UCRdGjpVs7vnyDXcEs6W8hkA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiosanborjatv.com/",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "radio-onda-digital": {
-        "nombre": "Radio Onda Digital",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.ondadigital.pe/"
-            ],
-            "m3u8_url": [
-                "https://tv.ondadigital.pe/ondadigital/index.m3u8"
-            ],
-            "yt_id": "UCAzIHVV3BvVIvddYDdtLJ3A",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ondadigital.pe/",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "radio-tropical": {
-        "nombre": "Radio Tropical 99.1 FM",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1",
-                "https://reproductor.tmcreativos.com/radiotropical/",
-                "https://radiotropical.pe/television/"
-            ],
-            "m3u8_url": [
-                "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
-            ],
-            "yt_id": "UCvu5Hqd9mIUuzNJb9Ilm28g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiotropical.pe/television/",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "HuachoPeruTV-radio-la-luz": {
-        "nombre": "HuachoPeruTV - Radio La Luz",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.huachotv.com/",
-                "https://ott.streann.com/streaming/player.html?U2FsdGVkX19EHB5+1aUJEMrE+WomqLCdpnQH8FSQ6lfrlLKOLqA6N+3PbNBYWdDWLsUzEISIrehK8N1jsyVe8NGmea9uH+ppSntnU+uQRGKDMl6WPIAiJbqUqhEqWYXQirkDZyJX+OBfUTgRhv+15k2L+iKRodEEtF4hkBKjui9mfmmP2eQbtr/1bHapfhQd/u2KppU9VQ7kGKtrcOBa14rbsf+wjYpuPaeDB12yCdnjExU1rB4VcXlPX2jJD4EHTlCMVD8jkHfcRKsEy+aKiIYd3A0lfHr/IfASyRjQRJCDXJe04DLbHptDmVoLSz7+hD5XUl8G5WRBcZ3O9oxifw==",
-                "http://radiolaluz.com/tv-en-vivo/",
-                "https://www.facebook.com/huachotvperu/?locale=es_LA"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://radiolaluz.com/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "radio-bacan-Misterio-Series-y-novelas": {
-        "nombre": "Radio Bacan - Misterio Series y Novelas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eu1.servers10.com:2020/VideoPlayer/8300?autoplay=1",
-                "https://radiobacanpro.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC5cAHf5BZEVCILZo7JZ83Lg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "rbacansat1130"
-        },
-        "sitio_oficial": "https://www.youtube.com/@Misterio-Seriesynovelas",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "reformatv-radio-uno": {
-        "nombre": "Reformatv - Radio Uno 93.7 FM",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://radiouno.pe/",
-                "https://radiouno.pe/radiolive8/index.php",
-                "https://www.reformatv.net/"
-            ],
-            "m3u8_url": [
-                "https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8"
-            ],
-            "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiouno.pe/",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "Best-Cable": {
-        "nombre": "Best Cable",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv",
-                "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable",
-                "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports"
-            ],
-            "m3u8_url": [
-                "https://servilive.com:3528/live/conect2tvlive.m3u8"
-            ],
-            "yt_id": "UCHVTQQj5AKPIl8yNsahGNhA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bestcableperu.com.pe/lima/enVivo",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "ctv-pe-LTV-VIVO": {
-        "nombre": "CTV PE - LTV VIVO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ca2.inka.net.pe/ctvperu-live/embed.html?autoplay=false&token=96032c874ce04fdad22af117bf7418d7e5819960-4420a5b154af7a9aff56f81701f99d6f-1731607160-1731596360&remote=179.6.168.65",
-                "https://www.ctv.pe/en-vivo"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCp72OmnHc7U4dLeFbU3UESg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@LTVVIVO",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "radio-sabor-mix-Me-Gustan-Las-Series-Turcas": {
-        "nombre": "Radio Sabor Mix - Me Gustan Las Series Turcas",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUndGA1W52zylSsdoQiRLVQXpaAVBxWxr1CsdI1KpBOjmHF_w-brVA_aem_CJ2LdD129ElkJMzbGSsn4A",
-                "https://www.youtube.com/embed/bad5HyO2SGo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [
-                "https://7.innovatestream.pe:19360/sabormixtv/sabormixtv.m3u8"
-            ],
-            "yt_id": "UCb8uLCUMNE5eiBhwa-Jmo9g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@lasseriestv",
-        "país": "pe",
-        "categoría": "radio"
-    },
-    "canal-33-ayacucho-MangoTV-Drama-Official": {
-        "nombre": "canal 33 ayacucho - MangoTV Drama Official",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.canal33ayacucho.com/",
-                "https://www.youtube.com/channel/UCTulSfEm1c14WWRbSN-CNAQ/live"
-            ],
-            "m3u8_url": [
-                "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
-                "https://cdnhd.iblups.com/hls/I5YHCGXRQI.m3u8"
-            ],
-            "yt_id": "UCTulSfEm1c14WWRbSN-CNAQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@MangoTVDramaOfficial",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "chincha-tv-joel-sport-televisionomega-iQIYI-official": {
-        "nombre": "Chincha Tv - JOEL SPORT - Televisionomega - iQIYI Official",
-        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjy2Xx6KDD2C-Ni2kyRMfsDsbG62FhSB1YcpM8FrocRdVfG1ZDEI9779v2WE5bnL0zIRn5127vcKhGJkobpLFOB_nTnNjwWzT3FCXp9HuPVeVte0sfm90vUYvQnH03b7jj52T-Itm4T0xnCGF4sOOClFLOTMLcxsH0oxhXneFwgdFvcaH7cjdWGvifvbdU=s658",
-        "señales": {
-            "iframe_url": [
-                "https://www.chincha.tv/",
-                "https://vaughn.live/chinchatv",
-                "https://vdo.voxhdnet.com/live-stream-video-widget/mytvcanal19",
-                "https://vaughn.live/televisionomega",
-                "https://vaughn.live/tvmaxteustepe",
-                "https://mytvcanal19.com/",
-                "https://ok.ru/videoembed/7151290031671",
-                "https://futbollibre-hd.com/en-vivo/directv-sports-plus-online",
-                "https://ok.ru/videoembed/5439500131845",
-                "https://vaughn.live/browse/espanol"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCUhpu5MJQ_bjPkXO00jyxsw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@iQIYIofficial",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "Intereconomía": {
-        "nombre": "Intereconomía",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/tbH69F9NcRM?enablejsapi=1&playsinline=1&rel=1&controls=0&modestbranding=1&cc_load_policy=1&iv_load_policy=3",
-                "https://www.youtube.com/embed/tbH69F9NcRM?enablejsapi=1&playsinline=1&rel=0&mute=1&controls=0&modestbranding=1&cc_load_policy=1&iv_load_policy=3",
-                "https://www.intereconomia.com/directo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCNKomgId0-uTA-vVLM9v1pw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Intereconomiamedia",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "canalb-negocios-Business-sport-Navez1": {
-        "nombre": "CanalB - Negocios Business - sport Navez1",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
-        "señales": {
-            "iframe_url": [
-                "https://canalb.pe/live/",
-                "https://streaming013.gestec-video.com/negociostv.php",
-                "https://www.negocios.com/directo/",
-                "https://www.repretel.com/envivo-canal2/?source=Internal&ref=Signals+Menu",
-                "https://canal6.com.ni/en-vivo/",
-                "https://1.deporte-libre.org/"
-            ],
-            "m3u8_url": [
-                "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
-                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-                "https://d30230c1j3h08x.cloudfront.net/index.m3u8"
-            ],
-            "yt_id": "UCFrOdZIiGOGFP5kk4xZgH6Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalb.pe/",
-        "país": "pe",
-        "categoría": "news"
-    },
     "cadena-tv-sport-Navez2": {
         "nombre": "Cadena TV - sport Navez2",
         "logo": "https://www.cadenatv.com.pe/wp-content/uploads/2023/01/LOGO-CADENA-300x261.png",
