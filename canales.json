@@ -24211,287 +24211,152 @@
     "país": "pe",
     "categoría": "news"
   },
-    "cutervotv-MO-Channel": {
-        "nombre": "Cutervotv - MO Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://mc.servidor.stream:2020/VideoPlayer/8256?autoplay=1",
-                "https://tv.garden/pe/UDdMtzxSFo4KG2",
-                "https://livestreamlinks.net/onlinetv/peru/mo-channel"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cutervotv.com/",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Cutervotv-MOChannel": {
+    "nombre": "Cutervotv - MO Channel",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://mc.servidor.stream:2020/VideoPlayer/8256?autoplay=1",
+        "https://tv.garden/pe/UDdMtzxSFo4KG2",
+        "https://livestreamlinks.net/onlinetv/peru/mo-channel"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://cutervotv.com/",
     "país": "pe",
     "categoría": "news"
   },
-    "radioilucan-angianet": {
-        "nombre": "Radioilucan - Angianet",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.radioilucan.com/",
-                "https://playervideo.zcastbr.com/video/jorgetv/1/true/false/VlROU2RHUnFSWFZsYlU1b1l6TlNhV05wTldwaU1qQTkrMw==/16:9/YUhSMGNEb3ZMM0poWkdsdmFXeDFZMkZ1TG1OdmJRPT0rWg==",
-                "https://angienet-television1.odoo.com/",
-                "https://tv.garden/pe/YZWpBn5BgYiilY"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.radioilucan.com/",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "radioilucan-angianet": {
+    "nombre": "Radioilucan - Angianet",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "http://www.radioilucan.com/",
+        "https://playervideo.zcastbr.com/video/jorgetv/1/true/false/VlROU2RHUnFSWFZsYlU1b1l6TlNhV05wTldwaU1qQTkrMw==/16:9/YUhSMGNEb3ZMM0poWkdsdmFXeDFZMkZ1TG1OdmJRPT0rWg==",
+        "https://angienet-television1.odoo.com/",
+        "https://tv.garden/pe/YZWpBn5BgYiilY"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "http://www.radioilucan.com/",
     "país": "pe",
     "categoría": "news"
   },
-    "tvone-peruvianradiotv-lariberena": {
-        "nombre": "TVONE - PERUVIANRADIOTV - LaRiberenaTv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvone.pe/tv/tvmobil.html",
-                "tvone.pe",
-                "https://www.livestreamtvhub.com/pe/general/peruvianradio-tv-peruvianradiotvpe-k70"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/63983/LaRiberenaTv.html",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "tvone-peruvianradiotv-lariberena": {
+    "nombre": "TVONE - PERUVIANRADIOTV - LaRiberenaTv",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://tvone.pe/tv/tvmobil.html",
+        "tvone.pe",
+        "https://www.livestreamtvhub.com/pe/general/peruvianradio-tv-peruvianradiotvpe-k70"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/63983/LaRiberenaTv.html",
     "país": "pe",
     "categoría": "news"
   },
-    "ventanillatv-teleselva": {
-        "nombre": "Ventanillatv - Teleselva",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.garden/pe/wmJ1QxQIvPF4LM",
-                "https://ventanillatv.pe/",
-                "https://iptv-web.app/PE/#Teleselva.pe"
-            ],
-            "m3u8_url": [
-                "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
-            ],
-            "yt_id": "UCqpdD4rn4GIYsARnYFwcV2w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iptv-web.app/PE/#Teleselva.pe",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "ventanillatv-teleselva": {
+    "nombre": "Ventanillatv - Teleselva",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
+      "iframe_url": [
+        "https://tv.garden/pe/wmJ1QxQIvPF4LM",
+        "https://ventanillatv.pe/",
+        "https://iptv-web.app/PE/#Teleselva.pe"
+      ],
+      "m3u8_url": [
+        "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
+      ],
+      "yt_id": "UCqpdD4rn4GIYsARnYFwcV2w",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://iptv-web.app/PE/#Teleselva.pe",
     "país": "pe",
     "categoría": "news"
   },
-    "UcayalinadeTelevision-AtmosferaTelevision": {
-        "nombre": "UcayalinadeTelevision - AtmosferaTelevision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://video.agenciastreaming.com/live-stream-video-widget/utv",
-                "https://www.facebook.com/SomosUTV/?locale=es_LA"
-            ],
-            "m3u8_url": [
-                "https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8",
-                "http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.facebook.com/AtmosferaRadioyTv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "LA5TA-UcayalinadeTelevision-AtmosferaTelevision": {
+    "nombre": "LA5TA-UcayalinadeTelevision - AtmosferaTelevision",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://video.agenciastreaming.com/live-stream-video-widget/utv",
+        "https://www.facebook.com/SomosUTV/?locale=es_LA",
+        "https://symphonier.com/tv/la5ta"
+      ],
+      "m3u8_url": [
+        "https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8",
+        "http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8",
+        "https://video.ingenioperu.com:3844/stream/play.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.facebook.com/AtmosferaRadioyTv/",
     "país": "pe",
     "categoría": "news"
   },
-    "LA5TA": {
-        "nombre": "LA5TA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video.ingenioperu.com:3844/stream/play.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://symphonier.com/tv/la5ta",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "radiovamisa-RadioElPueblo-VNP": {
+    "nombre": "VamisaTV - RadioElPueblo - VNP",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://radiovamisa.tv/tv/",
+        "https://symphonier.com/tv/vnp",
+        "https://radioelpueblo.com/el-pueblo-tv/",
+        "https://tv.mediacp.eu:2020/VideoPlayer/radioelpueblo?autoplay=1"
+      ],
+      "m3u8_url": [
+        "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
+        "https://inliveserver.com:1936/10024/10024/playlist.m3u8",
+        "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "radiotvelpueblo"
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://radioelpueblo.com/el-pueblo-tv/",
     "país": "pe",
     "categoría": "news"
   },
-    "radiovamisa-RadioElPueblo-VNP": {
-        "nombre": "VamisaTV - RadioElPueblo - VNP",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://radiovamisa.tv/tv/",
-                "https://symphonier.com/tv/vnp",
-                "https://radioelpueblo.com/el-pueblo-tv/",
-                "https://tv.mediacp.eu:2020/VideoPlayer/radioelpueblo?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
-                "https://inliveserver.com:1936/10024/10024/playlist.m3u8",
-                "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiotvelpueblo"
-        },
-        "sitio_oficial": "https://radioelpueblo.com/el-pueblo-tv/",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "RWTelevisionTarapoto-ImpactoTelevision": {
+    "nombre": "RWTelevisionTarapoto - ImpactoTelevision",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://cloudvideo.servers10.com:2020/VideoPlayer/impactotv?autoplay=1",
+        "https://radioimpactodecajamarca.com.pe/impacto-tv/"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+        "https://live.obslivestream.com/rwtv/index.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
-    "país": "pe",
-    "categoría": "news"
-  },
-    "RWTelevisionTarapoto-ImpactoTelevision": {
-        "nombre": "RWTelevisionTarapoto - ImpactoTelevision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cloudvideo.servers10.com:2020/VideoPlayer/impactotv?autoplay=1",
-                "https://radioimpactodecajamarca.com.pe/impacto-tv/"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
-                "https://live.obslivestream.com/rwtv/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.facebook.com/rwtelevision/?locale=es_LA",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.facebook.com/rwtelevision/?locale=es_LA",
     "país": "pe",
     "categoría": "news"
   },
@@ -24605,7 +24470,7 @@
       "m3u8_url": [
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
         "https://github.com/jhonzArnold/canales/blob/main/tv.auto.html",
-        "https://streamtp4.com/",
+        "https://streamtp4.com/"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -24750,294 +24615,111 @@
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "Live-SupremeMasterTV": {
+    "nombre": "Live SupremeMaster TV",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UC2dULJJ_G6TTNjsunSxP7ag",
+      "yt_embed": "qHIk_qdNFy0?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@SupremeMasterTVlive",
     "país": "pe",
     "categoría": "news"
   },
-    "Live-SupremeMaster-TV": {
-        "nombre": "Live SupremeMaster TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/qHIk_qdNFy0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.youtube.com/embed/ZzWBpGwKoaI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC2dULJJ_G6TTNjsunSxP7ag",
-            "yt_embed": "qHIk_qdNFy0?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@SupremeMasterTVlive",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Channels-Television": {
+    "nombre": "Channels Television",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCEXGDNclvmg6RW0vipJYsTQ",
+      "yt_embed": "W8nThq62Vb4?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@ChannelsTelevision/streams",
     "país": "pe",
     "categoría": "news"
   },
-    "Channels-Television": {
-        "nombre": "Channels Television",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/W8nThq62Vb4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.youtube.com/embed/dfB0qmJo1eM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCEXGDNclvmg6RW0vipJYsTQ",
-            "yt_embed": "W8nThq62Vb4?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@ChannelsTelevision/streams",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "TVC-News-Nigeria": {
+    "nombre": "TVC News Nigeria",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.distro.tv/live/romance-channel/",
+        "https://www.tivify.tv/inicio"
+      ],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCgp4A6I8LCWrhUzn-5SbKvA",
+      "yt_embed": "dQhPgF7FOrk?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@tvcnewsnigeria/streams",
     "país": "pe",
     "categoría": "news"
   },
-    "TVC-News-Nigeria": {
-        "nombre": "TVC News Nigeria",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.distro.tv/live/romance-channel/",
-                "https://www.tivify.tv/inicio"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCgp4A6I8LCWrhUzn-5SbKvA",
-            "yt_embed": "dQhPgF7FOrk?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@tvcnewsnigeria/streams",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Suspenso-Channel": {
+    "nombre": "Suspenso Channel",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCkw_YisZMwl8OZ8ADL1Zaz",
+      "yt_embed": "M9wTwKzKCbM?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@suspensochannel/streams",
     "país": "pe",
     "categoría": "news"
   },
-    "Suspenso-channel": {
-        "nombre": "Suspenso Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCkw_YisZMwl8OZ8ADL1Zaz",
-            "yt_embed": "M9wTwKzKCbM?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@suspensochannel/streams",
-        "país": "pe",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "prima-sport-1": {
+    "nombre": "Prima Sport 1- Vezi Pro Arena HD",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
+        "https://www.tvonline123.com/embed/prima-sport-1",
+        "https://www.tvonline123.com/epg/prima-sport-1"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
-    "país": "pe",
-    "categoría": "news"
-  },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
     "país": "ro",
     "categoría": "news"
   },
-    "prima-sport-1": {
-        "nombre": "Prima Sport 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
-                "https://www.tvonline123.com/embed/prima-sport-1",
-                "https://www.tvonline123.com/epg/prima-sport-1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
-        "país": "ro",
-        "categoría": "news"
+  "digi-sport-1-2-digi-24": {
+    "nombre": "Digi Sport 1-2 - Digi 24",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.digi24.ro/live/digi24",
+        "https://tvron.org/digi-sport-1/",
+        "https://tvcanale.live/embed.php?id=62",
+        "https://tvron.org/digi-sport-2/",
+        "https://tvcanale.live/embed.php?id=63",
+        "https://tvron.org/digi-sport-2/",
+        "https://www.digi24.ro/live/digi24"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "prima-sport-3": {
-        "nombre": "Prima Sport 3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvonline123.com/tvlive/?url=prima-sport-3",
-                "https://www.tvonline123.com/embed/prima-sport-3",
-                "https://www.tvonline123.com/epg/prima-sport-3" 
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-3",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "prima-tv": {
-        "nombre": "Prima TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvonline123.com/tvlive/?url=prima-tv",
-                "https://www.tvonline123.com/embed/prima-tv",
-                "https://www.tvonline123.com/epg/prima-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-tv",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "pro-arena": {
-        "nombre": "Vezi Pro Arena HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvonline123.com/tvlive/?url=pro-arena",
-                "https://www.tvonline123.com/embed/pro-arena",
-                "https://www.tvonline123.com/epg/pro-arena"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=pro-arena",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "digi-sport-1": {
-        "nombre": "Digi Sport 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvron.org/digi-sport-1/",
-                "https://tvcanale.live/embed.php?id=62"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvron.org/digi-sport-1/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "digi-sport-2": {
-        "nombre": "Digi Sport 2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvron.org/digi-sport-2/",
-                "https://tvcanale.live/embed.php?id=63"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvron.org/digi-sport-2/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "digi-24": {
-        "nombre": "Digi 24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.digi24.ro/live/digi24"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.digi24.ro/live/digi24",
-        "país": "ro",
-        "categoría": "news"
-    },
+    "sitio_oficial": "https://tvron.org/digi-sport-1/",
+    "país": "ro",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -25702,21 +25384,7 @@
         "nombre": "GRUPO DISCOVERY TRIVU",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://miztv.shop/tele/stream-317.php",
-                "https://miztv.shop/tele/stream-322.php",
-                "https://miztv.shop/tele/stream-325.php",
-                "https://miztv.shop/tele/stream-313.php",
-                "https://miztv.shop/tele/stream-321.php",
-                "https://miztv.shop/tele/stream-315.php",
-                "https://miztv.shop/tele/stream-324.php",
-                "https://miztv.shop/tele/stream-320.php",
-                "https://miztv.shop/tele/stream-344.php",
-                "https://miztv.shop/tele/stream-535.php",
-                "https://miztv.shop/tele/stream-541.php",
-                "https://miztv.shop/tele/stream-570.php",
-                "https://miztv.shop/tele/stream-398.php"
-            ],
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UCEgNxyXXpArM8F368uJjF-Q",
             "yt_embed": "",
