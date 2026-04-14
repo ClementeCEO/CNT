@@ -23051,7 +23051,7 @@
         "https://megatvjaen.pe/"
       ],
       "m3u8_url": [
-        }"https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8",
+        "https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8",
         "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
         "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8"
       ],
@@ -24023,12 +24023,14 @@
     "país": "pe",
     "categoría": "news"
   },
-  "Espn-Premiun": {
-    "nombre": "",
+  "GRUPOSSC5-Espn-Premiun": {
+    "nombre": "GRUPO SSC 5 - Espn-Premiun",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://tucanaldeportivo.org/espnpremium.php"
+        "https://tucanaldeportivo.org/espnpremium.php",
+        "https://www.elahmad.com/tv/ssc-sport-live.php",
+        "https://azrotv.com/local/tv/ch/ssc.php?id=extra2#google_vignette"
       ],
       "m3u8_url": [
         "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
@@ -24042,48 +24044,15 @@
     "país": "pe",
     "categoría": "news"
   },
-  "GRUPOSSC5": {
-    "nombre": "GRUPO SSC 5",
+  "LoretoTV-gol-ucayalitv-shumac-tv-peru": {
+    "nombre": "Loreto TV- GOL - Ucayalitv Shumac PERU",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/ssc-sport-live.php",
-        "https://azrotv.com/local/tv/ch/ssc.php?id=extra2#google_vignette"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
-    "país": "pe",
-    "categoría": "news"
-  },
-  "ucayalitv-shumac-tv-peru": {
-    "nombre": "Ucayalitv Shumac PERU",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.ucayalitv.com/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.tvgratishd.com/2024/04/shumac-tv-peru-en-vivo.html",
-    "país": "pe",
-    "categoría": "news"
-  },
-  "LoretoTV-gol": {
-    "nombre": "Loreto TV- GOL",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
+        "https://www.ucayalitv.com/",
         "https://golperuenvivoperutv.com/",
-        "https://golperuhd.pe/"
+        "https://golperuhd.pe/",
+        "https://www.tvgratishd.com/2024/04/shumac-tv-peru-en-vivo.html"
       ],
       "m3u8_url": [
         "https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8"
@@ -24359,8 +24328,9 @@
     "nombre": "Canela Novelas Turcas",
     "logo": "",
     "señales": {
-      "iframe_url": 
-      "https://www.canela.tv/player/channel/vive-kanal-d-drama"],
+      "iframe_url": [
+      "https://www.canela.tv/player/channel/vive-kanal-d-drama"
+      ],
       "m3u8_url": [
         "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
       ],
@@ -24421,8 +24391,7 @@
     "señales": {
       "iframe_url": [
         "https://tvone.pe/",
-        "https://www.twitch.tv/ondatvcalabria",
-        
+        "https://www.twitch.tv/ondatvcalabria"
       ],
       "m3u8_url": [],
       "yt_id": "",
