@@ -5102,246 +5102,209 @@
     "país": "ar",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "cadena-heat-cadena-ser": {
+    "nombre": "Cadena Heat - Cadena Ser Argentina - Radiocanal San Francisco",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "",
-        ""
+        "https://api.apolomedia.com/player/embed/playerId/JOP6191557150612/contentId/133902",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web",Ç
+        "https://www.cadenaheat.com/radio-en-vivo/cadena-heat",
+        "http://www.radiocanal.com.ar/Canal4Vivo",
+        "https://cadenaser.com/"
       ],
       "m3u8_url": [
-        ""
+        "http://204.199.3.2/.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.cadenaheat.com/radio-en-vivo/cadena-heat",
     "país": "ar",
     "categoría": "news"
   },
-    "cadena-heat": {
-        "nombre": "Cadena Heat",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://api.apolomedia.com/player/embed/playerId/JOP6191557150612/contentId/133902",
-                "https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web",
-                "https://www.cadenaheat.com/radio-en-vivo/cadena-heat"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC5KfW9_wv4tqbIPgY8tMG-w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cadenaheat.com/radio-en-vivo/cadena-heat",
-        "país": "ar",
-        "categoría": "news"
+  "cadena3": {
+    "nombre": "Cadena 3 Argentina - CIUDAD MAGAZINE",
+    "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.ciudad.com.ar/vivo/",
+        "https://telearg.weebly.com/canal-10-san-rafael.html",
+        "https://www.youtube.com/@lvdiezoficial/live",
+        "https://lvdiez.com.ar/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
+      "yt_embed": "m8aGZaAYld8?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cadena-ser": {
-        "nombre": "Cadena Ser Argentina - Radiocanal San Francisco",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.radiocanal.com.ar/Canal4Vivo",
-                "https://www.youtube.com/embed/e7zMKLv7p7w?controls=1&mute=1&autoplay=1&rel=1&start=0&embedConfig=%5Bobject%20Object%5D&enablejsapi=1&origin=https%3A%2F%2Fcadenaser.com&widgetid=1&forigin=https%3A%2F%2Fcadenaser.com%2F&aoriginsup=1&gporigin=https%3A%2F%2Fcadenaser.com%2F&vf=6",
-                "https://cadenaser.com/"
-            ],
-            "m3u8_url": [
-                "http://204.199.3.2/.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cadenaser.com/",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://radiomitre.cienradios.com/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "radio-mitre": {
+    "nombre": "Radio Mitre",
+    "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://radiomitre.cienradios.com/",
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cadena3": {
-        "nombre": "Cadena 3 Argentina - CIUDAD MAGAZINE",
-        "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.ciudad.com.ar/vivo/",
-                "https://telearg.weebly.com/canal-10-san-rafael.html",
-                "https://www.youtube.com/@lvdiezoficial/live",
-                "https://www.youtube.com/embed/-P1PibfADq4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://lvdiez.com.ar/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
-            "yt_embed": "m8aGZaAYld8?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiomitre.cienradios.com/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://radiomitre.cienradios.com/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "Radio-Azotea": {
+    "nombre": "Radio De la Azotea",
+    "logo": "https://graph.facebook.com/de.laazotea/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://sublimegraciatv.com/",
+        "http://www.radiodelaazotea.com.ar/player/"
+      ],
+      "m3u8_url": [
+        "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8"
+      ],
+      "yt_id": "UCOCY6u-Q3SGwwP3teXhuGMQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "radio-mitre": {
-        "nombre": "Radio Mitre",
-        "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiomitre.cienradios.com/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://www.youtube.com/channel/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "radio-nihuil": {
+    "nombre": "Radio Nihuil - Radio Realpolitik",
+    "logo": "https://graph.facebook.com/radionihuil/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://realpolitik.fm/",
+        "https://27393.live.streamtheworld.com/NIHUIL_AM680.mp3"
+      ],
+      "m3u8_url": [
+        "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
+      ],
+      "yt_id": "UCHIfuRg5isAgn_TgOBjM2VQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "radio-de-la-azotea": {
-        "nombre": "Radio De la Azotea",
-        "logo": "https://graph.facebook.com/de.laazotea/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://sublimegraciatv.com/",
-                "http://www.radiodelaazotea.com.ar/player/"
-            ],
-            "m3u8_url": [
-                "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8"
-            ],
-            "yt_id": "UCOCY6u-Q3SGwwP3teXhuGMQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://www.radionihuil.com.ar/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "pop-radio-101-5": {
+    "nombre": "Pop Radio 101 5 - Radio Conexion Web TV",
+    "logo": "https://graph.facebook.com/Popradio1015/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.radiopop.fm/"
+      ],
+      "m3u8_url": [
+        "https://ny2.stweb.tv/popradio/live/playlist.m3u8"
+      ],
+      "yt_id": "UCtc_WjDRwCrZSEq2WEwD7XQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "radio-nihuil": {
-        "nombre": "Radio Nihuil - Radio Realpolitik",
-        "logo": "https://graph.facebook.com/radionihuil/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://realpolitik.fm/",
-                "https://27393.live.streamtheworld.com/NIHUIL_AM680.mp3"
-            ],
-            "m3u8_url": [
-                "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8"
-            ],
-            "yt_id": "UCHIfuRg5isAgn_TgOBjM2VQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radionihuil.com.ar/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://www.radiopop.fm/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "radio-10-am": {
+    "nombre": "Radio10",
+    "logo": "https://graph.facebook.com/radio10/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/live_stream?channel=UCJozD5RVug7EZdTjqkGISYQ"
+      ],
+      "m3u8_url": [
+        "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+        "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
+        "https://miaplicacion.com.ar/app/d798468b9bf9b0b3?app-multi=1748712532&instalado=sim"
+      ],
+      "yt_id": "UCJozD5RVug7EZdTjqkGISYQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "pop-radio-101-5": {
-        "nombre": "Pop Radio 101 5 - Radio Conexion Web TV",
-        "logo": "https://graph.facebook.com/Popradio1015/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.radiopop.fm/"
-            ],
-            "m3u8_url": [
-                "https://ny2.stweb.tv/popradio/live/playlist.m3u8"
-            ],
-            "yt_id": "UCtc_WjDRwCrZSEq2WEwD7XQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radiopop.fm/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://www.radio10.com.ar/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "urbana-play-fm": {
+    "nombre": "Urbana Play 104.3 FM",
+    "logo": "https://graph.facebook.com/UrbanaPlayFm/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://canal4jujuy.elcuatro.com/",
+        "https://urbanaplayfm.com/radio/"
+      ],
+      "m3u8_url": [
+        "https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60083afdba6eb40016c35954_360p/index.m3u8"
+      ],
+      "yt_id": "UCC1kfsMJko54AqxtcFECt-A",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "urbanaplayfm"
     },
-    "radio-10-am": {
-        "nombre": "Radio10",
-        "logo": "https://graph.facebook.com/radio10/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?channel=UCJozD5RVug7EZdTjqkGISYQ"
-            ],
-            "m3u8_url": [
-                "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
-                "https://radio10.stweb.tv/radio10/live/playlist.m3u8",
-                "https://miaplicacion.com.ar/app/d798468b9bf9b0b3?app-multi=1748712532&instalado=sim"
-            ],
-            "yt_id": "UCJozD5RVug7EZdTjqkGISYQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radio10.com.ar/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://urbanaplayfm.com/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "fm-vale-975-Quatro-TV": {
+    "nombre": "FM Vale 975 - Quatro TVAR",
+    "logo": "https://graph.facebook.com/fmvale/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://tvcuatro.tv/4-3/",
+        "https://www.canal4jujuy.com.ar/",
+        "https://radiovale.fm/"
+      ],
+      "m3u8_url": [
+        "https://stream.arcast.live/quatro/quatro/playlist.m3u8",
+        "https://i.imgur.com/fhHFGwv.png",
+        "https://github.com/anshm-2166/IPTV-Urls?tab=readme-ov-file"
+      ],
+      "yt_id": "UC1Oa7gHuqzGHB90FPb0ssPA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "urbana-play-fm": {
-        "nombre": "Urbana Play 104.3 FM",
-        "logo": "https://graph.facebook.com/UrbanaPlayFm/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://canal4jujuy.elcuatro.com/",
-                "https://urbanaplayfm.com/radio/"
-            ],
-            "m3u8_url": [
-                "https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60083afdba6eb40016c35954_360p/index.m3u8"
-            ],
-            "yt_id": "UCC1kfsMJko54AqxtcFECt-A",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "urbanaplayfm"
-        },
-        "sitio_oficial": "https://urbanaplayfm.com/",
-        "país": "ar",
-        "categoría": "radio"
+    "sitio_oficial": "https://radiovale.fm/",
+    "país": "ar",
+    "categoría": "radio"
+  },
+  "el-siete-mendoza": {
+    "nombre": "El Siete Mendoza - Quantica TV",
+    "logo": "https://graph.facebook.com/elsietetv/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://mejoresradioytv.com/es/stations/quantica-tv/",
+        "https://5900.tv/canal-7-de-mendoza-en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
+      ],
+      "yt_id": "UC64ZNqX0FQHabP8iIkmnR3A",
+      "yt_embed": "Vh8xmLBJtR8&ab_",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fm-vale-975-Quatro-TV": {
-        "nombre": "FM Vale 975 - Quatro TVAR",
-        "logo": "https://graph.facebook.com/fmvale/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://tvcuatro.tv/4-3/",
-                "https://www.canal4jujuy.com.ar/",
-                "https://radiovale.fm/"
-            ],
-            "m3u8_url": [
-                "https://stream.arcast.live/quatro/quatro/playlist.m3u8",
-                "https://i.imgur.com/fhHFGwv.png",
-                "https://github.com/anshm-2166/IPTV-Urls?tab=readme-ov-file"
-            ],
-            "yt_id": "UC1Oa7gHuqzGHB90FPb0ssPA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiovale.fm/",
-        "país": "ar",
-        "categoría": "radio"
-    },
-    "el-siete-mendoza": {
-        "nombre": "El Siete Mendoza - Quantica TV",
-        "logo": "https://graph.facebook.com/elsietetv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://mejoresradioytv.com/es/stations/quantica-tv/",
-                "https://5900.tv/canal-7-de-mendoza-en-vivo/",
-                "https://www.youtube.com/embed/Vh8xmLBJtR8?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
-            ],
-            "m3u8_url": [
-                "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
-            ],
-            "yt_id": "UC64ZNqX0FQHabP8iIkmnR3A",
-            "yt_embed": "Vh8xmLBJtR8&ab_",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elsietetv.com.ar/",
-        "país": "ar",
-        "categoría": "general"
-    },
+    "sitio_oficial": "https://www.elsietetv.com.ar/",
+    "país": "ar",
+    "categoría": "general"
+  },
   "GELATINA-AR": {
     "nombre": "GELATINA AR",
     "logo": "https://gelatina.com.ar/wp-content/uploads/2025/02/Gelatina-2025.png",
@@ -5432,72 +5395,55 @@
     "país": "ar",
     "categoría": "camera"
   },
-  "": {
-    "nombre": "",
+  "obelisco": {
+    "nombre": "FourSeasons BuenosAires",
     "logo": "",
     "señales": {
-      "iframe_url": [
-        ""
-      ],
+      "iframe_url": [],
       "m3u8_url": [],
       "yt_id": "",
+      "yt_embed": "UCCkRwmztPEvut3gpsgmCmzw",
+      "yt_playlist": "if91GyWP3zQ",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw",
+    "país": "ar",
+    "categoría": "camera"
+  },
+  "puente-gral-belgrano": {
+    "nombre": "SISE Argentina",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://siseargentina.com/camaras-en-vivo/",
     "país": "ar",
-    "categoría": "general"
+    "categoría": "camera"
   },
-    "obelisco": {
-        "nombre": "FourSeasons BuenosAires",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCCkRwmztPEvut3gpsgmCmzw",
-            "yt_embed": "if91GyWP3zQ",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCCkRwmztPEvut3gpsgmCmzw",
-        "país": "ar",
-        "categoría": "camera"
+  "radio-one-103-7": {
+    "nombre": "Radio One 103 7",
+    "logo": "https://graph.facebook.com/radioone1037/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.radioone1037.fm/"
+      ],
+      "m3u8_url": [
+        "https://s8.stweb.tv/one/live/playlist.m3u8"
+      ],
+      "yt_id": "UC8XExQXrgutNTcwfACp1Miw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "puente-gral-belgrano": {
-        "nombre": "SISE Argentina",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://siseargentina.com/camaras-en-vivo/",
-        "país": "ar",
-        "categoría": "camera"
-    },
-    "radio-one-103-7": {
-        "nombre": "Radio One 103 7",
-        "logo": "https://graph.facebook.com/radioone1037/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.radioone1037.fm/"
-            ],
-            "m3u8_url": [
-                "https://s8.stweb.tv/one/live/playlist.m3u8"
-            ],
-            "yt_id": "UC8XExQXrgutNTcwfACp1Miw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radioone1037.fm/",
-        "país": "ar",
-        "categoría": "radio"
-    },
+    "sitio_oficial": "https://www.radioone1037.fm/",
+    "país": "ar",
+    "categoría": "radio"
+  },
   "radio-la-red-am-910": {
     "nombre": "Radio La Red AM 910",
     "logo": "https://graph.facebook.com/radiolared/picture?width=800&height=800",
@@ -5528,21 +5474,21 @@
     "país": "ar",
     "categoría": "music"
   },
-    "carburando-tv": {
-        "nombre": "Carburando",
-        "logo": "https://graph.facebook.com/CarburandoOficial/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCVHQZIlc766KbxpKQK1on6Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.carburando.com/",
-        "país": "ar",
-        "categoría": "auto"
+  "Carburando-tv": {
+    "nombre": "Carburando",
+    "logo": "https://graph.facebook.com/CarburandoOficial/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCVHQZIlc766KbxpKQK1on6Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.carburando.com/",
+    "país": "ar",
+    "categoría": "auto"
+  },
   "ofi-presi-arg": {
     "nombre": "Oficina del Presidente Arg",
     "logo": "https://graph.facebook.com/OPRArg/picture?width=800&height=800",
@@ -5558,91 +5504,91 @@
     "país": "ar",
     "categoría": "legislative"
   },
-    "el-nueve": {
-        "nombre": "El nueve",
-        "logo": "https://www.elnueve.com.ar/_next/image?url=%2Farticles%2Fc9-show-hero.jpg&w=1920&q=75",
-        "señales": {
-            "iframe_url": [
-                "https://player.twitch.tv/?channel=elnueve_ok&parent=www.elnueve.com.ar"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "elnueve_ok"
-        },
-        "sitio_oficial": "https://eldoce.tv/vivo/",
-        "país": "ar",
-        "categoría": "news"
+  "el-nueve": {
+    "nombre": "El nueve",
+    "logo": "https://www.elnueve.com.ar/_next/image?url=%2Farticles%2Fc9-show-hero.jpg&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://player.twitch.tv/?channel=elnueve_ok&parent=www.elnueve.com.ar"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCUT4NmGqjrVpKf2JyiS_bbA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "elnueve_ok"
     },
-    "como-tv": {
-        "nombre": "Comotv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/comotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "comoproducciones"
-        },
-        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://eldoce.tv/vivo/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "como-tv": {
+    "nombre": "Comotv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/comotv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "comoproducciones"
     },
-    "vorterix-santarosa": {
-        "nombre": "Vorterix Santarosa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/vorterixsantarosa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "vorterixsantarosa"
-        },
-        "sitio_oficial": "https://kick.com/vorterixsantarosa",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "vorterix-santarosa": {
+    "nombre": "Vorterix Santarosa",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/vorterixsantarosa"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "vorterixsantarosa"
     },
-    "prensa-tv": {
-        "nombre": "Prensa Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/prensatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "orfeo_rock_radio_tv"
-        },
-        "sitio_oficial": "https://kick.com/prensatv",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://kick.com/vorterixsantarosa",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "prensa-tv": {
+    "nombre": "Prensa Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/prensatv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "orfeo_rock_radio_tv"
     },
-    "orfeo-rock-radiotv": {
-        "nombre": "orfeo Rock RadioTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/orfeorockradiotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "orfeo_rock_radio_tv"
-        },
-        "sitio_oficial": "https://kick.com/orfeorockradiotv",
-        "país": "ar",
-        "categoría": "news"
+    "sitio_oficial": "https://kick.com/prensatv",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "orfeo-rock-radiotv": {
+    "nombre": "orfeo Rock RadioTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/orfeorockradiotv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "orfeo_rock_radio_tv"
     },
+    "sitio_oficial": "https://kick.com/orfeorockradiotv",
+    "país": "ar",
+    "categoría": "news"
+  },
   "huarpe-tv": {
     "nombre": "Huarpe Tv - Argentinisima-satelital",
     "logo": "",
@@ -5662,146 +5608,126 @@
     "país": "ar",
     "categoría": "news"
   },
-    "canal-e-Business": {
-        "nombre": "Canal E Business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/perfiltv"
-            ],
-            "m3u8_url": [
-                "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.perfil.com/canal-e/vivo",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "telemax": {
-        "nombre": "Telemax",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal26.com/telemax",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "Quiero-Musica-Tv": {
-        "nombre": "Quiero Musica Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/8Mw0YdKN2XY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC_-fqnv3Rp8k9VJ06_aDIHg",
-            "yt_embed": "8Mw0YdKN2XY?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@quieromusicatv",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "SISEA-Argentina": {
-        "nombre": "SISEA Argentina",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/Y0nVpVzd3q4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
-            "yt_embed": "Y0nVpVzd3q4?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@SISEArgentina",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "radio-laplata": {
-        "nombre": "Radio Laplata",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.twitch.tv/?channel=radiolaplata909&height=100%25&muted=true&parent=radiolaplata.com.ar&referrer=https%3A%2F%2Fradiolaplata.com.ar%2F&width=100%25"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCVTD3EbSz7o_u_hrTbUWhVw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiolaplata909"
-        },
-        "sitio_oficial": "https://radiolaplata.com.ar/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "el-trece-tv": {
-        "nombre": "El trece Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/eltrece.html",
-                "https://tvlibreonline.net/html/hls.html?get=aHR0cHM6Ly9saXZlLTAxLTAyLWVsdHJlY2Uudm9kZ2MubmV0L2VsdHJlY2V0di9pbmRleC5tM3U4",
-                "https://nebunexa.co/red/?get=https://tutlehd5.com/online.php?a=409"
-            ],
-            "m3u8_url": [
-                "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8"
-            ],
-            "yt_id": "UC0DM_mHV2u6dj8ig51GkQwg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eltrecetv.com.ar/",
-        "país": "ar",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Canal-E-Business": {
+    "nombre": "Canal E Business",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://rudo.video/live/perfiltv"
+      ],
+      "m3u8_url": [
+        "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.perfil.com/canal-e/vivo",
     "país": "ar",
     "categoría": "news"
   },
-    "el-rural": {
-        "nombre": "El Rural",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/0eA-D1S7jRE?autoplay=1&mute=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCPumJ2ayrr-JDsA9JDCUDDQ",
-            "yt_embed": "0eA-D1S7jRE?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elrural.com/",
-        "país": "ar",
-        "categoría": "news"
+  "Telemax": {
+    "nombre": "Telemax",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.canal26.com/telemax",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "Quiero-Musica-Tv": {
+    "nombre": "Quiero Musica Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC_-fqnv3Rp8k9VJ06_aDIHg",
+      "yt_embed": "8Mw0YdKN2XY?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@quieromusicatv",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "SISEA-Argentina": {
+    "nombre": "SISEA Argentina",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
+      "yt_embed": "Y0nVpVzd3q4?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@SISEArgentina",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "radio-laplata": {
+    "nombre": "Radio Laplata",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://radiolaplata.com.ar/",
+        "https://player.twitch.tv/?channel=radiolaplata909&height=100%25&muted=true&parent=radiolaplata.com.ar&referrer=https%3A%2F%2Fradiolaplata.com.ar%2F&width=100%25"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCVTD3EbSz7o_u_hrTbUWhVw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiolaplata909"
+    },
+    "sitio_oficial": "https://radiolaplata.com.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "el-trece-tv": {
+    "nombre": "El trece Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://nebunexa.co/red/?get=https://embed.sdfgnksbounce.com/embed2/eltrece.html",
+        "https://tvlibreonline.net/html/hls.html?get=aHR0cHM6Ly9saXZlLTAxLTAyLWVsdHJlY2Uudm9kZ2MubmV0L2VsdHJlY2V0di9pbmRleC5tM3U4",
+        "https://nebunexa.co/red/?get=https://tutlehd5.com/online.php?a=409"
+      ],
+      "m3u8_url": [
+        "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8"
+      ],
+      "yt_id": "UC0DM_mHV2u6dj8ig51GkQwg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.eltrecetv.com.ar/",
+    "país": "ar",
+    "categoría": "news"
+  },
+  "El-Rural": {
+    "nombre": "El Rural",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCPumJ2ayrr-JDsA9JDCUDDQ",
+      "yt_embed": "0eA-D1S7jRE?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elrural.com/",
+    "país": "ar",
+    "categoría": "news"
+  },
   "canal-c-cordoba-canal-10-de-cordoba-Celttv": {
     "nombre": "Canal C Córdoba - Canal 10 de Córdoba - Celttv",
     "logo": "",
