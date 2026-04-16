@@ -168,7 +168,7 @@
     "categoría": "news"
   },
   "MGTV-NAVEZ": {
-    "nombre": "MGTV-NAVEZ",
+    "nombre": "MGTV-NAVEZ - Channel8thailandสำรอง1",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -177,6 +177,10 @@
         "https://www.noticiascaracol.com/",
         "https://www.canalpais.com/",
         "https://watch.plex.tv/es/live-tv/channel/the-reuters-60",
+        "https://thaitvstream.com/web/",
+        "https://cool-channel.com/",
+        "https://dookeela2.live/live-tv/3bbasian",
+        "",
         "https://tv.cctv.com/live/cctv1/"
       ],
       "m3u8_url": [
@@ -186,6 +190,8 @@
         "http://156.238.248.80:8880/play/1.m3u8",
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
         "http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+        "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8",
+        "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8",
         "https://github.com/iptv-ch/iptv-ch.github.io/blob/master/netplus.m3u8"
       ],
       "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
@@ -198,8 +204,8 @@
     "categoría": "news"
   },
   "YAHOO-BUSSINES-NAVEZ": {
-    "nombre": "YAHOO BUSSINES NAVEZ - DCN01316",
-    "logo": "",
+    "nombre": "YAHOO BUSSINES NAVEZ - DCN01316 - Cool Channel",
+    "logo": "https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
@@ -211,6 +217,7 @@
         "http://video.oct.dc.gov/out/u/DKN.m3u8",
         "https://raw.githubusercontent.com/AlexDev404/AlexDev404/refs/heads/main/master.m3u8",
         "https://raw.githubusercontent.com/AlexDev404/AlexDev404/refs/heads/main/master.m3u8",
+        "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
         "https://tv.xay-it.workers.dev/stream/02_3HD_720p/playlist.m3u8",
         "https://tv.xay-it.workers.dev/stream/Monomax_PL_1HD/playlist.m3u8",
         "https://tv.xay-it.workers.dev/stream/02_epl1_720p/playlist.m3u8",
