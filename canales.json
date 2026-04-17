@@ -189,6 +189,7 @@
       ],
       "m3u8_url": [
         "https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8",
+        "https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=a9d44000dd60492b93fbcf2c01b9aa74",
         "https://us.streaminghd.cl/canalpais/tracks-v1a1/mono.ts.m3u8",
         "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8?wsApp=HLS",
         "http://156.238.248.80:8880/play/1.m3u8",
