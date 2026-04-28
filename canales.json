@@ -7290,6 +7290,7 @@
         "https://iptvplay.stream/catv-pr"
       ],
       "m3u8_url": [
+        "https://59d39900ebfb8.streamlock.net:443/unicatv/unicatv/playlist.m3u8",
         "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
       ],
       "yt_id": "",
