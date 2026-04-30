@@ -19,12 +19,16 @@ https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1,Mytime (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Travel XP 
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1,Viki (US) LG
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Viki 
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",New KPOP 
