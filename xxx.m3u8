@@ -1,7 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Azteca Uno.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",Azteca Uno - 1H (720p)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-#EXTINF:-1 tvg-id=".us" tvg-logo="" group-title="music", (720p)
+#EXTINF:-1 tvg-id="STAR TVE AMERICA HD.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", STAR TVE AMERICA HD (720p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id=".us" tvg-logo="" group-title="music",  (720p)
+#EXTINF:-1 tvg-id="TVE INT AMERICA.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", TVE INT AMERICA (720p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", Ecuador TV (720p)
 https://samson.streamerr.co:8081/shogun/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", Ecuavisa (720p)
