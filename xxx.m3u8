@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-id="Azteca Uno.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",Azteca Uno - 1H (720p)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id=".us" tvg-logo="" group-title="music", (720p)
+#EXTINF:-1 tvg-id="EcuadorTV.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", Ecuador TV (720p)
+https://samson.streamerr.co:8081/shogun/index.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", Ecuavisa (720p)
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CRN.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",  CRN+ (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",CNN
