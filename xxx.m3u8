@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Azteca Uno.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",Azteca Uno - 1H (720p)
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",WionNews
@@ -27,7 +29,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiao
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RakutenViki.es",Rakuten Viki (720p)
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
 #EXTINF:-1,RakutenViki.es
@@ -42,6 +43,12 @@ https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Billiards TV 
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ROMANCE LATINO.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",ROMANCE LATINO (720p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="Yahoo! Finance.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",Yahoo! Finance (720p)
+https://yahoo-plex.amagi.tv/playlist.m3u8
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Anal (720p)
