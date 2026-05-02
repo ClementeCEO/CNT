@@ -2648,6 +2648,355 @@ https://9b9239cd4c5e49d9b3acd4b6472753d8.mediatailor.us-east-1.amazonaws.com/v1/
 https://6c3f9c3ead8a4a0888f6cff09728fc91.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_ThePetCollective/playlist.m3u8
 
 
+#EXTINF españa https://github.com/rodriguezstyle/deuspa.m3u/blob/master/XXX.m3u
 
-
-
+#EXTINF:-1 xui-id="335" tvg-id="LA1.es" tvg-name="ES: LA 1" tvg-logo="" group-title="ESPAÑA",ES: LA 1
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkPTxqNLoE3soBu61y9PA9e8
+#EXTINF:-1 xui-id="18913" tvg-id="LA1.es" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="ESPAÑA",ES: LA 1 HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkBPYhkiJVcorCdySqj4P2F0
+#EXTINF:-1 xui-id="334" tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="" group-title="ESPAÑA",ES: LA 2
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkGOfNoDNkbHRbiKphxYc-CA
+#EXTINF:-1 xui-id="2415" tvg-id="BeMad.es" tvg-name="ES: BE MAD HD" tvg-logo="" group-title="ESPAÑA",ES: BE MAD HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkApJwU5UleYk_ZsOydAJwV8
+#EXTINF:-1 xui-id="333" tvg-id="Antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="" group-title="ESPAÑA",ES: ANTENA 3
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkJo57Uv4FB0J34xFAsKEVD0
+#EXTINF:-1 xui-id="18858" tvg-id="Antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="" group-title="ESPAÑA",ES: ANTENA 3 HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkEy1LitL9ANvDLUFnNLDorM
+#EXTINF:-1 xui-id="332" tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="" group-title="ESPAÑA",ES: CUATRO
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkFzgeGiit7WX8LEYgqIhIpI
+#EXTINF:-1 xui-id="18857" tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://lasteles.com/wp-content/uploads/2020/06/telecinco_circular_500.png" group-title="ESPAÑA",ES: TELECINCO
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkO2BkcqgiJNC5_3LE572pqE
+#EXTINF:-1 xui-id="331" tvg-id="Telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://lasteles.com/wp-content/uploads/2020/06/telecinco_circular_500.png" group-title="ESPAÑA",ES: TELECINCO HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkB1rHPgnC7rguhohOQiSFuk
+#EXTINF:-1 xui-id="330" tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" tvg-logo="" group-title="ESPAÑA",ES: LA SEXTA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkNxk9WWfzFU07str4YeEFYs
+#EXTINF:-1 xui-id="329" tvg-id="24Horas.es" tvg-name="ES: 24H" tvg-logo="" group-title="ESPAÑA",ES: 24H
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkLxRnE3yVvkzK75ru3TWj4g
+#EXTINF:-1 xui-id="2544" tvg-id="Mega.es" tvg-name="ES: MEGA" tvg-logo="" group-title="ESPAÑA",ES: MEGA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkAQhJnposP2syr3wqrY5FF0
+#EXTINF:-1 xui-id="322" tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="" group-title="ESPAÑA",ES: AXN
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkDtyiJws4C5o-FNosRz6TLw
+#EXTINF:-1 xui-id="328" tvg-id="" tvg-name="ES: AXN MOVIES" tvg-logo="" group-title="ESPAÑA",ES: AXN MOVIES
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkFZbbwFpNWKThw41v_bjqCo
+#EXTINF:-1 xui-id="327" tvg-id="CanalAndalucia.es" tvg-name="ES: ANDALUCIA" tvg-logo="" group-title="ESPAÑA",ES: ANDALUCIA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkAHqMOOFezkwsFagl73zKpI
+#EXTINF:-1 xui-id="326" tvg-id="TeleMadrid.es" tvg-name="ES: TELEMADRID" tvg-logo="" group-title="ESPAÑA",ES: TELEMADRID
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkC_-TMPqJgWeHter5d57NdY
+#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="ESPAÑA",ES: #0
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkPlozpfbK0k81i_k_vs4SPo
+#EXTINF:-1 xui-id="324" tvg-id="Vamos.es" tvg-name="ES: #VAMOS" tvg-logo="" group-title="ESPAÑA",ES: #VAMOS
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkCG0OXNc4mfMIcLqYMc0bHk
+#EXTINF:-1 xui-id="25916" tvg-id="Atrescine.es" tvg-name="ES: A3CINE" tvg-logo="" group-title="ESPAÑA",ES: A3CINE
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkKtp7X6w2VsLOxrHQ4x4lFs
+#EXTINF:-1 xui-id="323" tvg-id="Atreseries.es" tvg-name="ES: A3SERIES" tvg-logo="" group-title="ESPAÑA",ES: A3SERIES
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkGwRvOdlL4ETkuLU6bdMKzI
+#EXTINF:-1 xui-id="321" tvg-id="ComedyCentral.es" tvg-name="ES: COMEDY CENTRAL" tvg-logo="" group-title="ESPAÑA",ES: COMEDY CENTRAL
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkDHcAnXJ4W7gLnB1sSZyoN8
+#EXTINF:-1 xui-id="320" tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="" group-title="ESPAÑA",ES: CALLE 13
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkEJmGY7PEfFYOofkRVWHXYM
+#EXTINF:-1 xui-id="19914" tvg-id="13C.cl" tvg-name="ES: FOX HD" tvg-logo="" group-title="ESPAÑA",ES: FOX HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkGlh6Jh7PX-Co94MJEYMi3g
+#EXTINF:-1 xui-id="19915" tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="" group-title="ESPAÑA",ES: FOX LIFE
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkJ-CmekEhk7rhgKcLS75Cb0
+#EXTINF:-1 xui-id="319" tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR ACCION HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkNDTQzEdcoDQVd_RAF9on74
+#EXTINF:-1 xui-id="318" tvg-id="MovistarComedia.es" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR COMEDIA HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkCjfRBad3aes4AtLLCQekkY
+#EXTINF:-1 xui-id="315" tvg-id="" tvg-name="ES: CINE Ñ" tvg-logo="" group-title="ESPAÑA",ES: CINE Ñ
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkMQ9SmB_YDyxOjxK4VCcAxk
+#EXTINF:-1 xui-id="316" tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="ESPAÑA",ES: HOLLYWOOD HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkC6BK5GUhMgzRTy_EJUzv0c
+#EXTINF:-1 xui-id="317" tvg-id="MovistarDrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR DRAMA FHD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkEXSXAZOTGyBtqRVaVJ-7H0
+#EXTINF:-1 xui-id="314" tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR SERIES
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkFSrlTExjOiMYixjVJIYRXc
+#EXTINF:-1 xui-id="313" tvg-id="" tvg-name="ES: WARNER TV" tvg-logo="" group-title="ESPAÑA",ES: WARNER TV
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkK2kXbhOMLCS3QPDQ_jMxFM
+#EXTINF:-1 xui-id="312" tvg-id="13C.cl" tvg-name="ES: FDF" tvg-logo="" group-title="ESPAÑA",ES: FDF
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkPgTf3j3hSLteTfthWgTRh8
+#EXTINF:-1 xui-id="311" tvg-id="CazaPesca.es" tvg-name="ES: CAZA Y PESCA" tvg-logo="" group-title="ESPAÑA",ES: CAZA Y PESCA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkAv-_LSH9OJ0K6hh98Z_-Hg
+#EXTINF:-1 xui-id="310" tvg-id="" tvg-name="ES: TOROS" tvg-logo="" group-title="ESPAÑA",ES: TOROS
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkOVgbABUd0tL5Fdki7xXKmA
+#EXTINF:-1 xui-id="309" tvg-id="CanalCocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="https://i.postimg.cc/HjGBh3jW/Canal-Cocina.png" group-title="ESPAÑA",ES: CANAL COCINA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkNqqGGz9jAUZmfFKXbPAK1U
+#EXTINF:-1 xui-id="18036" tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="" group-title="ESPAÑA",ES: NOVA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkP9sKL54mCQfSzIRz5CsSsQ
+#EXTINF:-1 xui-id="306" tvg-id="13C.cl" tvg-name="ES: DKISS" tvg-logo="" group-title="ESPAÑA",ES: DKISS
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkGlAkp2nfqpkpqgFOV3H5pY
+#EXTINF:-1 xui-id="305" tvg-id="Energy.es" tvg-name="ES: ENERGY" tvg-logo="" group-title="ESPAÑA",ES: ENERGY
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkOBHe_-wiWDn8vGG6bilRXY
+#EXTINF:-1 xui-id="303" tvg-id="DisneyChannel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="" group-title="ESPAÑA",ES: DISNEY CHANNEL
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkCwZrsITuLkPoPOfcXOcJ6I
+#EXTINF:-1 xui-id="304" tvg-id="Divinity.es" tvg-name="ES: DIVINITY" tvg-logo="" group-title="ESPAÑA",ES: DIVINITY
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkJWn_iykV-U1BdPjem6XOdQ
+#EXTINF:-1 xui-id="307" tvg-id="" tvg-name="ES: BLAZE" tvg-logo="" group-title="ESPAÑA",ES: BLAZE
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkEkFEPbjgli-VGQWqtYMsvQ
+#EXTINF:-1 xui-id="302" tvg-id="Boing.es" tvg-name="ES: BOING" tvg-logo="" group-title="ESPAÑA",ES: BOING
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkMLoP0Z9Z5ltiJMsVmkggIo
+#EXTINF:-1 xui-id="301" tvg-id="ClanTVE.es" tvg-name="ES: CLAN" tvg-logo="" group-title="ESPAÑA",ES: CLAN
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkPkuFkDG-CyP_OR16wn4KZA
+#EXTINF:-1 xui-id="300" tvg-id="" tvg-name="ES: DISNEY Jr." tvg-logo="" group-title="ESPAÑA",ES: DISNEY Jr.
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkN4WIrc4GaPYhtXjMAH28Qw
+#EXTINF:-1 xui-id="299" tvg-id="CanalPanda.es" tvg-name="ES: PANDA" tvg-logo="" group-title="ESPAÑA",ES: PANDA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkEmMJC80Z3Yb_vTcBapmIkM
+#EXTINF:-1 xui-id="298" tvg-id="" tvg-name="ES: NICK JR" tvg-logo="" group-title="ESPAÑA",ES: NICK JR
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkBTkSmJEvezIlCqssctbk-Y
+#EXTINF:-1 xui-id="291" tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="" group-title="ESPAÑA",ES: TELEDEPORTE
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkBa-11gvPuAM-V5ESajdUS0
+#EXTINF:-1 xui-id="292" tvg-id="MovistarDeportes1.es" tvg-name="ES: MOVISTAR DEPORTES" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR DEPORTES
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkDRpQrPq7k5Rf0zggBnY-nM
+#EXTINF:-1 xui-id="293" tvg-id="Gol.es" tvg-name="ES: GOL" tvg-logo="" group-title="ESPAÑA",ES: GOL
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkAwRa1gHJDSfYVCodr5HIps
+#EXTINF:-1 xui-id="295" tvg-id="MovistarFormula1.es" tvg-name="ES: MOVISTAR FORMULA 1" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR FORMULA 1
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkFojDtRRnmUGwPFJgKb95_4
+#EXTINF:-1 xui-id="294" tvg-id="MovistarFormula1.es" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR FORMULA 1 HD
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkEyWHv_YoMPt4LlX7m6J85k
+#EXTINF:-1 xui-id="144325" tvg-id="RealMadridTV.es" tvg-name="ES: R34L M@DRID TV" tvg-logo="" group-title="ESPAÑA",ES: R34L M@DRID TV
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkGSneKFSsTxt1OMmfeIIQ0qDqcGus2t_1oQkQeSZexZQ
+#EXTINF:-1 xui-id="168348" tvg-id="" tvg-name="ES: ETB II" tvg-logo="" group-title="ESPAÑA",ES: ETB II
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMVDM3yKCJs9tKpZgKCnA5Dgq5tna9nUjUg_d0oU0PWPNWx
+#EXTINF:-1 xui-id="387" tvg-id="Ten.es" tvg-name="ES: TEN" tvg-logo="https://www.atelan.org/wp-content/uploads/2020/03/Ten-logotipo-331x331-1.jpg" group-title="ESPAÑA",ES: TEN
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkDACQngjhEKSnsmB7wBPnUM
+#EXTINF:-1 xui-id="38747" tvg-id="Odisea.es" tvg-name="ES: ODISEA" tvg-logo="" group-title="ESPAÑA",ES: ODISEA
+http://br0ss.xyz:8080/play/VxpYS_4I-20E6Qqr3xMMkNYOwnB8lsqRo_piLWZ_8bE
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="Es: Telecinco Backup" tvg-logo="http://latinapro.net:25461/images/ff420af8d6612da721092ec07e5bf2e1.png" group-title="Espana",Es: Telecinco Backup
+http://latinapro.net:25461/lazaroperez/perez3/24204.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="Es: La Sexta Hd (P)" tvg-logo="http://latinapro.net:25461/images/91bcfe2cc58a95a4cd329582fa302061.png" group-title="Espana",Es: La Sexta Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/115.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="Es: La Sexta Backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-bBXn2m9i5kGBRfsT6JnmYXGUYx6L3OF7Jw&s" group-title="Espana",Es: La Sexta Backup
+http://latinapro.net:25461/lazaroperez/perez3/24203.ts
+#EXTINF:-1 tvg-id="laotra.es" tvg-name="Es: La Otra Hd (P)" tvg-logo="http://latinapro.net:25461/images/d509f59a3dfb64f6f463485e5930afaf.jpg" group-title="Espana",Es: La Otra Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/116.ts
+#EXTINF:-1 tvg-id="ten.es" tvg-name="Es: Ten (P)" tvg-logo="http://latinapro.net:25461/images/5e36cb7de5ab8ab3c33d3180a798d2ec.jpg" group-title="Espana",Es: Ten (P)
+http://latinapro.net:25461/lazaroperez/perez3/188.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="Es: Trece (P)" tvg-logo="http://latinapro.net:25461/images/91226b5dcea80b0794cb68d29ea694fe.png" group-title="Espana",Es: Trece (P)
+http://latinapro.net:25461/lazaroperez/perez3/118.ts
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="ES: TVE Internacional" tvg-logo="http://latinapro.net:25461/images/71d4b3bad66577d85be70ab04dafebc2.jpg" group-title="Espana",ES: TVE Internacional
+http://latinapro.net:25461/lazaroperez/perez3/6365.ts
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="Es: Andalucia Canal Sur (P)" tvg-logo="http://latinapro.net:25461/images/c145901c9fb90aeb5eff83a8db247dbd.png" group-title="Espana",Es: Andalucia Canal Sur (P)
+http://latinapro.net:25461/lazaroperez/perez3/122.ts
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="Es: Aragon Int (P)" tvg-logo="http://latinapro.net:25461/images/e831fad46c4f57b46e593d0d8de1c338.png" group-title="Espana",Es: Aragon Int (P)
+http://latinapro.net:25461/lazaroperez/perez3/121.ts
+#EXTINF:-1 tvg-id="canalextremadurasat.es" tvg-name="Es: AMC Break" tvg-logo="http://latinapro.net:25461/images/3We7UqeepqjrFZK52fWnBK8VkE3H-2gNJbuUvw4a2hFsWgf6SSh64o6VAk2-2ujYNRPaQTT5d83npPNg9a0dJrTN7JijjeNdPp2zC-P4TVSn9P6YR_HEZwJhNMpy7_LbXZhX8hmgqGmXXzO_GoBz4gsFGhRT7pB1aYIEZV9lnQ8.jpg" group-title="Espana",Es: AMC Break
+http://latinapro.net:25461/lazaroperez/perez3/161.ts
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="Es: Telemadrid Hd (P)" tvg-logo="http://latinapro.net:25461/images/4b77df43d51ee2ea27d09230d3b9726e.png" group-title="Espana",Es: Telemadrid Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/117.ts
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="Es: Tv Galicia Hd (P)" tvg-logo="http://latinapro.net:25461/images/ccdcd3d5add0d61d294d1b91eab2aedf.png" group-title="Espana",Es: Tv Galicia Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/193.ts
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="Es: Baby Tv" tvg-logo="http://latinapro.net:25461/images/1bc062452287810f48ebe9e785f8bf45.png" group-title="Espana",Es: Baby Tv
+http://latinapro.net:25461/lazaroperez/perez3/130.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="Es: Disney Channel (P)" tvg-logo="http://latinapro.net:25461/images/c9a1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi.jpg" group-title="Espana",Es: Disney Channel (P)
+http://latinapro.net:25461/lazaroperez/perez3/153.ts
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Es: Disney Junior (P)" tvg-logo="http://latinapro.net:25461/images/fbfbcee2b758b879c2c34cd9960bd077.jpg" group-title="Espana",Es: Disney Junior (P)
+http://latinapro.net:25461/lazaroperez/perez3/155.ts
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="Es: Nick Junior (P)" tvg-logo="http://latinapro.net:25461/images/c66386e0f22d302ba325f37c0dafbb50.png" group-title="Espana",Es: Nick Junior (P)
+http://latinapro.net:25461/lazaroperez/perez3/166.ts
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="Es: Nickelodeon Hd (P)" tvg-logo="http://latinapro.net:25461/images/5b9b9a4e7d6eb970ef06a221a2c7d9c6.jpg" group-title="Espana",Es: Nickelodeon Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/165.ts
+#EXTINF:-1 tvg-id="neox.es" tvg-name="Es: Neox Tv (P)" tvg-logo="http://latinapro.net:25461/images/c865788bd9ee3b9d13fb16bcff162677.png" group-title="Espana",Es: Neox Tv (P)
+http://latinapro.net:25461/lazaroperez/perez3/164.ts
+#EXTINF:-1 tvg-id="boing.es" tvg-name="Es: Boing (P)" tvg-logo="http://latinapro.net:25461/images/6aab4c963cd9cb201bb5d3609871075c.png" group-title="Espana",Es: Boing (P)
+http://latinapro.net:25461/lazaroperez/perez3/131.ts
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="Es: Clan Tv Hd (P)" tvg-logo="http://latinapro.net:25461/images/1705247a0e604e4bdba26d2b856ee2b0.png" group-title="Espana",Es: Clan Tv Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Bom Tv (P)" tvg-logo="http://latinapro.net:25461/images/b8bf03b163a4ca444b5606ad23f691f2.jpg" group-title="Espana",Es: Bom Tv (P)
+http://latinapro.net:25461/lazaroperez/perez3/132.ts
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="Es: Divinity (P)" tvg-logo="http://latinapro.net:25461/images/eeb5dfd3671ed487f16b9d1dc535023d.jpg" group-title="Espana",Es: Divinity (P)
+http://latinapro.net:25461/lazaroperez/perez3/152.ts
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="Es: DKiss (P)" tvg-logo="http://latinapro.net:25461/images/a974279830be55f3aba80672f9dbe661.png" group-title="Espana",Es: DKiss (P)
+http://latinapro.net:25461/lazaroperez/perez3/159.ts
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="Es: DMax (P)" tvg-logo="http://latinapro.net:25461/images/dd7dc30091b4255512e8c66f70bf6071.jpg" group-title="Espana",Es: DMax (P)
+http://latinapro.net:25461/lazaroperez/perez3/157.ts
+#EXTINF:-1 tvg-id="energy.es" tvg-name="Es: Energy (P)" tvg-logo="http://latinapro.net:25461/images/b08a0fce010fc4551927ba861c24a21d.jpg" group-title="Espana",Es: Energy (P)
+http://latinapro.net:25461/lazaroperez/perez3/160.ts
+#EXTINF:-1 tvg-id="nova.es" tvg-name="Es: Nova (P)" tvg-logo="http://latinapro.net:25461/images/c5fb8e14fb0288c7c1cc7631a96a5ec9.jpg" group-title="Espana",Es: Nova (P)
+http://latinapro.net:25461/lazaroperez/perez3/183.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="Es: Mega (P)" tvg-logo="http://latinapro.net:25461/images/62cc4231b06f65e5148de4b308b8ebbc.png" group-title="Espana",Es: Mega (P)
+http://latinapro.net:25461/lazaroperez/perez3/182.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="Es: Fdf (P)" tvg-logo="http://latinapro.net:25461/images/6165ba11ac4792efdc962b8a798e9303.png" group-title="Espana",Es: Fdf (P)
+http://latinapro.net:25461/lazaroperez/perez3/22321.ts
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="Es: Paramount Network (P)" tvg-logo="http://latinapro.net:25461/images/d9a640d667dd68d9754bfe3b5314bf3a.jpg" group-title="Espana",Es: Paramount Network (P)
+http://latinapro.net:25461/lazaroperez/perez3/181.ts
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="Es: Be Mad Hd (P)" tvg-logo="http://latinapro.net:25461/images/002853bc7121e17533b26528f84ee8f7.jpg" group-title="Espana",Es: Be Mad Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/126.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="Es: AtresSeries HD (P)" tvg-logo="http://latinapro.net:25461/images/fa27a847147e5cc141696078f397cf3d.jpg" group-title="Espana",Es: AtresSeries HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/123.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="Es: Star Channel Hd (P)" tvg-logo="http://latinapro.net:25461/images/061966926543f30d4e53981d4cc6d3e1.png" group-title="Espana",Es: Star Channel Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/141.ts
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="Es: Warner HD" tvg-logo="http://latinapro.net:25461/images/fb34962d331b561085563adc9572a200.png" group-title="Espana",Es: Warner HD
+http://latinapro.net:25461/lazaroperez/perez3/192.ts
+#EXTINF:-1 tvg-id="axn.es" tvg-name="Es: AXN Hd (P)" tvg-logo="http://latinapro.net:25461/images/cae30e8874e3ba50714afffbb88758f7.jpg" group-title="Espana",Es: AXN Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/124.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="Es: AMC Crime HD (P)" tvg-logo="http://latinapro.net:25461/images/35d5b3b52197e6c65a4792e57ad01ab7.jpg" group-title="Espana",Es: AMC Crime HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/128.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="Es: AXN Movies (P)" tvg-logo="http://latinapro.net:25461/images/23d88ced73c4d28df62a1c116aea4e66.jpg" group-title="Espana",Es: AXN Movies (P)
+http://latinapro.net:25461/lazaroperez/perez3/125.ts
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="Es: Calle 13 Hd (P)" tvg-logo="http://latinapro.net:25461/images/af6d6cd507cc975648159e2f7c8e1be3.jpg" group-title="Espana",Es: Calle 13 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/136.ts
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="Es: Hollywood HD (P)" tvg-logo="http://latinapro.net:25461/images/58601d5db56643ec5d81f685e0e1dbf5.jpg" group-title="Espana",Es: Hollywood HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/170.ts
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="Es: TCM HD" tvg-logo="http://latinapro.net:25461/images/d319dfe66fead7ad0fa5806f6ee56c52.jpg" group-title="Espana",Es: TCM HD
+http://latinapro.net:25461/lazaroperez/perez3/189.ts
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="Es: SYFY HD" tvg-logo="http://latinapro.net:25461/images/e330c00addda131f917fcc31fc3be686.jpg" group-title="Espana",Es: SYFY HD
+http://latinapro.net:25461/lazaroperez/perez3/186.ts
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="Es: Moviestar Comedia Hd" tvg-logo="http://latinapro.net:25461/images/b6630d3ca2b3d2f7c149c8bdc64f88aa.jpg" group-title="Espana",Es: Moviestar Comedia Hd
+http://latinapro.net:25461/lazaroperez/perez3/173.ts
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="Es: Moviestar Drama Hd" tvg-logo="http://latinapro.net:25461/images/532549f1672fdc42b830b64491f112b7.jpg" group-title="Espana",Es: Moviestar Drama Hd
+http://latinapro.net:25461/lazaroperez/perez3/177.ts
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="Es: Moviestar Originales Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXVk7BwqyGAZGTXOXfDBGwd9pS_0tmUBkOw&s" group-title="Espana",Es: Moviestar Originales Hd
+http://latinapro.net:25461/lazaroperez/perez3/5357.ts
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="Es: Runtime Accion Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwUat36XfZHCAbGGwXHnxSYK_6XgKbXF37w&s" group-title="Espana",Es: Runtime Accion Hd
+http://latinapro.net:25461/lazaroperez/perez3/172.ts
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="Es: Runtime Crimen HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt&s" group-title="Espana",Es: Runtime Crimen HD
+http://latinapro.net:25461/lazaroperez/perez3/171.ts
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="Es: Runtime Comedia" tvg-logo="http://latinapro.net:25461/images/WKGtmg8n0_ULoBEmEQNhdLep_2pc2T3LcOuEOcZBdHyY0hANPOIZaKdy38hMpVS-k7vM3vkMzqrO8I1fd8Epv6a-Gi7s1GqBFn9qqtmnL67zGKv9-i8j4S_xmYcaS5d9jhXOohLUW3Pm5hx_o5-NYQ.jpg" group-title="Espana",Es: Runtime Comedia
+http://latinapro.net:25461/lazaroperez/perez3/179.ts
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="Es: Runtime Romance" tvg-logo="http://latinapro.net:25461/images/WKGtmg8n0_ULoBEmEQNhdLep_2pc2T3LcOuEOcZBdHyY0hANPOIZaKdy38hMpVS-k7vM3vkMzqrO8I1fd8Epv6a-Gi7s1GqBFn9qqtmnL64kc2X-f2faS0F-Ty0ro7XMl5tZjfqP5TrUPejgSbKTxQ.jpg" group-title="Espana",Es: Runtime Romance
+http://latinapro.net:25461/lazaroperez/perez3/184.ts
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="Es: Iberalia Caza" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqPnIO5PEvDe3IzfPDGBmU3K1XrbFB1VCDA&s" group-title="Espana",Es: Iberalia Caza
+http://latinapro.net:25461/lazaroperez/perez3/133.ts
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Es: Comedy Central HD (P)" tvg-logo="http://latinapro.net:25461/images/b23edb68198b642211de16ae74552ee8.jpg" group-title="Espana",Es: Comedy Central HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/138.ts
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="Es: Cosmo Hd (P)" tvg-logo="http://latinapro.net:25461/images/a5e307ef334d2a6fda86b8f06d47fa9e.png" group-title="Espana",Es: Cosmo Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/139.ts
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="Es: Dark Hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0R0Eu9MLhNxCoxiRL-z1GxA9y61HBW_g9w&s" group-title="Espana",Es: Dark Hd
+http://latinapro.net:25461/lazaroperez/perez3/140.ts
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="Es: Canal Cocina" tvg-logo="http://latinapro.net:25461/images/7528e20d41b00e01bd87893fc5656ad9.jpg" group-title="Espana",Es: Canal Cocina
+http://latinapro.net:25461/lazaroperez/perez3/134.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Es: Canal Odisea (P)" tvg-logo="http://latinapro.net:25461/images/b6a4af4f73f85c4c4fe1423c3e41c7b0.jpg" group-title="Espana",Es: Canal Odisea (P)
+http://latinapro.net:25461/lazaroperez/perez3/135.ts
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="Es: Dazn 1 Hd" tvg-logo="http://latinapro.net:25461/images/91cfaa62b1dd09a451abbb7f5e2c55f8.png" group-title="Sports Deportes",Es: Dazn 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/21103.ts
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="Es: Dazn 1 Hd" tvg-logo="http://latinapro.net:25461/images/91cfaa62b1dd09a451abbb7f5e2c55f8.png" group-title="Espana",Es: Dazn 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/21103.ts
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="Es: Dazn 2 Hd" tvg-logo="http://latinapro.net:25461/images/7885e49660b12ebdb9ba4f78d9baeb81.png" group-title="Sports Deportes",Es: Dazn 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/21104.ts
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="Es: Dazn 2 Hd" tvg-logo="http://latinapro.net:25461/images/7885e49660b12ebdb9ba4f78d9baeb81.png" group-title="Espana",Es: Dazn 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/21104.ts
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="Es: Dazn 3 Hd" tvg-logo="http://latinapro.net:25461/images/65f8251671907918d9d06e82837efbf4.png" group-title="Sports Deportes",Es: Dazn 3 Hd
+http://latinapro.net:25461/lazaroperez/perez3/23446.ts
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="Es: Dazn 3 Hd" tvg-logo="http://latinapro.net:25461/images/65f8251671907918d9d06e82837efbf4.png" group-title="Espana",Es: Dazn 3 Hd
+http://latinapro.net:25461/lazaroperez/perez3/23446.ts
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="Es: Dazn 4 Hd" tvg-logo="http://latinapro.net:25461/images/8aa83faa996115319cff2b76928e0f0c.png" group-title="Sports Deportes",Es: Dazn 4 Hd
+http://latinapro.net:25461/lazaroperez/perez3/23447.ts
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="Es: Dazn 4 Hd" tvg-logo="http://latinapro.net:25461/images/8aa83faa996115319cff2b76928e0f0c.png" group-title="Espana",Es: Dazn 4 Hd
+http://latinapro.net:25461/lazaroperez/perez3/23447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 Hd (Eventos)" tvg-logo="http://latinapro.net:25461/images/5ccf358bea9dad226d8964340c35cc8d.png" group-title="Sports Deportes",Dazn 1 Hd (Eventos)
+http://latinapro.net:25461/lazaroperez/perez3/52674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 Hd (Eventos)" tvg-logo="http://latinapro.net:25461/images/5ccf358bea9dad226d8964340c35cc8d.png" group-title="Sports Deportes",Dazn 2 Hd (Eventos)
+http://latinapro.net:25461/lazaroperez/perez3/52675.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 3 Hd (Eventos)" tvg-logo="http://latinapro.net:25461/images/5ccf358bea9dad226d8964340c35cc8d.png" group-title="Sports Deportes",Dazn 3 Hd (Eventos)
+http://latinapro.net:25461/lazaroperez/perez3/52676.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="Es: Dazn La Liga" tvg-logo="http://latinapro.net:25461/images/2a10f78e338aaf7e53f613e5c121ea7c.jpg" group-title="Sports Deportes",Es: Dazn La Liga
+http://latinapro.net:25461/lazaroperez/perez3/27381.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="Es: Dazn La Liga" tvg-logo="http://latinapro.net:25461/images/2a10f78e338aaf7e53f613e5c121ea7c.jpg" group-title="Espana",Es: Dazn La Liga
+http://latinapro.net:25461/lazaroperez/perez3/27381.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="Es: Dazn La Liga 2 HD" tvg-logo="http://latinapro.net:25461/images/00dddb376f87b97d156dfe8c8ab1aef0.jpg" group-title="Sports Deportes",Es: Dazn La Liga 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/28273.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="Es: Dazn La Liga 2 HD" tvg-logo="http://latinapro.net:25461/images/00dddb376f87b97d156dfe8c8ab1aef0.jpg" group-title="Espana",Es: Dazn La Liga 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/28273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Gol Play" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeK_OHmDaFBW3ImpOlbCB_7_wRw3A0ecRGUw&s" group-title="Sports Deportes",Es: Gol Play
+http://latinapro.net:25461/lazaroperez/perez3/55259.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Gol Play" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeK_OHmDaFBW3ImpOlbCB_7_wRw3A0ecRGUw&s" group-title="Espana",Es: Gol Play
+http://latinapro.net:25461/lazaroperez/perez3/55259.ts
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="Es: Discovery Channel (P)" tvg-logo="http://latinapro.net:25461/images/1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi.jpg" group-title="Espana",Es: Discovery Channel (P)
+http://latinapro.net:25461/lazaroperez/perez3/156.ts
+#EXTINF:-1 tvg-id="historia.es" tvg-name="Es: Historia (P)" tvg-logo="http://latinapro.net:25461/images/280796dc783e2da722e50c1ae07d6208.jpg" group-title="Espana",Es: Historia (P)
+http://latinapro.net:25461/lazaroperez/perez3/163.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="Es: Natgeo Wild HD (P)" tvg-logo="http://latinapro.net:25461/images/80c2c65fa9be01bf404e302a7f0c60ba.jpg" group-title="Espana",Es: Natgeo Wild HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/167.ts
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="Es: National Geographic Hd (P)" tvg-logo="http://latinapro.net:25461/images/79fdd01ac16bd028b7d0f5db231c6ae9.png" group-title="Espana",Es: National Geographic Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/168.ts
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="Es: MTV (P)" tvg-logo="http://latinapro.net:25461/images/4d9288371d184ced9d6e739146a40d71.jpg" group-title="Espana",Es: MTV (P)
+http://latinapro.net:25461/lazaroperez/perez3/169.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Es: Eurosports 1 Hd (P)" tvg-logo="http://latinapro.net:25461/images/c376c8453c944393704188ef04f3587a.png" group-title="Sports Deportes",Es: Eurosports 1 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/143.ts
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="Es: Eurosports 1 Hd (P)" tvg-logo="http://latinapro.net:25461/images/c376c8453c944393704188ef04f3587a.png" group-title="Espana",Es: Eurosports 1 Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/143.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Es: Eurosports 2 (P)" tvg-logo="http://latinapro.net:25461/images/ac1fd1f9916f13902eed337d5de20d17.jpg" group-title="Sports Deportes",Es: Eurosports 2 (P)
+http://latinapro.net:25461/lazaroperez/perez3/144.ts
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Es: Eurosports 2 (P)" tvg-logo="http://latinapro.net:25461/images/ac1fd1f9916f13902eed337d5de20d17.jpg" group-title="Espana",Es: Eurosports 2 (P)
+http://latinapro.net:25461/lazaroperez/perez3/144.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="Es: Formula 1 HD (P)" tvg-logo="http://latinapro.net:25461/images/17d640b8fe75f425fa99e53684a8c542.jpg" group-title="Sports Deportes",Es: Formula 1 HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/145.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="Es: Formula 1 HD (P)" tvg-logo="http://latinapro.net:25461/images/17d640b8fe75f425fa99e53684a8c542.jpg" group-title="Espana",Es: Formula 1 HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/145.ts
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Es: Liga De Campeones Hd (P)" tvg-logo="http://latinapro.net:25461/images/7883fc16179754c760763c2a75f8a999.jpg" group-title="Sports Deportes",Es: Liga De Campeones Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/150.ts
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="Es: Liga De Campeones Hd (P)" tvg-logo="http://latinapro.net:25461/images/7883fc16179754c760763c2a75f8a999.jpg" group-title="Espana",Es: Liga De Campeones Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/150.ts
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="Es: Liga De Campeones 2 HD" tvg-logo="http://latinapro.net:25461/images/a5218b4b86882d80db1cf87e5ae257df.png" group-title="Sports Deportes",Es: Liga De Campeones 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/23448.ts
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="Es: Liga De Campeones 2 HD" tvg-logo="http://latinapro.net:25461/images/a5218b4b86882d80db1cf87e5ae257df.png" group-title="Espana",Es: Liga De Campeones 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/23448.ts
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="Es: Liga De Campeones 3 HD" tvg-logo="http://latinapro.net:25461/images/88de3de2c764482c564ead5cac8e2c86.png" group-title="Sports Deportes",Es: Liga De Campeones 3 HD
+http://latinapro.net:25461/lazaroperez/perez3/23449.ts
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="Es: Liga De Campeones 3 HD" tvg-logo="http://latinapro.net:25461/images/88de3de2c764482c564ead5cac8e2c86.png" group-title="Espana",Es: Liga De Campeones 3 HD
+http://latinapro.net:25461/lazaroperez/perez3/23449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Liga De Campeones 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8X3bt5qZfD8bRmJ2juSUS1XCyHBsy-AOXg&s" group-title="Sports Deportes",Es: Liga De Campeones 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/52681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Liga De Campeones 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8X3bt5qZfD8bRmJ2juSUS1XCyHBsy-AOXg&s" group-title="Espana",Es: Liga De Campeones 4 HD
+http://latinapro.net:25461/lazaroperez/perez3/52681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Liga De Campeones 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk4sp-w7rHuzL766kB9HPAHhQWnkZLTozrQ&s" group-title="Sports Deportes",Es: Liga De Campeones 5 HD
+http://latinapro.net:25461/lazaroperez/perez3/52682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Liga De Campeones 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk4sp-w7rHuzL766kB9HPAHhQWnkZLTozrQ&s" group-title="Espana",Es: Liga De Campeones 5 HD
+http://latinapro.net:25461/lazaroperez/perez3/52682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Liga De Campeones 6 HD" tvg-logo="http://latinapro.net:25461/images/UNG7GhY-NqYJrkGV9NHmcCzw3diY4rkzPq2rAVkbkSvZ_hTSjm_L1Jchimb7596UrtpI_w25-pCZRlhs6ibCjg.jpg" group-title="Sports Deportes",Es: Liga De Campeones 6 HD
+http://latinapro.net:25461/lazaroperez/perez3/52683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Liga De Campeones 6 HD" tvg-logo="http://latinapro.net:25461/images/UNG7GhY-NqYJrkGV9NHmcCzw3diY4rkzPq2rAVkbkSvZ_hTSjm_L1Jchimb7596UrtpI_w25-pCZRlhs6ibCjg.jpg" group-title="Espana",Es: Liga De Campeones 6 HD
+http://latinapro.net:25461/lazaroperez/perez3/52683.ts
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Es: Moviestar Deportes 1 Hd" tvg-logo="http://latinapro.net:25461/images/e4f107b9d3de1ac61a95179a92d9fcb2.png" group-title="Sports Deportes",Es: Moviestar Deportes 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/175.ts
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="Es: Moviestar Deportes 1 Hd" tvg-logo="http://latinapro.net:25461/images/e4f107b9d3de1ac61a95179a92d9fcb2.png" group-title="Espana",Es: Moviestar Deportes 1 Hd
+http://latinapro.net:25461/lazaroperez/perez3/175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Moviestar Deportes 2 Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Canal%2B_Deportes_2_2011.svg/revision/latest/scale-to-width-down/300?cb=20230730141616" group-title="Sports Deportes",Es: Moviestar Deportes 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/52644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: Moviestar Deportes 2 Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Canal%2B_Deportes_2_2011.svg/revision/latest/scale-to-width-down/300?cb=20230730141616" group-title="Espana",Es: Moviestar Deportes 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/52644.ts
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="Es: Moviestar Golf HD" tvg-logo="http://latinapro.net:25461/images/ecb749796a8d9e6a99531038938263b3.jpg" group-title="Sports Deportes",Es: Moviestar Golf HD
+http://latinapro.net:25461/lazaroperez/perez3/162.ts
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="Es: Moviestar Golf HD" tvg-logo="http://latinapro.net:25461/images/ecb749796a8d9e6a99531038938263b3.jpg" group-title="Espana",Es: Moviestar Golf HD
+http://latinapro.net:25461/lazaroperez/perez3/162.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="Es: La Liga HD (P)" tvg-logo="http://latinapro.net:25461/images/44e68b93b7d7c994311befab2829c948.jpg" group-title="Sports Deportes",Es: La Liga HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/149.ts
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="Es: La Liga HD (P)" tvg-logo="http://latinapro.net:25461/images/44e68b93b7d7c994311befab2829c948.jpg" group-title="Espana",Es: La Liga HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/149.ts
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="Es: La Liga 2" tvg-logo="http://latinapro.net:25461/images/44e68b93b7d7c994311befab2829c948.jpg" group-title="Sports Deportes",Es: La Liga 2
+http://latinapro.net:25461/lazaroperez/perez3/148.ts
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="Es: La Liga 2" tvg-logo="http://latinapro.net:25461/images/44e68b93b7d7c994311befab2829c948.jpg" group-title="Espana",Es: La Liga 2
+http://latinapro.net:25461/lazaroperez/perez3/148.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: La Liga 3" tvg-logo="http://latinapro.net:25461/images/auk_UlBBSv0rZEqDD0fUI0be31QtvUpv2-UAftmqq4v8eMFVLON21wrN1fH0O15GSuso8iADMGFGuUYSXYiTgQ.png" group-title="Sports Deportes",Es: La Liga 3
+http://latinapro.net:25461/lazaroperez/perez3/53366.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: La Liga 3" tvg-logo="http://latinapro.net:25461/images/auk_UlBBSv0rZEqDD0fUI0be31QtvUpv2-UAftmqq4v8eMFVLON21wrN1fH0O15GSuso8iADMGFGuUYSXYiTgQ.png" group-title="Espana",Es: La Liga 3
+http://latinapro.net:25461/lazaroperez/perez3/53366.ts
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Es: La Liga Hypermotion Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241" group-title="Sports Deportes",Es: La Liga Hypermotion Hd
+http://latinapro.net:25461/lazaroperez/perez3/25247.ts
+#EXTINF:-1 tvg-id="mlaligahypermotion.es" tvg-name="Es: La Liga Hypermotion Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241" group-title="Espana",Es: La Liga Hypermotion Hd
+http://latinapro.net:25461/lazaroperez/perez3/25247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: La Liga Hypermotion 2 Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241" group-title="Sports Deportes",Es: La Liga Hypermotion 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/52716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: La Liga Hypermotion 2 Hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241" group-title="Espana",Es: La Liga Hypermotion 2 Hd
+http://latinapro.net:25461/lazaroperez/perez3/52716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Copa Del Rey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvQfqVBfMghjZgDRMOHqMJC_SzhefqCYMbA&s" group-title="Sports Deportes",Es: M+ Copa Del Rey
+http://latinapro.net:25461/lazaroperez/perez3/52759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Copa Del Rey" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvQfqVBfMghjZgDRMOHqMJC_SzhefqCYMbA&s" group-title="Espana",Es: M+ Copa Del Rey
+http://latinapro.net:25461/lazaroperez/perez3/52759.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Es: Real Madrid Tv Hd (P)" tvg-logo="http://latinapro.net:25461/images/ae37dc620bb8bb11c8b78058f68a5fc1.png" group-title="Sports Deportes",Es: Real Madrid Tv Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/185.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Es: Real Madrid Tv Hd (P)" tvg-logo="http://latinapro.net:25461/images/ae37dc620bb8bb11c8b78058f68a5fc1.png" group-title="Espana",Es: Real Madrid Tv Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/185.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Es: Teledeporte Hd (P)" tvg-logo="http://latinapro.net:25461/images/a44f899bb99d5b92350e2ed4155530f0.jpg" group-title="Sports Deportes",Es: Teledeporte Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/187.ts
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="Es: Teledeporte Hd (P)" tvg-logo="http://latinapro.net:25461/images/a44f899bb99d5b92350e2ed4155530f0.jpg" group-title="Espana",Es: Teledeporte Hd (P)
+http://latinapro.net:25461/lazaroperez/perez3/187.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="Es: One Toro HD" tvg-logo="http://latinapro.net:25461/images/e5530062a818683de20fb016183a546f.jpg" group-title="Espana",Es: One Toro HD
+http://latinapro.net:25461/lazaroperez/perez3/190.ts
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="Es: XTRM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQKNuAxbU9bSG9I8xUErK5NaXq-zTkHIepw&s" group-title="Espana",Es: XTRM
+http://latinapro.net:25461/lazaroperez/perez3/178.ts
+#EXTINF:-1 tvg-id="gol.es" tvg-name="Es: Veo 7 (P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVxMWAevUV8bj4stTsUdQsQJuJoSTGElkSnQ&s" group-title="Espana",Es: Veo 7 (P)
+http://latinapro.net:25461/lazaroperez/perez3/151.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="Es: Vamos HD (P)" tvg-logo="http://latinapro.net:25461/images/70edd4a8f87b516b76dab0300618e441.png" group-title="Sports Deportes",Es: Vamos HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/194.ts
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="Es: Vamos HD (P)" tvg-logo="http://latinapro.net:25461/images/70edd4a8f87b516b76dab0300618e441.png" group-title="Espana",Es: Vamos HD (P)
+http://latinapro.net:25461/lazaroperez/perez3/194.ts
