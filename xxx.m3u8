@@ -1,10 +1,251 @@
 #EXTM3U #EXTINF:-1 tvg-id=".us" tvg-logo="" group-title="music",  (720p)
 #EXTINF:-1 tvg-id="Azteca Uno.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music",Azteca Uno - 1H (720p)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+#EXTINF:0 type="favorites" channelId="3731" group="-", Azteca UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="STAR TVE AMERICA HD.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", STAR TVE AMERICA HD (720p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",sony TV
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",amc TV
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/vtGED07.jpg", Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Oromar TV Ecuador" group="Int. América" logo="https://graph.facebook.com/oromartv/picture?width=200&height=200", Oromar TV Ecuador
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Latinos" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 type="favorites" channelId="-1" group="-", Caracol HD
+http://38.44.109.41:8003/play/a00x/index.m3u8
+#EXTINF:0 type="favorites" channelId="1409" group="-", City TV
+http://38.44.109.41:8003/play/a02f/index.m3u8
+#EXTINF:0 type="favorites" channelId="1303" group="-", FX
+http://38.44.109.41:8003/play/a01g/index.m3u8
+#EXTINF:0 type="favorites" channelId="3768" group="-", Guatevision
+http://38.44.109.41:8003/play/a02p/index.m3u8
+#EXTINF:0 type="favoriteshttps://github.com/emiliocuesta/milista/blob/4beffb4e29d3538ecf590bca693353c235e3cdfc/Nlista588#L43" channelId="3768" group="-", NEW YORK
+http://38.44.109.41:8003/play/a030/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movieshttps://github.com/jaimerios30/lista1/blob/8f6712889c1404ea2e63c14e8a8037d018da629a/miscanales.m3u#L61" logo="https://i.imgur.com/FqHLJmN.png", MovieFe (720p) [Not 24/7]
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/pw4NZK1.png", MyTime Movie Network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/pw4NZK1.png", MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1" name="Latina Perú" group="Int. Américahttps://github.com/jaimerios30/lista1/blob/8f6712889c1404ea2e63c14e8a8037d018da629a/miscanales.m3u#L61" logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200", Latina Perú
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTM3U 
+#EXTINF:-1 group-title="https://github.com/canza86/lista/blob/main/cable.m3u-",13c HD Cotel
+http://38.7.223.20:8000/play/a0h9
+#EXTINF:-1 group-title="-",A&E HD
+http://38.7.223.20:8000/play/a0jf
+#EXTINF:-1 group-title="-",AMC HD
+http://38.7.223.20:8000/play/a0jl
+#EXTINF:-1 group-title="-",ANTOFAGASTA TV COTEL
+http://38.7.223.20:8000/play/a0ha
+#EXTINF:-1 group-title="-",AUTONOMA TV COTEL
+http://38.7.223.20:8000/play/a0hb
+#EXTINF:-1 group-title="-",AXN HD
+http://38.7.223.20:8000/play/a0iu
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://38.7.223.20:8000/play/a0il
+#EXTINF:-1 group-title="-",BIO-BIO TV COTEL
+http://38.7.223.20:8000/play/a0hc
+#EXTINF:-1 group-title="-",CANAL 24hrs SD COTEL
+http://38.7.223.20:8000/play/a0he
+#EXTINF:-1 group-title="-",CHV HD
+http://38.7.223.20:8000/play/a092
+#EXTINF:-1 group-title="-",CHV HD Cotel
+http://38.7.223.20:8000/play/a0hg
+#EXTINF:-1 group-title="-",CHV Noticias HD Cotel
+http://38.7.223.20:8000/play/a0hh
+#EXTINF:-1 group-title="-",CNN Espaæol
+http://38.7.223.20:8000/play/a0ex
+#EXTINF:-1 group-title="-",Canal 13 HD
+http://38.7.223.20:8000/play/a0jc
+#EXTINF:-1 group-title="-",Canal 13 HD COTEL
+http://38.7.223.20:8000/play/a0hd
+#EXTINF:-1 group-title="-",Canal 24 Horas HD
+http://38.7.223.20:8000/play/a0k4
+#EXTINF:-1 group-title="-",Carolina TV Cotel
+http://38.7.223.20:8000/play/a0hf
+#EXTINF:-1 group-title="-",Cartoon Network
+http://38.7.223.20:8000/play/a0jy
+#EXTINF:-1 group-title="-",Cinecanal HD
+http://38.7.223.20:8000/play/a0iq
+#EXTINF:-1 group-title="-",Cinemax
+http://38.7.223.20:8000/play/a0kt
+#EXTINF:-1 group-title="-",Comedy Central HD
+http://38.7.223.20:8000/play/a0jg
+#EXTINF:-1 group-title="-",DHE HD
+http://38.7.223.20:8000/play/a0ij
+#EXTINF:-1 group-title="-",DNEWS COTEL
+http://38.7.223.20:8000/play/a0hi
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://38.7.223.20:8000/play/a0im
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://38.7.223.20:8000/play/a0jw
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://38.7.223.20:8000/play/a090
+#EXTINF:-1 group-title="-",Discovery World HD
+http://38.7.223.20:8000/play/a0jo
+#EXTINF:-1 group-title="-",Disney HD
+http://38.7.223.20:8000/play/a0ke
+#EXTINF:-1 group-title="-",Disney Junior
+http://38.7.223.20:8000/play/a0f8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://38.7.223.20:8000/play/a095
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://38.7.223.20:8000/play/a0jr
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://38.7.223.20:8000/play/a0iz
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://38.7.223.20:8000/play/a0jj
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://38.7.223.20:8000/play/a0jd
+#EXTINF:-1 group-title="-",ESPN 7HD
+http://38.7.223.20:8000/play/a0ir
+#EXTINF:-1 group-title="-",ESPN HD
+http://38.7.223.20:8000/play/a0l3
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://38.7.223.20:8000/play/a07i
+#EXTINF:-1 group-title="-",El Gourmet HD
+http://38.7.223.20:8000/play/a0jh
+#EXTINF:-1 group-title="-",Etc TV COTEL
+http://38.7.223.20:8000/play/a0hj
+#EXTINF:-1 group-title="-",FTZ-13Cable
+http://38.7.223.20:8000/play/13cable
+#EXTINF:-1 group-title="-",FX HD
+http://38.7.223.20:8000/play/a0j0
+#EXTINF:-1 group-title="-",Food Network HD
+http://38.7.223.20:8000/play/a0k6
+#EXTINF:-1 group-title="-",GRACIA TV COTEL
+http://38.7.223.20:8000/play/a0hk
+#EXTINF:-1 group-title="-",Golden HD
+http://38.7.223.20:8000/play/a0kl
+#EXTINF:-1 group-title="-",HBO Family HD
+http://38.7.223.20:8000/play/a07k
+#EXTINF:-1 group-title="-",HBO HD
+http://38.7.223.20:8000/play/a0jn
+#EXTINF:-1 group-title="-",HBO POP HD
+http://38.7.223.20:8000/play/a096
+#EXTINF:-1 group-title="-",HBO XTREME HD
+http://38.7.223.20:8000/play/a0ii
+#EXTINF:-1 group-title="-",History 2
+http://38.7.223.20:8000/play/a0ek
+#EXTINF:-1 group-title="-",History Channel HD
+http://38.7.223.20:8000/play/a0in
+#EXTINF:-1 group-title="-",ID HD
+http://38.7.223.20:8000/play/a0iv
+#EXTINF:-1 group-title="-",La Red HD
+http://38.7.223.20:8000/play/a0k3
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://38.7.223.20:8000/play/a0l6
+#EXTINF:-1 group-title="-",Lifetime
+http://38.7.223.20:8000/play/a0k8
+#EXTINF:-1 group-title="-",MAULE TV COTEL
+http://38.7.223.20:8000/play/a0hl
+#EXTINF:-1 group-title="-",MEGA HD
+http://38.7.223.20:8000/play/a09d
+#EXTINF:-1 group-title="-",MTV HD
+http://38.7.223.20:8000/play/a0js
+#EXTINF:-1 group-title="-",Mega 2 HD COTEL
+http://38.7.223.20:8000/play/a0hm
+#EXTINF:-1 group-title="-",Mega HD COTEL
+http://38.7.223.20:8000/play/a0hn
+#EXTINF:-1 group-title="-",MegaTiempo HD Cotel
+http://38.7.223.20:8000/play/a0hq
+#EXTINF:-1 group-title="-",Megaficcion HD COTEL
+http://38.7.223.20:8000/play/a0ho
+#EXTINF:-1 group-title="-",Meganoticias Ahora HD Cotel
+http://38.7.223.20:8000/play/a0hp
+#EXTINF:-1 group-title="-",MÆsChic
+http://38.7.223.20:8000/play/a0kp
+#EXTINF:-1 group-title="-",NTV HD
+http://38.7.223.20:8000/play/a0di
+#EXTINF:-1 group-title="-",NTV HD COTEL
+http://38.7.223.20:8000/play/a0h6
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://38.7.223.20:8000/play/a0io
+#EXTINF:-1 group-title="-",Nick HD
+http://38.7.223.20:8000/play/a099
+#EXTINF:-1 group-title="-",Nina TV COTEL
+http://38.7.223.20:8000/play/a0hr
+#EXTINF:-1 group-title="-",PURANOTICIAS TV COTEL
+http://38.7.223.20:8000/play/a0hs
+#EXTINF:-1 group-title="-",Pasiones HD
+http://38.7.223.20:8000/play/a0j4
+#EXTINF:-1 group-title="-",Playboy HD
+http://38.7.223.20:8000/play/a0ja
+#EXTINF:-1 group-title="-",RADIO SUYAI COTEL
+http://38.7.223.20:8000/play/a0ht
+#EXTINF:-1 group-title="-",RAICES ARABES TV COTEL
+http://38.7.223.20:8000/play/a0hu
+#EXTINF:-1 group-title="-",RUIDOS TV COTEL
+http://38.7.223.20:8000/play/a0hw
+#EXTINF:-1 group-title="-",Rec HD Cotel
+http://38.7.223.20:8000/play/a0hv
+#EXTINF:-1 group-title="-",STAR CHANNEL HD
+http://38.7.223.20:8000/play/a0j1
+#EXTINF:-1 group-title="-",SUYAI 2 TV COTEL
+http://38.7.223.20:8000/play/a0hx
+#EXTINF:-1 group-title="-",SUYAI TV COTEL
+http://38.7.223.20:8000/play/a0hy
+#EXTINF:-1 group-title="-",Sony HD
+http://38.7.223.20:8000/play/a0is
+#EXTINF:-1 group-title="-",Space HD
+http://38.7.223.20:8000/play/a0iw
+#EXTINF:-1 group-title="-",Stingray Concerts HD
+http://38.7.223.20:8000/play/a0km
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://38.7.223.20:8000/play/a0l7
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://38.7.223.20:8000/play/a0j6
+#EXTINF:-1 group-title="-",Suyai Flusonic
+http://38.7.223.20:8000/play/a0ku
+#EXTINF:-1 group-title="-",T13 HD Cotel
+http://38.7.223.20:8000/play/a0hz
+#EXTINF:-1 group-title="-",TNT HD
+http://38.7.223.20:8000/play/a0ip
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://38.7.223.20:8000/play/a0jq
+#EXTINF:-1 group-title="-",TNT Series HD
+http://38.7.223.20:8000/play/a0jm
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+http://38.7.223.20:8000/play/a094
+#EXTINF:-1 group-title="-",TV+ HD
+http://38.7.223.20:8000/play/a0k2
+#EXTINF:-1 group-title="-",TVM TV COTEL
+http://38.7.223.20:8000/play/a0i0
+#EXTINF:-1 group-title="-",TVN 2 HD COTEL
+http://38.7.223.20:8000/play/a0i1
+#EXTINF:-1 group-title="-",TVN HD
+http://38.7.223.20:8000/play/a091
+#EXTINF:-1 group-title="-",TVN HD COTEL
+http://38.7.223.20:8000/play/a0i2
+#EXTINF:-1 group-title="-",TVO SAN VICENTE COTEL
+http://38.7.223.20:8000/play/a0i3
+#EXTINF:-1 group-title="-",TVR TV COTEL
+http://38.7.223.20:8000/play/a0i4
+#EXTINF:-1 group-title="-",Telenovelas
+http://38.7.223.20:8000/play/a0kw
+#EXTINF:-1 group-title="-",UCV 2 COTEL
+http://38.7.223.20:8000/play/a0i9
+#EXTINF:-1 group-title="-",UCV TV COTEL
+http://38.7.223.20:8000/play/a0i8
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+http://38.7.223.20:8000/play/a0ji
+#EXTINF:-1 group-title="-",UTV SAN CLEMENTE COTEL
+http://38.7.223.20:8000/play/a0i5
+#EXTINF:-1 group-title="-",VISION PLUS TV COTEL
+http://38.7.223.20:8000/play/a0i6
+#EXTINF:-1 group-title="-",VL TV COTEL
+http://38.7.223.20:8000/play/a0i7
+#EXTINF:-1 group-title="-",Venus
+http://38.7.223.20:8000/play/a0l2
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://38.7.223.20:8000/play/a0it
+#EXTINF:-1 group-title="-",teletrak
+http://38.7.223.20:8000/play/a0kv
 
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",3/24 (1080p) 
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
