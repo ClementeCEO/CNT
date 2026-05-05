@@ -15392,13 +15392,15 @@
       "m3u8_url": [
         "https://ztnr.rtve.es/ztnr/1694255.m3u8",
         "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+        "https://ztnr.rtve.es/ztnr/3293681.m3u8",
         "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+        "https://ztnr.rtve.es/ztnr/5468585.m3u8",
         "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
       ],
       "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "https://github.com/Karthikdoddi/iptv/blob/aad587b8cd1e0a875681553405b4d1ee1d93cd48/streams/al.m3u"
     },
     "sitio_oficial": "https://www.rtve.es/noticias",
     "país": "es",
@@ -15426,7 +15428,7 @@
       "yt_id": "UCoMWImnPAur6JhXDK63dpAg",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "https://github.com/cunape/br_bo_es.m3u/blob/main/br_bo_es.m3u"
     },
     "sitio_oficial": "https://malaga24h.com/directo-de-malaga-24-horas/",
     "país": "es",
