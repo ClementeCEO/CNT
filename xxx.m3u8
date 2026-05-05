@@ -9,7 +9,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="América TV" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="Generalistas" tvg-name="América TV",amc TV
 https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="⭐Perú⭐",CanalN.HD3
+#EXTINF:0 type="favorites-https://github.com/franperal352-hue/I/blob/9f7b0e3eb6484ec477747eca024823a7e78e66f7/Barridepo.m3u#L159" channelId="-1" group="General ⭐Perú⭐" logo="https://i.imgur.com/vtGED07.jpg", CanalN.HD3
 http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="General" logo="https://i.imgur.com/vtGED07.jpg", Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
