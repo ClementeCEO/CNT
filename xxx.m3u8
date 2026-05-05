@@ -21,13 +21,13 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:0 type="favorites" channelId="1409" group="-", City TV
 http://38.44.109.41:8003/play/a02f/index.m3u8
-#EXTINF:0 type="favorites" channelId="1303" group="-", FX
+#EXTINF:0 type="favorites" channelId="1303" group="-", FX 
 http://38.44.109.41:8003/play/a01g/index.m3u8
 #EXTINF:0 type="favorites" channelId="3768" group="-", Guatevision
 http://38.44.109.41:8003/play/a02p/index.m3u8
 #EXTINF:0 type="favoriteshttps://github.com/emiliocuesta/milista/blob/4beffb4e29d3538ecf590bca693353c235e3cdfc/Nlista588#L43" channelId="3768" group="-", NEW YORK
 http://38.44.109.41:8003/play/a030/index.m3u8
-#EXTINF:0 type="favorites-https://github.com/jaimerios30/lista1/blob/8f6712889c1404ea2e63c14e8a8037d018da629a/miscanales.m3u#L61" logo="https://i.imgur.com/FqHLJmN.png",, MovieFe (720p) [Not 24/7]
+#EXTINF:0 type="favoriteshttps://github.com/jaimerios30/lista1/blob/8f6712889c1404ea2e63c14e8a8037d018da629a/miscanales.m3u#L61" channelId="-1" group="Movies" logo="https://i.imgur.com/FqHLJmN.png", MovieFe (720p) [Not 24/7])
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/pw4NZK1.png", MyTime Movie Network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
