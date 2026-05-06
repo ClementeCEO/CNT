@@ -57,11 +57,11 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8? 
 #EXTINF:-1,TL NOVELAS 
 http://45.228.234.30:16000/play/a031/index.m3u8 
-#EXTINF:-1,Enlace 
+#EXTINF:-1,Enlace https://github.com/eliover-spec/GT-first.m3u8
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1,A&E 
 http://190.60.48.149:8000/play/AE 
-#EXTINF:-1,AMC 
+#EXTINF:-1,AMC  
 http://190.60.48.149:8000/play/AMC 
 #EXTINF:-1,ANIMAL PLANET 
 http://190.60.48.149:8000/play/ANIMAL_PLANET 
