@@ -25,12 +25,41 @@ http://38.44.109.41:8003/play/a00x/index.m3u8
 http://38.44.109.41:8003/play/a02f/index.m3u8
 #EXTINF:0 type="favorites" channelId="1303" group="-", FX 
 http://38.44.109.41:8003/play/a01g/index.m3u8
+#EXTINF:-1,AmigosTV Guatemala 
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1, Canal 3 
+https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
+#EXTINF:-1, Canal 7 
+https://d3r1d0jzdq322.cloudfront.net/index.m3u8
+#EXTINF:-1, TvMaya  https://github.com/eliover-spec/GT-first.m3u8
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
+#EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 Mich. 
+https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 #EXTINF:0 type="favorites" channelId="3768" group="-", Guatevision
 http://38.44.109.41:8003/play/a02p/index.m3u8
 #EXTINF:0 type="favoriteshttps://github.com/emiliocuesta/milista/blob/4beffb4e29d3538ecf590bca693353c235e3cdfc/Nlista588#L43" channelId="3768" group="-", NEW YORK
 http://38.44.109.41:8003/play/a030/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 Mich. 
+https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+#EXTINF:-1 tvg-id="Di+ TV" group-title="NACIONAL", Di+ TV 
+https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-b42c-07ca4d4d6096/index.m3u8
+#EXTINF:-1 tvg-id="Canal 21 de México" group-title="NACIONAL" , Capital 21 
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
+#EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon 
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 
+#EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO 
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1,Televisa Novelas 
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8? 
+#EXTINF:-1,TL NOVELAS 
+http://45.228.234.30:16000/play/a031/index.m3u8 
+#EXTINF:-1,Enlace 
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
 
 #EXTINF:0 type="favoriteshttps://github.com/jaimerios30/lista1/blob/8f6712889c1404ea2e63c14e8a8037d018da629a/miscanales.m3u#L61" channelId="-1" group="Movies" logo="https://i.imgur.com/FqHLJmN.png", MovieFe (720p) [Not 24/7])
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
