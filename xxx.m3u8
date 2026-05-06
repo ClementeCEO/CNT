@@ -25,6 +25,8 @@ http://38.44.109.41:8003/play/a00x/index.m3u8
 http://38.44.109.41:8003/play/a02f/index.m3u8
 #EXTINF:0 type="favorites" channelId="1303" group="-", FX 
 http://38.44.109.41:8003/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",COPAN TV CANAL30 https://github.com/eliover-spec/Passtv.m3u8/blob/main/Cablecuttt.m3u8
+http://177.10.184.193:8000/play/a0ez/index.m3u8
 #EXTINF:-1,AmigosTV Guatemala 
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:-1, Canal 3 
