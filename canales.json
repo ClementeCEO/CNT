@@ -10695,12 +10695,12 @@
     "logo": "https://diretele.com/wp-content/uploads/2019/03/Canal-45-Ja%C3%A9n-en-directo-100x70.png",
     "señales": {
       "iframe_url": [
-        "https://geo.dailymotion.com/player/x1bt8c.html?video=x9nvvkc&customConfig%5Bkeyvalues%5D=postId%3Dlive%26adxEnabled%3Dyes%26isLive%3Dyes",
+        "https://geo.dailymotion.com/player.html?video=x9nvvkc",
+        "https://www.dailymotion.com/video/x9nvvkc",
         "https://www.eltiempo.com/",
         "https://canal1.com.co/senal-en-vivo/"
       ],
       "m3u8_url": [
-        "https://live2.eu-north-1b.cf.dmcdn.net/sec2(M7xsLF3mqcTWj6oU0EjAqngJZugvlQa0XuaOVCIH7b2cOad5wZ4PTZpTzfkQc0IMBPYAQuhhxLuE5DQIMrR8H1HWcAmJJ2JVREIyW3hi_vtcVtRalUa246LHjkWW3lN_)/cloud/3/x9nvvkc/s/live-720.m3u8",
         "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
         "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
         "https://github.com/pertenet/listasSSIPTV/blob/6db6ed95b6213673c6dc3639a2164a38025168e6/TDT_TV.m3u"
