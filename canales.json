@@ -352,7 +352,9 @@
     "nombre": "MEGA Oficial",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://rudo.video/live/mega"
+      ],
       "m3u8_url": [],
       "yt_id": "UCEpId-jtRABuZyX6D2z6FZQ",
       "yt_embed": "zlhH_QNMkMs?",
@@ -439,6 +441,8 @@
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/chvn",
+        "https://rudo.video/live/chvn",
+        "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCRsUoZYC1ULUspipMRnMhwg&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://www.youtube.com/embed/H3AFMMYG_tU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
