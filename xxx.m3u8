@@ -19,7 +19,10 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="Latinos" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png", Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTINF:0 type="favorites" channelId="-1" group="-", Caracol HD
+#EXTINF:-1 tvg-id="rtsinfo.ch" group-title="news",RTS Info HD https://raw.githubusercontent.com/iptv-ch/iptv-ch.github.io/refs/heads/master/webtv.m3u
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="-", Caracol HD https://github.com/bugsfreeweb/LiveTVCollector/blob/ad105b45e4c4562214956f48e1fbe58ce6d90aa5/LiveTV/Collection/LiveTV.txt#L1728
 http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:0 type="favorites" channelId="1409" group="-", City TV
 http://38.44.109.41:8003/play/a02f/index.m3u8
