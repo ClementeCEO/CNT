@@ -23,7 +23,8 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="latele.ch",LA TELE HD 720p
 https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
-
+#EXTINF:-1 tvg-id="latele.ch", PENSA LATINA
+https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:0 type="favorites" channelId="-1" group="-", Caracol HD https://github.com/bugsfreeweb/LiveTVCollector/blob/ad105b45e4c4562214956f48e1fbe58ce6d90aa5/LiveTV/Collection/LiveTV.txt#L1728
 http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:0 type="favorites" channelId="1409" group="-", City TV
