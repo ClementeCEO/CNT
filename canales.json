@@ -10928,6 +10928,189 @@
     "país": "co",
     "categoría": "news"
   },
+  "rcpc-9-tuuniversotv": {
+    "nombre": "RCPC Tuuniversotv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://lifestreammedia.net/tuuniversotv/",
+        "https://copamexmusic.com/",
+        "https://www.colombia.com/tv/copamex-music-tv-cancun-6159"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC9hP6I16d9HouHHf8Fm_9Dw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://www.rcpc.co/",
+    "país": "co",
+    "categoría": "radio"
+  },
+  "nos-cogio-la-noche": {
+    "nombre": "Nos Cogió La Noche Noticias",
+    "logo": "https://graph.facebook.com/NosCogioLaNocheCosmovision/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.infoncn.com/senal-en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCCPvLUrjzOd3bNBMdBryv_w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.coosmovision.com/nos-cogio-la-noche/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "buenisima-radio-tv-Canal-8-TV": {
+    "nombre": "Buenisima Radio Tv Canal 8 TV+",
+    "logo": "https://graph.facebook.com/buenisimaradiotv/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://play4you.icu/e/wjq945p7lx",
+        "https://livestreamlinks.net/onlinetv/colombia/canal-14-codazzi",
+        "https://livestreamlinks.net/onlinetv/colombia/canal-8-tv-1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCk20PydKzK3giq80G4mqSeg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "fmbuenisima"
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg",
+    "país": "co",
+    "categoría": "radio"
+  },
+  "RadioPichincha": {
+    "nombre": "RadioPichincha",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.radiopichincha.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@RadioPichincha",
+    "país": "co",
+    "categoría": "news"
+  },
+  "capital-tv": {
+    "nombre": "Capital TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.canalcapital.gov.co/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.colombia.com/tv/canal-capital-bogota-3926",
+    "país": "co",
+    "categoría": "news"
+  },
+  "telepacifico-Vive-TV": {
+    "nombre": "Telepacifico - Vive-TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://players.cdn.enetres.net/live/6E5C615AA5FF4123ACAF0DAB57B7B8DC022",
+        "http://vivetvstreaming.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.colombia.com/tv/telepacifico-cali-1211",
+    "país": "co",
+    "categoría": "news"
+  },
+  "eduvision-medellin": {
+    "nombre": "Eduvision Medellin",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eduvision.com.co/tv-online/",
+        "https://playerv.voxtvhd.com.br/video/conex2/1/false/true/V1hwT1UyUkhVbkZVV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZOMFlRPT0rWg==/16:9/nocover/nao"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://eduvision.com.co/",
+    "país": "co",
+    "categoría": "general"
+  },
+  "oasis-tv-Canal-Zoom": {
+    "nombre": "OasisTV- Canal Zoom",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvlibrehd.com/en-vivo/oasistv",
+        "https://www.tvlibrehd.com/en-vivo/oasistv",
+        "https://canalzoom.smoothcloud.co/broadcaster/canalzoombr1/live/player",
+        "https://www.chatytvgratis.net/zoom-tv-colombia-en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.televisionlibre.co/envivo/oasistv",
+    "país": "co",
+    "categoría": "news"
+  },
+  "tvfamilia-Telecaribe": {
+    "nombre": "Tvfamilia - Telecaribe",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tvfamilia.com/",
+        "https://www.codetoolsbox.com/clean.php?url=https%3A%2F%2Fplayer.instantvideocloud.net%2F%23%2Fembed%2F180720d1",
+        "https://telecaribe.co/",
+        "https://www.teleantioquia.co/envivo/al-aire"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.televisionlibre.co/envivo/tvfamilia",
+    "país": "co",
+    "categoría": "news"
+  },
+  "Tu-universo": {
+    "nombre": "Tu Universo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+      "https://www.tuuniversotv.net/",
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.televisionlibre.co/envivo/tuuniversotv",
+    "país": "co",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -10943,173 +11126,6 @@
     "país": "co",
     "categoría": "news"
   },
-    "rcpc-9-tuuniversotv": {
-        "nombre": "RCPC Tuuniversotv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://lifestreammedia.net/tuuniversotv/",
-                "https://copamexmusic.com/",
-                "https://www.colombia.com/tv/copamex-music-tv-cancun-6159"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC9hP6I16d9HouHHf8Fm_9Dw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.rcpc.co/",
-        "país": "co",
-        "categoría": "radio"
-    },
-    "nos-cogio-la-noche": {
-        "nombre": "Nos Cogió La Noche Noticias",
-        "logo": "https://graph.facebook.com/NosCogioLaNocheCosmovision/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.infoncn.com/senal-en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCCPvLUrjzOd3bNBMdBryv_w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coosmovision.com/nos-cogio-la-noche/",
-        "país": "co",
-        "categoría": "news"
-    },
-    "buenisima-radio-tv-Canal-8-TV": {
-        "nombre": "Buenisima Radio Tv Canal 8 TV+",
-        "logo": "https://graph.facebook.com/buenisimaradiotv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/wjq945p7lx",
-                "https://livestreamlinks.net/onlinetv/colombia/canal-14-codazzi",
-                "https://livestreamlinks.net/onlinetv/colombia/canal-8-tv-1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCk20PydKzK3giq80G4mqSeg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "fmbuenisima"
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCk20PydKzK3giq80G4mqSeg",
-        "país": "co",
-        "categoría": "radio"
-    },
-    "capital-tv": {
-        "nombre": "Capital TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.canalcapital.gov.co/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.colombia.com/tv/canal-capital-bogota-3926",
-        "país": "co",
-        "categoría": "news"
-    },
-    "telepacifico-Vive-TV ": {
-        "nombre": "Telepacifico - Vive TV ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://players.cdn.enetres.net/live/6E5C615AA5FF4123ACAF0DAB57B7B8DC022",
-                "http://vivetvstreaming.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.colombia.com/tv/telepacifico-cali-1211",
-        "país": "co",
-        "categoría": "news"
-    },
-    "eduvision-medellin": {
-        "nombre": "Eduvisión",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eduvision.com.co/tv-online/",
-                "https://playerv.voxtvhd.com.br/video/conex2/1/false/true/V1hwT1UyUkhVbkZVV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZOMFlRPT0rWg==/16:9/nocover/nao"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://eduvision.com.co/",
-        "país": "co",
-        "categoría": "general"
-    },
-    "oasis-tv-Canal-Zoom": {
-        "nombre": "OasisTV- Canal Zoom",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvlibrehd.com/en-vivo/oasistv",
-                "https://www.tvlibrehd.com/en-vivo/oasistv",
-                "https://canalzoom.smoothcloud.co/broadcaster/canalzoombr1/live/player",
-                "https://www.chatytvgratis.net/zoom-tv-colombia-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/oasistv",
-        "país": "co",
-        "categoría": "news"
-    },
-    "tvfamilia-Telecaribe": {
-        "nombre": "Tvfamilia - Telecaribe",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvfamilia.com/",
-                "https://www.codetoolsbox.com/clean.php?url=https%3A%2F%2Fplayer.instantvideocloud.net%2F%23%2Fembed%2F180720d1",
-                "https://telecaribe.co/",
-                "https://www.teleantioquia.co/envivo/al-aire"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/tvfamilia",
-        "país": "co",
-        "categoría": "news"
-    },
-    "tu-universo-tv": {
-        "nombre": "Tu universo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tuuniversotv.net/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/tuuniversotv",
-        "país": "co",
-        "categoría": "news"
-    },
     "el-pais-tv": {
         "nombre": "El Pais Tv",
         "logo": "",
