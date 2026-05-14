@@ -538,6 +538,25 @@
     "país": "cl",
     "categoría": "radio"
   },
+  "solotv": {
+    "nombre": "SoloTV (Valparaíso)",
+    "logo": "https://stream.making.cl/logo-solotv.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.solotv.cl/en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8"
+      ],
+      "yt_id": "UChgEe4mNbNkjpN2liYQCTUQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.solotv.cl",
+    "país": "cl",
+    "categoría": "general"
+  },
   "CanalMunicipalidadArica-canal40hd-suyaitv": {
     "nombre": "Municipalidad Arica - suyaitv",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Radio_Cooperativa_Logo.svg",
