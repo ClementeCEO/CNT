@@ -31,6 +31,8 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 http://38.44.109.41:8003/play/a00x/index.m3u8
 #EXTINF:0 type="favorites" channelId="1409" group="-", City TV
 http://38.44.109.41:8003/play/a02f/index.m3u8
+#EXTINF:0 type="favorites" channelId="1303" group="-", WPOLSE 24 RUSIA  github.com/lowa8026-cmyk/lowa8026-cmyk.github.io
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8?id=5
 #EXTINF:0 type="favorites" channelId="1303" group="-", FX 
 http://38.44.109.41:8003/play/a01g/index.m3u8
 #EXTINF:-1 group-title="-",COPAN TV CANAL30 https://github.com/eliover-spec/Passtv.m3u8/blob/main/Cablecuttt.m3u8
