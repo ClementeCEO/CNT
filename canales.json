@@ -342,12 +342,15 @@
         "https://espectaculosenlinea.blogspot.com/"
       ],
       "m3u8_url": [
+        "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
         "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8",
         "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8",
         "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
         "https://servilive.com:3624/stream/play.m3u8",
         "https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Meganoticiasoficial/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=",
-        "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+        "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "https://github.com/Mr-WhiteBarrientos/Personal-M3U/blob/main/Chile.m3u"
+        
       ],
       "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
       "yt_embed": "YFAYLjGro84?",
