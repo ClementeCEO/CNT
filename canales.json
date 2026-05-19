@@ -19859,12 +19859,14 @@
     "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
-        "https://www.ujat.tv/"
+        "https://www.tvazteca.com/regional-news/envivo",
+        "https://www.ujat.tv/",
+        "https://envivo.tvazteca.com/epg"
       ],
       "m3u8_url": [],
-    "yt_id": "",
+    "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
     "yt_embed": "",
-    "yt_playlist": "",
+    "yt_playlist": "https://www.youtube.com/aztecanoticias",
     "twitch_id": ""
     },
     "sitio_oficial": "https://www.tvazteca.com/aztecanoticias/",
