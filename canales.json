@@ -22478,9 +22478,12 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://soltvperu.com/en-vivo/",
         "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8"
+      ],
       "yt_id": "UCT3jhkKbEV4ZslnzhZ26hPw",
       "yt_embed": "",
       "yt_playlist": "",
