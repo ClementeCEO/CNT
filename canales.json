@@ -9602,17 +9602,24 @@
     "señales": {
       "iframe_url": [
         "https://embed.vhx.tv/videos/3634508?api=1&autoplay=1&buy_label=Registrarse&collection_id=962086&color=000000&context=https%3A%2F%2Fwww.guatemalaplus.com%2Ffeatured-category&is_trailer=false&live=1&locale=es&playsinline=1&product_id=169917&referrer=https%3A%2F%2Fwww.google.com%2F&vimeo=1",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-3-guatemala-en-vivo-gratis-247/27",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-7-guatemala-en-vivo-televisiete-online-gratis-hd/20",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/tn23-en-vivo-guatemala/19",
+        "https://www.chapintv.com/envivo-canal-3/?source=Internal&ref=Signals+Menu",
+        "https://www.tn23.tv/en-vivo/",
         "https://www.guatemalaplus.com/featured-category/events/canal-en-vivo",
         "https://www.rtv.live/",
         "https://emisorasgt.com/canal-3/",
         "https://tvinsur.com/guatemala/canal-7/",
-        "https://www.chapintv.com/envivo-canal-3/?source=Internal&ref=Signals+Menu",
-        "https://www.tn23.tv/en-vivo/",
         "https://canalantigua.tv/envivo/",
         "https://www.guatemalaenvivo.net/2017/07/Cana-Vea-Tv-en-vivo.html",
         "https://tvweb360.tv/live_embed_player_630px_sp?ch=frnnspr"
       ],
       "m3u8_url": [
+        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8",
         "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
         "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
         "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
