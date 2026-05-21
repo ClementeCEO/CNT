@@ -22494,10 +22494,11 @@
     "categoría": "news"
   },
   "Radiorumbaperu-Teleplustv50": {
-    "nombre": "Radiorumbaperu - Teleplustv50",
+    "nombre": "LikeTV - Radiorumbaperu - Teleplustv50",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.canalcalitv.com/liketv",
         "https://radiorumbaperu.com/",
         "https://telefullhd.com/sex11/",
         "https://liketv.pe/?ref=tv.ahmetcadirci.com"
