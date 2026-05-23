@@ -15982,695 +15982,585 @@
     "país": "es",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "TAC-12": {
+    "nombre": "TAC 12",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://iteleflix.com/ver/tac-12-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://iteleflix.com/ver/tac-12-en-directo-online/",
     "país": "es",
     "categoría": "news"
   },
-    "tac-12": {
-        "nombre": "TAC 12",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/tac-12-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/tac-12-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+  "Tvr-La-Rioja": {
+    "nombre": "Tvr La Rioja",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+        "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+        "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+        "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8",
+        "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tvr-la-rioja": {
-        "nombre": "Tvr La Rioja",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
-                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
-                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
-                "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8",
-                "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Canal-Taronja-Osona-i-Moianes": {
+    "nombre": "Canal Taronja Osona i Moianes",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/canal-taronja-osona-i-moianes-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-taronja-osona-i-moianes": {
-        "nombre": "Canal Taronja Osona i Moianes",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/canal-taronja-osona-i-moianes-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/canal-taronja-osona-i-moianes-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/canal-taronja-osona-i-moianes-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Canales-Adventistas-TV-Hellin": {
+    "nombre": "Canales Adventistas - TV Hellin",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/",
+        "https://logostv.es/directo",
+        "https://3abnplus.tv/programs/live-ya80hrvnrp0",
+        "https://www.esperanzatv.org/",
+        "https://delanceysdachurch.com/canales-adventistas"
+      ],
+      "m3u8_url": [
+        "https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Canales-Adventistas-hellin": {
-        "nombre": "Canales Adventistas - TV Hellin",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/",
-                "https://logostv.es/directo",
-                "https://3abnplus.tv/programs/live-ya80hrvnrp0",
-                "https://www.esperanzatv.org/",
-                "https://delanceysdachurch.com/canales-adventistas"
-            ],
-            "m3u8_url": [
-                "https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Onda-15-TV": {
+    "nombre": "Onda 15 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/onda-15-tv-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "onda-15-tv": {
-        "nombre": "Onda 15 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/onda-15-tv-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/onda-15-tv-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/onda-15-tv-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Onda-Algeciras-TV": {
+    "nombre": "Onda Algeciras TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/onda-algeciras-tv-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "onda-algeciras-tv": {
-        "nombre": "Onda Algeciras TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/onda-algeciras-tv-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/onda-algeciras-tv-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/onda-algeciras-tv-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "El-Toro-TV": {
+    "nombre": "El Toro TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eltorotv.com/directo-tv",
+        "https://iteleflix.com/ver/el-toro-tv-en-directo-online/",
+        "https://clubdeamigos.eltorotv.com/tv-en-directo/"
+      ],
+      "m3u8_url": [
+        "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "el-toro-tv": {
-        "nombre": "El Toro TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eltorotv.com/directo-tv",
-                "https://iteleflix.com/ver/el-toro-tv-en-directo-online/",
-                "https://clubdeamigos.eltorotv.com/tv-en-directo/"
-            ],
-            "m3u8_url": [
-                "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/el-toro-tv-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/el-toro-tv-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Cadena-Élite": {
+    "nombre": "Cadena Élite",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/cadena-elite-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cadena-elite": {
-        "nombre": "Cadena Élite",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/cadena-elite-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/cadena-elite-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/cadena-elite-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Canal-Coín": {
+    "nombre": "Canal Coín",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/canal-coin-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://canalcoin.garjim.es/hls/directo.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-coin": {
-        "nombre": "Canal Coín",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/canal-coin-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://canalcoin.garjim.es/hls/directo.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/canal-coin-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/canal-coin-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Urola-Telebista": {
+    "nombre": "Urola Telebista",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iteleflix.com/ver/urola-telebista-en-directo-online/"
+      ],
+      "m3u8_url": [
+        "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2_360p/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "urola-telebista": {
-        "nombre": "Urola Telebista",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iteleflix.com/ver/urola-telebista-en-directo-online/"
-            ],
-            "m3u8_url": [
-                "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2_360p/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/urola-telebista-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/urola-telebista-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "ComercioTV-Financiero": {
+    "nombre": "Comercio TV Financiero",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.vivalivetv.com/channel/comercio-tv",
+        "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3450&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/comercio-tv"
+      ],
+      "m3u8_url": [
+        "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccdd1a572d4a9003820&bpkio_sessionid=10c0f2f14-d562ae01-e007-4928-b8d6-c185210f5115&category=all&mm_sp",
+        "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccd35b07bd52421c62a&bpkio_sessionid=10a0b12e45-8f873bcd-d2db-40e7-92ad-025798b60d2d&category=all&mm_sp"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "comercio-tv-financiero": {
-        "nombre": "Comercio TV Financiero",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/channel/comercio-tv",
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3450&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/comercio-tv"
-            ],
-            "m3u8_url": [
-                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccdd1a572d4a9003820&bpkio_sessionid=10c0f2f14-d562ae01-e007-4928-b8d6-c185210f5115&category=all&mm_sp",
-                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccd35b07bd52421c62a&bpkio_sessionid=10a0b12e45-8f873bcd-d2db-40e7-92ad-025798b60d2d&category=all&mm_sp"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/comercio-tv",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.vivalivetv.com/channel/comercio-tv",
+    "país": "es",
+    "categoría": "news"
+  },
+  "M-mas": {
+    "nombre": "M+",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tele-libre.org/en-vivo-online/m-plus/embed.php",
+        "https://tele-libre.org/en-vivo-online/m-plus/",
+        "https://tele-libre.org/en-vivo-online/m-plus/embed2.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "M-mas": {
-        "nombre": "M+",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/m-plus/embed.php",
-                "https://tele-libre.org/en-vivo-online/m-plus/",
-                "https://tele-libre.org/en-vivo-online/m-plus/embed2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tele-libre.org/en-vivo-online/m-plus/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://tele-libre.org/en-vivo-online/m-plus/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "DKISS": {
+    "nombre": "DKISS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz",
+        "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "DKISS": {
-        "nombre": "DKISS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz",
-                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWRraXNz",
+    "país": "es",
+    "categoría": "news"
+  },
+  "AMC-CRIMEN": {
+    "nombre": "AMC CRIMEN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ==",
+        "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ=="
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "amc-crimen": {
-        "nombre": "AMC CRIMEN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ==",
-                "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ=="
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ==",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://tele-libre.org/en-vivo-online/?r=L21wZDIucGhwP2lkPWFtYy1jcmltZQ==",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Heartland": {
+    "nombre": "Heartland",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://onlinestream.live/m2--petofi-tv/videoplayer/5902-1",
+        "https://onlinestream.live/tv",
+        "https://www.watchheartlandtv.com/heartland-live-feed"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "heartland": {
-        "nombre": "Heartland",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://onlinestream.live/m2--petofi-tv/videoplayer/5902-1",
-                "https://onlinestream.live/tv",
-                "https://www.watchheartlandtv.com/heartland-live-feed"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://onlinestream.live/tv",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://onlinestream.live/tv",
+    "país": "es",
+    "categoría": "news"
+  },
+  "tv2bornholm": {
+    "nombre": "Tv2bornholm",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play.tv2bornholm.dk/?area=liveTV"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tv2bornholm": {
-        "nombre": "Tv2bornholm",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play.tv2bornholm.dk/?area=liveTV"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://play.tv2bornholm.dk/?area=liveTV",
-        "país": "dk",
-        "categoría": "news"
+    "sitio_oficial": "https://play.tv2bornholm.dk/?area=liveTV",
+    "país": "dk",
+    "categoría": "news"
+  },
+  "GRUPO-TVnrk": {
+    "nombre": "GRUPO TVnrk",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://onlinestream.live/m2--petofi-tv/videoplayer/5902-1",
+        "https://tv.nrk.no/direkte/nrk3",
+        "https://tv.nrk.no/direkte/nrk2"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "GRUPO-tvnrk": {
-        "nombre": "GRUPO TVnrk",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://onlinestream.live/m2--petofi-tv/videoplayer/5902-1",
-                "https://tv.nrk.no/direkte/nrk3",
-                "https://tv.nrk.no/direkte/nrk2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.nrk.no/direkte/nrk2",
-        "país": "no",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.nrk.no/direkte/nrk2",
+    "país": "no",
+    "categoría": "news"
+  },
+  "GRUPO-Tenyek": {
+    "nombre": "GRUPO Tenyek",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tenyek.hu/",
+        "https://www.lightcast.com/embed/player.php?id=50167&type=live",
+        "https://www.watchheartlandtv.com",
+        "http://popup.play4you.icu/1b5ad65923",
+        "https://livestreamlinks.net/en/onlinetv/hungary/debrecentv",
+        "https://elokozvetites.tv/tv2-online-adas/",
+        "https://www.olweb.tv/tv2-hungary"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "grupo-tenyek": {
-        "nombre": "GRUPO Tenyek",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tenyek.hu/",
-                "https://www.lightcast.com/embed/player.php?id=50167&type=live",
-                "https://www.watchheartlandtv.com",
-                "http://popup.play4you.icu/1b5ad65923",
-                "https://livestreamlinks.net/en/onlinetv/hungary/debrecentv",
-                "https://elokozvetites.tv/tv2-online-adas/",
-                "https://www.olweb.tv/tv2-hungary"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.watchheartlandtv.com",
-        "país": "hu",
-        "categoría": "news"
+    "sitio_oficial": "https://www.watchheartlandtv.com",
+    "país": "hu",
+    "categoría": "news"
+  },
+  "GRUPO-ODISEA-Trece": {
+    "nombre": "GRUPO ODISEA - Trece",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://telegratuita.com/en-vivo/odisea.php",
+        "https://www.telegratishd.com/odisea-en-vivo.html",
+        "https://nebunexa.co/clappr/?id=ODISEA",
+        "https://www.cope.es/directos/trece",
+        "https://www.cope.es",
+        "https://players.cdn.enetres.net/live/091DB7AFBD77442B9BA2F141DCC182F5021"
+      ],
+      "m3u8_url": [
+        "https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "GRUPO-ODISEA-trece": {
-        "nombre": "GRUPO ODISEA - Trece",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://telegratuita.com/en-vivo/odisea.php",
-                "https://www.telegratishd.com/odisea-en-vivo.html",
-                "https://nebunexa.co/clappr/?id=ODISEA",
-                "https://www.cope.es/directos/trece",
-                "https://www.cope.es",
-                "https://players.cdn.enetres.net/live/091DB7AFBD77442B9BA2F141DCC182F5021"
-            ],
-            "m3u8_url": [
-                "https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cope.es",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cope.es",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Canal-Trece": {
+    "nombre": "Canal Trece",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://sinartdigital.com/envivo-canaltrece",
+        "https://sinartdigital.com/envivo-canaltrece",
+        "https://sinartdigital.com/envivo-lanacional"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canaltrece": {
-        "nombre": "Canal Trece",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://sinartdigital.com/envivo-canaltrece",
-                "https://sinartdigital.com/envivo-canaltrece",
-                "https://sinartdigital.com/envivo-lanacional"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://sinartdigital.com/envivo-canaltrece",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://sinartdigital.com/envivo-canaltrece",
+    "país": "es",
+    "categoría": "news"
+  },
+  "LA6-MírameTV": {
+    "nombre": "LA 6 - Mírame TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://miztv.shop/tele/stream-534.php",
+        "https://mirametv.com/",
+        "https://iteleflix.com/ver/mirame-tv-en-directo-online/",
+        "https://miztv.shop"
+      ],
+      "m3u8_url": [
+        "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "LA-6-mirame-tv": {
-        "nombre": "LA 6 - Mírame TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://miztv.shop/tele/stream-534.php",
-                "https://mirametv.com/",
-                "https://iteleflix.com/ver/mirame-tv-en-directo-online/",
-                "https://miztv.shop"
-            ],
-            "m3u8_url": [
-                "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://iteleflix.com/ver/mirame-tv-en-directo-online/",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://iteleflix.com/ver/mirame-tv-en-directo-online/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "costanoroestetv": {
+    "nombre": "Costanoroestetv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://costanoroestetv.net/"
+      ],
+      "m3u8_url": [
+        "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "costanoroestetv": {
-        "nombre": "Costanoroestetv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://costanoroestetv.net/"
-            ],
-            "m3u8_url": [
-                "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
+    "país": "es",
+    "categoría": "news"
+  },
+  "martv": {
+    "nombre": "Martv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://martv.live/"
+      ],
+      "m3u8_url": [
+        "http://iptv.services.everywan.net:8080/martv-web/video.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "martv": {
-        "nombre": "Martv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://martv.live/"
-            ],
-            "m3u8_url": [
-                "http://iptv.services.everywan.net:8080/martv-web/video.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
-        "país": "es",
-        "categoría": "news"
+    "sitio_oficial": "https://github.com/allurba/TDTChannels/blob/3db136fe2db4e6abeacac979d498b4100697ef67/TELEVISION.md?plain=1#L26",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Areena-Yle": {
+    "nombre": "Areena Yle",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://areena.yle.fi/suorat",
+        "https://areena.yle.fi/suorat",
+        "https://areena.yle.fi/suorat"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "areena-yle": {
-        "nombre": "Areena Yle",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://areena.yle.fi/suorat",
-                "https://areena.yle.fi/suorat",
-                "https://areena.yle.fi/suorat"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://areena.yle.fi/tv",
-        "país": "fi",
-        "categoría": "news"
+    "sitio_oficial": "https://areena.yle.fi/tv",
+    "país": "fi",
+    "categoría": "news"
+  },
+  "ebenezer-online": {
+    "nombre": "Ebenezer",
+    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+    "señales": {
+      "iframe_url": [
+        "https://ebenezer.hn/envivo",
+        "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
+      ],
+      "m3u8_url": [
+        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ebenezer-online": {
-        "nombre": "Ebenezer",
-        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-        "señales": {
-            "iframe_url": [
-                "https://ebenezer.hn/envivo",
-                "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ebenezer.hn/",
-        "país": "hn",
-        "categoría": "cristiana"
+    "sitio_oficial": "https://ebenezer.hn/",
+    "país": "hn",
+    "categoría": "cristiana"
+  },
+  "une-tv-hn": {
+    "nombre": "Une TV HN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.unetvhn.com/"
+      ],
+      "m3u8_url": [
+        "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
+        "https://catv.amixtv.live:3058/live/unetvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "une-tv-hn": {
-        "nombre": "Une TV HN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.unetvhn.com/"
-            ],
-            "m3u8_url": [
-                "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
-                "https://catv.amixtv.live:3058/live/unetvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.unetvhn.com/",
-        "país": "hn",
-        "categoría": "general"
+    "sitio_oficial": "http://www.unetvhn.com/",
+    "país": "hn",
+    "categoría": "general"
+  },
+  "teleprogreso-online": {
+    "nombre": "Telepais",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://webmedialive.com/ReproTelePais/live/",
+        "https://www.teleprogreso.net/"
+      ],
+      "m3u8_url": [
+        "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "teleprogreso-online": {
-        "nombre": "Telepais",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://webmedialive.com/ReproTelePais/live/",
-                "https://www.teleprogreso.net/"
-            ],
-            "m3u8_url": [
-                "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.teleprogreso.net/",
-        "país": "hn",
-        "categoría": "news"
+    "sitio_oficial": "https://www.teleprogreso.net/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "HCH-Oficial": {
+    "nombre": "HCH Oficial",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://hch.tv/hch-en-vivo/#google_vignette",
+        "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
+      ],
+      "m3u8_url": [
+        "https://live.streamhch.com/live/streams/hch1.m3u8"
+      ],
+      "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "hch-vivo": {
-        "nombre": "HCH",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
-            ],
-            "m3u8_url": [
-                "https://rpn3.bozztv.com/ssh101/ssh101/hchtvenvivo/playlist.m3u8"
-            ],
-            "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hch.tv/live/",
-        "país": "hn",
-        "categoría": "news"
+    "sitio_oficial": "https://hch.tv/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "metro-tv-choluteca": {
+    "nombre": "METRO TV - CHOLUTECA HONDURAS",
+    "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://s.emisoras.tv:2020/VideoPlayer/cholutecatv",
+        "https://s.emisoras.tv:2020/stream/metro",
+        "https://s.emisoras.tv:2020/stream/ilusion"
+      ],
+      "m3u8_url": [
+        "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+      ],
+      "yt_id": "UCblZy4UUsMlqv4gSCNslpWw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "metro-tv-choluteca": {
-        "nombre": "METRO TV CHOLUTECA HONDURAS",
-        "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://s.emisoras.tv:2020/VideoPlayer/cholutecatv",
-                "https://s.emisoras.tv:2020/stream/metro",
-                "https://s.emisoras.tv:2020/stream/ilusion"
-            ],
-            "m3u8_url": [
-                "https://s.emisoras.tv:8081/metrotv/index.m3u8"
-            ],
-            "yt_id": "UCblZy4UUsMlqv4gSCNslpWw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lametrohn.com/",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "multicabletv-tv": {
-        "nombre": "Multicabletv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "multicabletv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/multicabletv",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "laverdadtvhn-tv": {
-        "nombre": "laverdadtvhn TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "laverdadtvhn"
-        },
-        "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "tvnz-1": {
-        "nombre": "TVNZ 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvnz.co.nz/livetv/tvnz-1",
-                "https://www.tvnz.co.nz/livetv/tvnz-2",
-                "https://www.tvnz.co.nz/livetv/tvnz-duke"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvnz.co.nz",
-        "país": "nz",
-        "categoría": "news"
-    },
-    "elwatania2-tv": {
-        "nombre": "Elwatania 2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCJW9gatYczI191TunQxMGbA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Watania2Replay",
-        "país": "tn",
-        "categoría": "news"
-    },
-    "Ghazwa-salma-tv": {
-        "nombre": "Ghazwa salma",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCSyhuOTM05x6auU7Kdomn6Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Dailyvloging00796/streams",
-        "país": "tn",
-        "categoría": "news"
-    },
-    "Castmas-Tunis-tv": {
-        "nombre": "Cast+ Tunis",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCCD-yzDOFs3qL9ZpZXvGawA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@CastPlusTunis",
-        "país": "tn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+    "sitio_oficial": "https://www.lametrohn.com/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "multicabletv-tv": {
+    "nombre": "Multicabletv TV",
     "logo": "",
     "señales": {
       "iframe_url": [],
@@ -16678,13 +16568,94 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "multicabletv"
     },
-    "sitio_oficial": "",
-    "país": "il",
+    "sitio_oficial": "https://www.twitch.tv/multicabletv",
+    "país": "hn",
     "categoría": "news"
   },
-  "24-news-tv": {
+  "LaverdadtvhnTV": {
+    "nombre": "laverdadtvhn TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "laverdadtvhn"
+    },
+    "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "TVNZ-1": {
+    "nombre": "TVNZ 1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvnz.co.nz/livetv/tvnz-1",
+        "https://www.tvnz.co.nz/livetv/tvnz-2",
+        "https://www.tvnz.co.nz/livetv/tvnz-duke"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.tvnz.co.nz",
+    "país": "nz",
+    "categoría": "news"
+  },
+  "Elwatania-2": {
+    "nombre": "Elwatania 2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1https://www.youtube-nocookie.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&controls=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCJW9gatYczI191TunQxMGbA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@Watania2Replay",
+    "país": "tn",
+    "categoría": "news"
+  },
+  "Ghazwa-salma": {
+    "nombre": "Ghazwa salma",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "UCSyhuOTM05x6auU7Kdomn6Q"
+    },
+    "sitio_oficial": "https://www.youtube.com/@Dailyvloging00796/streams",
+    "país": "tn",
+    "categoría": "news"
+  },
+  "Castmas-Tunis-tv": {
+    "nombre": "Cast+ Tunis",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCCD-yzDOFs3qL9ZpZXvGawA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@CastPlusTunis",
+    "país": "tn",
+    "categoría": "news"
+  },
+  "24-News": {
     "nombre": "24 News",
     "logo": "https://www.twentyfournews.com/wp-content/themes/24News_v5/images/logo-new.png?x11794",
     "señales": {
