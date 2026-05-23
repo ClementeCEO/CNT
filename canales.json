@@ -9680,6 +9680,7 @@
     "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
     "señales": {
       "iframe_url": [
+        "https://www.canal27.tv/live-tv",
         "https://emisorasgt.com/embed/tv2/canal-27.html?v=1",
         "https://play.tvaztecaguate.com/home",
         "https://guatemala.gob.gt/guatv-transmision-en-vivo/",
@@ -9687,7 +9688,9 @@
         "https://tvguatemala.net/en-vivo/nuestra-senal-en-vivo/",
         "https://www.guatemalaenvivo.net/2018/07/TV-USAC-Canal-33-en-vivo.html"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://ch1-c27.duin.dev/hls/0/stream.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
