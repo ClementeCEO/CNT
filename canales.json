@@ -21524,10 +21524,12 @@
     "categoría": "news"
   },
   "lamegamundial-RPP-Noticias": {
-    "nombre": "Lamegamundial - RPP-Noticias",
+    "nombre": "RPP-Noticias - Lamegamundial",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://smartplay.smartbit.co/rpp/rpptv?platform=web",
+        "https://smartplay.smartbit.co/rpp/rpptv?platform=web",
         "https://lamegamundial.com",
         "https://mdstrm.com/live-stream/68b9f14bd7cd40aa500402b1?autoplay=true&volume=0&title=%20&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F1028310%2FRpp2_rpptv_Video%26description_url%3Dhttp%253A%252F%252Frpp.pe%252F%26tfcd%3D0%26npa%3D0%26sz%3D400x300%257C640x480%26gdfp_req%3D1%26unviewed_position_start%3D1%26output%3Dvast%26env%3Dvp%26impl%3Ds%26correlator%3D23318437120%26vpmute%3D1%26vpa%3D0%26url%3Dhttps%253A%252F%252Frpp.pe%252F%26plcmt%3D1%26vpa%3Dauto%26vpos%3Dpreroll%26vconp%3D2&ads[volume]=0"
       ],
@@ -21991,6 +21993,8 @@
     "logo": "https://graph.facebook.com/idlradio/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://orbittv.net/",
+        "https://dominicanchannels.com/orbit-tv/",
         "https://player.teleon.tv/do/channel/orbit-tv",
         "https://player.teleon.tv/en/channel/daystar-uk"
       ],
