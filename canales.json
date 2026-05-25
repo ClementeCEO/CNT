@@ -7207,12 +7207,14 @@
     "categoría": "news"
   },
   "Unitel": {
-    "nombre": "Unitel",
+    "nombre": "Unitel - PALENQUETV - Ntn24",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
         "https://mdstrm.com/live-stream/692b7e7ac84183fcf9e3462d?jsapi=true&player=69132f19f5398246a0193ebe",
         "https://geo.dailymotion.com/player/xt0om.html?video=x7vsezg",
+        "https://redpalenque.com/",
+        ",https://www.ntn24.com/en-vivo",
         "https://www.dailymotion.com/video/x7vsfua",
         "https://television.unitel.bo",
         "https://www.boliviapuntotv.com/unitel/",
@@ -7254,6 +7256,7 @@
     "logo": "https://graph.facebook.com/migogoplay/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://www.gogoplaytv.com/mixboliviatv-pro.html",
         "https://ssh101.com/securelive/index.php?id=mixboliviatvhd",
         "https://ssh101.com/securelive/index.php?id=gogoplaysd",
         "https://ssh101.com/securelive/index.php?id=gogoplay",
@@ -7318,17 +7321,20 @@
     "categoría": "news"
   },
   "intv": {
-    "nombre": "Intv - unica - Catv-pr",
+    "nombre": "Intv - unica - Catv-pr- CANAL TELEESTRELLA",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
+        "https://castv10.plugstreaming.com:2020/VideoPlayer/redtv?autoplay=1",
         "https://www.unicatvbolivia.com/",
         "https://tvinsur.com/bolivia/canal-unica-tv-de-bolivia-en-vivo/",
         "https://in.tv.bo/en-vivo/",
         "https://www.globaltvapp.net/notiuno-tv",
-        "https://iptvplay.stream/catv-pr"
+        "https://iptvplay.stream/catv-pr",
+        "https://www.audiokiss.com/tvlatina/"
       ],
       "m3u8_url": [
+        "https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8",
         "https://59d39900ebfb8.streamlock.net:443/unicatv/unicatv/playlist.m3u8",
         "https://envivo.bolivia-link.com:3580/live/intvlive.m3u8"
       ],
@@ -7407,13 +7413,14 @@
     "categoría": "news"
   },
   "atb": {
-    "nombre": "ATB - RedCCTV.bo",
+    "nombre": "ATB - RedCCTV.bo - Radiosangabrielbolivia",
     "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
       "iframe_url": [
         "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
         "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
         "https://www.dailymotion.com/embed/video/x84eirw?autoplay=1",
+        "https://radiosangabriel.org.bo/en-vivo/",
         "https://www.boliviapuntotv.com/atb/",
         "https://redcctvbolivia.com/",
         "https://www.trodi.dev/tv/BO/RedCCTV.bo"
@@ -7424,18 +7431,109 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "radiosangabrielbolivia"
     },
     "sitio_oficial": "https://www.atb.com.bo/atb-en-vivo/",
     "país": "bo",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "rtpbolivia": {
+    "nombre": "RTP BOLIVIA - RadioUnoPST.bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://rtpbolivia.com.bo/en-vivo/",
+        "https://www.boliviapuntotv.com/rtp/",
+        "https://rtpbolivia.com.bo/en-vivo/",
+        "https://www.rtp.pt/play/direto/rtp1",
+        "https://www.trodi.dev/tv/BO/RadioUnoPST.bo"
+      ],
+      "m3u8_url": [
+        "https://rtp.noxun.net/hls/stream.m3u8"
+      ],
+      "yt_id": "UCPHPu0J-6DDxyl9Fm83Z83Q",
+      "yt_embed": "WITKhplhqbU?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://rtpbolivia.com.bo/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "redadvenir": {
+    "nombre": "Redadvenir - PTV.bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://streamhost.org/player/c/GMIredadvenirh?title=RedADvenir",
+        "https://new.opencaster.com/player/embed?user=Pacenisima",
+        "https://ptvbolivia.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "redadvenir"
+    },
+    "sitio_oficial": "https://www.redadvenir.org/redadvenir/tv/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "PlusTLT": {
+    "nombre": "PlusTLT - Canal29tva-bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/radioetvunifev",
+        "https://iblups.com/culturafmtaua",
+        "https://iblups.com/redeunamartv",
+        "https://iblups.com/costaricatelevision",
+        "https://canal29tva.com.bo/",
+        "https://iptvplay.stream/canal29tva-bo-sd"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCJEg5G72_U5kElMy2Seyh1w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://plustlt.tv/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "PAT-Community": {
+    "nombre": "PAT Community",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.boliviapuntotv.com/pat/",
+        "https://serenotv.com/video/canal-pat-hd/embed/",
+        "https://www.redpat.tv/envivolpz",
+        "https://serenotv.com/video/canal-pat-hd/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCepJH-129qesEsiwHuD_z3w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.redpat.tv/envivoscz",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "facetas-deportivas-urbanateve": {
+    "nombre": "𝐅𝐀𝐂𝐄𝐓𝐀𝐒 urbanateve",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://iblups.com/urbanateve",
+        "https://iblups.com/tvamerico",
+        "https://iblups.com/namidia"
+      ],
+      "m3u8_url": [
+        "https://master.tucableip.com:443//ftv/index.m3u8",
+        "https://master.tucableip.com/ftv/index.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -7445,458 +7543,338 @@
     "país": "bo",
     "categoría": "news"
   },
-    "rtpbolivia": {
-        "nombre": "RTP BOLIVIA - RadioUnoPST.bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.boliviapuntotv.com/rtp/",
-                "https://rtpbolivia.com.bo/en-vivo/",
-                "https://www.rtp.pt/play/direto/rtp1",
-                "https://www.trodi.dev/tv/BO/RadioUnoPST.bo"
-            ],
-            "m3u8_url": [
-                "https://rtp.noxun.net/hls/stream.m3u8"
-            ],
-            "yt_id": "UCPHPu0J-6DDxyl9Fm83Z83Q",
-            "yt_embed": "WITKhplhqbU?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtpbolivia.com.bo/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "redadvenir": {
-        "nombre": "Redadvenir - PTV.bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://streamhost.org/player/c/GMIredadvenirh?title=RedADvenir",
-                "https://new.opencaster.com/player/embed?user=Pacenisima",
-                "https://ptvbolivia.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "redadvenir"
-        },
-        "sitio_oficial": "https://www.redadvenir.org/redadvenir/tv/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "PlusTLT": {
-        "nombre": "PlusTLT - Canal29tva-bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/radioetvunifev",
-                "https://iblups.com/culturafmtaua",
-                "https://iblups.com/redeunamartv",
-                "https://iblups.com/costaricatelevision",
-                "https://canal29tva.com.bo/",
-                "https://iptvplay.stream/canal29tva-bo-sd"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCJEg5G72_U5kElMy2Seyh1w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://plustlt.tv/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "PAT-Community": {
-        "nombre": "PAT Community",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.boliviapuntotv.com/pat/",
-                "https://serenotv.com/video/canal-pat-hd/embed/",
-                "https://www.redpat.tv/envivolpz",
-                "https://serenotv.com/video/canal-pat-hd/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCepJH-129qesEsiwHuD_z3w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.redpat.tv/envivoscz",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "facetas-deportivas-urbanateve": {
-        "nombre": "𝐅𝐀𝐂𝐄𝐓𝐀𝐒 urbanateve",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/urbanateve",
-                "https://iblups.com/tvamerico",
-                "https://iblups.com/namidia"
-            ],
-            "m3u8_url": [
-                "https://master.tucableip.com:443//ftv/index.m3u8",
-                "https://master.tucableip.com/ftv/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.facetas-deportivas.com.bo/facetas-tv-al-vuvo/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "abyayala-huaraztvgo": {
-        "nombre": "Abya Yala - huaraztvgo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://abyayala.tv.bo/en-vivo-2/",
-                "https://iblups.com/huaraztvgo",
-                "https://iblups.com/centraltv12",
-                "https://iblups.com/ybytyruzu",
-                "https://iblups.com/radio760am",
-                "https://iblups.com/info24hdtv",
-                "https://www.tucableip.com/abyayalatv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://abyayala.tv.bo/en-vivo-2/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "universidad-san-francisco-planetaradiotv": {
-        "nombre": "Universidad San Francisco - planetaradiotv",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/tvsanjuan",
-                "https://iblups.com/planetaradiotv",
-                "https://iblups.com/tvradiogospelcristovive",
-                "https://iblups.com/metaleitortv2",
-                "https://planetaradiotv.com/index.php/tv-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8",
-                "https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://television-live.com/es/4064-universidad-san-francisco-xavier-de-chuquisaca.html",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "canal9tvu-mastertvangra": {
-        "nombre": "Canal9 Tvu mastertvangra",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/amigofiel",
-                "https://iblups.com/testerman",
-                "https://iblups.com/tvappmobile1",
-                "https://iblups.com/tvdiaadia",
-                "https://iblups.com/mastertvangra",
-                "https://iblups.com/tuga",
-                "https://iblups.com/fmmaximopaz",
-                "https://www.uajms.edu.bo/canal9tvu/"
-            ],
-            "m3u8_url": [
-                "https://s1.tvdatta.com:3557/live/tvulive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.uajms.edu.bo/canal9tvu/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "tvu-umsa-hinchastv": {
-        "nombre": "Tvu Umsa hinchastv",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/hinchastv",
-                "https://iblups.com/unciontv",
-                "https://iblups.com/tvguadalupeoficial",
-                "https://iblups.com/consorciolbj",
-                "https://www.guadaluperadio.com/tv",
-                "https://iblups.com/ecleticatv"
-            ],
-            "m3u8_url": [
-                "https://video.live.com.bo:3003/live/tvuumsalive.m3u8",
-                "https://video.live.com.bo:3003/live/tvuumsalive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvu.umsa.bo/en-vivo",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "agendaminera-evo-quaere": {
-        "nombre": "Agendaminera- EVO - Quaere",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.agendaminera.com/",
-                "https://iblups.com/quaere",
-                "https://iblups.com/onondiveh",
-                "https://iblups.com/estacion1013",
-                "https://iblups.com/unykatv",
-                "https://iblups.com/laincontrastabletv",
-                "https://iblups.com/radiopopulartv",
-                "https://iblups.com/canal33ayacucho",
-                "https://iblups.com/tvbilac"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "evo"
-        },
-        "sitio_oficial": "https://www.twitch.tv/evo",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "Cadenaa-tvdosala": {
-        "nombre": "Cadenaa - Tvdosala",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/cadenaa/",
-                "https://www.cadenaa.tv/",
-                "https://iblups.com/tvdosala",
-                "https://iblups.com/tvupando",
-                "https://iblups.com/tvplayaaovivo",
-                "https://iblups.com/stereobox",
-                "https://iblups.com/lokurafmtv"
-            ],
-            "m3u8_url": [
-                "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/ZoyMilton/canales-de-bolivia-IPTV/blob/main/canales%20de%20bolivia/canales%20de%20bolivia.m3u",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "redpalenque": {
-        "nombre": "RedPalenque - coraltv-bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://tv.bitstreaming.net/live-stream-video-widget/palenquetv",
-                "https://iblups.com/webradiocamarrotv",
-                "https://iblups.com/causacomuntv",
-                "https://iblups.com/showmarques",
-                "https://iblups.com/telejarabacoa",
-                "https://iblups.com/radiooasisdr",
-                "https://iblups.com/tvplayaaovivo",
-                "https://iptvplay.stream/coraltv-bo"
-            ],
-            "m3u8_url": [
-                "https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://redpalenque.com/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "gigavision": {
-        "nombre": "Gigavision - Imperialtv-bo",
-        "logo": "https://television-libre.online/img/rcn.webp",
-        "señales": {
-            "iframe_url": [
-                "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
-                "https://gigavision.tv/vivo-santa-cruz/",
-                "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
-                "https://iblups.com/bunkerdacultura",
-                "https://iblups.com/radiometaleitor",
-                "https://iblups.com/gentv173caba",
-                "https://iblups.com/spacefmibiuna",
-                "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
-                "https://iptvplay.stream/imperialtv-bo-sd"
-            ],
-            "m3u8_url": [
-                "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
-                "https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8",
-                "https://www.trodi.dev/tv/BO"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://gigavision.tv/vivo-santa-cruz/",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "todo-noticias-tarija-silver2024": {
-        "nombre": "Todo oticias Tarija silver2024",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/silver2024",
-                "https://iblups.com/lamega2021",
-                "https://iblups.com/nossafmweb",
-                "https://iblups.com/eventos2025",
-                "https://iblups.com/tvelohimhouston",
-                "https://iblups.com/tvcidadecatanduva"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC-PbkLNxemio6lPH7_08A4Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@todonoticiastarija",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "seo-Calle-7-Bolivia-disneychannelforever": {
-        "nombre": "seo - Calle 7 Bolivia disneychannelforever",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://seo.tv.bo/",
-                "https://iblups.com/disneychannelforever",
-                "https://iblups.com/causacomuntv",
-                "https://iblups.com/showmarques",
-                "https://iblups.com/telejarabacoa",
-                "https://iblups.com/radiooasisdr",
-                "https://iblups.com/tvplayaaovivo",
-                "https://iblups.com/stereobox"
-            ],
-            "m3u8_url": [
-                "https://seo.tv.bo/tv/IpSEO-TV-1.m3u8"
-            ],
-            "yt_id": "UComN7x6DB7WweEqN8e9SNsA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Calle7Bolivia",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "Tigo-Sports-Bolivia-tvupando": {
-        "nombre": "Tigo Sports Bolivia tvupando",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/tvupando",
-                "https://iblups.com/tvdosala",
-                "https://rumble.com/embed/v6ntso2/?pub=4",
-                "https://rumble.com/embed/v6oqpsc/?pub=4",
-                "https://rumble.com/embed/v6ozm2m/?pub=4",
-                "https://iblups.com/lokurafmtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCEtMFuN_m5TwqH2AHlx2_Jw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TigoSportsBo",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "Contacto-Bolivia-FOX-News": {
-        "nombre": "Contacto Bolivia FOX News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rumble.com/embed/v6owo3y/?pub=4",
-                "https://rumble.com/embed/v6ozf88/?pub=4",
-                "https://rumble.com/embed/v6oz04u/?pub=4",
-                "https://rumble.com/embed/v6o56uq/?pub=4",
-                "https://rumble.com/embed/v6oyz56/?pub=4",
-                "https://rumble.com/embed/v6on2os/?pub=4"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCLfvxJ59q5DJ5N0owaaCrIg",
-            "yt_embed": "0qdH1j9KTlw?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@ContactoBolivia",
-        "país": "bo",
-        "categoría": "news"
-    },
-    "fastpixtv": {
-        "nombre": "fastpixtv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.boliviapuntotv.com/fastpixtv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.boliviapuntotv.com/",
-        "país": "bo",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
-    "logo": "",
+  "abyayala-huaraztvgo": {
+    "nombre": "Abya Yala - huaraztvgo",
+    "logo": "https://television-libre.online/img/rcn.webp",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://abyayala.tv.bo/en-vivo-2/",
+        "https://iblups.com/huaraztvgo",
+        "https://iblups.com/centraltv12",
+        "https://iblups.com/ybytyruzu",
+        "https://iblups.com/radio760am",
+        "https://iblups.com/info24hdtv",
+        "https://www.tucableip.com/abyayalatv/"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://abyayala.tv.bo/en-vivo-2/",
     "país": "bo",
     "categoría": "news"
   },
-    "canal-suram-tv": {
-        "nombre": "Canal Suram TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.suram.com.co/",
-                "https://www.colombia.com/tv/suram-tv-yopal-3907",
-                "https://serenotv.com/video/canal-suram-tv/embed/",
-                "https://rumble.com/embed/v6on2os/?pub=4"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://serenotv.com/video/canal-suram-tv/",
-        "país": "bo",
-        "categoría": "news"
+  "universidad-san-francisco-planetaradiotv": {
+    "nombre": "Universidad San Francisco - planetaradiotv",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/tvsanjuan",
+        "https://iblups.com/planetaradiotv",
+        "https://iblups.com/tvradiogospelcristovive",
+        "https://iblups.com/metaleitortv2",
+        "https://planetaradiotv.com/index.php/tv-en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8",
+        "https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://television-live.com/es/4064-universidad-san-francisco-xavier-de-chuquisaca.html",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "canal9tvu-mastertvangra": {
+    "nombre": "Canal9 Tvu mastertvangra",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/amigofiel",
+        "https://iblups.com/testerman",
+        "https://iblups.com/tvappmobile1",
+        "https://iblups.com/tvdiaadia",
+        "https://iblups.com/mastertvangra",
+        "https://iblups.com/tuga",
+        "https://iblups.com/fmmaximopaz",
+        "https://www.uajms.edu.bo/canal9tvu/"
+      ],
+      "m3u8_url": [
+        "https://s1.tvdatta.com:3557/live/tvulive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.uajms.edu.bo/canal9tvu/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "tvu-umsa-hinchastv": {
+    "nombre": "Tvu Umsa hinchastv",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/hinchastv",
+        "https://iblups.com/unciontv",
+        "https://iblups.com/tvguadalupeoficial",
+        "https://iblups.com/consorciolbj",
+        "https://www.guadaluperadio.com/tv",
+        "https://iblups.com/ecleticatv"
+      ],
+      "m3u8_url": [
+        "https://video.live.com.bo:3003/live/tvuumsalive.m3u8",
+        "https://video.live.com.bo:3003/live/tvuumsalive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvu.umsa.bo/en-vivo",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "agendaminera-evo-quaere": {
+    "nombre": "Agendaminera- EVO - Quaere",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.agendaminera.com/",
+        "https://iblups.com/quaere",
+        "https://iblups.com/onondiveh",
+        "https://iblups.com/estacion1013",
+        "https://iblups.com/unykatv",
+        "https://iblups.com/laincontrastabletv",
+        "https://iblups.com/radiopopulartv",
+        "https://iblups.com/canal33ayacucho",
+        "https://iblups.com/tvbilac"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/evo",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "Cadenaa-tvdosala": {
+    "nombre": "Cadenaa - Tvdosala",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://conceptoweb-studio.com/radio/video/cadenaa/",
+        "https://www.cadenaa.tv/",
+        "https://iblups.com/tvdosala",
+        "https://iblups.com/tvupando",
+        "https://iblups.com/tvplayaaovivo",
+        "https://iblups.com/stereobox",
+        "https://iblups.com/lokurafmtv"
+      ],
+      "m3u8_url": [
+        "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/ZoyMilton/canales-de-bolivia-IPTV/blob/main/canales%20de%20bolivia/canales%20de%20bolivia.m3u",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "redpalenque": {
+    "nombre": "RedPalenque - coraltv-bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://tv.bitstreaming.net/live-stream-video-widget/palenquetv",
+        "https://iblups.com/webradiocamarrotv",
+        "https://iblups.com/causacomuntv",
+        "https://iblups.com/showmarques",
+        "https://iblups.com/telejarabacoa",
+        "https://iblups.com/radiooasisdr",
+        "https://iblups.com/tvplayaaovivo",
+        "https://iptvplay.stream/coraltv-bo"
+      ],
+      "m3u8_url": [
+        "https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://redpalenque.com/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "gigavision": {
+    "nombre": "Gigavision - Imperialtv-bo",
+    "logo": "https://television-libre.online/img/rcn.webp",
+    "señales": {
+      "iframe_url": [
+        "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
+        "https://gigavision.tv/vivo-santa-cruz/",
+        "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
+        "https://iblups.com/bunkerdacultura",
+        "https://iblups.com/radiometaleitor",
+        "https://iblups.com/gentv173caba",
+        "https://iblups.com/spacefmibiuna",
+        "https://tv.bitstreaming.net/hybrid-stream-video-widget/gigavision",
+        "https://iptvplay.stream/imperialtv-bo-sd"
+      ],
+      "m3u8_url": [
+        "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "https://tv.bitstreaming.net:3348/multi_web/play_480.m3u8",
+        "https://www.trodi.dev/tv/BO"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://gigavision.tv/vivo-santa-cruz/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "todo-noticias-tarija-silver2024": {
+    "nombre": "Todo oticias Tarija silver2024",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/silver2024",
+        "https://iblups.com/lamega2021",
+        "https://iblups.com/nossafmweb",
+        "https://iblups.com/eventos2025",
+        "https://iblups.com/tvelohimhouston",
+        "https://iblups.com/tvcidadecatanduva"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@todonoticiastarija",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "seo-Calle-7-Bolivia-disneychannelforever": {
+    "nombre": "seo - Calle 7 Bolivia disneychannelforever",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://seo.tv.bo/",
+        "https://iblups.com/disneychannelforever",
+        "https://iblups.com/causacomuntv",
+        "https://iblups.com/showmarques",
+        "https://iblups.com/telejarabacoa",
+        "https://iblups.com/radiooasisdr",
+        "https://iblups.com/tvplayaaovivo",
+        "https://iblups.com/stereobox"
+      ],
+      "m3u8_url": [
+        "https://seo.tv.bo/tv/IpSEO-TV-1.m3u8"
+      ],
+      "yt_id": "UComN7x6DB7WweEqN8e9SNsA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@Calle7Bolivia",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "Tigo-Sports-Bolivia-tvupando": {
+    "nombre": "Tigo Sports - Bolivia tvupando",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iblups.com/tvupando",
+        "https://iblups.com/tvdosala",
+        "https://rumble.com/embed/v6ntso2/?pub=4",
+        "https://rumble.com/embed/v6oqpsc/?pub=4",
+        "https://rumble.com/embed/v6ozm2m/?pub=4",
+        "https://iblups.com/lokurafmtv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@TigoSportsBo",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "Contacto-Bolivia-FOX-News": {
+    "nombre": "Contacto Bolivia - FOX News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rumble.com/embed/v6owo3y/?pub=4",
+        "https://rumble.com/embed/v6ozf88/?pub=4",
+        "https://rumble.com/embed/v6oz04u/?pub=4",
+        "https://rumble.com/embed/v6o56uq/?pub=4",
+        "https://rumble.com/embed/v6oyz56/?pub=4",
+        "https://rumble.com/embed/v6on2os/?pub=4"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCLfvxJ59q5DJ5N0owaaCrIg",
+      "yt_embed": "0qdH1j9KTlw?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@ContactoBolivia",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "fastpixtv": {
+    "nombre": "Fastpixtv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.boliviapuntotv.com/fastpixtv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.boliviapuntotv.com/",
+    "país": "bo",
+    "categoría": "news"
+  },
+  "canal-suram-tv": {
+    "nombre": "Canal Suram TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.suram.com.co/",
+        "https://www.colombia.com/tv/suram-tv-yopal-3907",
+        "https://serenotv.com/video/canal-suram-tv/embed/",
+        "https://rumble.com/embed/v6on2os/?pub=4"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://serenotv.com/video/canal-suram-tv/",
+    "país": "bo",
+    "categoría": "news"
+  },
   "CNN-Brasil": {
     "nombre": "CNN Brasil",
     "logo": "",
