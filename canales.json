@@ -742,8 +742,7 @@
         "https://www.carolina.cl/carolina2/"
       ],
       "m3u8_url": [
-        "https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8",
-        ""
+        "https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -765,8 +764,7 @@
         "https://www.roccotv.cl/"
       ],
       "m3u8_url": [
-        "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8",
-        ""
+        "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -786,8 +784,7 @@
         "https://medios.tustreaming.cl/radiogenial/"
       ],
       "m3u8_url": [
-        "https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8",
-        ""
+        "https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8"
       ],
       "yt_id": "UCAIX5A-P4AZhcHRXqMJL_vA",
       "yt_embed": "",
@@ -807,8 +804,7 @@
         "https://radiolaclave.cl/"
       ],
       "m3u8_url": [
-        "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8",
-        ""
+        "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8"
       ],
       "yt_id": "UCKGi2oU9Eoa5dJAIE7K60gA",
       "yt_embed": "",
@@ -828,10 +824,7 @@
         "https://tvinet.cl/",
         "https://cl.radioytv.com/tv.htm"
       ],
-      "m3u8_url": [
-        "",
-        ""
-      ],
+      "m3u8_url": [],
       "yt_id": "UC0Hl8kJe8Xwv8g63Q4qefQg",
       "yt_embed": "",
       "yt_playlist": "",
@@ -850,8 +843,7 @@
         "https://www.elconquistadorfm.net/"
       ],
       "m3u8_url": [
-        "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8",
-        ""
+        "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8"
       ],
       "yt_id": "UCiBkbU6jMFk1wRsgpCt_Rdw",
       "yt_embed": "",
@@ -867,13 +859,9 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Radio_El_Sembrador.png",
     "señales": {
       "iframe_url": [
-        "",
-        ""
+        "https://tv.radioelsembrador.cl/"
       ],
-      "m3u8_url": [
-        "https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8",
-        ""
-      ],
+      "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -888,13 +876,10 @@
     "logo": "https://graph.facebook.com/laNuble/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
-        "https://streaming.comunicacioneschile.net/9358/stream",
-        ""
+        "https://radionuble.cl/v1/",
+        "https://streaming.comunicacioneschile.net/9358/stream"
       ],
-      "m3u8_url": [
-        "https://live.tvcontrolcp.com:1936/rnuble/rnuble/playlist.m3u8",
-        ""
-      ],
+      "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -913,10 +898,7 @@
         "http://www.rojadirectaplus.net/en-vivo/vclassic",
         "https://symphonier.com/tv/vclassic-tv"
       ],
-      "m3u8_url": [
-        "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8",
-        ""
-      ],
+      "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -1319,6 +1301,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
     "señales": {
       "iframe_url": [
+        "https://rudo.video/live/tvmas",
         "https://tvmas.tv/page/en-vivo/"
       ],
       "m3u8_url": [],
@@ -4847,6 +4830,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
     "señales": {
       "iframe_url": [
+        "https://rudo.video/live/tvmas",
         "https://xtrematv.com/233-punto-99-retro-series-copy-copy/",
         "https://www.retroxtv.com/",
         "https://serenotv.com/video/canal-retrox-tv/",
@@ -5146,9 +5130,7 @@
         "https://www.fmvida.com.ar/",
         "https://www.rosario3.com/radios/radio2.html"
       ],
-      "m3u8_url": [
-        ""
-      ],
+      "m3u8_url": [],
       "yt_id": "UCy-r-BQ5BQRU6rzGS73-WBQ",
       "yt_embed": "",
       "yt_playlist": "",
