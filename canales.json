@@ -6994,23 +6994,6 @@
     "país": "am",
     "categoría": "news"
   },
-  "Metro-TV": {
-    "nombre": "Metro TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://s.emisoras.tv:2020/VideoPlayer/metrotv"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.lametrohn.com/Metro-TV",
-    "país": "hn",
-    "categoría": "news"
-  },
   "": {
     "nombre": "",
     "logo": "",
@@ -7030,7 +7013,7 @@
       "twitch_id": ""
     },
     "sitio_oficial": "",
-    "país": "cf",
+    "país": "am",
     "categoría": "news"
   },
   "skynew": {
@@ -9798,6 +9781,23 @@
     },
     "sitio_oficial": "https://www.bgtv-online.com/novatv/#google_vignette",
     "país": "bg",
+    "categoría": "news"
+  },
+  "Metro-TV": {
+    "nombre": "Metro TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://s.emisoras.tv:2020/VideoPlayer/metrotv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lametrohn.com/Metro-TV",
+    "país": "hn",
     "categoría": "news"
   },
   "TVNova-hr": {
