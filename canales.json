@@ -21368,6 +21368,9 @@
         "https://gist.github.com/elfenderes/a829ddee5d7f4f134bc024de10d0706e"
       ],
       "m3u8_url": [
+        "http://38.252.213.215:8000/play/a01a",
+        "http://148.222.230.144:8000/play/a036/index.m3u8",
+        "http://148.222.230.144:8000/play/a036/index.m3u8",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428948",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429002",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429012",
@@ -21381,7 +21384,7 @@
         "https://github.com/nestor223/canalesdetv_m3u/blob/main/canalesdetv_m3u"
       ],
       "yt_id": "UCPhm2I2wk4vqjENwhn3px8A",
-      "yt_embed": "",
+      "yt_embed": "https://github.com/franperal352-hue/I/blob/78903c03ae03339c53d9e424834e82aa4c8db0a3/Barridepo.m3u#L929",
       "yt_playlist": "UCGGry4kGWZUqIfG6LLNhOmg",
       "twitch_id": "americatv_envivo"
     },
