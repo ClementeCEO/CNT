@@ -492,11 +492,13 @@
     "país": "cl",
     "categoría": "news"
   },
-  "el-mostrador": {
-    "nombre": "El Mostrador",
+  "el-mostrador-teleclasica": {
+    "nombre": "El Mostrador - Teleclasica",
     "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://serenotv.com/canal/canal-teleclasica/"
+      ],
       "m3u8_url": [],
       "yt_id": "UCAOZvFm0xSBcom35r6-mcEA",
       "yt_embed": "",
