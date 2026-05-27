@@ -519,10 +519,12 @@
         "https://www.huascotelevisionstreaming.cl/"
       ],
       "m3u8_url": [
+        "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8",
+        "https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8",
         "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
         "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
         "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&serverSideAds=false",
-        "https://live.obslivestream.com/supercanal/playlist.m3u8",
+        "https://live.obslivestream.com/supercanal/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -550,8 +552,8 @@
         "https://teletraktv.janus.cl/playlist/stream.m3u8",
         "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8",
         "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
-        ",",
-        ","
+        "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+        "http://190.61.43.116:45000/play/a05x/index.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
