@@ -514,11 +514,14 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://globoview.cam/directorio/haiti/radio-tele-4veh/",
+        "https://www.canal11.com.sv/",
         "https://www.huascotelevisionstreaming.cl/",
         "https://streamingchile.online/",
         "https://www.huascotelevisionstreaming.cl/"
       ],
       "m3u8_url": [
+        "https://paneltv.stream:19360/huasco/huasco.m3u8",
         "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8",
         "https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8",
         "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
@@ -528,7 +531,7 @@
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://www.tvenfrance.com/TVinWorld/TVSouthAmerica/tvAmericaDelSur.html",
       "twitch_id": ""
     },
     "sitio_oficial": "",
