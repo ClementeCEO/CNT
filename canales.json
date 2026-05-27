@@ -509,6 +509,59 @@
     "país": "cl",
     "categoría": "news"
   },
+  "MYTIMES": {
+    "nombre": "MY TIMES",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.huascotelevisionstreaming.cl/",
+        "https://streamingchile.online/",
+        "https://www.huascotelevisionstreaming.cl/"
+      ],
+      "m3u8_url": [
+        "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+        "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+        "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&serverSideAds=false",
+        "https://live.obslivestream.com/supercanal/playlist.m3u8",
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "cl",
+    "categoría": "news"
+  },
+  "Teletrak-D13-5 News-MultimasCine": {
+    "nombre": "Teletrak - D13 - 5 News - +CINE - Multi+ Cine",
+    "logo": "https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808-6/436149820_122097593648276759_4087322816650421197_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=leJBTUVWva4Q7kNvgEa_G1u&_nc_ht=scontent.flim31-1.fna&oh=00_AYBBe8BjkbWkyKHXeUetEdYiY7-mscSizMwM1O07-H7yEQ&oe=66809CDF",
+    "señales": {
+      "iframe_url": [
+        "https://rudo.video/live/13d?volume=0&mute=1",
+        "https://tvonlinechile.cl/canal/d13",
+        "https://www.live5news.com/livestream/",
+        "https://tvonlinechile.cl/canal/teletrak",
+         "rtmp://stream.skarnetchile.com:19350/static/monitvhd",
+        "rtmp://tv.streaming-chile.com:19350/8142/8142",
+        "rtmp://tv.streaming-chile.com:19350/8140/8140"
+      ],
+      "m3u8_url": [
+        "https://teletraktv.janus.cl/playlist/stream.m3u8",
+        "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8",
+        "https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8",
+        ",",
+        ","
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.facebook.com/profile.php?id=61558302777919",
+    "país": "cl",
+    "categoría": "news"
+  },
   "la-tercera": {
     "nombre": "La Tercera",
     "logo": "https://assets.stickpng.com/images/5c091be92c6641059597e374.png",
@@ -3518,102 +3571,6 @@
         "país": "cl",
         "categoría": "music"
     },
-    "multimas-cine": {
-        "nombre": "Multi+ Cine",
-        "logo": "https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808-6/436149820_122097593648276759_4087322816650421197_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=leJBTUVWva4Q7kNvgEa_G1u&_nc_ht=scontent.flim31-1.fna&oh=00_AYBBe8BjkbWkyKHXeUetEdYiY7-mscSizMwM1O07-H7yEQ&oe=66809CDF",
-        "señales": {
-            "iframe_url": [
-                "rtmp://stream.skarnetchile.com:19350/static/monitvhd",
-                "rtmp://tv.streaming-chile.com:19350/8142/8142",
-                "rtmp://tv.streaming-chile.com:19350/8140/8140"
-            ],
-            "m3u8_url": [
-                "https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8",
-                "https://tv.streaming-chile.com:19360/8142/8142.m3u8",
-                "https://tv.streaming-chile.com:19360/8140/8140.m3u8",
-                "https://tv.streaming-chile.com:19360/8068/8068.m3u8",
-                "https://tv.streaming-chile.com:19360/8142/8142.m3u8",
-                "https://tv.streaming-chile.com:19360/8140/8140.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.facebook.com/profile.php?id=61558302777919",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "terror-tv": {
-        "nombre": "TERROR TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tv.streaming-chile.com:19360/8140/8140.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "mascine": {
-        "nombre": "+CINE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tv.streaming-chile.com:19360/8142/8142.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "d13": {
-        "nombre": "D13",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/13d?volume=0&mute=1"
-            ],
-            "m3u8_url": [
-                "https://rudo.video/rudo.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvonlinechile.cl/canal/d13",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "teletrak": {
-        "nombre": "Teletrak",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://teletraktv.janus.cl/playlist/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvonlinechile.cl/canal/teletrak",
-        "país": "cl",
-        "categoría": "news"
-    },
     "Carolina-TV": {
         "nombre": "Carolina TV",
         "logo": "",
@@ -3628,23 +3585,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.carolina.cl/tv/",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "5-news": {
-        "nombre": "5 News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=968722&session=6aef4e47fd8f41f5a0e3a44939cb7dd7"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.live5news.com/livestream/",
         "país": "cl",
         "categoría": "news"
     },
