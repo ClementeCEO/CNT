@@ -105,7 +105,11 @@
       "m3u8_url": [
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=bbb895cbbbbd6a333e57d1636fd4bde0&expires=1772833051&sig=bd21173c5ecfa14129de83ab50332bcd304156e3eaefe0b0f974b6322732e62e",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=6cad7565ea4ecb78687a706ba8b76d4e&expires=1772907007&sig=ca1a7df96ef9bcad04b28d02fd248e624b19e2f31826047ea5fe9d09146076cb",
+        "http://41.205.93.154/FOXBUSINESS/index.m3u8",
         "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8",
+        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/index.m3u8",
+        "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary_300.m3u8",
+        "",
         "https://247wlive.foxweather.com/stream/index.m3u8",
         "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8",
         "https://linear-688.frequency.stream/dist/newson/688/hls/master/playlist.m3u8",
@@ -128,7 +132,7 @@
       "yt_id": "UC1FbPiXx59_ltnFVx7IxWow",
       "yt_embed": "wt6SIE7BXS8?",
       "yt_playlist": "https://www.youtube.com/@Foxweather",
-      "twitch_id": "https://github.com/WildContagion/TV/blob/7f06e41f84a4c600ef0d5c07f29cede4df9cbfbc/us/us.m3u#L4"
+      "twitch_id": "https://tocsindata.com/watch?channel_id=3127----https://github.com/WildContagion/TV/blob/7f06e41f84a4c600ef0d5c07f29cede4df9cbfbc/us/us.m3u#L4"
     },
     "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8/hls/US-FoxBussinessChannel.m3u8",
     "país": "us",
