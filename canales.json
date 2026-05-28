@@ -10491,8 +10491,7 @@
         "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
         "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://tv.garden/co/ugDDmzcLdJhWCd",
-        "https://www.youtube.com/embed/sKZH7OZYC_M?autoplay=0&mute=0&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.noticiascaracol.com&widgetid=1&forigin=https%3A%2F%2Fwww.noticiascaracol.com%2F%23google_vignette&aoriginsup=1&vf=6",
-        "https://5900.tv/noticias-caracol-tv-colombia-en-vivo/",
+        "https://5900.tv/video/noticias-caracol-tv-colombia",
         "https://www.noticiascaracol.com/senal-en-vivo",
         "https://cdn.chatytvgratis.net/embed.php?id=sencol",
         "https://deporflix.com/canales/caracol-tv/",
@@ -10511,12 +10510,12 @@
       ],
       "m3u8_url": [
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
-        "https://github.com/caliwyr/Software/blob/00c10301dc4a4b6ceba7eaebcc1c4171f17192f6/IPTV/co.m3u#L4"
+        "http://147.75.116.250:8586/play/a01r/index.m3u8"
       ],
       "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
       "yt_embed": "ZA6YS0CYoTA?",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://github.com/caliwyr/Software/blob/00c10301AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/IPTV/co.m3u#L4",
+      "twitch_id": "https://github.com/lesterguitarrista/listam3u/blob/main/m3u"
     },
     "sitio_oficial": "https://www.noticiascaracol.com/ahora",
     "país": "co",
@@ -34613,15 +34612,19 @@
     "país": "pt",
     "categoría": "news"
   },
-  "CNN-en-Español": {
-    "nombre": "CNN en Español",
+  "CNN-en-Español-VISIONTV": {
+    "nombre": "CNN - VISION TV",
     "logo": "",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "http://190.60.52.28:5001/play/a0g9/index.m3u8",
+        "http://181.189.159.131:8000/play/a0gi/index.m3u8",
+        "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8"
+      ],
       "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
       "yt_embed": "Qr61waJ6AZg?",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/lesterguitarrista/listam3u/blob/main/m3u",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/@cnnee",
@@ -34679,10 +34682,13 @@
         "https://vix.com/es-es/canales/channel-callsign-frequancy-News-24-7?utm_medium=internal+referral&utm_source=univision&utm_campaign=evergreen&utm_term=247_banner",
         "https://vix.com/es-es/canales/univision"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "http://179.60.51.134:8888/UNIVISION/index.m3u8",
+        "http://200.35.176.154:8000/play/a0rw/index.m3u8"
+      ],
       "yt_id": "UC32TdiIsh_5X8tKr_9rKQyA",
       "yt_embed": "V4C7VNfRATA?",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/lesterguitarrista/listam3u/blob/main/m3u",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.tvlibrehd.com/en-vivo/univision",
