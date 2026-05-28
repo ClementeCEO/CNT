@@ -46,12 +46,14 @@ https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/
 #EXTINF:-1, Canal 7 
 https://d3r1d0jzdq322.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="ACTION HD RUSO" tvg-logo="https://i.imgur.com/action-ruso-logo.png" group-title="Internacional",ACTION HD RUSO
-http://87.120.179.187:8000/play/a00v
+http://87.120.179.187:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="ACTION HD RUSO" tvg-logo="https://i.imgur.com/action-ruso-logo.png" group-title="Internacional",navez HD RUSO
-http://87.120.179.187:8000/play/a00t
+http://87.120.179.187:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="RINGHD" tvg-logo="https://i.imgur.com/ringhd-logo.png" group-title="Internacional",RINGHD https://github.com/dmelendez11/lista-canales-m3u/blob/9f3af37de33843f26c86e328a80900e72b81d8d9/canales.m3u
-http://87.120.179.187:8000/play/a00w
-
+http://87.120.179.187:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://iili.io/JmKv3Q4.png" group-title="WORLD NEWS",Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+ 
 #EXTINF:-1, TvMaya  https://github.com/eliover-spec/GT-first.m3u8
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 Mich. 
