@@ -34594,22 +34594,28 @@
     "país": "us",
     "categoría": "news"
   },
-  "cnee": {
+  "cnee-SONY-CHANNEL-GOLDEN": {
     "nombre": "CNN en Español",
-    "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
     "señales": {
       "iframe_url": [
         "https://cnnportugal.iol.pt/direto",
         "https://tviplayer.iol.pt/direto/CNN"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+        "http://45.173.74.2:2010/play/a09h/index.m3u8",
+        "http://185.56.109.253/Sony/playlist.m3u8",
+        "http://181.66.249.173:8080/play/a06t/index.m3u8",
+        "http://201.151.118.136:8000/play/a009/index.m3u8?hls"
+      ],
       "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/santyagobm4-cmyk/iptv-listas/blob/main/col.m3u",
       "twitch_id": ""
     },
     "sitio_oficial": "https://cnnespanol.cnn.com/",
-    "país": "pt",
+    "país": "us",
     "categoría": "news"
   },
   "CNN-en-Español-VISIONTV": {
