@@ -43,6 +43,7 @@
     "señales": {
       "iframe_url": [
         "https://telewebion.ir/embed/live/tv3",
+        "https://telewebion.ir/embed/live/irinn",
         "https://telewebion.ir/live/tv1",
         "https://www.irtv.website/embed.php?name=BBC-Persian",
         "https://darya.stream/live-tv/varzish-tv-iran-live/",
@@ -28973,6 +28974,10 @@
     "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
     "señales": {
       "iframe_url": [
+        "https://www.la7.it/dirette-tv",
+        "https://tg.la7.it/dirette-tv",
+        "https://b.olweb.tv/la7",
+        "https://nove.tv/live-streaming-nove?view=upcoming#nove",
         "https://uaznao.com/lv/la7.php",
         "https://uaznao.com/guarda-la7-in-diretta-streaming-gratis-dallestero/",
         "https://www.canale7.tv/",
@@ -28986,6 +28991,8 @@
         "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html"
       ],
       "m3u8_url": [
+        "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/HLS/Live.m3u8",
+        "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd",
         "https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8",
         "https://fms.telemar.it:1936/live/diretta_1/chunklist_w1069266756.m3u8",
         "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/HLS/Live.m3u8",
@@ -31108,6 +31115,7 @@
     "logo": "https://www.aparatchi.com/images/TV/irinn1.png",
     "señales": {
       "iframe_url": [
+        "https://telewebion.ir/embed/live/irinn",
         "https://www.diycraftsguide.com/live-tv/khabar.html",
         "https://www.persianleague.com/iran-live-tv/video/27-irib-tv3-live",
         "http://www.parsatv.com/embed.php?name=Shabake-Khabar&auto=false",
