@@ -43,6 +43,7 @@
     "señales": {
       "iframe_url": [
         "https://telewebion.ir/embed/live/tv3",
+        "https://telewebion.ir/live/tv1",
         "https://www.irtv.website/embed.php?name=BBC-Persian",
         "https://darya.stream/live-tv/varzish-tv-iran-live/",
         "https://deeyartelevision.com/en/deeyartv-live/",
@@ -31343,6 +31344,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://telewebion.ir/embed/live/irinn",
         "https://sepehrtv.ir/live/irinn2",
         "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irinn-2-shabakeh-khabar-2",
         "http://www.imvbox.tv/es/irinn/live-channel/play",
@@ -31361,10 +31363,13 @@
     "categoría": "news"
   },
   "IRIB-Pooya": {
-    "nombre": "IRIB Pooya",
+    "nombre": "IRIB Pooya - semnan - sahand",
     "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya",
     "señales": {
       "iframe_url": [
+        "https://telewebion.ir/embed/live/pooya",
+        "https://telewebion.ir/embed/live/sahand",
+        "https://telewebion.ir/embed/live/sahand",
         "https://telewebion.com/live/pooya",
         "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-pooya"
       ],
@@ -31383,6 +31388,8 @@
     "logo": "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh",
     "señales": {
       "iframe_url": [
+        "https://telewebion.ir/embed/live/namayesh",
+        "https://telewebion.ir/live/namayesh",
         "https://telewebion.com/live/namayesh",
         "https://www.aparatchi.com/iran-live-tv/farsi-irib-tv/irib-namayesh"
       ],
