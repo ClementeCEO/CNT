@@ -26405,11 +26405,14 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://tvonline.com.py/tv/tvairepy.html",
+        "https://tvonline.com.py/",
         "https://www.telefuturo.com.py/envivo",
         "https://www.desdepylabs.com/External/tvaccion/telefuturo",
         "https://iptv.watchtvs.live/country/PY"
       ],
       "m3u8_url": [
+         "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=a979cb702d6db5d3aea4a1c753cff63fefc2070a7c2465f0623e1f73b566e181&exp=1758898722"
       ],
       "yt_id": "UCtM-kY8-zx8zzsrWKVUffyA",
