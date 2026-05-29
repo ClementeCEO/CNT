@@ -34039,14 +34039,235 @@
     "país": "vn",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "kenh-k-sport1": {
+    "nombre": "kenh k sport1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/k1-1.php",
+        "http://xemtruyenhinh.xyz/kenh/k1-2.php",
+        "http://xemtruyenhinh.xyz/kenh/k1-2.php",
+        "http://xemtruyenhinh.xyz/kenh/k1-4.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-sport1-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-htv-the-thao": {
+    "nombre": "kenh htv the thao",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://phym18.lol/r.php?fid=333683&t=1713198296&eids=%221211104%22"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-htv-the-thao-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-fptplay": {
+    "nombre": "kenh fptplay",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://affordwonder.net/embed/kw6ef0n921mnbf0",
+        "https://xemtruyenhinh.xyz/kenh-fptplay-online-tt.html",
+        "http://xemtruyenhinh.xyz/kenh/fptplay.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fptplay-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-onsports-news": {
+    "nombre": "kenh onsports news",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://xemtruyenhinh.xyz/kenh-kaction-online-tt.html",
+        "http://xemtruyenhinh.xyz/kenh/tttt-hd1.php"
+      ],
+      "m3u8_url": [
+        "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-onsports-news-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-onfootball": {
+    "nombre": "Kenh Onfootball",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://xemtruyenhinh.xyz/watch/kpc.php",
+        "https://www.vtvcab.vn/channel/on-football-hd-1,VTVcab16_HD.html",
+        "https://xemtruyenhinh.xyz/kenh-kcine-online-tt.html",
+        "http://xemtruyenhinh.xyz/kenh/bdtv-hd.php"
+      ],
+      "m3u8_url": [
+        "https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-onfootball-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "giọng-ca-để-đời": {
+    "nombre": "giọng ca để đời",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCwZ2ZaFfTusqV_MGMHUnEsg",
+      "yt_embed": "-V6SYQkjqgQ?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@GiongCaDeDoi",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Giai-Dieu-Song-Hong": {
+    "nombre": "giai điệu sông hồng",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCME2wv281apbk1Y-GONto7w",
+      "yt_embed": "WuGOrg5gqww?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@GiaiDieuSongHong",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "360-Entertainment-media": {
+    "nombre": "360 Entertainmen",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCOCbWHBEHggqr5_WB8N9x8g",
+      "yt_embed": "AXRR0gh5SDs?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@360Entertainmentmedia/streams",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Mai-Kiều-Official": {
+    "nombre": "Mai Kiều Official",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCx74hngkuzRKmDlbmlM48bw",
+      "yt_embed": "HTVOkA7Obws?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCx74hngkuzRKmDlbmlM48bw",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Trung-Tâm-Bolero": {
+    "nombre": "Trung Tâm Bolero",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCTj06DqiI5ZxkKmaKTszRxA",
+      "yt_embed": "xSltIaJ9xik?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@TrungTamBolero",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Khánh-An-Official": {
+    "nombre": "Khánh An Official",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCqaLGrgyElLUKqo4k35TkBA",
+      "yt_embed": "wTC3HKm_cmU?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@casikhanhanofficial",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Lời-Ca-Quê-Hương": {
+    "nombre": "Giọng Ca Thanh Hiền",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCQLnEr9hhfJ6_W_wZGiN1dw",
+      "yt_embed": "Gkp5O4Nkw58?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@loicaquehuong/streams",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Grupo-vtv9-Osman-Navruzov": {
+    "nombre": "Grupo Vtv9 - Osman Navruzov",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://vtvgo.vn/channel/vtv9-1,39.html",
+        "https://www.youtube.com/embed/Y3__yQTL-7Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCGs-QbpIK-c5QOoKyS6hVNQ",
+      "yt_embed": "Y3__yQTL-7Y?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@OsmanNavruzov1/streams",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Ngọc-Diệu-Bolero": {
+    "nombre": "Ngọc Diệu Bolero",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCqihWXArWpuP7uYs_SRB0sg",
+      "yt_embed": "iI0y4eVBfqg?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -34054,625 +34275,249 @@
     "país": "vn",
     "categoría": "news"
   },
-    "kenh-k-sport1": {
-        "nombre": "kenh k sport1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/k1-1.php",
-                "http://xemtruyenhinh.xyz/kenh/k1-2.php",
-                "http://xemtruyenhinh.xyz/kenh/k1-2.php",
-                "http://xemtruyenhinh.xyz/kenh/k1-4.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-sport1-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Liveshow-Ca-Nhạc": {
+    "nombre": "Liveshow Ca Nhạc",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCks39FmFGb9WI-Fawzxcn7Q",
+      "yt_embed": "uKR6gTHihA4?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@LiveshowCaNhac",
     "país": "vn",
     "categoría": "news"
   },
-    "kenh-htv-the-thao": {
-        "nombre": "kenh htv the thao",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://phym18.lol/r.php?fid=333683&t=1713198296&eids=%221211104%22"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-htv-the-thao-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Lính-Trận-Miền-Xa": {
+    "nombre": "Lính Trận Miền Xa",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCHVcga2iFmktWA7vX-CnAtA",
+      "yt_embed": "25SCvLhh7oI?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@linhmienxa",
     "país": "vn",
     "categoría": "news"
   },
-    "kenh-fptplay": {
-        "nombre": "kenh fptplay",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://affordwonder.net/embed/kw6ef0n921mnbf0",
-                "https://xemtruyenhinh.xyz/kenh-fptplay-online-tt.html",
-                "http://xemtruyenhinh.xyz/kenh/fptplay.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fptplay-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Nhịp-Cầu-Bolero": {
+    "nombre": "Nhịp Cầu Bolero",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCCgKB3CPS2EMKhrv-GzJ30w",
+      "yt_embed": "kOTRc63by5A?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@nhipcaubolero9383",
     "país": "vn",
     "categoría": "news"
   },
-    "kenh-onsports-news": {
-        "nombre": "kenh onsports news",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://xemtruyenhinh.xyz/kenh-kaction-online-tt.html",
-                "http://xemtruyenhinh.xyz/kenh/tttt-hd1.php"
-            ],
-            "m3u8_url": [
-                "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-onsports-news-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Kho-Nhạc-Không-Quảng-Cáo": {
+    "nombre": "Kho Nhạc Không Quảng Cáo",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCs2fROdO6Zvkl6c0TjqB7DQ",
+      "yt_embed": "T3E9BReuRTg?",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/@khonhackhongquangcao8051",
     "país": "vn",
     "categoría": "news"
   },
-    "kenh-onfootball": {
-        "nombre": "Kenh Onfootball",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://xemtruyenhinh.xyz/watch/kpc.php",
-                "https://www.vtvcab.vn/channel/on-football-hd-1,VTVcab16_HD.html",
-                "https://xemtruyenhinh.xyz/kenh-kcine-online-tt.html",
-                "http://xemtruyenhinh.xyz/kenh/bdtv-hd.php"
-            ],
-            "m3u8_url": [
-                "https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-onfootball-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
-    "logo": "",
+  "Quang-NgaiTV": {
+    "nombre": "Quang Ngai TV",
+    "logo": "https://quangngaitv.vn/images/thumbs/0000886838_a.png",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://quangngaitv.vn/"
+      ],
+      "m3u8_url": [
+        "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://quangngaitv.vn/",
     "país": "vn",
     "categoría": "news"
   },
-    "giọng-ca-để-đời": {
-        "nombre": "giọng ca để đời",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCwZ2ZaFfTusqV_MGMHUnEsg",
-            "yt_embed": "-V6SYQkjqgQ?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@GiongCaDeDoi",
-        "país": "vn",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Antv": {
+    "nombre": "Antv",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://antv.gov.vn/truyen-hinh-truc-tuyen.html"
+      ],
+      "m3u8_url": [
+        "https://lives.antv.gov.vn/channel/antv/playlist.m3u8#t=0.001"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://antv.gov.vn/tag/dong-nai/articles.html",
     "país": "vn",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "Phu-YenTV": {
+    "nombre": "Phu Yen TV",
     "logo": "",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "http://www.ptpphuyen.vn/",
     "país": "vn",
     "categoría": "news"
   },
-    "Giai-Dieu-Song-Hong": {
-        "nombre": "giai điệu sông hồng",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/YD5OIMEimiQ?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCME2wv281apbk1Y-GONto7w",
-            "yt_embed": "WuGOrg5gqww?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@GiaiDieuSongHong",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "360-Entertainment-media": {
-        "nombre": "360 Entertainment",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/r8bk7mil0rI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCOCbWHBEHggqr5_WB8N9x8g",
-            "yt_embed": "AXRR0gh5SDs?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@360Entertainmentmedia/streams",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Mai-Kiều-Official": {
-        "nombre": "Mai Kiều Official",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/HTVOkA7Obws?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCx74hngkuzRKmDlbmlM48bw",
-            "yt_embed": "HTVOkA7Obws?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCx74hngkuzRKmDlbmlM48bw",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Trung-Tâm-Bolero": {
-        "nombre": "Trung Tâm Bolero",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/fvcv2aAJMKY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCTj06DqiI5ZxkKmaKTszRxA",
-            "yt_embed": "xSltIaJ9xik?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TrungTamBolero",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Khánh-An-Official": {
-        "nombre": "Khánh An Official",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/wTC3HKm_cmU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCqaLGrgyElLUKqo4k35TkBA",
-            "yt_embed": "wTC3HKm_cmU?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@casikhanhanofficial",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Lời-Ca-Quê-Hương": {
-        "nombre": "Giọng Ca Thanh Hiền",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/oXPK9KNJmnY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCQLnEr9hhfJ6_W_wZGiN1dw",
-            "yt_embed": "Gkp5O4Nkw58?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@loicaquehuong/streams",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Grupo-vtv9-Osman-Navruzov": {
-        "nombre": "Grupo Vtv9 - Osman Navruzov",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vtvgo.vn/channel/vtv9-1,39.html",
-                "https://www.youtube.com/embed/Y3__yQTL-7Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCGs-QbpIK-c5QOoKyS6hVNQ",
-            "yt_embed": "Y3__yQTL-7Y?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@OsmanNavruzov1/streams",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Ngọc-Diệu-Bolero": {
-        "nombre": "Ngọc Diệu Bolero",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/iI0y4eVBfqg?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCqihWXArWpuP7uYs_SRB0sg",
-            "yt_embed": "iI0y4eVBfqg?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCqihWXArWpuP7uYs_SRB0sg",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Liveshow-Ca-Nhạc": {
-        "nombre": "Liveshow Ca Nhạc",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/uKR6gTHihA4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCks39FmFGb9WI-Fawzxcn7Q",
-            "yt_embed": "uKR6gTHihA4?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@LiveshowCaNhac",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Lính-Trận-Miền-Xa": {
-        "nombre": "Lính Trận Miền Xa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/25SCvLhh7oI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCHVcga2iFmktWA7vX-CnAtA",
-            "yt_embed": "25SCvLhh7oI?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@linhmienxa",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Nhịp-Cầu-Bolero": {
-        "nombre": "Nhịp Cầu Bolero",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCCgKB3CPS2EMKhrv-GzJ30w",
-            "yt_embed": "kOTRc63by5A?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@nhipcaubolero9383",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Kho-Nhạc-Không-Quảng-Cáo": {
-        "nombre": "Kho Nhạc Không Quảng Cáo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/ZeCrjwlqBgM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCs2fROdO6Zvkl6c0TjqB7DQ",
-            "yt_embed": "T3E9BReuRTg?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@khonhackhongquangcao8051",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "quang-ngai-tv": {
-        "nombre": "Quang Ngai  TV",
-        "logo": "https://quangngaitv.vn/images/thumbs/0000886838_a.png",
-        "señales": {
-            "iframe_url": [
-                "https://quangngaitv.vn/"
-            ],
-            "m3u8_url": [
-                "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-                "https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://quangngaitv.vn/",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "antv": {
-        "nombre": "Antv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://antv.gov.vn/truyen-hinh-truc-tuyen.html"
-            ],
-            "m3u8_url": [
-                "https://lives.antv.gov.vn/channel/antv/playlist.m3u8#t=0.001"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://antv.gov.vn/tag/dong-nai/articles.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "phu-yen-tv": {
-        "nombre": "Phu Yen TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.ptpphuyen.vn/",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "phutho-tv": {
-        "nombre": "PTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=KFY3Dxc7d0eE__H2YYDYMw&e=1727427903"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://phuthotv.vn/tv-video",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "bloomberg-tv-asia-Business": {
-        "nombre": "Bloomberg TV Asia Business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://bloomberg.com/media-manifest/streams/asia.m3u8",
-                "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livestreamtvhub.com/af/business/bloomberg-tv-asia-bloombergtvasiahk-720p-dlk#gsc.tab=0",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Tạp-chí-VietTimes": {
-        "nombre": "Tạp chí VietTimes",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCX1ZYrJ4PHsOxw06KnfsBEQ",
-            "yt_embed": "FomrZGNhCFY",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TapchiVietTimes",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Vietnam-Plus": {
-        "nombre": "Vietnam Plus",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCGN7_Jy7V12NspJBcxsQFyA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/c/BaoVietnamPlus",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Đài-Truyền-hình-Điện-Biên": {
-        "nombre": "Đài Truyền hình Điện Biên",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dienbientv.vn/"
-            ],
-            "m3u8_url": [
-                "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni"
-            ],
-            "yt_id": "UCTAVpwJhR46XO2DZ0P7AXVA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TruyenhinhDienBien23.9",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "TIN-TỨC-VIỆT": {
-        "nombre": "TIN TỨC VIỆT",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCxlprA9Y_T98gDqXMc46baw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TinTucVietOfficial",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "Chuyển-Động-360": {
-        "nombre": "Chuyển Động 360",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC1HyDIb2OTBbvShOrPWg4kA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/c/Chuy%E1%BB%83n%C4%90%E1%BB%99ng360",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "tcsnoticias8899": {
-        "nombre": "TCS Noticias",
-        "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCUd3i3w8AKinobDEeEmjmWA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.esmitv.com/",
-        "país": "sv",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "PTV": {
+    "nombre": "PTV",
     "logo": "",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=KFY3Dxc7d0eE__H2YYDYMw&e=1727427903"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
-    "país": "us",
+    "sitio_oficial": "https://phuthotv.vn/tv-video",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "bloomberg-tv-asia-Business": {
+    "nombre": "Bloomberg TV Asia Business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+        "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livestreamtvhub.com/af/business/bloomberg-tv-asia-bloombergtvasiahk-720p-dlk#gsc.tab=0",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Tạp-chí-VietTimes": {
+    "nombre": "Tạp chí VietTimes",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCX1ZYrJ4PHsOxw06KnfsBEQ",
+      "yt_embed": "FomrZGNhCFY",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@TapchiVietTimes",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Vietnam-Plus": {
+    "nombre": "Vietnam Plus",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCGN7_Jy7V12NspJBcxsQFyA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/c/BaoVietnamPlus",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Đài-Truyền-hình-Điện-Biên": {
+    "nombre": "Đài Truyền hình Điện Biên",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dienbientv.vn/"
+      ],
+      "m3u8_url": [
+        "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni"
+      ],
+      "yt_id": "UCTAVpwJhR46XO2DZ0P7AXVA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@TruyenhinhDienBien23.9",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "TIN-TỨC-VIỆT": {
+    "nombre": "TIN TỨC VIỆT",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCxlprA9Y_T98gDqXMc46baw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@TinTucVietOfficial",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "Chuyển-Động-360": {
+    "nombre": "Chuyển Động 360",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC1HyDIb2OTBbvShOrPWg4kA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/c/Chuy%E1%BB%83n%C4%90%E1%BB%99ng360",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "CS-Noticias": {
+    "nombre": "CS Noticias",
+    "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCUd3i3w8AKinobDEeEmjmWA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.esmitv.com/",
+    "país": "sv",
     "categoría": "news"
   },
   "cnee-SONY-CHANNEL-GOLDEN": {
