@@ -28916,1067 +28916,1082 @@
         "país": "cy",
         "categoría": "news"
     },
-    "Rai-News-24": {
-        "nombre": "Rai News 24 - La diretta in streaming video su RaiPlay",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rainews.it/notiziari/rainews24",
-                "https://uaznao.com/guarda-rai-1-in-diretta-streaming-gratis-estero/",
-                "https://uaznao.com/guarda-rai-2-in-diretta-streaming-gratis-estero/",
-                "https://uaznao.com/guarda-rai-3-in-diretta-streaming-gratis-estero/",
-                "https://uaznao.com/guarda-rai-4-in-diretta-streaming-gratis-estero/",
-                "https://uaznao.com/rai-5-in-diretta-streaming-gratis-allestero/",
-                "https://uaznao.com/rai-gulp-in-diretta-streaming-gratis-estero/",
-                "https://uaznao.com/rai-yoyo-in-diretta-streaming-gratis-allestero/",
-                "https://uaznao.com/guarda-rai-movie-in-diretta-streaming-gratis-dallestero/",
-                "https://www.raiplay.it/dirette/raipremium",
-                "https://uaznao.com/rai-storia-in-diretta-streaming-gratis-dallestero/",
-                "https://uaznao.com/rai-scuola-in-diretta-streaming-gratis-allestero/",
-                "https://uaznao.com/rai-nettuno-in-diretta-streaming/",
-                "https://uaznao.com/guarda-rai-sport-in-diretta-streaming-gratis-dallestero/",
-                "https://uaznao.com/rai-italia-in-diretta-streaming-dallitalia-e-dallestero/",
-                "https://www.lucedipensieri.it/rai-world-premium-in-diretta-italia-ed-estero/",
-                "https://www.raiplay.it/dirette/rainews24"
-            ],
-            "m3u8_url": [
-                "https://streamcdnb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8",
-                "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.raiplay.it",
-        "país": "it",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "LA7-tva-vicenza": {
-        "nombre": "LA7 - TVA Vicenza",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/lv/la7.php",
-                "https://uaznao.com/guarda-la7-in-diretta-streaming-gratis-dallestero/",
-                "https://www.canale7.tv/",
-                "https://www.la7.it/",
-                "https://www.retetvitalia.it/#google_vignette",
-                "https://www.tvsei.it/live/",
-                "https://www.tvdream.net/web-tv/tva-vicenza-tv-live-streaming/#google_vignette",
-                "https://www.ondatv.tv/#google_vignette",
-                "https://www.la7.it/live-la7d",
-                "https://tvavicenza.gruppovideomedia.it/it/live/",
-                "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html"
-            ],
-            "m3u8_url": [
-                "https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8",
-                "https://fms.telemar.it:1936/live/diretta_1/chunklist_w1069266756.m3u8",
-                "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/HLS/Live.m3u8",
-                "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
-                "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "https://www.vatican.va/content/vatican/it.html"
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "cy",
+    "categoría": "news"
+  },
+  "Rai-News-24": {
+    "nombre": "Rai News 24 - La diretta in streaming video su RaiPlay",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rainews.it/notiziari/rainews24",
+        "https://uaznao.com/guarda-rai-1-in-diretta-streaming-gratis-estero/",
+        "https://uaznao.com/guarda-rai-2-in-diretta-streaming-gratis-estero/",
+        "https://uaznao.com/guarda-rai-3-in-diretta-streaming-gratis-estero/",
+        "https://uaznao.com/guarda-rai-4-in-diretta-streaming-gratis-estero/",
+        "https://uaznao.com/rai-5-in-diretta-streaming-gratis-allestero/",
+        "https://uaznao.com/rai-gulp-in-diretta-streaming-gratis-estero/",
+        "https://uaznao.com/rai-yoyo-in-diretta-streaming-gratis-allestero/",
+        "https://uaznao.com/guarda-rai-movie-in-diretta-streaming-gratis-dallestero/",
+        "https://www.raiplay.it/dirette/raipremium",
+        "https://uaznao.com/rai-storia-in-diretta-streaming-gratis-dallestero/",
+        "https://uaznao.com/rai-scuola-in-diretta-streaming-gratis-allestero/",
+        "https://uaznao.com/rai-nettuno-in-diretta-streaming/",
+        "https://uaznao.com/guarda-rai-sport-in-diretta-streaming-gratis-dallestero/",
+        "https://uaznao.com/rai-italia-in-diretta-streaming-dallitalia-e-dallestero/",
+        "https://www.lucedipensieri.it/rai-world-premium-in-diretta-italia-ed-estero/",
+        "https://www.raiplay.it/dirette/rainews24"
+      ],
+      "m3u8_url": [
+        "https://streamcdnb2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8",
+        "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sky-tv8": {
-        "nombre": "Sky - TV8",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/tv8-in-diretta-streaming/",
-                "https://www.filmon.com/channel/teos-tv",
-                "https://video.sky.it/diretta/tg24",
-                "https://www.tv8.it/streaming",
-                "https://webserver.one/Live/Tv_8_Online.php",
-                "https://www.cielotv.it/streaming"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://webtvhd.com/tv8-hd-live-stream-online.php",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.raiplay.it",
+    "país": "it",
+    "categoría": "news"
+  },
+  "LA7-TVAVicenza": {
+    "nombre": "LA7 - TVA Vicenza",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/lv/la7.php",
+        "https://uaznao.com/guarda-la7-in-diretta-streaming-gratis-dallestero/",
+        "https://www.canale7.tv/",
+        "https://www.la7.it/",
+        "https://www.retetvitalia.it/#google_vignette",
+        "https://www.tvsei.it/live/",
+        "https://www.tvdream.net/web-tv/tva-vicenza-tv-live-streaming/#google_vignette",
+        "https://www.ondatv.tv/#google_vignette",
+        "https://www.la7.it/live-la7d",
+        "https://tvavicenza.gruppovideomedia.it/it/live/",
+        "https://www.litaliaindigitale.it/sites.google.com/site/litaliaindigitale/abruzzoindigitale/archivionewsabruzzo/muxondatv.html"
+      ],
+      "m3u8_url": [
+        "https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8",
+        "https://fms.telemar.it:1936/live/diretta_1/chunklist_w1069266756.m3u8",
+        "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/HLS/Live.m3u8",
+        "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
+        "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "https://www.vatican.va/content/vatican/it.html"
     },
-    "sanmarinortv-donnatv": {
-        "nombre": "Sanmarinortv - Donnatv",
-        "logo": "https://sportitaliadd.akamaized.net/video_0/custom/logo/logo_footer_50.Logo-DonnaTV-1024.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.sanmarinortv.sm/programmi/web-tv",
-                "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
-                "https://tvcentertainment.tv/live-stream/",
-                "https://www.tvdream.net/web-tv/antenna-tre-triveneto/",
-                "https://foodnetwork.it/live-streaming-food-network/",
-                "https://www.tvdream.net/web-tv/teatro-tv/",
-                "https://tv.rtsh.al/kanalet/rtsh-shqip"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Sky-TV8": {
+    "nombre": "Sky - TV8",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/tv8-in-diretta-streaming/",
+        "https://www.filmon.com/channel/teos-tv",
+        "https://video.sky.it/diretta/tg24",
+        "https://www.tv8.it/streaming",
+        "https://webserver.one/Live/Tv_8_Online.php",
+        "https://www.cielotv.it/streaming"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "TV2000-altoadigetv": {
-        "nombre": "TV2000 - Altoadigetv",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.altoadigetv.it/live.php",
-                "https://diretta.tv2000.it/?channel=tv2000_live",
-                "https://www.tv2000.it/live/",
-                "https://www.dr.dk/drtv/kanal/dr1_20875",
-                "https://3news.com/live/tv3/#google_vignette",
-                "https://www.weo.fr/direct/",
-                "https://www.rds.it/next-web-radio/",
-                "https://warnertv.it/live-streaming-warner-tv"
-            ],
-            "m3u8_url": [
-                "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://webtvhd.com/tv8-hd-live-stream-online.php",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Sanmarinortv-Donnatv": {
+    "nombre": "Sanmarinortv - Donnatv",
+    "logo": "https://sportitaliadd.akamaized.net/video_0/custom/logo/logo_footer_50.Logo-DonnaTV-1024.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.sanmarinortv.sm/programmi/web-tv",
+        "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
+        "https://tvcentertainment.tv/live-stream/",
+        "https://www.tvdream.net/web-tv/antenna-tre-triveneto/",
+        "https://foodnetwork.it/live-streaming-food-network/",
+        "https://www.tvdream.net/web-tv/teatro-tv/",
+        "https://tv.rtsh.al/kanalet/rtsh-shqip"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "carac-QVC": {
-        "nombre": "QVC - Carac",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.radiotivuazzurra.it/#tv",
-                "https://www.qvc.it/content/shop-live-tv.html",
-                "https://carac.tv/lives/carac-1",
-                "https://www.zerounotv.it/live-streaming-dei-canali-di-zerouno-tv/",
-                "https://www.tvdream.net/web-tv/etna-channel/",
-                "https://www.tvdream.net/web-tv/radio-azzurra-tivu-palermo-diretta-streaming/#google_vignette",
-                "https://www.tvdream.net/web-tv/rmc-101-tv/"
-            ],
-            "m3u8_url": [
-                "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "etnachanneltv"
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://donnatv.com/video/viewlivestreaming?rel=45&cntr=0",
+    "país": "it",
+    "categoría": "news"
+  },
+  "TV2000-Altoadigetv": {
+    "nombre": "TV2000 - Altoadigetv",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.altoadigetv.it/live.php",
+        "https://diretta.tv2000.it/?channel=tv2000_live",
+        "https://www.tv2000.it/live/",
+        "https://www.dr.dk/drtv/kanal/dr1_20875",
+        "https://3news.com/live/tv3/#google_vignette",
+        "https://www.weo.fr/direct/",
+        "https://www.rds.it/next-web-radio/",
+        "https://warnertv.it/live-streaming-warner-tv"
+      ],
+      "m3u8_url": [
+        "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "reteiblea-Rai-News-24Yoyo": {
-        "nombre": "Reteiblea - Rai News 24",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png",
-        "señales": {
-            "iframe_url": [
-                "https://reteiblea.it/streaming/",
-                "https://www.raiplay.it/dirette",
-                "https://www.globusmagazine.it/",
-                "https://www.telemontekronio.it/",
-                "https://www.studiocentrale.it/",
-                "https://www.studiocentrale.it/",
-                "https://www.tvdream.net/web-tv/onda-tv/",
-                "https://www.ondatv.it/",
-                "https://player.gazzettadelsud.it/rtp",
-                "https://www.tvdream.net/web-tv/video66/",
-                "https://www.tfnweb.it/",
-                "https://share.xdevel.com/api/?platform=streamsolution&get=player&key=1d009cfba626143d54ae81a3285c1b50&ver=5",
-                "https://player.gds.it/tgs",
-                "https://tgs.gds.it/archivio/",
-                "https://reteiblea.it/streaming/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "QVC-Carac": {
+    "nombre": "QVC - Carac",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.radiotivuazzurra.it/#tv",
+        "https://www.qvc.it/content/shop-live-tv.html",
+        "https://carac.tv/lives/carac-1",
+        "https://www.zerounotv.it/live-streaming-dei-canali-di-zerouno-tv/",
+        "https://www.tvdream.net/web-tv/etna-channel/",
+        "https://www.tvdream.net/web-tv/radio-azzurra-tivu-palermo-diretta-streaming/#google_vignette",
+        "https://www.tvdream.net/web-tv/rmc-101-tv/"
+      ],
+      "m3u8_url": [
+        "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "italia2news-wltv": {
-        "nombre": "Italia2news - Wltv",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png",
-        "señales": {
-            "iframe_url": [
-                "https://player.streamshow.it/hosted/italia2.php?autoplay=true&muted=false&",
-                "https://www.italia2news.it/",
-                "https://www.reitv.it/index2.html",
-                "https://www.wltv.it/",
-                "https://www.tvdream.net/web-tv/canale-2-marsala/",
-                "https://www.canale8news.it/diretta-tv/",
-                "https://www.alpauno.com/",
-                "https://www.retechiara.it/"
-            ],
-            "m3u8_url": [
-                "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canale2tp"
-        },
-        "sitio_oficial": "https://www.italia2news.it/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "reteiblea-Rai-News-24Yoyo": {
+    "nombre": "Reteiblea - Rai News 24",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png",
+    "señales": {
+      "iframe_url": [
+        "https://reteiblea.it/streaming/",
+        "https://www.raiplay.it/dirette",
+        "https://www.globusmagazine.it/",
+        "https://www.telemontekronio.it/",
+        "https://www.studiocentrale.it/",
+        "https://www.studiocentrale.it/",
+        "https://www.tvdream.net/web-tv/onda-tv/",
+        "https://www.ondatv.it/",
+        "https://player.gazzettadelsud.it/rtp",
+        "https://www.tvdream.net/web-tv/video66/",
+        "https://www.tfnweb.it/",
+        "https://share.xdevel.com/api/?platform=streamsolution&get=player&key=1d009cfba626143d54ae81a3285c1b50&ver=5",
+        "https://player.gds.it/tgs",
+        "https://tgs.gds.it/archivio/",
+        "https://reteiblea.it/streaming/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Alma-TV-prima-tv": {
-        "nombre": "Alma TV - Prima TV",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.teleone.it/chi-siamo/teleone-diretta-tv/",
-                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
-                "https://www.primatv.tv/lo-streaming-di-prima-tv/",
-                "https://www.tvdream.net/web-tv/la-tr3-marsala-live/",
-                "https://latr3.it/#",
-                "https://www.telejato.it/#",
-                "https://www.tvrxenon.it/",
-                "https://tv.rtsh.al/kanalet/rtsh-film"
-            ],
-            "m3u8_url": [
-                "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1741830142~acl=/*~hmac=01bd6010ba323b6a909b4d26ed5765613050fcdfcc25dec485fe4ecf670bf54f"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://almatv.tv/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Italia2news-Wltv": {
+    "nombre": "Italia2news - Wltv",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png",
+    "señales": {
+      "iframe_url": [
+        "https://player.streamshow.it/hosted/italia2.php?autoplay=true&muted=false&",
+        "https://www.italia2news.it/",
+        "https://www.reitv.it/index2.html",
+        "https://www.wltv.it/",
+        "https://www.tvdream.net/web-tv/canale-2-marsala/",
+        "https://www.canale8news.it/diretta-tv/",
+        "https://www.alpauno.com/",
+        "https://www.retechiara.it/"
+      ],
+      "m3u8_url": [
+        "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "canale2tp"
     },
-    "Radio-105-TV-OndaTv-canale-5": {
-        "nombre": "BOM CHANNEL - OndaTv - Canale-5",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/watch-canale-5-in-live-streaming/",
-                "https://dlive.tv/Fullhd01",
-                "https://www.tvdream.net/web-tv/bomchannel/",
-                "https://www.105.net/sezioni/12038/tv",
-                "https://dlive.tv/Onda_Tv",
-                "https://www.ondatv.tv/"
-            ],
-            "m3u8_url": [
-                "https://5f22d76e220e1.streamlock.net:443/canale6/canale6/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvdream.net/web-tv/bomchannel/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.italia2news.it/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Alma-TV-prima-tv": {
+    "nombre": "Alma TV - Prima TV",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.teleone.it/chi-siamo/teleone-diretta-tv/",
+        "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
+        "https://www.primatv.tv/lo-streaming-di-prima-tv/",
+        "https://www.tvdream.net/web-tv/la-tr3-marsala-live/",
+        "https://latr3.it/#",
+        "https://www.telejato.it/#",
+        "https://www.tvrxenon.it/",
+        "https://tv.rtsh.al/kanalet/rtsh-film"
+      ],
+      "m3u8_url": [
+        "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1741830142~acl=/*~hmac=01bd6010ba323b6a909b4d26ed5765613050fcdfcc25dec485fe4ecf670bf54f"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Padre-Pio-TV": {
-        "nombre": "Padre Pio TV",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.padrepio.tv/diretta-tv/",
-                "https://www.padrepio.it/padre-pio-tv-live/"
-            ],
-            "m3u8_url": [
-                "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://almatv.tv/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Radio-105-TV-OndaTv-canale-5": {
+    "nombre": "BOM CHANNEL - OndaTv - Canale-5",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/watch-canale-5-in-live-streaming/",
+        "https://dlive.tv/Fullhd01",
+        "https://www.tvdream.net/web-tv/bomchannel/",
+        "https://www.105.net/sezioni/12038/tv",
+        "https://dlive.tv/Onda_Tv",
+        "https://www.ondatv.tv/"
+      ],
+      "m3u8_url": [
+        "https://5f22d76e220e1.streamlock.net:443/canale6/canale6/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Deejay-TV": {
-        "nombre": "Deejay TV",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.deejay.it/tv/"
-            ],
-            "m3u8_url": [
-                "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.tvdream.net/web-tv/bomchannel/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Padre-PioTV": {
+    "nombre": "Padre Pio TV",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.padrepio.tv/diretta-tv/",
+        "https://www.padrepio.it/padre-pio-tv-live/"
+      ],
+      "m3u8_url": [
+        "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "RADIO-KISS-KISS-TV": {
-        "nombre": "RADIO KISS KISS TV",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png",
-        "señales": {
-            "iframe_url": [
-                "https://kisskiss.it/kiss-kiss-tv/",
-                "https://kisskissnapoli.it/kiss-kiss-napoli-tv/"
-            ],
-            "m3u8_url": [
-                "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Deejay TV": {
+    "nombre": "Deejay TV",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.deejay.it/tv/"
+      ],
+      "m3u8_url": [
+        "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "RADIOFRECCIA": {
-        "nombre": "RADIOFRECCIA",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png",
-        "señales": {
-            "iframe_url": [
-                "https://play.rtl.it/live/17/radiofreccia-radiovisione/"
-            ],
-            "m3u8_url": [
-                "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://play.rtl.it/live/17/radiofreccia-radiovisione/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RADIO-KISS-KISS-TV": {
+    "nombre": "RADIO KISS KISS TV",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png",
+    "señales": {
+      "iframe_url": [
+        "https://kisskiss.it/kiss-kiss-tv/",
+        "https://kisskissnapoli.it/kiss-kiss-napoli-tv/"
+      ],
+      "m3u8_url": [
+        "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "RTL5-News": {
-        "nombre": "RTL 102.5 News",
-        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
-        "señales": {
-            "iframe_url": [
-                "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
-                "https://play.rtl.it/live/1/radiovisione/"
-            ],
-            "m3u8_url": [
-                "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RADIOFRECCIA": {
+    "nombre": "RADIOFRECCIA",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png",
+    "señales": {
+      "iframe_url": [
+         "https://play.rtl.it/live/17/radiofreccia-radiovisione/"
+      ],
+      "m3u8_url": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "senato-GO-TV": {
-        "nombre": "Senato GO-TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.lucedipensieri.it/go-tv-in-diretta/",
-                "https://www.lucedipensieri.it/go-tv-in-diretta/?link=1",
-                "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.senato.it/home",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://play.rtl.it/live/17/radiofreccia-radiovisione/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RTL-102-5News": {
+    "nombre": "RTL 102.5 News",
+    "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
+    "señales": {
+      "iframe_url": [
+        "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
+        "https://play.rtl.it/live/1/radiovisione/"
+      ],
+      "m3u8_url": [
+        "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-tv1sulmona-": {
-        "nombre": "Vatican News - Tv1sulmona",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://www.tv1.it/",
-                "https://dlive.tv/Tv1Sulmona",
-                "https://www.tv1sulmona.tv/",
-                "https://uaznao.com/lv/samsungtv/home.php",
-                "https://uaznao.com/supersix-in-diretta-streaming-gratis-anche-allestero/",
-                "https://www.vatican.va/content/vatican/it.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvitaplus.m3u",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Senato-GO-TV": {
+    "nombre": "Senato GO-TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.lucedipensieri.it/go-tv-in-diretta/",
+        "https://www.lucedipensieri.it/go-tv-in-diretta/?link=1",
+        "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-english-rsi-la-2": {
-        "nombre": "Vatican News English- RSI LA2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/lv/rsila2.php",
-                "https://uaznao.com/rsi-la-2-in-diretta-streaming/",
-                "https://uaznao.com/rsi-la-1-in-diretta-streaming/",
-                "https://uaznao.com/guarda-tele-ticino-in-diretta-streaming-gratis-dallestero/",
-                "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxIsefyl9g9A5SGWA4FvGIA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.senato.it/home",
+    "país": "it",
+    "categoría": "news"
+  },
+  "vatican-news-tv1sulmona": {
+    "nombre": "Vatican News - Tv1sulmona",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://www.tv1.it/",
+        "https://dlive.tv/Tv1Sulmona",
+        "https://www.tv1sulmona.tv/",
+        "https://uaznao.com/lv/samsungtv/home.php",
+        "https://uaznao.com/supersix-in-diretta-streaming-gratis-anche-allestero/",
+        "https://www.vatican.va/content/vatican/it.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-español-rtv-san-marino": {
-        "nombre": "Vatican News Español - RTV (San Marino TV)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/guarda-rtv-san-marino-tv-in-diretta-streaming-gratis-dallestero/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCnB5vfb9FMMNTnC6-kAT3fQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-english-rsi-la-2": {
+    "nombre": "Vatican News English- RSI LA2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/lv/rsila2.php",
+        "https://uaznao.com/rsi-la-2-in-diretta-streaming/",
+        "https://uaznao.com/rsi-la-1-in-diretta-streaming/",
+        "https://uaznao.com/guarda-tele-ticino-in-diretta-streaming-gratis-dallestero/",
+        "https://www.rsi.ch/play/tv/live/la-2?tvLiveId=livestream_La2"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCxIsefyl9g9A5SGWA4FvGIA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-italiano-tv-capodistria-koper": {
-        "nombre": "Vatican News Italiano - TV Koper Capodistria",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtvslo.si/tv-capodistria/tv-in-diretta"
-            ],
-            "m3u8_url": [
-                "https://cdn-live.rtvslo.si/hls/live/2099159/tvkp/hdntl=exp=1745595738~acl=%2f*~data=hdntl~hmac=e8f7a7544c514f2276fec70126951236ce22d40a3957d22727feda7e1c1f6903/tvkp_1080p_pl.m3u8"
-            ],
-            "yt_id": "UCkwbN2a1L1H6P9rcA7FhAqg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-español-rtv-san-marino": {
+    "nombre": "Vatican News Español - RTV (San Marino TV)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/guarda-rtv-san-marino-tv-in-diretta-streaming-gratis-dallestero/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCnB5vfb9FMMNTnC6-kAT3fQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-portugues-alma-tv": {
-        "nombre": "Vatican News Português- Alma TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/guarda-alma-tv-in-diretta-streaming-gratis-dallestero/",
-                "https://okteve.com/alma-tv-live/",
-                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCGYSq4b4DXmtK4jyq6r-FYg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-italiano-tv-capodistria-koper": {
+    "nombre": "Vatican News Italiano - TV Koper Capodistria",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtvslo.si/tv-capodistria/tv-in-diretta"
+      ],
+      "m3u8_url": [
+        "https://cdn-live.rtvslo.si/hls/live/2099159/tvkp/hdntl=exp=1745595738~acl=%2f*~data=hdntl~hmac=e8f7a7544c514f2276fec70126951236ce22d40a3957d22727feda7e1c1f6903/tvkp_1080p_pl.m3u8"
+      ],
+      "yt_id": "UCkwbN2a1L1H6P9rcA7FhAqg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-frances-equ-tv-in-diretta-streaming": {
-        "nombre": "Vatican News Français - EQUtv",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/equ-tv-in-diretta-streaming/",
-                "https://uaznao.com/casa-italia-53-in-diretta-streaming-gratis/",
-                "https://www.youtube.com/@EQUTVOfficial/streams"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCQxVySG5g2aC-Uz9NhpyiFg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-portugues-alma-tv": {
+    "nombre": "Vatican News Português- Alma TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/guarda-alma-tv-in-diretta-streaming-gratis-dallestero/",
+        "https://okteve.com/alma-tv-live/",
+        "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCGYSq4b4DXmtK4jyq6r-FYg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-aleman-euro-tv": {
-        "nombre": "Vatican News Deutsch - Euro TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://www.eurotvitalia.it/player2.html",
-                "https://uaznao.com/guarda-euro-tv-in-diretta-streaming-gratis-dallestero/",
-                "https://uaznao.com/explorer-tv-in-diretta-streaming/",
-                "https://eurotvitalia.blogspot.com/2021/06/euro-tv-e-una-tv-generalista-per-tutta.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC4ndSG692MXx_zZlIKMYsdg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-frances-equ-tv-in-diretta-streaming": {
+    "nombre": "Vatican News Français - EQUtv",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/equ-tv-in-diretta-streaming/",
+        "https://uaznao.com/casa-italia-53-in-diretta-streaming-gratis/",
+        "https://www.youtube.com/@EQUTVOfficial/streams"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCQxVySG5g2aC-Uz9NhpyiFg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-polaco-parole-di-vita": {
-        "nombre": "Vatican News Polski - Parole di vita",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/guarda-parole-di-vita-in-diretta-streaming-gratis-dallestero/",
-                "https://www.paroledivita.org/guarda"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCShH-YDtaUQH0Zvmg_6bKJQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-aleman-euro-tv": {
+    "nombre": "Vatican News Deutsch - Euro TV",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://www.eurotvitalia.it/player2.html",
+        "https://uaznao.com/guarda-euro-tv-in-diretta-streaming-gratis-dallestero/",
+        "https://uaznao.com/explorer-tv-in-diretta-streaming/",
+        "https://eurotvitalia.blogspot.com/2021/06/euro-tv-e-una-tv-generalista-per-tutta.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC4ndSG692MXx_zZlIKMYsdg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vatican-news-vietnamita-tci-in-diretta": {
-        "nombre": "Vatican News Tiếng Việt - TCI",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://www.tci-italia.it/",
-                "https://cdn.jwplayer.com/players/NXTAdMkM-Py02fGgE.html",
-                "https://uaznao.com/guarda-tci-in-diretta-streaming-gratis-dallestero/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1HuzI97H8M5bI3Wl6wKdvA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-polaco-parole-di-vita": {
+    "nombre": "Vatican News Polski - Parole di vita",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/guarda-parole-di-vita-in-diretta-streaming-gratis-dallestero/",
+        "https://www.paroledivita.org/guarda"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCShH-YDtaUQH0Zvmg_6bKJQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "FLTelevision-news-siciliauno-tv": {
-        "nombre": "FL Television (IT) - in Diretta Streaming - Siciliauno TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.fltelevision.it/home/",
-                "https://www.twitch.tv/siciliauno"
-            ],
-            "m3u8_url": [
-                "https://rst.saiuzwebnetwork.it:8081/fiestaloca/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "siciliauno"
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/it/73526/FLTelevision.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-vietnamita-tci-in-diretta": {
+    "nombre": "Vatican News Tiếng Việt - TCI",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://www.tci-italia.it/",
+        "https://cdn.jwplayer.com/players/NXTAdMkM-Py02fGgE.html",
+        "https://uaznao.com/guarda-tci-in-diretta-streaming-gratis-dallestero/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC1HuzI97H8M5bI3Wl6wKdvA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Rete8-Abruzzo-web-madonie-tv": {
-        "nombre": "Rete8 Abruzzo - Web Madonie TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rete8.it/canali-tv/rete8/",
-                "https://www.twitch.tv/web_madonietv"
-            ],
-            "m3u8_url": [
-                "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "web_madonietv"
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/categorylg/it/5.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },},
+  "FLTelevision-news-siciliauno-tv": {
+    "nombre": "FL Television (IT) - in Diretta Streaming - Siciliauno TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.fltelevision.it/home/",
+        "https://www.twitch.tv/siciliauno"
+      ],
+      "m3u8_url": [
+        "https://rst.saiuzwebnetwork.it:8081/fiestaloca/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "siciliauno"
     },
-    "vatican-news-chino-wedding-tv-tv-valjevoplus": {
-        "nombre": "Vatican News 中文 - Wedding TV - TV Valjevoplus",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [
-                "https://uaznao.com/wedding-tv-in-diretta-streaming-gratis/",
-                "https://www.weddingtv.it/tv-live/",
-                "https://www.twitch.tv/tvvaljevoplus"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCRvmnuS6-wC2ZkAjh2tNK7w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvvaljevoplus"
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
+    "sitio_oficial": "https://www.coolstreaming.us/channelnew/it/73526/FLTelevision.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "Rete8-Abruzzo-web-madonie-tv": {
+    "nombre": "Rete8 Abruzzo - Web Madonie TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rete8.it/canali-tv/rete8/",
+        "https://www.twitch.tv/web_madonietv"
+      ],
+      "m3u8_url": [
+        "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "web_madonietv"
     },
-    "norbaonline-teleiblea-tv": {
-        "nombre": "Norbaonline - Teleiblea TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play.norbaonline.it/diretta",
-                "https://norbaonline.it/",
-                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGVsZW5vcmJhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ==",
-                "https://www.twitch.tv/teleiblea"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "teleiblea"
-        },
-        "sitio_oficial": "https://norbaonline.it/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.coolstreaming.us/categorylg/it/5.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "vatican-news-chino-wedding-tv-tv-valjevoplus": {
+    "nombre": "Vatican News 中文 - Wedding TV - TV Valjevoplus",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+    "señales": {
+      "iframe_url": [
+        "https://uaznao.com/wedding-tv-in-diretta-streaming-gratis/",
+        "https://www.weddingtv.it/tv-live/",
+        "https://www.twitch.tv/tvvaljevoplus"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCRvmnuS6-wC2ZkAjh2tNK7w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "tvvaljevoplus"
     },
-    "radiostudioone-tv": {
-        "nombre": "Radiostudioone TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiostudioone"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radiostudioone",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.vaticannews.va/en.html",
+    "país": "it",
+    "categoría": "religious"
+  },
+  "norbaonline-teleiblea-tv": {
+    "nombre": "Norbaonline - Teleiblea TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play.norbaonline.it/diretta",
+        "https://norbaonline.it/",
+        "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
+        "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr==",
+        "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr==",
+        "https://www.twitch.tv/teleiblea"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "teleiblea"
     },
-    "radio-fm-faleria-tv": {
-        "nombre": "radio_fm_faleria TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radio_fm_faleria"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radio_fm_faleria",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://norbaonline.it/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RadiostudiooneTV": {
+    "nombre": "Radiostudioone TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiostudioone"
     },
-    "radioantenna1-tv": {
-        "nombre": "Radioantenna1 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radioantenna1"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radioantenna1",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radiostudioone",
+    "país": "it",
+    "categoría": "news"
+  },
+  "radio-fm-faleria-tv": {
+    "nombre": "radio_fm_faleria TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radio_fm_faleria"
     },
-    "rta-radiotivuazzurra-tv": {
-        "nombre": "RTA Radiotivuazzurra TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "rta_radiotivuazzurra"
-        },
-        "sitio_oficial": "https://www.twitch.tv/rta_radiotivuazzurra",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radio_fm_faleria",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Radioantenna1TV": {
+    "nombre": "Radioantenna1 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radioantenna1"
     },
-    "teleradiomaristella-tv": {
-        "nombre": "Teleradiomaristella TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "teleradiomaristella"
-        },
-        "sitio_oficial": "https://www.twitch.tv/teleradiomaristella",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radioantenna1",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RTA-RadiotivuazzurraTV": {
+    "nombre": "RTA Radiotivuazzurra TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "rta_radiotivuazzurra"
     },
-    "radioazzurra-tv": {
-        "nombre": "radioazzurra TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radioazzurra"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radioazzurra",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/rta_radiotivuazzurra",
+    "país": "it",
+    "categoría": "news"
+  },
+  "TeleradiomaristellaTV": {
+    "nombre": "Teleradiomaristella TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "teleradiomaristella"
     },
-    "cabanalibre-tv": {
-        "nombre": "Cabanalibre TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "cabanalibre"
-        },
-        "sitio_oficial": "https://www.twitch.tv/cabanalibre",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/teleradiomaristella",
+    "país": "it",
+    "categoría": "news"
+  },
+  "radioazzurraTV": {
+    "nombre": "radioazzurra TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radioazzurra"
     },
-    "prayercave-tv": {
-        "nombre": "Prayercave TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "prayercavetv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/prayercavetv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radioazzurra",
+    "país": "it",
+    "categoría": "news"
+  },
+  "CabanalibreTV": {
+    "nombre": "Cabanalibre TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "cabanalibre"
     },
-    "radiomusica-tv": {
-        "nombre": "radiomusica TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiomusicatv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radiomusicatv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/cabanalibre",
+    "país": "it",
+    "categoría": "news"
+  },
+  "PrayercaveTV": {
+    "nombre": "Prayercave TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "prayercavetv"
     },
-    "sportchannelnews-tv": {
-        "nombre": "Sportchannelnews TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "sportchannelnews"
-        },
-        "sitio_oficial": "https://www.twitch.tv/sportchannelnews",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/prayercavetv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "radiomusica-TV": {
+    "nombre": "radiomusica TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiomusicatv"
     },
-    "fimmglaziotv-tv": {
-        "nombre": "Fimmglaziotv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "fimmglaziotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/fimmglaziotv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radiomusicatv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "SportchannelnewsTV": {
+    "nombre": "Sportchannelnews TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "sportchannelnews"
     },
-    "radiojukeboxtorino-tv": {
-        "nombre": "Radiojukeboxtorino TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiojukeboxtorino"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radiojukeboxtorino",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/sportchannelnews",
+    "país": "it",
+    "categoría": "news"
+  },
+  "FimmglaziotvTV": {
+    "nombre": "Fimmglaziotv TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "fimmglaziotv"
     },
-    "amicaradio-tv": {
-        "nombre": "Amicaradio TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "amicaradiotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/amicaradiotv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/fimmglaziotv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RadiojukeboxtorinoTV": {
+    "nombre": "Radiojukeboxtorino TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiojukeboxtorino"
     },
-    "pow3r-tv": {
-        "nombre": "Pow3r TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pow3r"
-        },
-        "sitio_oficial": "https://www.twitch.tv/pow3r",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radiojukeboxtorino",
+    "país": "it",
+    "categoría": "news"
+  },
+  "AmicaradioTV": {
+    "nombre": "Amicaradio TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "amicaradiotv"
     },
-    "radiocittaperta-tv": {
-        "nombre": "Radiocittaperta TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiocittaperta"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radiocittaperta",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/amicaradiotv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Pow3rTV": {
+    "nombre": "Pow3r TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "pow3r"
     },
-    "zerouno-tv": {
-        "nombre": "Zerouno TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "zerounotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/zerounotv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/pow3r",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RadiocittapertaTV": {
+    "nombre": "Radiocittaperta TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiocittaperta"
     },
-    "teleradioercolano-tv": {
-        "nombre": "Teleradioercolano TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "teleradioercolano"
-        },
-        "sitio_oficial": "https://www.twitch.tv/teleradioercolano",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radiocittaperta",
+    "país": "it",
+    "categoría": "news"
+  },
+  "ZerounoTV": {
+    "nombre": "Zerouno TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "zerounotv"
     },
-    "radiotvoltrelimite-tv": {
-        "nombre": "Radiotvoltrelimite TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiotvoltrelimite"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radiotvoltrelimite",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/zerounotv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "TeleradioercolanoTV": {
+    "nombre": "Teleradioercolano TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "teleradioercolano"
     },
-    "ondatv1984-tv": {
-        "nombre": "Ondatv1984 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "ondatv1984"
-        },
-        "sitio_oficial": "https://www.twitch.tv/ondatv1984",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/teleradioercolano",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RadiotvoltrelimiteTV": {
+    "nombre": "Radiotvoltrelimite TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiotvoltrelimite"
     },
-    "studio95melito-tv": {
-        "nombre": "Studio95melito TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "studio95melitotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/studio95melitotv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radiotvoltrelimite",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Ondatv198TV": {
+    "nombre": "Ondatv1984 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "ondatv1984"
     },
-    "bellaradio-tv": {
-        "nombre": "Bellaradio TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "bellaradiotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/bellaradiotv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/ondatv1984",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Studio95melitoTV": {
+    "nombre": "Studio95melito TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "studio95melitotv"
     },
-    "radiocentromusicatv-tv": {
-        "nombre": "Radiocentromusica TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiocentromusicatv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/radiocentromusicatv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/studio95melitotv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "BellaradioTV": {
+    "nombre": "Bellaradio TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "bellaradiotv"
     },
-    "rg-studio-radio-tv": {
-        "nombre": "Rg Studio Radio TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "rg_studio_radio_tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/rg_studio_radio_tv",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/bellaradiotv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "RadiocentromusicaTV": {
+    "nombre": "Radiocentromusica TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "radiocentromusicatv"
     },
-    "teleregione-sardegna-tv": {
-        "nombre": "Teleregione Sardegna",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "teleregione_sardegna"
-        },
-        "sitio_oficial": "https://www.twitch.tv/teleregione_sardegna",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/radiocentromusicatv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "rg-studio-radio-tv": {
+    "nombre": "Rg Studio Radio TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "rg_studio_radio_tv"
     },
-    "111-tv": {
-        "nombre": "111 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "111tv"
-        },
-        "sitio_oficial": "https://www.111tv.it/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/rg_studio_radio_tv",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Teleregione-Sardegna": {
+    "nombre": "Teleregione Sardegna",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "teleregione_sardegna"
     },
-    "Anita-tv-etna-channel-tv": {
-        "nombre": "Anita TV - Etna Channel TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cp.horusplayer.com/embed/anitatv/live",
-                "https://anitatv.it/",
-                "https://www.twitch.tv/etnachanneltv"
-            ],
-            "m3u8_url": [
-                "https://srvx1.selftv.video/anitatv/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "etnachanneltv"
-        },
-        "sitio_oficial": "https://anitatv.it/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/teleregione_sardegna",
+    "país": "it",
+    "categoría": "news"
+  },
+  "111-TV": {
+    "nombre": "111 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "111tv"
     },
-    "orler-tv-Soveratouno-tv": {
-        "nombre": "Orler - Soveratouno TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.orler.it/orlerstreaming/indexneworler.php",
-                "https://www.orler.it/streamingtv/",
-                "https://www.twitch.tv/soveratounotv"
-            ],
-            "m3u8_url": [
-                "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "soveratounotv"
-        },
-        "sitio_oficial": "https://www.orler.it/streamingtv/",
-        "país": "it",
-        "categoría": "news"
+    "sitio_oficial": "https://www.111tv.it/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Anita-tv-etna-channel-tv": {
+    "nombre": "Anita TV - Etna Channel TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cp.horusplayer.com/embed/anitatv/live",
+        "https://anitatv.it/",
+        "https://www.twitch.tv/etnachanneltv"
+      ],
+      "m3u8_url": [
+        "https://srvx1.selftv.video/anitatv/live/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "etnachanneltv"
     },
+    "sitio_oficial": "https://anitatv.it/",
+    "país": "it",
+    "categoría": "news"
+  },
+  "Orler-overatounoTV": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.orler.it/orlerstreaming/indexneworler.php",
+        "https://www.orler.it/streamingtv/",
+        "https://www.twitch.tv/soveratounotv"
+      ],
+      "m3u8_url": [
+        "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "soveratounotv"
+    },
+    "sitio_oficial": "https://www.orler.it/streamingtv/",
+    "país": "it",
+    "categoría": "news"
+  },
   "i-news": {
     "nombre": "I_News",
     "logo": "",
@@ -30590,463 +30605,461 @@
     "país": "ug",
     "categoría": "news"
   },
-    "NTVUganda-fr-tv": {
-        "nombre": "NTVUganda Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://stream.howto.co.ug/hls.html?rel=0&showinfo=0",
-                "https://www.ntv.co.ug/ug/ntv-live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.squidtv.net/africa/uganda/uganda-002.html",
-        "país": "ug",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "NTVUganda-AfricaTV": {
+    "nombre": "NTVUganda Africa TV",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "",
-        ""
+        "https://stream.howto.co.ug/hls.html?rel=0&showinfo=0",
+        "https://www.ntv.co.ug/ug/ntv-live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.squidtv.net/africa/uganda/uganda-002.html",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "West-AfricaTV": {
+    "nombre": "West Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvwest.co.ug/tvwest-live"
       ],
       "m3u8_url": [
-        ""
+        "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.tvwest.co.ug/"",
     "país": "ug",
     "categoría": "news"
   },
-    "West-fr-tv": {
-        "nombre": "West Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvwest.co.ug/tvwest-live"
-            ],
-            "m3u8_url": [
-                "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvwest.co.ug/",
-        "país": "ug",
-        "categoría": "news"
+  "Wan-Luo-AfricaTV": {
+    "nombre": "Wan Luo Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.newvision.co.ug/",
+        "https://www.newvision.co.ug/tv/11"
+      ],
+      "m3u8_url": [
+        "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v2a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Wan-Luo-fr-tv": {
-        "nombre": "Wan Luo Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.newvision.co.ug/",
-                "https://www.newvision.co.ug/tv/11"
-            ],
-            "m3u8_url": [
-                "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v2a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.newvision.co.ug",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://www.newvision.co.ug",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "Dream-AfricaTV": {
+    "nombre": "Dream Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.imc.ug/dreamtv.html"
+      ],
+      "m3u8_url": [
+        "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "dream-fr-tv": {
-        "nombre": "Dream Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.imc.ug/dreamtv.html"
-            ],
-            "m3u8_url": [
-                "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.imc.ug/",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://www.imc.ug/",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "Coufamily-AfricaTV": {
+    "nombre": "Coufamily Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://coufamilytv.co.ug/live",
+        "https://player.castr.com/live_2c12d7a053f511ef9a978b0191f4a826"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "coufamily-fr-tv": {
-        "nombre": "Coufamily Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://coufamilytv.co.ug/live",
-                "https://player.castr.com/live_2c12d7a053f511ef9a978b0191f4a826"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://coufamilytv.co.ug/",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://coufamilytv.co.ug/",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "GNTV-fr": {
+    "nombre": "GNTV Africa",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.eleden.net/fmm2/embd.php?autoplay=1&broadcast=livemastv"
+      ],
+      "m3u8_url": [
+        "https://stream.eleden.com/livemastv/ngrp:livemastv_all/chunklist_w1278509761_b2267136.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "GNTV-fr": {
-        "nombre": "GNTV Africa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.eleden.net/fmm2/embd.php?autoplay=1&broadcast=livemastv"
-            ],
-            "m3u8_url": [
-                "https://stream.eleden.com/livemastv/ngrp:livemastv_all/chunklist_w1278509761_b2267136.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gntvlatino.org/live",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://www.gntvlatino.org/live",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "4wbn-fr-tv": {
+    "nombre": "4wbn Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://iframe.strimm.com/4WBN/ISN?guideMode=float&keepGuideOpened=true#single-https://4wbn.com/watch/",
+        "https://4wbn.com/watch/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "4wbn-fr-tv": {
-        "nombre": "4wbn Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iframe.strimm.com/4WBN/ISN?guideMode=float&keepGuideOpened=true#single-https://4wbn.com/watch/",
-                "https://4wbn.com/watch/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://4wbn.com/",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://4wbn.com/",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "SALT-fr-tv": {
+    "nombre": "SALT Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://live.salttelevision.com/embed/video",
+        "https://www.saltmedia.ug/live.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "SALT-fr-tv": {
-        "nombre": "SALT Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://live.salttelevision.com/embed/video",
-                "https://www.saltmedia.ug/live.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.saltmedia.ug/",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://www.saltmedia.ug/",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "KSTV-fr-tv": {
+    "nombre": "KSTV Africa TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kstvuganda.com/live"
+      ],
+      "m3u8_url": [
+        "https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "KSTV-fr-tv": {
-        "nombre": "KSTV Africa TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.kstvuganda.com/live"
-            ],
-            "m3u8_url": [
-                "https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.kstvuganda.com/home",
-        "país": "ug",
-        "categoría": "news"
+    "sitio_oficial": "https://www.kstvuganda.com/home",
+    "país": "ug",
+    "categoría": "news"
+  },
+  "AnewzTV": {
+    "nombre": "Anewz TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cdn.maksnet.tv/em/cubesanewz-secure/?streamname=live&abr-app=web",
+        "https://anewz.tv/tv-live",
+        "https://www.aparatchi.com/english-live-tv/english-news-tv/anewz-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Anewz-tv": {
-        "nombre": "Anewz TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.maksnet.tv/em/cubesanewz-secure/?streamname=live&abr-app=web",
-                "https://anewz.tv/tv-live",
-                "https://www.aparatchi.com/english-live-tv/english-news-tv/anewz-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anewz.tv/",
-        "país": "az",
-        "categoría": "news"
+    "sitio_oficial": "https://anewz.tv/",
+    "país": "az",
+    "categoría": "news"
+  },
+  "AmcTV": {
+    "nombre": "Amc TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.amctv.live/",
+        "https://sharqnews.org/",
+        "https://tvtolive.com/afghanistan/sharq-news-tv/"
+      ],
+      "m3u8_url": [
+        "https://amchls.wns.live/hls/stream.m3u8"
+      ],
+      "yt_id": "UC6cijIAPcLuHHVSlTSUvz6Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "amctv-tv": {
-        "nombre": "Amc TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.amctv.live/",
-                "https://sharqnews.org/",
-                "https://tvtolive.com/afghanistan/sharq-news-tv/"
-            ],
-            "m3u8_url": [
-                "https://amchls.wns.live/hls/stream.m3u8"
-            ],
-            "yt_id": "UC6cijIAPcLuHHVSlTSUvz6Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC6cijIAPcLuHHVSlTSUvz6Q",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UC6cijIAPcLuHHVSlTSUvz6Q",
+    "país": "af",
+    "categoría": "news"
+  },
+  "ArianaTelevision-Pamir-Faza-Darya": {
+    "nombre": "Ariana Television - Pamir - Faza - Darya",
+    "logo": "https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.arianatelevision.com/live/",
+        "https://www.parsatv.com/name=Pamir-TV",
+        "https://www.darya.net/#!/",
+        "https://darya.stream/live-tv/faza-tv-live/"
+      ],
+      "m3u8_url": [
+        "https:\/\/d10rltuy0iweup.cloudfront.net\/ATNNAT\/myStream\/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "arianatelevision-tv-Pamir-TV": {
-        "nombre": "Ariana Television - Pamir - Faza - Darya",
-        "logo": "https://www.arianatelevision.com/wp-content/uploads/2017/08/logo-atn-new.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.arianatelevision.com/live/",
-                "https://www.parsatv.com/name=Pamir-TV",
-                "https://www.darya.net/#!/",
-                "https://darya.stream/live-tv/faza-tv-live/"
-            ],
-            "m3u8_url": [
-                "https:\/\/d10rltuy0iweup.cloudfront.net\/ATNNAT\/myStream\/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.arianatelevision.com",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://www.arianatelevision.com",
+    "país": "af",
+    "categoría": "news"
+  },
+  "1TV-Afghanistan-Arezo": {
+    "nombre": "1TV Afghanistan - Arezo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eshgh.tv/channel.php?cid=433",
+        "https://eshgh.tv/channel.php?cid=435",
+        "http://www.dagav.com/v/afghanistan/tv/arezo.php",
+        "https://tvtvtv.ru/channel_eng.php?ch=6039",
+        "https://1tvnews.af/en/livestream/",
+        "https://www.aparatchi.com/afghan-live-tv/afghan-news-tv/1-tv-news"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "1tv-afghanistan-arezo": {
-        "nombre": "1TV Afghanistan - Arezo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eshgh.tv/channel.php?cid=433",
-                "https://eshgh.tv/channel.php?cid=435",
-                "http://www.dagav.com/v/afghanistan/tv/arezo.php",
-                "https://tvtvtv.ru/channel_eng.php?ch=6039",
-                "https://1tvnews.af/en/livestream/",
-                "https://www.aparatchi.com/afghan-live-tv/afghan-news-tv/1-tv-news"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://1tvnews.af",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://1tvnews.af",
+    "país": "af",
+    "categoría": "news"
+  },
+  "Afghanistan-International": {
+    "nombre": "Afghanistan International",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ott.afintl.com/tv?lang=fa#amp=1",
+        "https://www.afintl.com/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCI66K57kW6e9erEkY_n_JRA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "afintl-tv": {
-        "nombre": "Afghanistan International",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ott.afintl.com/tv?lang=fa#amp=1",
-                "https://www.afintl.com/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCI66K57kW6e9erEkY_n_JRA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.afintl.com/",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://www.afintl.com/",
+    "país": "af",
+    "categoría": "news"
+  },
+  "Afghanistan-International": {
+    "nombre": "Afghanistan International",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ott.afintl.com/tv?lang=fa#amp=1",
+        "https://www.afintl.com/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCI66K57kW6e9erEkY_n_JRA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "amu-tv": {
-        "nombre": "About Amu TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://amu.tv/videos/"
-            ],
-            "m3u8_url": [
-                "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
-                "//jmc-live.ercdn.net/amutv/amutv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://amu.tv/",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://www.afintl.com/",
+    "país": "af",
+    "categoría": "news"
+  },
+  "About-AmuTV": {
+    "nombre": "About Amu TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://amu.tv/videos/"
+      ],
+      "m3u8_url": [
+        "https://jmc-live.ercdn.net/amutv/amutv.m3u8",
+        "//jmc-live.ercdn.net/amutv/amutv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rta-sport-tv": {
-        "nombre": "About RTA Sport",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.parsatv.com/embed.php?name=RTA-Sport&auto=false"
-            ],
-            "m3u8_url": [
-                "https:\/\/rtatv.akamaized.net\/Content\/HLS\/Live\/channel(RTA3)\/variant.m3u8",
-                "/player/?id=https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://afghanlive.tv/rta-sport-live/",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://amu.tv/",
+    "país": "af",
+    "categoría": "news"
+  },
+  "About-RTA-Sport": {
+    "nombre": "About RTA Sport",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.parsatv.com/embed.php?name=RTA-Sport&auto=false"
+      ],
+      "m3u8_url": [
+        "https:\/\/rtatv.akamaized.net\/Content\/HLS\/Live\/channel(RTA3)\/variant.m3u8",
+        "/player/?id=https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tamadon-tv": {
-        "nombre": "Tamadon TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.parsatv.com/name=Tamadon-Afghan"
-            ],
-            "m3u8_url": [
-                "https://hls.tamadon.live/hls/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvchannels.live/afghanistan/",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://afghanlive.tv/rta-sport-live/",
+    "país": "af",
+    "categoría": "news"
+  },
+  "TamadonTV": {
+    "nombre": "Tamadon TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.parsatv.com/name=Tamadon-Afghan"
+      ],
+      "m3u8_url": [
+        "https://hls.tamadon.live/hls/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Afghan-Nobel-tv-Eslah": {
-        "nombre": "Afghan Nobel - Eslah - Lemar",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/lemar-tv",
-                "https://eshgh.tv/channel.php?cid=892",
-                "https://didan.tv/afghan-nobel-live/fvp-33/#fvp_33",
-                "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/eslah-tv"
-            ],
-            "m3u8_url": [
-                "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w809075156.m3u8",
-                "https://gg.hls2.xyz/live/AP Eslah TV/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://didan.tv/afghan-nobel-live/",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://tvchannels.live/afghanistan/",
+    "país": "af",
+    "categoría": "news"
+  },
+  "Afghan-Nobel-tv-Eslah": {
+    "nombre": "Afghan Nobel - Eslah - Lemar",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/lemar-tv",
+        "https://eshgh.tv/channel.php?cid=892",
+        "https://didan.tv/afghan-nobel-live/fvp-33/#fvp_33",
+        "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/eslah-tv"
+      ],
+      "m3u8_url": [
+        "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w809075156.m3u8",
+        "https://gg.hls2.xyz/live/AP Eslah TV/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "1tvabul-tv-bahar-tv": {
-        "nombre": "1TVAbul - Bahar",
-        "logo": "http://dagav.com/images/ar/1tvabul.jpg",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/local/gnk4/?ch=307",
-                "http://dagav.com/v/afghanistan/tv/1tvabul.php",
-                "http://azrotv.com/local/gnk4/?ch=307",
-                "https://zapiro.tv/channels/bahar-tv/",
-                "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/bahar-tv",
-                "https://player.teleon.tv/en/channel/bahar-tv-af"
-            ],
-            "m3u8_url": [
-                "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://dagav.com/v/afghanistan/tv/1tvabul.php",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "https://didan.tv/afghan-nobel-live/",
+    "país": "af",
+    "categoría": "news"
+  },
+  "1TVAbul-Bahar": {
+    "nombre": "1TVAbul - Bahar",
+    "logo": "http://dagav.com/images/ar/1tvabul.jpg",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/local/gnk4/?ch=307",
+        "http://dagav.com/v/afghanistan/tv/1tvabul.php",
+        "http://azrotv.com/local/gnk4/?ch=307",
+        "https://zapiro.tv/channels/bahar-tv/",
+        "https://www.aparatchi.com/afghan-live-tv/afghan-live-tv-entertainment/bahar-tv",
+        "https://player.teleon.tv/en/channel/bahar-tv-af"
+      ],
+      "m3u8_url": [
+        "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "zhwandoon-tv": {
-        "nombre": "zhwandoon",
-        "logo": "http://dagav.com/images/fr/zhwandoon.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://www.diycraftsguide.com/live-tv/zhwandoon-tv.html",
-                "http://azrotv.com/local/gnk4/?ch=349"
-            ],
-            "m3u8_url": [
-                "http://gineu10.bozztv.com/gin-dvrfl05/gin-zhwandoon/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNCAwNToxNTo1NSBQTSZoYXNoX3ZhbHVlPTFoVjYrb2ZCRHdWL1NlaC95QWkxRnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ=="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://dagav.com/v/afghanistan/tv/zhwandoon.php",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "http://dagav.com/v/afghanistan/tv/1tvabul.php",
+    "país": "af",
+    "categoría": "news"
+  },
+  "zhwandoon": {
+    "nombre": "zhwandoon",
+    "logo": "http://dagav.com/images/fr/zhwandoon.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.diycraftsguide.com/live-tv/zhwandoon-tv.html",
+        "http://azrotv.com/local/gnk4/?ch=349"
+      ],
+      "m3u8_url": [
+        "http://gineu10.bozztv.com/gin-dvrfl05/gin-zhwandoon/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNCAwNToxNTo1NSBQTSZoYXNoX3ZhbHVlPTFoVjYrb2ZCRHdWL1NlaC95QWkxRnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ=="
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tolo-tv-kayhah-tv": {
-        "nombre": "Tolo - kayhah TV",
-        "logo": "http://dagav.com/images/fr/tolotv.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://www.darya.net/#!/hero/Tek9edabM8azzca40pjdfA",
-                "https://darya.stream/live-tv/tolo-tv-live/",
-                "http://azrotv.com/local/gnk4/?ch=647",
-                "https://player.teleon.tv/en/channel/kayhah-tv-af"
-            ],
-            "m3u8_url": [
-                "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://dagav.com/v/afghanistan/tv/tolotv.php",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "http://dagav.com/v/afghanistan/tv/zhwandoon.php",
+    "país": "af",
+    "categoría": "news"
+  },
+  "Tolo-kayhahTV": {
+    "nombre": "Tolo - kayhah TV",
+    "logo": "http://dagav.com/images/fr/tolotv.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.darya.net/#!/hero/Tek9edabM8azzca40pjdfA",
+        "https://darya.stream/live-tv/tolo-tv-live/",
+        "http://azrotv.com/local/gnk4/?ch=647",
+        "https://player.teleon.tv/en/channel/kayhah-tv-af"
+      ],
+      "m3u8_url": [
+        "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rta-tv": {
-        "nombre": "RTA TV",
-        "logo": "http://dagav.com/images/fr/tolotv.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://rta.af/live/"
-            ],
-            "m3u8_url": [
-                "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rta.af",
-        "país": "af",
-        "categoría": "news"
+    "sitio_oficial": "http://dagav.com/v/afghanistan/tv/tolotv.php",
+    "país": "af",
+    "categoría": "news"
+  },
+  "RTA-TV": {
+    "nombre": "RTA TV",
+    "logo": "http://dagav.com/images/fr/tolotv.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://rta.af/live/"
+      ],
+      "m3u8_url": [
+        "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://rta.af",
+    "país": "af",
+    "categoría": "news"
+  },
   "TIN-tv": {
     "nombre": "TIN TV",
     "logo": "http://dagav.com/images/fr/tolotv.jpg",
