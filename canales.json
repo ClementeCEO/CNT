@@ -33141,21 +33141,6 @@
     "país": "ve",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
-    "país": "ve",
-    "categoría": "news"
-  },
   "valetv-tv": {
     "nombre": "Valetv Online",
     "logo": "",
@@ -33404,6 +33389,656 @@
     "país": "vn",
     "categoría": "news"
   },
+  "ATV1": {
+    "nombre": "ATV1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://atv.org.vn/tivi/atv.html",
+        "http://xemtruyenhinh.xyz/kenh/atv1.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-atv1-an-giang-tv-1-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "BTV": {
+    "nombre": "BTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/bltv.php",
+        "https://thbl.vn/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-bltv-bac-lieu-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "BTV": {
+    "nombre": "BTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/binhthuan.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-btv-binh-thuan-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "BPTV2": {
+    "nombre": "BPTV2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/bptv2.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-bptv2-binh-phuoc-tv-2-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "CRTV": {
+    "nombre": "CRTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/caobang.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-crtv-cao-bang-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "DRTV": {
+    "nombre": "DRTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://drt.vn/truyen-hinh"
+      ],
+      "m3u8_url": [
+        "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-drt-dak-lak-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "PTD": {
+    "nombre": "PTD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://truyenhinhdaknong.vn/",
+        "https://truyenhinhdaknong.vn/truyen-hinh.htm",
+        "http://xemtruyenhinh.xyz/kenh/ptd.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-ptd-dak-nong-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "LTV": {
+    "nombre": "LTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://lamdongtv.vn/",
+        "http://xemtruyenhinh.xyz/kenh/lamdong.php"
+      ],
+      "m3u8_url": [
+        "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-ltv-lam-dong-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "DRT1-DRT2": {
+    "nombre": "DRT1 DRT2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://danangtv.vn/",
+        "http://xemtruyenhinh.xyz/kenh/dn1.php",
+        "http://xemtruyenhinh.xyz/kenh/dn2.php"
+      ],
+      "m3u8_url": [
+        "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-drt1-da-nang-tv-1-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "DN1-DN2": {
+    "nombre": "DN1-DN2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=10&autoPlay=1",
+        "http://xemtruyenhinh.xyz/kenh/dongnai1.php",
+        "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=14&autoPlay=1",
+        "http://xemtruyenhinh.xyz/kenh/dongnai2.php",
+        "http://xemtruyenhinh.xyz/kenh-dn2-dong-nai-tv-2-truc-tuyen-dia-phuong.html"
+      ],
+      "m3u8_url": [
+        "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://dnrtv.org.vn/",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "DN3": {
+    "nombre": "DN3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=13&autoPlay=1",
+        "http://xemtruyenhinh.xyz/kenh/dongnai3.php"
+      ],
+      "m3u8_url": [
+        "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dn3-dong-nai-tv-3-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "DTV": {
+    "nombre": "DTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://dienbientv.vn/truyen-hinh/",
+        "https://m.xemtv.net/kenh/dtv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dtv-dien-bien-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "THGL": {
+    "nombre": "THGL",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://gialaitv.vn/"
+      ],
+      "m3u8_url": [
+        "https://tv.gialaitv.vn/tv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thgl-gia-lai-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HA-NAM-THHN": {
+    "nombre": "HA NAM THHN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://hanamtv.vn/truyen-hinh",
+        "https://hanamtv.vn/",
+        "http://xemtruyenhinh.xyz/kenh/hanam.php"
+      ],
+      "m3u8_url": [
+        "https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thhn-ha-nam-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HGTV": {
+    "nombre": "HGTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/hagiang.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hgtv-ha-giang-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HTTV": {
+    "nombre": "HTTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://hagiangtv.vn/",
+        "http://xemtruyenhinh.xyz/kenh/httv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-httv-ha-tinh-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "THDTV1": {
+    "nombre": "THDTV1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://thdt.vn/",
+        "https://thdt.vn/",
+        "http://xemtruyenhinh.xyz/kenh/thdt.php"
+      ],
+      "m3u8_url": [
+        "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thdt1-dong-thap-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "THDTV2": {
+    "nombre": "THDTV2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://thdt.vn/truyen-hinh"
+      ],
+      "m3u8_url": [
+        "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thdt2-mientay-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HDTV": {
+    "nombre": "HDTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.haiduongtv.com.vn/truc-tuyen",
+        "https://www.haiduongtv.com.vn/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "STV": {
+    "nombre": "STV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://sonlatv.vn/"
+      ],
+      "m3u8_url": [
+        "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-stv-sonla-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HGTV": {
+    "nombre": "HGTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://haugiangtivi.vn/","http://xemtruyenhinh.xyz/kenh/hgtv.php"
+      ],
+      "m3u8_url": [
+        "https://hgtvdigital.vn/hls/backup.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hgtv-hau-giang-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "KTV1": {
+    "nombre": "KTV1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ktv.org.vn/"
+      ],
+      "m3u8_url": [
+        "https://tv.ktv.org.vn/ktv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-ktv-khanh-hoa-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "KRT": {
+    "nombre": "KRT",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://kontumtv.vn/"
+      ],
+      "m3u8_url": [
+        "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-krt-kontum-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HBTVhoa": {
+    "nombre": "HBTVhoa",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://hoabinhtv.vn/truyen-hinh/trang-dia-phuong"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hbtv-hoa-binh-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "TRT1": {
+    "nombre": "TRT1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://trt.com.vn/trt-online"
+      ],
+      "m3u8_url": [
+        "https://live.trt.com.vn/TRT-Online/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-trt-thua-thien-hue-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "HYTV": {
+    "nombre": "HYTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://hungyentv.vn/truc-tuyen"
+      ],
+      "m3u8_url": [
+        "https://1253218859.e.cdneverest.net/aTZsLPt6DacIdU6mMkCF-Q/1711598005/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hungyentv.vn/truc-tuyen",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "KGTV": {
+    "nombre": "KGTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://kgtv.vn/"
+      ],
+      "m3u8_url": [
+        "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-fox-sports2": {
+    "nombre": "kenh fox sports2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.foxsports.com/live/fs2",
+        "http://xemtruyenhinh.xyz/kenh/foxsports2.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fox-sports2-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-fox-sports1": {
+    "nombre": "kenh fox sports1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/foxsports1.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fox-sports1-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-fox-sports-news": {
+    "nombre": "kenh fox sports news",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/foxsports-news.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fox-sports-news-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-sctv17": {
+    "nombre": "kenh sctv17",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/sctv17.php",
+        "http://xemtruyenhinh.xyz/kenh/sctv17-1.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-sctv17-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-sctv15": {
+    "nombre": "kenh sctv15",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/sctv15.php",
+        "http://xemtruyenhinh.xyz/kenh/sctv15-1.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-sctv15-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-k-cine": {
+    "nombre": "kenh k cine",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/kpc.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-cine-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-k-action": {
+    "nombre": "kenh k action",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rips.in/player.php?ch=5"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-action-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "kenh-k-sport2": {
+    "nombre": "kenh k sport2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://xemtruyenhinh.xyz/kenh/k-pm.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-sport2-truc-tuyen-the-thao.html",
+    "país": "vn",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -33419,673 +34054,6 @@
     "país": "vn",
     "categoría": "news"
   },
-    "atv1-tv": {
-        "nombre": "ATV1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://atv.org.vn/tivi/atv.html",
-                "http://xemtruyenhinh.xyz/kenh/atv1.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-atv1-an-giang-tv-1-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "btv-tv": {
-        "nombre": "BTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/bltv.php",
-                "https://thbl.vn/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-bltv-bac-lieu-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "btv1-tv": {
-        "nombre": "BTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/binhthuan.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-btv-binh-thuan-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "bptv2-tv": {
-        "nombre": "BPTV2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/bptv2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-bptv2-binh-phuoc-tv-2-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "crtv-tv": {
-        "nombre": "CRTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/caobang.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-crtv-cao-bang-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "drtv-tv": {
-        "nombre": "DRTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://drt.vn/truyen-hinh"
-            ],
-            "m3u8_url": [
-                "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-drt-dak-lak-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "ptd-tv": {
-        "nombre": "PTD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://truyenhinhdaknong.vn/",
-                "https://truyenhinhdaknong.vn/truyen-hinh.htm",
-                "http://xemtruyenhinh.xyz/kenh/ptd.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-ptd-dak-nong-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "ltv-tv": {
-        "nombre": "LTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://lamdongtv.vn/",
-                "http://xemtruyenhinh.xyz/kenh/lamdong.php"
-            ],
-            "m3u8_url": [
-                "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-ltv-lam-dong-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "drt1-drt2-tv": {
-        "nombre": "DRT1 DRT2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://danangtv.vn/",
-                "http://xemtruyenhinh.xyz/kenh/dn1.php",
-                "http://xemtruyenhinh.xyz/kenh/dn2.php"
-            ],
-            "m3u8_url": [
-                "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-drt1-da-nang-tv-1-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "dn1": {
-        "nombre": "DN1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=10&autoPlay=1",
-                "http://xemtruyenhinh.xyz/kenh/dongnai1.php"
-            ],
-            "m3u8_url": [
-                "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://dnrtv.org.vn/",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "dn2": {
-        "nombre": "DN2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=14&autoPlay=1",
-                "http://xemtruyenhinh.xyz/kenh/dongnai2.php"
-            ],
-            "m3u8_url": [
-                "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dn2-dong-nai-tv-2-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "dn3": {
-        "nombre": "DN3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=13&autoPlay=1",
-                "http://xemtruyenhinh.xyz/kenh/dongnai3.php"
-            ],
-            "m3u8_url": [
-                "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dn3-dong-nai-tv-3-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "dtv-tv": {
-        "nombre": "DTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://dienbientv.vn/truyen-hinh/",
-                "https://m.xemtv.net/kenh/dtv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dtv-dien-bien-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "thgl-tv": {
-        "nombre": "THGL",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://gialaitv.vn/"
-            ],
-            "m3u8_url": [
-                "https://tv.gialaitv.vn/tv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thgl-gia-lai-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "ha-nam-THHN": {
-        "nombre": "HA NAM THHN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hanamtv.vn/truyen-hinh",
-                "https://hanamtv.vn/",
-                "http://xemtruyenhinh.xyz/kenh/hanam.php"
-            ],
-            "m3u8_url": [
-                "https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thhn-ha-nam-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "hg-tv": {
-        "nombre": "HGTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/hagiang.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hgtv-ha-giang-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "ht-tv": {
-        "nombre": "HTTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hagiangtv.vn/",
-                "http://xemtruyenhinh.xyz/kenh/httv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-httv-ha-tinh-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "thd-tv1": {
-        "nombre": "THDTV1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://thdt.vn/",
-                "https://thdt.vn/",
-                "http://xemtruyenhinh.xyz/kenh/thdt.php"
-            ],
-            "m3u8_url": [
-                "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thdt1-dong-thap-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "thdt2-tv": {
-        "nombre": "THDTV2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://thdt.vn/truyen-hinh"
-            ],
-            "m3u8_url": [
-                "https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-thdt2-mientay-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "hd-tv": {
-        "nombre": "HDTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.haiduongtv.com.vn/truc-tuyen",
-                "https://www.haiduongtv.com.vn/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hdtv-hai-duong-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "s-tv": {
-        "nombre": "STV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://sonlatv.vn/"
-            ],
-            "m3u8_url": [
-                "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-stv-sonla-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "hg-tv": {
-        "nombre": "HGTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://haugiangtivi.vn/",
-                "http://xemtruyenhinh.xyz/kenh/hgtv.php"
-            ],
-            "m3u8_url": [
-                "https://hgtvdigital.vn/hls/backup.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hgtv-hau-giang-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "k-tv1": {
-        "nombre": "KTV1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ktv.org.vn/"
-            ],
-            "m3u8_url": [
-                "https://tv.ktv.org.vn/ktv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-ktv-khanh-hoa-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "krt-tv": {
-        "nombre": "KRT",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://kontumtv.vn/"
-            ],
-            "m3u8_url": [
-                "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-krt-kontum-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "hbtvhoa-tv": {
-        "nombre": "HBTVhoa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hoabinhtv.vn/truyen-hinh/trang-dia-phuong"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-hbtv-hoa-binh-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "trt1-tv": {
-        "nombre": "TRT1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://trt.com.vn/trt-online"
-            ],
-            "m3u8_url": [
-                "https://live.trt.com.vn/TRT-Online/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-trt-thua-thien-hue-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "hy-tv": {
-        "nombre": "HYTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hungyentv.vn/truc-tuyen"
-            ],
-            "m3u8_url": [
-                "https://1253218859.e.cdneverest.net/aTZsLPt6DacIdU6mMkCF-Q/1711598005/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hungyentv.vn/truc-tuyen",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kg-tv": {
-        "nombre": "KGTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://kgtv.vn/"
-            ],
-            "m3u8_url": [
-                "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-fox-sports2": {
-        "nombre": "kenh fox sports2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.foxsports.com/live/fs2",
-                "http://xemtruyenhinh.xyz/kenh/foxsports2.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fox-sports2-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-fox-sports1": {
-        "nombre": "kenh fox sports1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/foxsports1.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fox-sports1-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-fox-sports-news": {
-        "nombre": "kenh fox sports news",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/foxsports-news.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-fox-sports-news-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-sctv17": {
-        "nombre": "kenh sctv17",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/sctv17.php",
-                "http://xemtruyenhinh.xyz/kenh/sctv17-1.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-sctv17-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-sctv15": {
-        "nombre": "kenh sctv15",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/sctv15.php",
-                "http://xemtruyenhinh.xyz/kenh/sctv15-1.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-sctv15-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-k-cine": {
-        "nombre": "kenh k cine",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/kpc.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-cine-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-k-action": {
-        "nombre": "kenh k action",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rips.in/player.php?ch=5"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-action-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
-    "kenh-k-sport2": {
-        "nombre": "kenh k sport2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://xemtruyenhinh.xyz/kenh/k-pm.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-k-sport2-truc-tuyen-the-thao.html",
-        "país": "vn",
-        "categoría": "news"
-    },
     "kenh-k-sport1": {
         "nombre": "kenh k sport1",
         "logo": "",
@@ -34106,6 +34074,21 @@
         "país": "vn",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
     "kenh-htv-the-thao": {
         "nombre": "kenh htv the thao",
         "logo": "",
@@ -34123,6 +34106,21 @@
         "país": "vn",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
     "kenh-fptplay": {
         "nombre": "kenh fptplay",
         "logo": "",
@@ -34142,6 +34140,21 @@
         "país": "vn",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
     "kenh-onsports-news": {
         "nombre": "kenh onsports news",
         "logo": "",
@@ -34162,6 +34175,21 @@
         "país": "vn",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
     "kenh-onfootball": {
         "nombre": "Kenh Onfootball",
         "logo": "",
@@ -34184,6 +34212,21 @@
         "país": "vn",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
     "giọng-ca-để-đời": {
         "nombre": "giọng ca để đời",
         "logo": "",
@@ -34199,6 +34242,36 @@
         "país": "vn",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "vn",
+    "categoría": "news"
+  },
     "Giai-Dieu-Song-Hong": {
         "nombre": "giai điệu sông hồng",
         "logo": "",
