@@ -10468,14 +10468,14 @@
     "categoría": "news"
   },
   "el-tiempo": {
-    "nombre": "EL TIEMPO - Canal1 - Canal 45 TV",
+    "nombre": "EL TIEMPO - Canal 45 TV",
     "logo": "https://diretele.com/wp-content/uploads/2019/03/Canal-45-Ja%C3%A9n-en-directo-100x70.png",
     "señales": {
       "iframe_url": [
-        "https://geo.dailymotion.com/player.html?video=x9nvvkc",
-        "https://www.dailymotion.com/video/x9nvvkc",
-        "https://www.eltiempo.com/",
-        "https://canal1.com.co/senal-en-vivo/"
+        "https://wsdeportes.net/?v=dsportsmas&op=2",
+        "https://wsdeportes.net/?v=dsportsmas&op=3",
+        "https://wsdeportes.net/?v=dsportsmas",
+        "https://www.eltiempo.com/"
       ],
       "m3u8_url": [
         "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
@@ -10569,6 +10569,139 @@
     "sitio_oficial": "https://90minutos.co/",
     "país": "co",
     "categoría": "music"
+  },
+  "CanalRcnHD": {
+    "nombre": "Canal Rcn HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cdn.tdtcloud.xyz/ws15.php",
+        "https://www.canalrcn.nl/",
+        "https://www.canalrcn.com/co/player/67535f2a8e10fec44f483a50",
+        "https://www.canalrcn.com/co/player/6792a762f5f47d50b1d766e4",
+        "https://www.canalrcn.com/co/player/67bd9751e81fc64038adf341",
+        "https://www.canalrcn.com/co/player/6792937ee080cf557d68a76d",
+        "https://www.canalrcn.com/co/player/67bd9834f8170f73bc1ff137",
+        "https://vix.com/es-es/canales/destacados/channel-callsign-RCN_Noticias",
+        "https://www.canalrcn.com/senal-en-vivo/",
+        "https://www.canalrcn.com/co",
+        "https://www.rcntotal.com/epg/en_vivo/winsports-1446100",
+        "https://www.rcntotal.com/epg/en_vivo/laviudadelamafiarcnmas-1446680",
+        "https://www.rcntotal.com/",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSCAJJ1RJ4rfRTVW4gjYTpQ&autoplay=1&mute=1&modestbranding=1&showinfo=0"
+      ],
+      "m3u8_url": [
+        "https://w1327.mywebtv.cloud/hls/rcnsd/index.m3u8?token=TMbT91vv_4EnCokEjGG7gw&expires=1780164237",
+        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+        "https://1569023982.rsc.cdn77.org/AG8S7FUHP_jV1apmnEKwLw==,1743710148/1569023982/tracks-v3a1/mono.m3u8",
+        "https://1632122577.rsc.cdn77.org/YW4R58XPjBy8nShtkoE-nw==,1743710579/1632122577/index.m3u8"
+      ],
+      "yt_id": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
+      "yt_embed": "-8ItzGB4j7o",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/canalrcn",
+    "país": "co",
+    "categoría": "news"
+  },
+  "NoticiasunoHD": {
+    "nombre": "Noticiasuno HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.noticiasuno.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC3NUgxBBl05tthfGBS6kPkA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC3NUgxBBl05tthfGBS6kPkA",
+    "país": "co",
+    "categoría": "news"
+  },
+  "CanalUno1HD": {
+    "nombre": "Canal Uno 1 HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2?jsapi=true&autoplay=false&volume=80&player=66fb2eaf32eda61b86362c74&title=Canal%201%20-%20Se%C3%B1al%20en%20vivo&show_title=true&ads[volume]=80",
+        "https://geo.dailymotion.com/player.html?video=x9nvvkc",
+        "https://www.dailymotion.com/video/x9nvvkc",
+        "https://canal1.com.co/",
+        "https://canal1.tv/VIVO/",
+        "https://canal1.tv/",
+        "https://canal1.com.co/senal-en-vivo/",
+        "https://www.tvporinternet.org/2025/06/Canal-uno-en-Vivo-por-Internet.html"
+      ],
+      "m3u8_url": [
+        "https://live20.bozztv.com/giatv/giatv-unojulsevunojulsev/unojulsevunojulsev/chunks.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "canalunoolavarria"
+    },
+    "sitio_oficial": "https://canal1.com.co/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "Redmas HD": {
+    "nombre": "Redmas HD",
+    "logo": "https://redmas.com.co/__export/1676481006000/sites/redmas/arte/apps/facebook_1200x630.png_1589854477.png",
+    "señales": {
+      "iframe_url": [
+        "https://redmas.com.co/senal-en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://redmas.com.co/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "Canal-Trece": {
+    "nombre": "Canal Trece",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.instantvideocloud.net/#/embed/c6bf0e38",
+        "https://canaltrece.com.co/canal-trece/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://canaltrece.com.co",
+    "país": "co",
+    "categoría": "news"
+  },
+  "Citytv-HD": {
+    "nombre": "Citytv HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play.tdtchannels.com/television/CitytvColombia",
+        "https://citytv.eltiempo.com/en-vivo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/c/citytvbogota",
+    "país": "co",
+    "categoría": "news"
   },
   "avivamiento-tv-online-la-kalle": {
     "nombre": "Avivamiento TV Cristiana - La Kalle",
@@ -10913,115 +11046,6 @@
     "país": "co",
     "categoría": "news"
   },
-  "CanalRcnHD": {
-    "nombre": "Canal Rcn HD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.youtube.com/embed/-8ItzGB4j7o?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-        "https://www.canalrcn.com/co/player/67535f2a8e10fec44f483a50",
-        "https://www.canalrcn.com/co/player/6792a762f5f47d50b1d766e4",
-        "https://www.canalrcn.com/co/player/67bd9751e81fc64038adf341",
-        "https://www.canalrcn.com/co/player/6792937ee080cf557d68a76d",
-        "https://www.canalrcn.com/co/player/67bd9834f8170f73bc1ff137",
-        "https://vix.com/es-es/canales/destacados/channel-callsign-RCN_Noticias",
-        "https://www.canalrcn.com/senal-en-vivo/",
-        "https://www.canalrcn.com/co",
-        "https://www.rcntotal.com/epg/en_vivo/winsports-1446100",
-        "https://www.rcntotal.com/epg/en_vivo/laviudadelamafiarcnmas-1446680",
-        "https://www.rcntotal.com/",
-        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSCAJJ1RJ4rfRTVW4gjYTpQ&autoplay=1&mute=1&modestbranding=1&showinfo=0"
-      ],
-      "m3u8_url": [
-        "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
-        "https://1569023982.rsc.cdn77.org/AG8S7FUHP_jV1apmnEKwLw==,1743710148/1569023982/tracks-v3a1/mono.m3u8",
-        "https://1632122577.rsc.cdn77.org/YW4R58XPjBy8nShtkoE-nw==,1743710579/1632122577/index.m3u8"
-      ],
-      "yt_id": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
-      "yt_embed": "-8ItzGB4j7o",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.youtube.com/canalrcn",
-    "país": "co",
-    "categoría": "news"
-  },
-  "CanalUno1HD": {
-    "nombre": "Canal Uno 1 HD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2?jsapi=true&autoplay=false&volume=80&player=66fb2eaf32eda61b86362c74&title=Canal%201%20-%20Se%C3%B1al%20en%20vivo&show_title=true&ads[volume]=80",
-        "https://canal1.com.co/",
-        "https://canal1.tv/VIVO/",
-        "https://canal1.tv/",
-        "https://www.tvporinternet.org/2025/06/Canal-uno-en-Vivo-por-Internet.html"
-      ],
-      "m3u8_url": [
-        "https://live20.bozztv.com/giatv/giatv-unojulsevunojulsev/unojulsevunojulsev/chunks.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "canalunoolavarria"
-    },
-    "sitio_oficial": "https://canal1.com.co/",
-    "país": "co",
-    "categoría": "news"
-  },
-  "Canal-Trece": {
-    "nombre": "Canal Trece",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://player.instantvideocloud.net/#/embed/c6bf0e38",
-        "https://canaltrece.com.co/canal-trece/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://canaltrece.com.co",
-    "país": "co",
-    "categoría": "news"
-  },
-  "NoticiasunoHD": {
-    "nombre": "Noticiasuno HD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.noticiasuno.com/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UC3NUgxBBl05tthfGBS6kPkA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.youtube.com/channel/UC3NUgxBBl05tthfGBS6kPkA",
-    "país": "co",
-    "categoría": "news"
-  },
-  "Citytv-HD": {
-    "nombre": "Citytv HD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://play.tdtchannels.com/television/CitytvColombia",
-        "https://citytv.eltiempo.com/en-vivo"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.youtube.com/c/citytvbogota",
-    "país": "co",
-    "categoría": "news"
-  },
   "": {
     "nombre": "",
     "logo": "",
@@ -11037,25 +11061,6 @@
     "país": "co",
     "categoría": "news"
   },
-    "redmas-hd": {
-        "nombre": "Redmas HD",
-        "logo": "https://redmas.com.co/__export/1676481006000/sites/redmas/arte/apps/facebook_1200x630.png_1589854477.png",
-        "señales": {
-            "iframe_url": [
-                "https://redmas.com.co/senal-en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://redmas.com.co/",
-        "país": "co",
-        "categoría": "news"
-    },
     "ONTV-RADIO-BACAN-TV-PLUS": {
         "nombre": "ONTV - RADIO BACAN TV PLUS",
         "logo": "https://xhateaec.com/tv/logos/ON%20TV.jpeg",
@@ -11085,6 +11090,36 @@
         "país": "co",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
     "lamega-noticias": {
         "nombre": "Lamega",
         "logo": "https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",
@@ -11102,6 +11137,21 @@
         "país": "co",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
     "el-espectador": {
         "nombre": "El Espectador",
         "logo": "https://graph.facebook.com/elespectadorcom/picture?width=800&height=800",
@@ -11119,6 +11169,21 @@
         "país": "co",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
     "pulzo": {
         "nombre": "Pulzo",
         "logo": "https://graph.facebook.com/PULZO.COLOMBIA/picture?width=800&height=800",
@@ -11134,6 +11199,21 @@
         "país": "co",
         "categoría": "general"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
     "veo-television": {
         "nombre": "Buga Valle Colombia",
         "logo": "",
@@ -11151,6 +11231,36 @@
         "país": "co",
         "categoría": "general"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "co",
+    "categoría": "news"
+  },
     "mas-television-la-dorada": {
         "nombre": "Canal Más Televisión",
         "logo": "",
