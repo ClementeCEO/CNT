@@ -10472,12 +10472,12 @@
     "logo": "https://diretele.com/wp-content/uploads/2019/03/Canal-45-Ja%C3%A9n-en-directo-100x70.png",
     "señales": {
       "iframe_url": [
-        "https://wsdeportes.net/?v=dsportsmas&op=2",
-        "https://wsdeportes.net/?v=dsportsmas&op=3",
+        "https://globoview.cam/directorio/colombia/canal-8-tv/",
         "https://wsdeportes.net/?v=dsportsmas",
         "https://www.eltiempo.com/"
       ],
       "m3u8_url": [
+        "https://movil.ejeserver.com/live/canal8tv.m3u8",
         "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
         "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
         "https://github.com/pertenet/listasSSIPTV/blob/6db6ed95b6213673c6dc3639a2164a38025168e6/TDT_TV.m3u"
@@ -10523,7 +10523,7 @@
         "http://147.75.116.250:8586/play/a01r/index.m3u8"
       ],
       "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
-      "yt_embed": "ZA6YS0CYoTA?",
+      "yt_embed": "YOjv8sfTXbw?",
       "yt_playlist": "https://github.com/caliwyr/Software/blob/00c10301AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/IPTV/co.m3u#L4",
       "twitch_id": "https://github.com/lesterguitarrista/listam3u/blob/main/m3u"
     },
@@ -10536,7 +10536,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/"
+        "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/",
+        "https://www.caracoltv.com/senal-vivo"
       ],
       "m3u8_url": [
         "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
