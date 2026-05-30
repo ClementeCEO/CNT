@@ -12372,6 +12372,616 @@
     "país": "do",
     "categoría": "news"
   },
+  "Coral39-Orientaltv": {
+    "nombre": "Coral 39 - Orientaltv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://geo.dailymotion.com/player.html?video=x84nyz2",
+        "https://tvonline.com.do/coral-39-en-vivo/",
+        "https://cdn.essastream.com/live-stream-video/-widget/orientaltv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://orientaltv.com.do/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Colorvision-Noticias": {
+    "nombre": "Colorvision Noticias",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x7gy059",
+        "https://colorvision.com.do/en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://colorvision.com.do/en-vivo/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Altantotv-UnaNuevaMañana": {
+    "nombre": "Altantotv - Una Nueva Mañana",
+    "logo": "https://graph.facebook.com/unanuevamananaa/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://embed-altantotv.domiplay.net/",
+        "https://tv.altanto.com.do/",
+        "https://altanto.com.do/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCcL-6daOBkp8E_sCJLxCXLg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://unanuevamanana.com/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Luna-TV": {
+    "nombre": "Luna TV",
+    "logo": "https://graph.facebook.com/unanuevamananaa/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://lunatv.do/"
+      ],
+      "m3u8_url": [
+        "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://lunatv.do/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Telesistema-Canal-11": {
+    "nombre": "Telesistema Canal 11",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x80ac48?autoplay=1&queue-enable=false",
+        "https://telesistema11.com.do/"
+      ],
+      "m3u8_url": [
+        "https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://telesistema11.com.do/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Color-Vision-Canal-9-TV": {
+    "nombre": "Color-Vision-Canal-9-TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x7gy059",
+        "https://colorvision.com.do/en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://colorvision.com.do/en-vivo/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Vision-3000-Antena-Latina-7TV": {
+    "nombre": "Vision 3000 - Antena Latina 7TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://teleespectador.com/vision-3000",
+        "https://www.televisiondominicanaenvivo.com/2017/02/vision-3000-canal-3-Bani.html",
+        "https://canalesdominicanos.live/merla-vision/",
+        "https://www.cosechayvictoria-radio.org/",
+        "https://www.televisiondominicanaenvivo.com/2017/01/antena-latina-canal-html-lt-ie-7.html",
+        "https://www.antena7.com.do/wp-content/themes/advantage-theme-child/wp-app/",
+        "https://www.antena7.com.do/envivo-canal-7/"
+      ],
+      "m3u8_url": [
+        "https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.antena7.com.do/envivo-canal-7/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Teleuniverso-Canal-29TV": {
+    "nombre": "Teleuniverso Canal 29 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://teleuniversotv.streamgato.us/live-stream-video-widget/teleuniversotv",
+        "https://teleuniversotv.com/en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://teleuniversotv.com/en-vivo/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Certv-Canal-4-TV-Mocavision": {
+    "nombre": "Certv-Canal-4-TV-Mocavision",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rtvd.gob.do/",
+        "https://www.mariavision.com/livemvmx",
+        "https://www.televiaducto.com.do/programacion/mocavision-canal-48.html"
+      ],
+      "m3u8_url": [
+        "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+        "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://rtvd.gob.do/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Microvision-Tele-Santo-Domingo": {
+    "nombre": "Microvision - Tele Santo Domingo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://microvision.com.do/en-vivo/",
+        "https://canalesdominicanos.live/pop-info-tv/",
+        "https://tvdominicana.net/livetv/watch/tele-santo-domingo/30",
+        "https://www.televisiondominicanaenvivo.com/2021/07/tele-santo-domingo-en-vivo.html"
+      ],
+      "m3u8_url": [
+        "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+        "https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w773661069.m3u8"
+      ],
+      "yt_id": "UCHnuPHs-WMjG9GEhJnioEXg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "do",
+    "categoría": "cristiana"
+  },
+  "GRUPO-CROM-Telemicro": {
+    "nombre": "GRUPO CROM TV - Telemicro",
+    "logo": "https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/64a254d4-c606-477d-a7b4-6c65a58a6a00/w=822,h=204",
+    "señales": {
+      "iframe_url": [
+        "https://streamunoapp.com/broadcaster/cromtv/live/player",
+        "https://www.televisiondominicanaenvivo.com/2021/07/crom-tv-en-vivo.html",
+        "https://www.cromtv.com/2021/03/crom-tv-el-canal-del-siglo-un-canal.html",
+        "https://telemicro.com.do/telemicro-en-vivo/",
+        "https://telemicro.com.do/telecentro-en-vivo/",
+        "https://telemicro.com.do/telemicro-en-vivo/",
+        "https://telemicro.com.do/digital-15-en-vivo/",
+        "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
+    "país": "do",
+    "categoría": "cristiana"
+  },
+  "Telesantodomingo-Online": {
+    "nombre": "Telesantodomingo Online",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://imagenuniversaltv.net/live-stream-video-widget/tvs",
+        "https://www.telesantodomingo.com/",
+        "https://canal22web.com/",
+        "https://tvs.com.do/",
+        "https://mxplus.tv/television/canal-22",
+        "https://canal22.org.mx/streaming-senal222.html",
+        "https://www.televisiondominicanaenvivo.com/2021/07/TVS-canal-22-en-vivo.html"
+      ],
+      "m3u8_url": [
+        "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.telesantodomingo.com/",
+    "país": "do",
+    "categoría": "cristiana"
+  },
+  "Entelevision-Villaaltagraciatv": {
+    "nombre": "Entelevision - Villaaltagraciatv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.livestreaminggroup.info/live-stream-video-widget/entelevision",
+        "https://entelevision.com/",
+        "https://www.televisiondominicanaenvivo.com/2018/07/villa-altagracia-tv.html",
+        "https://villaaltagraciatv.net/category/blog/videos/"
+      ],
+      "m3u8_url": [
+        "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8",
+        "https://inliveserver.com:1936/10016/10016/playlist.m3u8?DVR",
+        "https://inliveserver.com:1936/10016/10016/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://entelevision.com/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "atv-canal-35-cotubanamadigital": {
+    "nombre": "ahoratv canal 35 - cotubanamadigital",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.livestreaminggroup.info/live-stream-video-widget/canal35",
+        "https://www.ahoratv.com/en-vivo.php",
+        "https://telesistema11.com.do/en-vivo/",
+        "https://cotubanamadigital.com/tv/"
+      ],
+      "m3u8_url": [
+        "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
+        "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.ahoratv.com/en-vivo.php",
+    "país": "do",
+    "categoría": "news"
+  },
+  "acdmedia": {
+    "nombre": "acdmedia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.livestreaminggroup.info/live-stream-video-widget/catorcetv",
+        "https://acdmedia.com/",
+        "https://dominicanplayers.com/video-player/279/0",
+        "https://www.bonaotv.com/",
+        "https://bajotecho.tv/",
+        "https://player.teleon.tv/do/channel/bajo-techo-tv"
+      ],
+      "m3u8_url": [
+        "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://acdmedia.com/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "Proceso-teleespectador": {
+    "nombre": "Proceso - teleespectador",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.teleon.tv/do/channel/canal-25-santiago",
+        "https://teleespectador.com/dominicantork-tv",
+        "https://www.televisiondominicanaenvivo.com/2021/07/resplandor-tv-en-vivo.html",
+        "https://www.televisiondominicanaenvivo.com/2021/07/uno-mas-uno.html",
+        "https://player.teleon.tv/do/channel/romana-tv-canal-42"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCi3FV2Z4sjKMyPZfpnbQv-w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://proceso.com.do/en-vivo/",
+    "país": "do",
+    "categoría": "news"
+  },
+  "VTV-HN": {
+    "nombre": "VTV HN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1",
+        "https://www.vtv.com.hn/envivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vtv.com.hn/envivo/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "Canal-Algérie-(ENTV2)": {
+    "nombre": "Canal Algérie (ENTV2)",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=ENTV",
+        "https://www.entv.dz/live-canal-algerie/",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie",
+        "http://azrotv.com/local/gnk3/?id=328",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=thalitha",
+        "http://azrotv.com/m3u8/san-ts/?id=a3-ALGERIE",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie4",
+        "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-4",
+        "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-5",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie6",
+        "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-6",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie7",
+        "http://azrotv.com/m3u8/san-ts/?id=tv7",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie8"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.entv.dz/live-canal-algerie/",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "El-Djazairia-One": {
+    "nombre": "El Djazairia One",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/algeria_live.php?id=dzair_tv",
+        "https://www.okbob.net/article-4048490.html",
+        "https://www.elahmad.org/tv/algeria_live.php?id=el_djazairia"
+      ],
+      "m3u8_url": [
+        "http://azrotv.com/pyr/?id=http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/7528.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.okbob.net/article-4048490.html",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "El DjazairN1": {
+    "nombre": "El DjazairN1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/algeria_live.php?id=dzair_tv",
+        "https://www.okbob.net/el-djazair-n1-tv.html?_gl=1*1gj3qim*_ga*RFVZNzhYaFQ1aHVWWEtSX2xnZEVCTThHUmZyTFF4b015SGhDN0xWcTZyMWl6SDVOVWs0eFQ2TkdzUDk3MmpMQQ..",
+        "https://www.elahmad.org/tv/algeria_live.php?id=el_djazairia"
+      ],
+      "m3u8_url": [
+        "http://azrotv.com/pyr/?id=http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/7528.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.okbob.net/el-djazair-n1-tv.html?_gl=1*1gj3qim*_ga*RFVZNzhYaFQ1aHVWWEtSX2xnZEVCTThHUmZyTFF4b015SGhDN0xWcTZyMWl6SDVOVWs0eFQ2TkdzUDk3MmpMQQ..",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Samira": {
+    "nombre": "Samira",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=samira",
+        "https://www.elahmad.com/tv/samira-tv.php",
+        "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
+        "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
+        "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Anahar": {
+    "nombre": "Anahar",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=ENNAHAR",
+        "https://www.elahmad.com/tv/ennaharonline.php",
+        "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/ennaharonline.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Ère-TV": {
+    "nombre": "Ère TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html"
+      ],
+      "m3u8_url": [
+        "http://azrotv.com/pyr/?id=https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8",
+        "https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "El-Fadjr-(Fajr)": {
+    "nombre": "El Fadjr (Fajr)",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=FADJR",
+        "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html",
+        "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv",
+        "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://online.hd44.com/2021/07/el-fadjr-tv-dz-live.html",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Alhayat": {
+    "nombre": "Alhayat",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/algeria_live.php?id=elhayatonline",
+        "https://www.alhayat.tv/",
+        "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
+      ],
+      "m3u8_url": [
+        "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.alhayat.tv/",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Bahiya-TV": {
+    "nombre": "Bahiya TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=bahia",
+        "http://92.205.101.247/ar/watch/algerie/bahiyatv.php",
+        "http://azrotv.com/m3u8/san-ts/?id=bahia"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://92.205.101.247/ar/watch/algerie/bahiyatv.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Lina-Tv": {
+    "nombre": "Lina Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://azrotv.com/m3u8/san-ts/?id=AWRAAS",
+        "http://92.205.101.247/ar/watch/algerie/linatv.php",
+        "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://92.205.101.247/ar/watch/algerie/linatv.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "alwataniya": {
+    "nombre": "alwataniya",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.castr.com/live_1b36cfb0ba2411ee9700956e0f7084c8",
+        "https://elwataniatv.dz/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://elwataniatv.dz/",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Alalgerie TV": {
+    "nombre": "Alalgerie TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
+        "https://www.elahmad.com/tv/alalgerietv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/alalgerietv.php",
+    "país": "dz",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -12384,756 +12994,190 @@
       "twitch_id": ""
     },
     "sitio_oficial": "",
-    "país": "do",
+    "país": "dz",
     "categoría": "news"
   },
-    "Coral-39-orientaltv": {
-        "nombre": "Coral 39 - Orientaltv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player.html?video=x84nyz2",
-                "https://tvonline.com.do/coral-39-en-vivo/",
-                "https://cdn.essastream.com/live-stream-video/-widget/orientaltv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://orientaltv.com.do/",
-        "país": "do",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "colorvision-noticias": {
-        "nombre": "Colorvision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x7gy059",
-                "https://colorvision.com.do/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://colorvision.com.do/en-vivo/",
-        "país": "do",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "altantotv-una-nueva-mañana": {
-        "nombre": "Altantotv - Una Nueva Mañana",
-        "logo": "https://graph.facebook.com/unanuevamananaa/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://embed-altantotv.domiplay.net/",
-                "https://tv.altanto.com.do/",
-                "https://altanto.com.do/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCcL-6daOBkp8E_sCJLxCXLg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://unanuevamanana.com/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Luna-TV": {
-        "nombre": "Luna TV",
-        "logo": "https://graph.facebook.com/unanuevamananaa/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://lunatv.do/"
-            ],
-            "m3u8_url": [
-                "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
-            ],
-            "yt_id": "UCcL-6daOBkp8E_sCJLxCXLg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://lunatv.do/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "telesistema-canal-11-TV": {
-        "nombre": "Telesistema Canal 11",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x80ac48?autoplay=1&queue-enable=false",
-                "https://telesistema11.com.do/"
-            ],
-            "m3u8_url": [
-                "https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://telesistema11.com.do/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "color-vision-canal-9-TV": {
-        "nombre": "Color Vision TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x7gy059",
-                "https://colorvision.com.do/en-vivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://colorvision.com.do/en-vivo/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Algerie4-Algerie3": {
+    "nombre": "Algerie4-Algerie3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/algeria_live.php?id=algeria3",
+        "https://www.elahmad.com/tv/algeria3.php",
+        "http://www.elahmad.com/tv/arabic-tv-online.php?id=thalitha",
+        "https://www.elahmad.com/tv/algeria3.php",
+        "https://www.elahmad.com/tv/algeria_live.php?id=algerie4",
+        "https://www.elahmad.com/tv/algeria4.php",
+        "https://www.elahmad.com/tv/radiant.php?id=algeria4",
+        "/tv/mpegts_player.php?id=algerie4"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vision-3000-Antena-latina-canal-7-TV": {
-        "nombre": "Vision 3000 - Antena Latina 7TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://teleespectador.com/vision-3000",
-                "https://www.televisiondominicanaenvivo.com/2017/02/vision-3000-canal-3-Bani.html",
-                "https://canalesdominicanos.live/merla-vision/",
-                "https://www.cosechayvictoria-radio.org/",
-                "https://www.televisiondominicanaenvivo.com/2017/01/antena-latina-canal-html-lt-ie-7.html",
-                "https://www.antena7.com.do/wp-content/themes/advantage-theme-child/wp-app/",
-                "https://www.antena7.com.do/envivo-canal-7/"
-            ],
-            "m3u8_url": [
-                "https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.antena7.com.do/envivo-canal-7/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "https://www.elahmad.com/tv/algeria4.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Algerie5-Algerie6": {
+    "nombre": "Algerie5 Algerie6",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/algeria_live.php?id=algerie5",
+        "https://www.elahmad.com/tv/algeria5.php",
+        "https://www.elahmad.com/tv/radiant.php?id=algeria5",
+        "/tv/mpegts_player.php?id=algerie5",
+        "https://www.elahmad.com/tv/algeria_live.php?id=algerie6",
+        "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
+        "https://www.elahmad.com/tv/radiant.php?id=algeria6",
+        "/tv/mpegts_player.php?id=algerie6",
+        "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "teleuniverso-canal-29-TV": {
-        "nombre": "Teleuniverso Canal 29 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://teleuniversotv.streamgato.us/live-stream-video-widget/teleuniversotv",
-                "https://teleuniversotv.com/en-vivo/"
-            ],
-            "m3u8_url": [
-                "https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://teleuniversotv.com/en-vivo/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "https://www.elahmad.com/tv/algeria5.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Algerie7-Algerie8": {
+    "nombre": "Algerie7 Algerie8",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/algeria_live.php?id=algerie7",
+        "https://www.elahmad.com/tv/",
+        "https://www.elahmad.com/tv/algeria_live.php?id=algerie8",
+        "https://www.elahmad.com/tv/",
+        "https://www.elahmad.com/tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "certv-canal-4-TV-mocavision": {
-        "nombre": "Canal 4 TV Mocavision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtvd.gob.do/",
-                "https://www.mariavision.com/livemvmx",
-                "https://www.televiaducto.com.do/programacion/mocavision-canal-48.html"
-            ],
-            "m3u8_url": [
-                "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
-                "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtvd.gob.do/",
-        "país": "do",
-        "categoría": "general"
+    "sitio_oficial": "https://www.elahmad.com/tv/",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "Samira": {
+    "nombre": "Samira",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
+        "https://www.elahmad.com/tv/samira-tv.php",
+        "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
+        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=samiratv",
+        "https://www.elahmad.com/tv/radiant.php?id=samira_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "microvision-tele-santo-domingo": {
-        "nombre": "Microvision - Tele Santo Domingo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://microvision.com.do/en-vivo/",
-                "https://canalesdominicanos.live/pop-info-tv/",
-                "https://tvdominicana.net/livetv/watch/tele-santo-domingo/30",
-                "https://www.televisiondominicanaenvivo.com/2021/07/tele-santo-domingo-en-vivo.html"
-            ],
-            "m3u8_url": [
-                "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
-                "https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w773661069.m3u8"
-            ],
-            "yt_id": "UCHnuPHs-WMjG9GEhJnioEXg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://microvision.com.do/en-vivo/",
-        "país": "do",
-        "categoría": "cristiana"
+    "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
+    "país": "dz",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "crom-tv-GRUPO-telemicro": {
-        "nombre": " GRUPO CROM TV - Telemicro",
-        "logo": "https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/64a254d4-c606-477d-a7b4-6c65a58a6a00/w=822,h=204",
-        "señales": {
-            "iframe_url": [
-                "https://streamunoapp.com/broadcaster/cromtv/live/player",
-                "https://www.televisiondominicanaenvivo.com/2021/07/crom-tv-en-vivo.html",
-                "https://www.cromtv.com/2021/03/crom-tv-el-canal-del-siglo-un-canal.html",
-                "https://telemicro.com.do/telemicro-en-vivo/",
-                "https://telemicro.com.do/telecentro-en-vivo/",
-                "https://telemicro.com.do/telemicro-en-vivo/",
-                "https://telemicro.com.do/digital-15-en-vivo/",
-                "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
-        "país": "do",
-        "categoría": "cristiana"
-    },
-    "telesantodomingo-online": {
-        "nombre": "Telesantodomingo Online",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://imagenuniversaltv.net/live-stream-video-widget/tvs",
-                "https://www.telesantodomingo.com/",
-                "https://canal22web.com/",
-                "https://tvs.com.do/",
-                "https://mxplus.tv/television/canal-22",
-                "https://canal22.org.mx/streaming-senal222.html",
-                "https://www.televisiondominicanaenvivo.com/2021/07/TVS-canal-22-en-vivo.html"
-            ],
-            "m3u8_url": [
-                "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telesantodomingo.com/",
-        "país": "do",
-        "categoría": "cristiana"
-    },
-    "entelevision-villaaltagraciatv": {
-        "nombre": "Entelevision - Villaaltagraciatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.livestreaminggroup.info/live-stream-video-widget/entelevision",
-                "https://entelevision.com/",
-                "https://www.televisiondominicanaenvivo.com/2018/07/villa-altagracia-tv.html",
-                "https://villaaltagraciatv.net/category/blog/videos/"
-            ],
-            "m3u8_url": [
-                "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8",
-                "https://inliveserver.com:1936/10016/10016/playlist.m3u8?DVR",
-                "https://inliveserver.com:1936/10016/10016/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://entelevision.com/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "atv-canal-35-cotubanamadigital": {
-        "nombre": "ahoratv canal 35 - cotubanamadigital",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.livestreaminggroup.info/live-stream-video-widget/canal35",
-                "https://www.ahoratv.com/en-vivo.php",
-                "https://telesistema11.com.do/en-vivo/",
-                "https://cotubanamadigital.com/tv/"
-            ],
-            "m3u8_url": [
-                "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
-                "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ahoratv.com/en-vivo.php",
-        "país": "do",
-        "categoría": "news"
-    },
-    "acdmedia-online": {
-        "nombre": "acdmedia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.livestreaminggroup.info/live-stream-video-widget/catorcetv",
-                "https://acdmedia.com/",
-                "https://dominicanplayers.com/video-player/279/0",
-                "https://www.bonaotv.com/",
-                "https://bajotecho.tv/",
-                "https://player.teleon.tv/do/channel/bajo-techo-tv"
-            ],
-            "m3u8_url": [
-                "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://acdmedia.com/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "proceso-teleespectador": {
-        "nombre": "Proceso - teleespectador",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.teleon.tv/do/channel/canal-25-santiago",
-                "https://teleespectador.com/dominicantork-tv",
-                "https://www.televisiondominicanaenvivo.com/2021/07/resplandor-tv-en-vivo.html",
-                "https://www.televisiondominicanaenvivo.com/2021/07/uno-mas-uno.html",
-                "https://player.teleon.tv/do/channel/romana-tv-canal-42"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCi3FV2Z4sjKMyPZfpnbQv-w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://proceso.com.do/en-vivo/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "vtv-g": {
-        "nombre": "VTV HN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1",
-                "https://www.vtv.com.hn/envivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vtv.com.hn/envivo/",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "canal-algerie-tv": {
-        "nombre": "Canal Algérie (ENTV2)",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=ENTV",
-                "https://www.entv.dz/live-canal-algerie/",
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
-                "http://azrotv.com/local/gnk3/?id=328",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=thalitha",
-                "http://azrotv.com/m3u8/san-ts/?id=a3-ALGERIE",
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie4",
-                "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-4",
-                "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-5",
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie6",
-                "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-6",
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie7",
-                "http://azrotv.com/m3u8/san-ts/?id=tv7",
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.entv.dz/live-canal-algerie/",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "el-djazairia-one-tv": {
-        "nombre": "El Djazairia One",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=dzair_tv",
-                "https://www.okbob.net/article-4048490.html",
-                "https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
-            ],
-            "m3u8_url": [
-                "http://azrotv.com/pyr/?id=http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/7528.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.okbob.net/article-4048490.html",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "ElDjazairN1-tv": {
-        "nombre": "El DjazairN1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=dzair_tv",
-                "https://www.okbob.net/el-djazair-n1-tv.html?_gl=1*1gj3qim*_ga*RFVZNzhYaFQ1aHVWWEtSX2xnZEVCTThHUmZyTFF4b015SGhDN0xWcTZyMWl6SDVOVWs0eFQ2TkdzUDk3MmpMQQ..",
-                "https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
-            ],
-            "m3u8_url": [
-                "http://azrotv.com/pyr/?id=http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/7528.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.okbob.net/el-djazair-n1-tv.html?_gl=1*1gj3qim*_ga*RFVZNzhYaFQ1aHVWWEtSX2xnZEVCTThHUmZyTFF4b015SGhDN0xWcTZyMWl6SDVOVWs0eFQ2TkdzUDk3MmpMQQ..",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "samira-tv": {
-        "nombre": "samira tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=samira",
-                "https://www.elahmad.com/tv/samira-tv.php",
-                "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
-                "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
-                "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "anahar-tv": {
-        "nombre": "Anahar tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=ENNAHAR",
-                "https://www.elahmad.com/tv/ennaharonline.php",
-                "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/ennaharonline.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "Ère-tv": {
-        "nombre": "Ère TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html"
-            ],
-            "m3u8_url": [
-                "http://azrotv.com/pyr/?id=https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8",
-                "https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "El-Fadjr-tv": {
-        "nombre": "El Fadjr (Fajr) ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=FADJR",
-                "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html",
-                "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv",
-                "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://online.hd44.com/2021/07/el-fadjr-tv-dz-live.html",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "alhayat-tv": {
-        "nombre": "Alhayat tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=elhayatonline",
-                "https://www.alhayat.tv/",
-                "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
-            ],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.alhayat.tv/",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "bahiya-tv": {
-        "nombre": "bahiya tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=bahia",
-                "http://92.205.101.247/ar/watch/algerie/bahiyatv.php",
-                "http://azrotv.com/m3u8/san-ts/?id=bahia"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://92.205.101.247/ar/watch/algerie/bahiyatv.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "lina-tv": {
-        "nombre": "Lina Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://azrotv.com/m3u8/san-ts/?id=AWRAAS",
-                "http://92.205.101.247/ar/watch/algerie/linatv.php",
-                "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://92.205.101.247/ar/watch/algerie/linatv.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "alwataniya": {
-        "nombre": "alwataniya",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.castr.com/live_1b36cfb0ba2411ee9700956e0f7084c8",
-                "https://elwataniatv.dz/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://elwataniatv.dz/",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "alalgerietv-tv": {
-        "nombre": "Alalgerie TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
-                "https://www.elahmad.com/tv/alalgerietv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alalgerietv.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "algerie3-tv": {
-        "nombre": "Algerie3 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algeria3",
-                "https://www.elahmad.com/tv/algeria3.php",
-                "http://www.elahmad.com/tv/arabic-tv-online.php?id=thalitha"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/algeria3.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "algerie-tv": {
-        "nombre": "Algerie4 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie4",
-                "https://www.elahmad.com/tv/algeria4.php",
-                "https://www.elahmad.com/tv/radiant.php?id=algeria4",
-                "/tv/mpegts_player.php?id=algerie4"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/algeria4.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "algerie5-tv": {
-        "nombre": "Algerie5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie5",
-                "https://www.elahmad.com/tv/algeria5.php",
-                "https://www.elahmad.com/tv/radiant.php?id=algeria5",
-                "/tv/mpegts_player.php?id=algerie5"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/algeria5.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "algerie6-tv": {
-        "nombre": "Algerie6",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie6",
-                "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
-                "https://www.elahmad.com/tv/radiant.php?id=algeria6",
-                "/tv/mpegts_player.php?id=algerie6"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "algerie7-tv": {
-        "nombre": "Algerie7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie7",
-                "https://www.elahmad.com/tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "algerie8-tv": {
-        "nombre": "Algerie8",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=algerie8",
-                "https://www.elahmad.com/tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "dz",
-        "categoría": "news"
-    },
-    "samira-tv": {
-        "nombre": "Samira",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
-                "https://www.elahmad.com/tv/samira-tv.php",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=samiratv",
-                "https://www.elahmad.com/tv/radiant.php?id=samira_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
-        "país": "dz",
-        "categoría": "news"
-    },
+    "sitio_oficial": "",
+    "país": "dz",
+    "categoría": "news"
+  },
     "echorouk-new-tv": {
         "nombre": "Echorouk New",
         "logo": "",
