@@ -10468,15 +10468,17 @@
     "categoría": "news"
   },
   "el-tiempo": {
-    "nombre": "EL TIEMPO - Canal 45 TV",
+    "nombre": "EL TIEMPO - Canal PyC - Canal 45 TV",
     "logo": "https://diretele.com/wp-content/uploads/2019/03/Canal-45-Ja%C3%A9n-en-directo-100x70.png",
     "señales": {
       "iframe_url": [
+        "https://canalpyc.com/",
         "https://globoview.cam/directorio/colombia/canal-8-tv/",
         "https://wsdeportes.net/?v=dsportsmas",
         "https://www.eltiempo.com/"
       ],
       "m3u8_url": [
+        "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
         "https://movil.ejeserver.com/live/canal8tv.m3u8",
         "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
         "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
@@ -10899,13 +10901,19 @@
     "categoría": "news"
   },
   "capital-tv": {
-    "nombre": "Capital TV",
+    "nombre": "Capital - Canal Mundo Vision",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://canalmundovision.com/",
+        "https://mdstrm.com/live-stream/6952dc88cb62083467eb6ab4?player=6952e59cd2f34633db744de3",
+        "https://www.canalcapital.gov.co/en-vivo-canal-capital/",
         "https://www.canalcapital.gov.co/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
+        "https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream/6952dc88cb62083467eb6ab4/publish/media_2500.m3u8?aid=694e81af27a64bef4f1ec07c&dnt=true&uid=daP3MwPxOlRyHr9FUza75M99EeOo14J5&sid=1RT1EU3dhojzQiq9nAIAowtUpu8XBQiA&pid=pppcVNzKL5lDAeUcn1KpjjnhRFnxxMmN&ref=mdstrm.com&ext_pb=0&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1780240235017&ot=Tr3sQlXwaq5WmWVCbK_Kyg&proto=https&pz=us&CMCD=cid%3D%226952dc88cb62083467eb6ab4%22%2Cmtp%3D5600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22pppcVNzKL5lDAeUcn1KpjjnhRFnxxMmN%22"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
