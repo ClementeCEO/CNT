@@ -12813,11 +12813,11 @@
     "señales": {
       "iframe_url": [
         "http://azrotv.com/m3u8/san-ts/?id=samira",
-        "https://www.elahmad.com/tv/samira-tv.php",
-        "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
-        "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
-        "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
-        "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv"
+        "https://www.elahmad.org/tv/samira-tv.php",
+        "https://www.elahmad.org/tv/algeria_live.php?id=ennahartv",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=samiratv",
+        "https://www.elahmad.org/tv/algeria_live.php?id=samira_tv",
+        "https://www.elahmad.org/tv/algeria_live.php?id=samira_tv"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -12825,7 +12825,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/samira-tv.php",
     "país": "dz",
     "categoría": "news"
   },
@@ -12835,15 +12835,16 @@
     "señales": {
       "iframe_url": [
         "http://azrotv.com/m3u8/san-ts/?id=ENNAHAR",
-        "https://www.elahmad.com/tv/ennaharonline.php",
-        "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
+        "https://www.elahmad.org/tv/ennaharonline.php",
+        "https://www.elahmad.org/tv/algeria_live.php?id=ennahartv"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/ennaharonline.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/ennaharonline.php",
     "país": "dz",
     "categoría": "news"
   },
@@ -12874,8 +12875,8 @@
       "iframe_url": [
         "http://azrotv.com/m3u8/san-ts/?id=FADJR",
         "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html",
-        "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv",
-        "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv"
+        "https://www.elahmad.org/tv/algeria_live.php?id=el_fadjr_tv",
+        "https://www.elahmad.org/tv/algeria_live.php?id=el_fadjr_tv"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -12892,7 +12893,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/algeria_live.php?id=elhayatonline",
+        "https://www.elahmad.org/tv/algeria_live.php?id=elhayatonline",
         "https://www.alhayat.tv/",
         "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
       ],
@@ -12969,8 +12970,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
-        "https://www.elahmad.com/tv/alalgerietv.php"
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie",
+        "https://www.elahmad.org/tv/alalgerietv.php"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -12978,7 +12979,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/alalgerietv.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/alalgerietv.php",
     "país": "dz",
     "categoría": "news"
   },
@@ -13077,13 +13078,13 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/algeria_live.php?id=algeria3",
-        "https://www.elahmad.com/tv/algeria3.php",
-        "http://www.elahmad.com/tv/arabic-tv-online.php?id=thalitha",
-        "https://www.elahmad.com/tv/algeria3.php",
-        "https://www.elahmad.com/tv/algeria_live.php?id=algerie4",
-        "https://www.elahmad.com/tv/algeria4.php",
-        "https://www.elahmad.com/tv/radiant.php?id=algeria4",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algeria3",
+        "https://www.elahmad.org/tv/algeria3.php",
+        "http://www.elahmad.org/tv/arabic-tv-online.php?id=thalitha",
+        "https://www.elahmad.org/tv/algeria3.php",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie4",
+        "https://www.elahmad.org/tv/algeria4.php",
+        "https://www.elahmad.org/tv/radiant.php?id=algeria4",
         "/tv/mpegts_player.php?id=algerie4"
       ],
       "m3u8_url": [],
@@ -13092,7 +13093,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/algeria4.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/algeria4.php",
     "país": "dz",
     "categoría": "news"
   },
@@ -13101,15 +13102,15 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/algeria_live.php?id=algerie5",
-        "https://www.elahmad.com/tv/algeria5.php",
-        "https://www.elahmad.com/tv/radiant.php?id=algeria5",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie5",
+        "https://www.elahmad.org/tv/algeria5.php",
+        "https://www.elahmad.org/tv/radiant.php?id=algeria5",
         "/tv/mpegts_player.php?id=algerie5",
-        "https://www.elahmad.com/tv/algeria_live.php?id=algerie6",
-        "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
-        "https://www.elahmad.com/tv/radiant.php?id=algeria6",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie6",
+        "https://www.elahmad.org/tv/tv6-algerie-en-direct-live.php",
+        "https://www.elahmad.org/tv/radiant.php?id=algeria6",
         "/tv/mpegts_player.php?id=algerie6",
-        "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
+        "https://www.elahmad.org/tv/tv6-algerie-en-direct-live.php",
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -13117,7 +13118,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/algeria5.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/algeria5.php",
     "país": "dz",
     "categoría": "news"
   },
@@ -13126,11 +13127,11 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/algeria_live.php?id=algerie7",
-        "https://www.elahmad.com/tv/",
-        "https://www.elahmad.com/tv/algeria_live.php?id=algerie8",
-        "https://www.elahmad.com/tv/",
-        "https://www.elahmad.com/tv/"
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie7",
+        "https://www.elahmad.org/tv/",
+        "https://www.elahmad.org/tv/algeria_live.php?id=algerie8",
+        "https://www.elahmad.org/tv/",
+        "https://www.elahmad.org/tv/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -13138,7 +13139,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/",
+    "sitio_oficial": "https://www.elahmad.org/tv/",
     "país": "dz",
     "categoría": "news"
   },
@@ -13147,11 +13148,11 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
-        "https://www.elahmad.com/tv/samira-tv.php",
-        "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
-        "https://www.elahmad.com/tv/live/shahid_shaka.php?id=samiratv",
-        "https://www.elahmad.com/tv/radiant.php?id=samira_tv"
+        "https://www.elahmad.org/tv/algeria_live.php?id=samira_tv",
+        "https://www.elahmad.org/tv/samira-tv.php",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=samiratv",
+        "https://www.elahmad.org/tv/live/shahid_shaka.php?id=samiratv",
+        "https://www.elahmad.org/tv/radiant.php?id=samira_tv"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -13159,7 +13160,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
+    "sitio_oficial": "https://www.elahmad.org/tv/samira-tv.php",
     "país": "dz",
     "categoría": "news"
   },
@@ -13183,11 +13184,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=echorouk_news",
-                "https://www.elahmad.com/tv/echoroukonline.php",
-                "https://www.elahmad.com/tv/algeria_live.php?id=echorouk_tvhd",
-                "https://www.elahmad.com/tv/radiant.php?id=echorouk_news",
-                "https://www.elahmad.com/tv/radiant.php?id=echorouk_tvhd"
+                "https://www.elahmad.org/tv/algeria_live.php?id=echorouk_news",
+                "https://www.elahmad.org/tv/echoroukonline.php",
+                "https://www.elahmad.org/tv/algeria_live.php?id=echorouk_tvhd",
+                "https://www.elahmad.org/tv/radiant.php?id=echorouk_news",
+                "https://www.elahmad.org/tv/radiant.php?id=echorouk_tvhd"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -13195,7 +13196,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/echoroukonline.php",
+        "sitio_oficial": "https://www.elahmad.org/tv/echoroukonline.php",
         "país": "dz",
         "categoría": "news"
     },
@@ -13204,8 +13205,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia",
-                "https://www.elahmad.com/tv/"
+                "https://www.elahmad.org/tv/algeria_live.php?id=el_djazairia",
+                "https://www.elahmad.org/tv/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -13213,7 +13214,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "sitio_oficial": "https://www.elahmad.org/tv/",
         "país": "dz",
         "categoría": "news"
     },
@@ -13224,9 +13225,9 @@
             "iframe_url": [
                 "https://ennahar.dzsecurity.net/embed/player.php?v=1",
                 "https://www.ennaharonline.com/live/",
-                "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
-                "https://www.elahmad.com/tv/radiant.php?id=ennahartv1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alnahartvnews"
+                "https://www.elahmad.org/tv/algeria_live.php?id=ennahartv",
+                "https://www.elahmad.org/tv/radiant.php?id=ennahartv1",
+                "https://www.elahmad.org/tv/arabic-tv-online.php?id=alnahartvnews"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -13234,7 +13235,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.ennaharonline.com/live/",
+        "sitio_oficial": "https://www.ennaharonline.org/live/",
         "país": "dz",
         "categoría": "news"
     },
