@@ -30034,6 +30034,719 @@
     "país": "ph",
     "categoría": "news"
   },
+  "City-21-News": {
+    "nombre": "City 21 News",
+    "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCB-8E662xOk1I3-wdhTMNiw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "AlQuranHD": {
+    "nombre": "AlQuranHD القران الكريم",
+    "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.aloula.sa/ar/live/qurantvsa"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCraPI8sg-eiNzUrurxhKeEQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
+    "país": "pk",
+    "categoría": "religious"
+  },
+  "365news-talonnews_hd": {
+    "nombre": "365news - Talon News HD",
+    "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://365news.pk/watch-live/",
+        "https://365news.pk/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCooaD1RPqtX2mY4yNc1PPqw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "bolnewsofficial-arynews-arydigital": {
+    "nombre": "BOL News - Arynews - Arydigital",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://live.arynews.tv/",
+        "https://live.arydigital.tv/",
+        "https://www.bolnews.com/Live/",
+        "https://www.shaamtv.com/?c=116#google_vignette"
+      ],
+      "m3u8_url": [
+        "https://arydigital.aryzap.com/451ddb230f5395b9c95c091584181047/681d10d5/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_360p.m3u8?uuid=57b1259e-d3d7-4607-92c0-b6871e426d50&isSubM3u8=1"
+      ],
+      "yt_id": "UCz2yxQJZgiB_5elTzqV7FiQ",
+      "yt_embed": "YirtbHvyaxY?",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.bolnews.com/live/",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "samaatvnews": {
+    "nombre": "SAMAA TV",
+    "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.samaa.tv/live",
+        "https://hamariweb.com/pakistan-tv-channels/sama_tv.aspx",
+        "https://www.shaamtv.com/?c=3",
+        "https://tamashaweb.com/samaa-tv-live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCJekW1Vj5fCVEGdye_mBN6Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://live.samaa.tv/",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "Dunya-News-Official": {
+    "nombre": "Dunya News Official",
+    "logo": "https://graph.facebook.com/dunyanews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.shaamtv.com/?c=126#google_vignette",
+        "https://hamariweb.com/pakistan-tv-channels/dawn_news.aspx",
+        "https://www.dawnnews.tv/watch-live"
+      ],
+      "m3u8_url": [
+        "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+        "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+      ],
+      "yt_id": "UCnMBV5Iw4WqKILKue1nP6Hg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://dunyanews.tv/live/",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "VSH-News-Nonton-langsung": {
+    "nombre": "VSH News Nonton langsung",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/vsh-news.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UC8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+        "https://www.desifree.tv/vsh-news/#google_vignette",
+        "https://vshnews.tv/",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULF8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC8Y2g1wCIU3zUB6WGnEwtYg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://id.trefoil.tv/2342-vsh-news.html",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "raah-tehzeebtv-in-wwon48": {
+    "nombre": "RaahTV - Tehzeebtv-in - NY48 Wwon48",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/raah-tv.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.wonnewyork.net/wwon48",
+        "http://vod.mvcc.video:8080/CablecastPublicSite/watch-now?site=4",
+        "https://www.lordbloodrah.com/tv-schedule.html",
+        "https://www.tehzeebtv.in/live-streaming/",
+        "https://www.desifree.tv/raah-tv/#google_vignette",
+        "https://www.shaamtv.com/?c=83",
+        "https://www.facebook.com/RaahTVPakistan",
+        "https://www.etv.co.in/",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULFdadSJuBe7q6Y03MAlVDyhA&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCdadSJuBe7q6Y03MAlVDyhA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://id.trefoil.tv/2295-raah-tv.html",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "Madanichannel": {
+    "nombre": "Madani - Channel",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/madani-channel.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+        "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://id.trefoil.tv/559-madani-channel.html",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "ptv-Global-saudiatv": {
+    "nombre": "Ptv Global - Saudiatv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.desifree.tv/ptv-world/#google_vignette",
+        "https://www.ptvsportstv.com.pk/ptv-sports-live-tv/",
+        "https://www.aloula.sa/live/saudiatv",
+        "https://ptv.com.pk/ptvGlobal/globallive",
+        "https://www.facebook.com/Globalptv/?locale=es_LA"
+      ],
+      "m3u8_url": [
+        "https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8"
+      ],
+      "yt_id": "UCj-e7yp2_-qE-TPritppZGQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@PTVWorldOfficial",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "BinoriaMedia-humtv-92-news-uk": {
+    "nombre": "Binoria Media - Humtv - 92news-uk",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://hum.tv/live/",
+        "https://www.mjunoon.tv/binoria-media-live",
+        "https://www.mjunoon.tv/watch-live-tv-channels",
+        "https://92newshd.tv/livestream-channel/92-news-uk",
+        "https://92newshd.tv/live",
+        "https://webtv.92newshd.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCsgC5cbz3DE2Shh34gNKiog",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@92newshdTv/streams",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "aaj-news-urdu-news18-Express-News": {
+    "nombre": "Aaj News - Urdunews18- Express News",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/aaj-tv.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgBAPAcLsh_MAPvJprIz89w&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+        "https://english.aaj.tv/watch-live/",
+        "https://www.aaj.tv/videos",
+        "https://urdu.news18.com/live-tv/",
+        "https://id.trefoil.tv/2352-aaj-news.html",
+        "https://www.express.pk/live",
+        "https://www.express.pk/#google_vignette",
+        "https://expressnews.uk.com/express-news-live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCgBAPAcLsh_MAPvJprIz89w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.aaj.tv/",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "GEOTV": {
+    "nombre": "GEOTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://live.geo.tv/",
+        "https://www.shaamtv.com/?c=68",
+        "https://tamashaweb.com/geo-news-live"
+      ],
+      "m3u8_url": [
+        "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
+        "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://live.geo.tv/",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "Venus-TV": {
+    "nombre": "Venus TV",
+    "logo": "https://trefoil.tv/uploads/posts/2023-10/thumbs/venus-hd.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpV-fDDudZ8i8_incLt3mqw&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
+        "https://www.desifree.tv/venus-tv/",
+        "https://www.venustv.net/",
+        "https://dailypakistan.com.pk/#google_vignette"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://trefoil.tv/3013-venus-tv.html",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "Dawn News": {
+    "nombre": "Dawn News",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/dawnnews.webp",
+    "señales": {
+      "iframe_url": [
+        "https://dunyanews.tv/live/",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCaxR-D8FjZ-2otbU0_Y2grg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCaxR-D8FjZ-2otbU0_Y2grg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://id.trefoil.tv/2348-dawn-news.html",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "city-42": {
+    "nombre": "City 42 Pakistan",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.desifree.tv/city-42-live-2/",
+        "https://www.shaamtv.com/?c=83",
+        "https://hamariweb.com/pakistan-tv-channels",
+        "https://www.desifree.tv/channel5/",
+        "https://www.urdupoint.com/tv/news-channels/capital-tv-live.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCdTup4kK7Ze08KYp7ReiuMw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@City42Lahore",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "Channel-Five-Pakistan": {
+    "nombre": "Channel Five Pakistan",
+    "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.mjunoon.tv/embedplayer/channel-five-live.html",
+        "https://channelfivepakistan.tv/live/",
+        "https://www.desifree.tv/channel5/",
+        "https://www.mjunoon.tv/embedplayer/channel-five-live.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://id.trefoil.tv/2893-channel-5.html",
+    "país": "pk",
+    "categoría": "news"
+  },
+  "PalestineHD": {
+    "nombre": "Palestine HD",
+    "logo": "https://www.appcreator24.com/srv/imgs/seccs/28830163_ico.png?ts=1698903049",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://pbc.furrera.ps/palestinehd/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/Iqbalbala/INTEKTV/blob/main/IKT-VI-ANDO",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Paroledivita": {
+    "nombre": "Paroledivita",
+    "logo": "https://paroledivita.org/images/logo/logo_grey_h50.svg",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/chunklist_w986658032.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://paroledivita.org/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Musawa-Channel": {
+    "nombre": "Musawa Channel",
+    "logo": "https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8",
+        "http://htvpalsat.mada.ps:8888/musawa/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.musawachannel.com/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Alghad": {
+    "nombre": "Alghad",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCH4UNKBHSNwstan99YDoCVg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.alghad.tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Falastini": {
+    "nombre": "Falastini",
+    "logo": "https://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png",
+    "señales": {
+      "iframe_url": [
+        "https://api.tvplayer.online/full_player.php?app=paltv-ssl&autostart=yes"
+      ],
+      "m3u8_url": [
+        "https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8?nimblesessionid=1477"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.falastini.tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Paltoday": {
+    "nombre": "Paltoday",
+    "logo": "https://paltodaytv.com/style/assets/images/logo.png",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://paltodaytv.com/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "fajer-tv-international-1": {
+    "nombre": "Al Fajer TV International",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/watchtv.php?id=alfajertv",
+        "https://www.elahmad.org/tv/watchtv.php?id=alfajertv2",
+        "https://www.elahmad.org/tv/watchtv.php?id=alfajertv3",
+        "https://www.elahmad.org/tv/watchtv.php?id=alfajertv4",
+        "https://www.elahmad.org/tv/watchtv.php?id=alfajertv5c",
+        "https://www.elahmad.org/tv/alfajertv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tv.alfajertv.com/live-international.php",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Quds": {
+    "nombre": "Quds",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=qudstv1",
+        "https://www.elahmad.org/tv/radiant.php?id=kudustv",
+        "https://www.elahmad.org/tv/qudstv.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://qudstv.co/live",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Alaqsa TV Live": {
+    "nombre": "Alaqsa TV Live",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=aqsatv1",
+        "https://www.elahmad.org/tv/cloudflare.php?id=aqsatv1",
+        "https://www.elahmad.org/tv/watchtv.php?id=aqsatv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/alaqsa_tv_live.php",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Palestinian": {
+    "nombre": "Palestinian",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=palestinian_tv" 
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Maannews1": {
+    "nombre": "Maannews1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/radiant.php?id=maannews1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Najah": {
+    "nombre": "Najah",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=najah_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Rajeen": {
+    "nombre": "Rajeen",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=rajeen_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Makan": {
+    "nombre": "Makan",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=makan"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Watar": {
+    "nombre": "Watar",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=watartv_1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Kolalnas": {
+    "nombre": "Kolalnas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=kolalnas_tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.com/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Almadina": {
+    "nombre": "Almadina",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=almadina"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "i24news": {
+    "nombre": "i24news",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/watchtv.php?id=i24ar",
+        "https://www.elahmad.org/tv/watchtv.php?id=i24news_ar",
+        "https://www.elahmad.org/tv/watchtv.php?id=i24news_en",
+        "https://www.elahmad.org/tv/watchtv.php?id=i24news_fr"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/watchtv.php?id=i24ar",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Nablus": {
+    "nombre": "Nablus",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=nablus_live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ps",
+    "categoría": "news"
+  },
+  "Tokon-Line": {
+    "nombre": "Tokon Line",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "tokonline"
+    },
+    "sitio_oficial": "https://tokon-line.com/",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Asfaltotv-TV": {
+    "nombre": "Asfaltotv TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/asfaltotv",
+    "país": "pt",
+    "categoría": "news"
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -30046,722 +30759,9 @@
       "twitch_id": ""
     },
     "sitio_oficial": "",
-    "país": "pk",
+    "país": "pt",
     "categoría": "news"
   },
-    "city21": {
-        "nombre": "City 21 News",
-        "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCB-8E662xOk1I3-wdhTMNiw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "alquranhd": {
-        "nombre": "AlQuranHD القران الكريم",
-        "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.aloula.sa/ar/live/qurantvsa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCraPI8sg-eiNzUrurxhKeEQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
-        "país": "pk",
-        "categoría": "religious"
-    },
-    "365news-talonnews_hd": {
-        "nombre": "365news - Talon News HD",
-        "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://365news.pk/watch-live/",
-                "https://365news.pk/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCooaD1RPqtX2mY4yNc1PPqw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "bolnewsofficial-arynews-arydigital": {
-        "nombre": "BOL News - Arynews - Arydigital",
-        "logo": "https://graph.facebook.com/BOLNETWORK/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://live.arynews.tv/",
-                "https://live.arydigital.tv/",
-                "https://www.bolnews.com/Live/",
-                "https://www.shaamtv.com/?c=116#google_vignette"
-            ],
-            "m3u8_url": [
-                "https://arydigital.aryzap.com/451ddb230f5395b9c95c091584181047/681d10d5/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_360p.m3u8?uuid=57b1259e-d3d7-4607-92c0-b6871e426d50&isSubM3u8=1"
-            ],
-            "yt_id": "UCz2yxQJZgiB_5elTzqV7FiQ",
-            "yt_embed": "YirtbHvyaxY?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bolnews.com/live/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "samaatvnews": {
-        "nombre": "SAMAA TV",
-        "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.samaa.tv/live",
-                "https://hamariweb.com/pakistan-tv-channels/sama_tv.aspx",
-                "https://www.shaamtv.com/?c=3",
-                "https://tamashaweb.com/samaa-tv-live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCJekW1Vj5fCVEGdye_mBN6Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://live.samaa.tv/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "dunyanewsofficial": {
-        "nombre": "Dunya News",
-        "logo": "https://graph.facebook.com/dunyanews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.shaamtv.com/?c=126#google_vignette",
-                "https://hamariweb.com/pakistan-tv-channels/dawn_news.aspx",
-                "https://www.dawnnews.tv/watch-live"
-            ],
-            "m3u8_url": [
-                "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
-                "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
-            ],
-            "yt_id": "UCnMBV5Iw4WqKILKue1nP6Hg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://dunyanews.tv/live/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "vsh-news": {
-        "nombre": "VSH News Nonton langsung",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/vsh-news.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UC8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
-                "https://www.desifree.tv/vsh-news/#google_vignette",
-                "https://vshnews.tv/",
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULF8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC8Y2g1wCIU3zUB6WGnEwtYg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://id.trefoil.tv/2342-vsh-news.html",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "raah-tehzeebtv-in-wwon48": {
-        "nombre": "RaahTV - Tehzeebtv-in - NY48 Wwon48",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/raah-tv.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.wonnewyork.net/wwon48",
-                "http://vod.mvcc.video:8080/CablecastPublicSite/watch-now?site=4",
-                "https://www.lordbloodrah.com/tv-schedule.html",
-                "https://www.tehzeebtv.in/live-streaming/",
-                "https://www.desifree.tv/raah-tv/#google_vignette",
-                "https://www.shaamtv.com/?c=83",
-                "https://www.facebook.com/RaahTVPakistan",
-                "https://www.etv.co.in/",
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULFdadSJuBe7q6Y03MAlVDyhA&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCdadSJuBe7q6Y03MAlVDyhA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://id.trefoil.tv/2295-raah-tv.html",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "madani-channel": {
-        "nombre": "Madanichannel",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/madani-channel.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
-                "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://id.trefoil.tv/559-madani-channel.html",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "ptv-Global-saudiatv": {
-        "nombre": "Ptv Global - Saudiatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.desifree.tv/ptv-world/#google_vignette",
-                "https://www.ptvsportstv.com.pk/ptv-sports-live-tv/",
-                "https://www.aloula.sa/live/saudiatv",
-                "https://ptv.com.pk/ptvGlobal/globallive",
-                "https://www.facebook.com/Globalptv/?locale=es_LA"
-            ],
-            "m3u8_url": [
-                "https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8"
-            ],
-            "yt_id": "UCj-e7yp2_-qE-TPritppZGQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@PTVWorldOfficial",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "BinoriaMedia-humtv-92-news-uk": {
-        "nombre": "Binoria Media - Humtv - 92news-uk",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hum.tv/live/",
-                "https://www.mjunoon.tv/binoria-media-live",
-                "https://www.mjunoon.tv/watch-live-tv-channels",
-                "https://92newshd.tv/livestream-channel/92-news-uk",
-                "https://92newshd.tv/live",
-                "https://webtv.92newshd.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCsgC5cbz3DE2Shh34gNKiog",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@92newshdTv/streams",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "aaj-news-urdu-news18-Express-News": {
-        "nombre": "Aaj News - Urdunews18- Express News",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/aaj-tv.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgBAPAcLsh_MAPvJprIz89w&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
-                "https://english.aaj.tv/watch-live/",
-                "https://www.aaj.tv/videos",
-                "https://urdu.news18.com/live-tv/",
-                "https://id.trefoil.tv/2352-aaj-news.html",
-                "https://www.express.pk/live",
-                "https://www.express.pk/#google_vignette",
-                "https://expressnews.uk.com/express-news-live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCgBAPAcLsh_MAPvJprIz89w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aaj.tv/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "geo": {
-        "nombre": "GEOTV",
-        "logo": "https://www.geo.tv/assets/front/images/gn-icons/57x57.png",
-        "señales": {
-            "iframe_url": [
-                "https://live.geo.tv/",
-                "https://www.shaamtv.com/?c=68",
-                "https://tamashaweb.com/geo-news-live"
-            ],
-            "m3u8_url": [
-                "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
-                "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://live.geo.tv/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "venus-tv": {
-        "nombre": "Venus TV",
-        "logo": "https://trefoil.tv/uploads/posts/2023-10/thumbs/venus-hd.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpV-fDDudZ8i8_incLt3mqw&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org",
-                "https://www.desifree.tv/venus-tv/",
-                "https://www.venustv.net/",
-                "https://dailypakistan.com.pk/#google_vignette"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCpV-fDDudZ8i8_incLt3mqw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://trefoil.tv/3013-venus-tv.html",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "dawn-news": {
-        "nombre": "Dawn News",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/dawnnews.webp",
-        "señales": {
-            "iframe_url": [
-                 "https://dunyanews.tv/live/",
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCaxR-D8FjZ-2otbU0_Y2grg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCaxR-D8FjZ-2otbU0_Y2grg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://id.trefoil.tv/2348-dawn-news.html",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "city-42": {
-        "nombre": "City 42 Pakistan",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.desifree.tv/city-42-live-2/",
-                "https://www.shaamtv.com/?c=83",
-                "https://hamariweb.com/pakistan-tv-channels",
-                "https://www.desifree.tv/channel5/",
-                "https://www.urdupoint.com/tv/news-channels/capital-tv-live.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCdTup4kK7Ze08KYp7ReiuMw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@City42Lahore",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "channel-5": {
-        "nombre": "Channel Five Pakistan",
-        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.mjunoon.tv/embedplayer/channel-five-live.html",
-                "https://channelfivepakistan.tv/live/",
-                "https://www.desifree.tv/channel5/",
-                "https://www.mjunoon.tv/embedplayer/channel-five-live.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://id.trefoil.tv/2893-channel-5.html",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "palestine-HD-tv": {
-        "nombre": "Palestine HD",
-        "logo": "https://www.appcreator24.com/srv/imgs/seccs/28830163_ico.png?ts=1698903049",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://pbc.furrera.ps/palestinehd/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Iqbalbala/INTEKTV/blob/main/IKT-VI-ANDO",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "paroledivita-tv": {
-        "nombre": "Paroledivita",
-        "logo": "https://paroledivita.org/images/logo/logo_grey_h50.svg",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/chunklist_w986658032.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://paroledivita.org/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "musawa-channel-tv": {
-        "nombre": "Musawa Channel",
-        "logo": "https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://pbc.furrera.ps/musawahd/tracks-v2a1/mono.m3u8",
-                "http://htvpalsat.mada.ps:8888/musawa/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.musawachannel.com/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "alghad-tv": {
-        "nombre": "Alghad",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCH4UNKBHSNwstan99YDoCVg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.alghad.tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "falastini-tv": {
-        "nombre": "Falastini",
-        "logo": "https://www.falastini.tv/wp-content/uploads/2021/07/Logo-White-PNG-600.png",
-        "señales": {
-            "iframe_url": [
-                "https://api.tvplayer.online/full_player.php?app=paltv-ssl&autostart=yes"
-            ],
-            "m3u8_url": [
-                "https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8?nimblesessionid=1477"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.falastini.tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "paltoday-tv": {
-        "nombre": "Paltoday",
-        "logo": "https://paltodaytv.com/style/assets/images/logo.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.paltodaytv.com/paltv/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://paltodaytv.com/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "fajer-tv-international-1": {
-        "nombre": "Al Fajer TV International",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=alfajertv",
-                "https://www.elahmad.com/tv/watchtv.php?id=alfajertv2",
-                "https://www.elahmad.com/tv/watchtv.php?id=alfajertv3",
-                "https://www.elahmad.com/tv/watchtv.php?id=alfajertv4",
-                "https://www.elahmad.com/tv/watchtv.php?id=alfajertv5c",
-                "https://www.elahmad.com/tv/alfajertv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.alfajertv.com/live-international.php",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "quds-tv": {
-        "nombre": "Quds TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=qudstv1",
-                "https://www.elahmad.com/tv/radiant.php?id=kudustv",
-                "https://www.elahmad.com/tv/qudstv.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "alaqsa-tv-live": {
-        "nombre": "Alaqsa TV Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aqsatv1",
-                "https://www.elahmad.com/tv/cloudflare.php?id=aqsatv1",
-                "https://www.elahmad.com/tv/watchtv.php?id=aqsatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alaqsa_tv_live.php",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "palestinian-tv": {
-        "nombre": "Palestinian",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-               "https://www.elahmad.com/tv/radiant.php?id=palestinian_tv" 
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "maannews-tv": {
-        "nombre": "Maannews1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=maannews1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "najah-tv": {
-        "nombre": "Najah",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=najah_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "rajeen-tv": {
-        "nombre": "Rajeen",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=rajeen_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "makan-tv": {
-        "nombre": "Makan",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=makan"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "watar-tv": {
-        "nombre": "Watar",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=watartv_1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "kolalnas-tv": {
-        "nombre": "Kolalnas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=kolalnas_tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "almadina-tv": {
-        "nombre": "Almadina",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=almadina"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "i24news-tv": {
-        "nombre": "i24news",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=i24ar",
-                "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
-                "https://www.elahmad.com/tv/watchtv.php?id=i24news_en",
-                "https://www.elahmad.com/tv/watchtv.php?id=i24news_fr"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/watchtv.php?id=i24ar",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "nablus-tv": {
-        "nombre": "Nablus",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=nablus_live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "ps",
-        "categoría": "news"
-    },
-    "tokon-line-tv": {
-        "nombre": "Tokon Line",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tokonline"
-        },
-        "sitio_oficial": "https://tokon-line.com/",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "asfaltotv-tv": {
-        "nombre": "Asfaltotv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "asfaltotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/asfaltotv",
-        "país": "pt",
-        "categoría": "news"
-    },
     "waytvportugal-tv": {
         "nombre": "Waytvportugal TV",
         "logo": "",
