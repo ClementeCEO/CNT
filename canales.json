@@ -11077,6 +11077,9 @@
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSCAJJ1RJ4rfRTVW4gjYTpQ&autoplay=1&mute=1&modestbranding=1&showinfo=0"
       ],
       "m3u8_url": [
+        "https://hls.tdtcloud.xyz/hls/CarSD1/index.m3u8?token=4B0nDz1D_cWcxzVHxTOyJQ&expires=1780332536",
+        "https://hls.tdtcloud.xyz/hls/CarHD1/index.m3u8?token=up2_hqpsMgg5z6J70RtYuA&expires=1780333170",
+        "https://w1327.mywebtv.cloud/hls/CarSD1b/index.m3u8?token=kp2UBfntxD2qnCFvJVqTdw&expires=1780333338",
         "https://w1327.mywebtv.cloud/hls/rcnsd/index.m3u8?token=TMbT91vv_4EnCokEjGG7gw&expires=1780164237",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
         "https://1569023982.rsc.cdn77.org/AG8S7FUHP_jV1apmnEKwLw==,1743710148/1569023982/tracks-v3a1/mono.m3u8",
@@ -11091,16 +11094,21 @@
     "país": "co",
     "categoría": "news"
   },
-  "NoticiasunoHD": {
-    "nombre": "Noticiasuno HD",
+  "Señal-Colombia-NoticiasunoHD": {
+    "nombre": "Señal Colombia - Noticiasuno HD",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.senalcolombia.tv/senal-en-vivo",
         "https://cdn.tdtcloud.xyz/caracol02x.php",
         "https://www.chatytvgratis.net/canal-caracol-tv-en-vivo/",
         "https://www.noticiasuno.com/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?token=u5CuoOJ5J9uNF90SUXLlsw&expires=1780334908",
+        "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?token=slDVGLuCVf97A1As8_9lyw&expires=1780335242",
+        "https://geostreaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?token=XsAJJy7fPEf5Rg2JSU-F3Q&expires=1780335348"
+      ],
       "yt_id": "UC3NUgxBBl05tthfGBS6kPkA",
       "yt_embed": "",
       "yt_playlist": "",
@@ -11125,6 +11133,8 @@
         "https://www.tvporinternet.org/2025/06/Canal-uno-en-Vivo-por-Internet.html"
       ],
       "m3u8_url": [
+        "https://hls.tdtcloud.xyz/hls/UnoCol/index.m3u8?token=Ad58B8tjArH_bIg-ewF0ow&expires=1780333784",
+        "https://hls.tdtcloud.xyz/hls/UnoCol/index.m3u8?token=rawYfk1WllsgmJ5P8090kA&expires=1780334010",
         "https://live20.bozztv.com/giatv/giatv-unojulsevunojulsev/unojulsevunojulsev/chunks.m3u8"
       ],
       "yt_id": "",
@@ -11144,6 +11154,7 @@
         "https://redmas.com.co/senal-en-vivo/"
       ],
       "m3u8_url": [
+        "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8?token=ih8QaUxYzOQpWAtby3L9UA&expires=1780334239",
         "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
       ],
       "yt_id": "",
@@ -11179,11 +11190,16 @@
     "señales": {
       "iframe_url": [
         "https://play.tdtchannels.com/television/CitytvColombia",
+        "https://www.youtube.com/embed/UVOq4W2AHIE",
+        "https://www.youtube.com/embed/live_stream?channel=UCv5Oy_TJFvGKXjeNzzJE_PQ&autoplay=1",
         "https://citytv.eltiempo.com/en-vivo"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://hls.tdtcloud.xyz/hls/CityTV/index.m3u8?token=luOH0CqAvyN9eCuMGNBqng&expires=1780334528",
+        "https://hls.tdtcloud.xyz/hls/CityTV/index.m3u8?token=mdYdKa_F2wSez24Mkx_PGA&expires=1780334630",
+      ],
       "yt_id": "UCv5Oy_TJFvGKXjeNzzJE_PQ",
-      "yt_embed": "",
+      "yt_embed": "UVOq4W2AHIE",
       "yt_playlist": "",
       "twitch_id": ""
     },
