@@ -11591,20 +11591,24 @@
     "país": "co",
     "categoría": "news"
   },
-  "cable-noticias": {
-    "nombre": "Cable Noticias",
+  "cable-noticias-inravision": {
+    "nombre": "Cable Noticias - Inravision",
     "logo": "https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",
     "señales": {
       "iframe_url": [
+        "https://media.rtvc.gov.co/kalturartvc/indexSC.html",
         "https://cdn.jwplayer.com/players/sLIxiRUk-MQcdGLwG.html",
-        "https://www.chatytvgratis.net/canal2.php?id=cablenoticias"
+        "https://www.rtvcnoticias.com/senal-en-vivo",
+        "https://www.rtvcnoticias.com/inravision",
+        "https://www.chatytvgratis.net/cable-noticias-tv-en-vivo/"
       ],
       "m3u8_url": [
+        "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8",
         "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
       ],
       "yt_id": "UCtqVli8UvwRsRoNo0BCLR7w",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/jmzc1/listacolombia7/issues/1",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.cablenoticias.tv/",
