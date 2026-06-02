@@ -12110,6 +12110,7 @@
         "https://imagenuniversaltv.com/"
       ],
       "m3u8_url": [
+        "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
         "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"
       ],
       "yt_id": "",
@@ -26232,7 +26233,11 @@
         "https://cloudvideo.servers10.com:2020/VideoPlayer/impactotv?autoplay=1",
         "https://radioimpactodecajamarca.com.pe/impacto-tv/",
         "https://tvgratisperu.com/pages/peru/re/intuitivatv_op1.php",
-        "https://tvgratisperu.com/pages/peru/intuitivatv.php"
+        "https://tvgratisperu.com/pages/peru/intuitivatv.php",
+        "https://globoview.cam/directorio/peru/impacto-television/",
+        "https://impactotvdigital.pe/",
+        "https://radioimpactodecajamarca.com.pe/impacto-tv/",
+        "https://impactosatelital.com/15c42-web-agency-gb-portfolio/"
       ],
       "m3u8_url": [],
       "yt_id": "",
