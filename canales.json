@@ -21188,7 +21188,7 @@
       "twitch_id": "libyaonetv"
     },
     "sitio_oficial": "https://libyaone.tv/",
-    "país": "",
+    "país": "ly",
     "categoría": "news"
   },
   "Libya Alrasmia": {
@@ -21440,8 +21440,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=al_maghribia",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almaghribia"
+                "https://www.elahmad.org/tv/radiant.php?id=al_maghribia",
+                "https://www.elahmad.org/tv/arabic-tv-online.php?id=almaghribia"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21449,7 +21449,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/almaghribia-tv.php",
+        "sitio_oficial": "https://www.elahmad.org/tv/almaghribia-tv.php",
         "país": "ma",
         "categoría": "news"
     },
@@ -21458,8 +21458,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=assadissatv",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=assadissa",
+                "https://www.elahmad.org/tv/radiant.php?id=assadissatv",
+                "https://www.elahmad.org/tv/arabic-tv-online.php?id=assadissa",
                 "https://qanawat.taghtia.com/api/player/assadissa"
             ],
             "m3u8_url": [],
@@ -21477,7 +21477,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aflam_maroc"
+                "https://www.elahmad.org/tv/radiant.php?id=aflam_maroc"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21485,7 +21485,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "sitio_oficial": "https://www.elahmad.org/tv/",
         "país": "ma",
         "categoría": "news"
     },
@@ -21494,8 +21494,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=tamazight",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=tamazight"
+                "https://www.elahmad.org/tv/radiant.php?id=tamazight",
+                "https://www.elahmad.org/tv/arabic-tv-online.php?id=tamazight"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21503,7 +21503,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/tamazight-live-tv.php",
+        "sitio_oficial": "https://www.elahmad.org/tv/tamazight-live-tv.php",
         "país": "ma",
         "categoría": "news"
     },
@@ -21512,10 +21512,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=medi1tv",
-                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_arabia",
-                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_afrique",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=medi1"
+                "https://www.elahmad.org/tv/radiant.php?id=medi1tv",
+                "https://www.elahmad.org/tv/radiant.php?id=medi1tv_arabia",
+                "https://www.elahmad.org/tv/radiant.php?id=medi1tv_afrique",
+                "https://www.elahmad.org/tv/arabic-tv-online.php?id=medi1"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21523,7 +21523,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/medi1tv.php",
+        "sitio_oficial": "https://www.elahmad.org/tv/medi1tv.php",
         "país": "ma",
         "categoría": "news"
     },
@@ -21532,7 +21532,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=maptvnews"
+                "https://www.elahmad.org/tv/radiant.php?id=maptvnews"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -21540,7 +21540,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "sitio_oficial": "https://www.elahmad.org/tv/",
         "país": "ma",
         "categoría": "news"
     },
@@ -21564,6 +21564,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.telemaroc.tv/liveTV",
         "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
         "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
       ],
@@ -21621,10 +21622,11 @@
     "nombre": "Al Aoula Maroc",
     "logo": "http://www.casasat.com/pics/1552707_1one.jpg",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [
+      "iframe_url": [
+        "http://www.casasat.com/tv50.htm",
         "https://www.youtube-nocookie.com/embed/RVycDPf6iRI?fs=1&autoplay=1&iv_load_policy=3&showinfo=0&showsearch=0&modestbranding=1&rel=0&autohide=1"
       ],
+      "m3u8_url": [],
     "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
     "yt_embed": "",
     "yt_playlist": "",
@@ -21639,6 +21641,9 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.tdm.com.mo/en/live?Channel=2&type=tv"
+      ],
+      "m3u8_url": [
         "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
         "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
         "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
@@ -21647,7 +21652,6 @@
         "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
         "https://live5.tdm.com.mo/tv/ch22.live/playlist.m3u8"
       ],
-      "m3u8_url": [],
     "yt_id": "",
     "yt_embed": "",
     "yt_playlist": "",
@@ -21662,7 +21666,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://tv.fun2k.com/es/lotustv-mo",
+        "https://tv.fun2k.com/es/lotustv-mo"
       ],
       "m3u8_url": [
         "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"
@@ -21680,7 +21684,9 @@
     "nombre": "ABN Africa TV",
     "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fyt3.googleusercontent.com%2FBhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ%3Ds512-c-k-c0x00ffffff-no-rj&w=1920&q=75",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://tv.fun2k.com/es/abnafrica-us"
+      ],
       "m3u8_url": [
         "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
         "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
@@ -21773,7 +21779,7 @@
     "yt_playlist": "",
     "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://tv.fun2k.com/es/africanewsfrench-fr",
     "país": "mg",
     "categoría": "news"
   },
@@ -22055,7 +22061,9 @@
     "nombre": "TVI África",
     "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2FvBbSHB4%2FTvi-africa.png&w=1920&q=75",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://tv.fun2k.com/es/tviafrica-pt"
+      ],
       "m3u8_url": [
         "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
         "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?nimblesessionid=525593292"
@@ -22164,7 +22172,7 @@
     "país": "mm",
     "categoría": "news"
   },
-  "Channel9": {
+  "Channel-9": {
     "nombre": "Channel 9",
     "logo": "assets/templates/basic/icon2020/apple-touch-icon.png",
     "señales": {
@@ -22198,7 +22206,7 @@
     "yt_playlist": "",
     "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.myanmartvchannels.com/channel-7.html",
     "país": "mm",
     "categoría": "news"
   },
