@@ -11012,8 +11012,6 @@
         "https://deporflix.com/canales/caracol-tv/",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
         "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
-        "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
-        "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0",
         "https://www.chatytvgratis.net/caracol-colombia/",
         "https://www.tvporinternet.org/2025/05/Canal-Caracol-en-Vivo-por-Internet.html",
         "https://www.tvporinternet.org/2025/06/Senal-colombia-en-vivo-hd.html",
@@ -11023,6 +11021,9 @@
         "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3"
       ],
       "m3u8_url": [
+        "https://hls.tdtcloud.xyz/hls/CarSD1/index.m3u8?token=KIf-gDFXNzNSrYWI7UI2fw&expires=1780442034",
+        "https://hls.tdtcloud.xyz/hls/CarHD1/index.m3u8?token=M41axCPQn9p5VvLdmUF7Lg&expires=1780442177",
+        "https://w1327.mywebtv.cloud/hls/CarSD1b/index.m3u8?token=hESpJk6XKbdiJQgcwLQi_w&expires=1780442273",
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
         "http://147.75.116.250:8586/play/a01r/index.m3u8"
       ],
@@ -11225,6 +11226,40 @@
     "sitio_oficial": "https://www.youtube.com/c/citytvbogota",
     "país": "co",
     "categoría": "news"
+  },
+  "TelemedellinTV": {
+    "nombre": "Telemedellin TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://telemedellin.tv/senal-en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCi9thgLbI6E127Vu6Hxp8ug",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://telemedellin.tv/",
+    "país": "co",
+    "categoría": "news"
+  },
+  "canal-c-cali": {
+    "nombre": "Canal C",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.canalccali.co/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC9L5UOnxy7-lSPRn4NNaIRw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.colombia.com/tv/canal-c-cali-2834",
+    "país": "co",
+    "categoría": "general"
   },
   "avivamiento-tv-online-la-kalle": {
     "nombre": "Avivamiento TV Cristiana - La Kalle",
@@ -11722,40 +11757,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.colombia.com/tv/telepetroleo-barrancabermeja-1164",
-    "país": "co",
-    "categoría": "general"
-  },
-  "TelemedellinTV": {
-    "nombre": "Telemedellin TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://telemedellin.tv/senal-en-vivo/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCi9thgLbI6E127Vu6Hxp8ug",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://telemedellin.tv/",
-    "país": "co",
-    "categoría": "news"
-  },
-  "canal-c-cali": {
-    "nombre": "Canal C",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.canalccali.co/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UC9L5UOnxy7-lSPRn4NNaIRw",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.colombia.com/tv/canal-c-cali-2834",
     "país": "co",
     "categoría": "general"
   },
