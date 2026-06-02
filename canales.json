@@ -4,7 +4,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
     "señales": {
       "iframe_url": [
-        "https://embed.saohgdasregions.fun/embed2/atv.html",
         "https://www.channelstv.com/live/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
@@ -24941,6 +24940,7 @@
       "iframe_url": [
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=2",
+        "https://embed.saohgdasregions.fun/embed2/atv.html",
         "https://globoview.cam/directorio/peru/atv/",
         "https://www.atv.pe/",
         "https://v2.ssh101.com/detailng.php?id=lagloriafm",
@@ -25096,6 +25096,13 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://embed.saohgdasregions.fun/embed/multipremier.html",
+        "https://embed.saohgdasregions.fun/embed/natgeo.html",
+        "https://embed.saohgdasregions.fun/embed/idinvestigation.html",
+        "https://embed.saohgdasregions.fun/embed/goldenplus.html",
+        "https://embed.saohgdasregions.fun/embed/tnt.html",
+        "https://embed.saohgdasregions.fun/embed/foxsports2.html",
+        "https://embed.saohgdasregions.fun/embed/liga1max.html",
         "https://play.agenciastreaming.com:8081/charapatv/embed.html",
         "https://charaparadio.com/",
         "https://www.facebook.com/p/Charapa-TV-canal-digital-100037144987138/"
@@ -25105,8 +25112,8 @@
       ],
       "yt_id": "UCo75W2AP1hnjUF4V_ovOAsg",
       "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://www.tvporinternet2.com/",
+      "twitch_id": "https://embed.saohgdasregions.fun/"
     },
     "sitio_oficial": "https://www.youtube.com/channel/UCo75W2AP1hnjUF4V_ovOAsg",
     "país": "pe",
