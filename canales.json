@@ -21579,6 +21579,36 @@
         "país": "ma",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "ma",
+    "categoría": "news"
+  },
     "athaqafia-tv": {
         "nombre": "athaqafia",
         "logo": "https://iteleflix.com/archivos/Athaqafia-1.png",
@@ -21602,242 +21632,274 @@
         "país": "ma",
         "categoría": "news"
     },
-    "Al-Aoula-Maroc-tv": {
-        "nombre": "Al Aoula Maroc",
-        "logo": "http://www.casasat.com/pics/1552707_1one.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/RVycDPf6iRI?fs=1&autoplay=1&iv_load_policy=3&showinfo=0&showsearch=0&modestbranding=1&rel=0&autohide=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.casasat.com/tv50.htm",
-        "país": "ma",
-        "categoría": "news"
+  "Al-Aoula-Maroc": {
+    "nombre": "Al Aoula Maroc",
+    "logo": "http://www.casasat.com/pics/1552707_1one.jpg",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://www.youtube-nocookie.com/embed/RVycDPf6iRI?fs=1&autoplay=1&iv_load_policy=3&showinfo=0&showsearch=0&modestbranding=1&rel=0&autohide=1"
+      ],
+    "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "tdm-Macau": {
-        "nombre": "TDM Macau",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
-                "https://live5.tdm.com.mo/tv/ch22.live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tdm.com.mo/en/live?Channel=2&type=tv",
-        "país": "mo",
-        "categoría": "news"
+    "sitio_oficial": "http://www.casasat.com/tv50.htm",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "TDM-Macau": {
+    "nombre": "TDM Macau",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+        "https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+        "https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+        "https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+        "https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+        "https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+        "https://live5.tdm.com.mo/tv/ch22.live/playlist.m3u8"
+      ],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "lotustv-mo-tv": {
-        "nombre": "Lotus Macau HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/lotustv-mo",
-        "país": "mo",
-        "categoría": "news"
+    "sitio_oficial": "https://www.tdm.com.mo/en/live?Channel=2&type=tv",
+    "país": "mo",
+    "categoría": "news"
+  },
+  "Lotus-Macau-HD": {
+    "nombre": "Lotus Macau HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/lotustv-mo",
+      ],
+      "m3u8_url": [
+        "https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "abnafrica-us-tv": {
-        "nombre": "ABN Africa TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fyt3.googleusercontent.com%2FBhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ%3Ds512-c-k-c0x00ffffff-no-rj&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
-                "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/abnafrica-us",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/lotustv-mo",
+    "país": "mo",
+    "categoría": "news"
+  },
+  "abnafrica-us-tv": {
+    "nombre": "ABN Africa TV",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fyt3.googleusercontent.com%2FBhFbqwxiQN89UGI2cpoffye2UuKtblDDUwJHce0fzjpdrMkb0CtKf_42ZVTiLX2Ulwbjey4YZQ%3Ds512-c-k-c0x00ffffff-no-rj&w=1920&q=75",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
+        "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "africa24-tv": {
-        "nombre": "Africa 24 TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
-                "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w502688109.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africa24-fr",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/abnafrica-us",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "Africa-24-TV": {
+    "nombre": "Africa 24 TV",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/africa24-fr"
+      ],
+      "m3u8_url": [
+        "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+        "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w502688109.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "africa24english-tv": {
-        "nombre": "Africa 24 English TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w291946696.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africa24english-fr",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/africa24-fr",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "Africa24-EnglishTV": {
+    "nombre": "Africa 24 English TV",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/africa24english-fr"
+      ],
+      "m3u8_url": [
+        "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+        "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w291946696.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "africa24sport-tv": {
-        "nombre": "Africa 24 Sport TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FYWIJdai.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-                "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1089583992.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africa24sport-fr",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/africa24english-fr",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "Africa24-SportTV": {
+    "nombre": "Africa 24 Sport TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/africa24sport-fr"
+      ],
+      "m3u8_url": [
+        "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+        "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w1089583992.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "africanewsenglish-fr-tv": {
-        "nombre": "Africanews TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-                "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/aa470ffe77fc77b53f028fb6d9a9fe0f.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africanewsenglish-fr",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/africa24sport-fr",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "africanewsenglish-fr-tv-africanewsfrench-fr-tv": {
+    "nombre": "Africanews TV - AfricaNews Français TV",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/africanewsenglish-fr",
+        "https://tv.fun2k.com/es/africanewsfrench-fr"
+      ],
+      "m3u8_url": [
+        "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
+        "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/aa470ffe77fc77b53f028fb6d9a9fe0f.m3u8",
+        "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+        "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/88a90c2249d6ed2ee545719c3d991465.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "africanewsfrench-fr-tv": {
-        "nombre": "AfricaNews Français TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2F5UxU4zc.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
-                "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/88a90c2249d6ed2ee545719c3d991465.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/africanewsfrench-fr",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "amanitv-sn-tv": {
-        "nombre": "Amani TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://goccn.cloud/hls/amanitv/index.m3u8",
-                "https://goccn.cloud/hls/amanitv/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/amanitv-sn",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "amanitv-sn-tv": {
+    "nombre": "Amani TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/amanitv-sn"
+      ],
+      "m3u8_url": [
+        "https://goccn.cloud/hls/amanitv/index.m3u8",
+        "https://goccn.cloud/hls/amanitv/index.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "angeltvafrica-in-tv": {
-        "nombre": "Angel TV Africa",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FqKLEGU7.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
-                "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/angeltvafrica-in",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/amanitv-sn",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "angeltvafrica-in-tv": {
+    "nombre": "Angel TV Africa",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FqKLEGU7.png&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/angeltvafrica-in"
+      ],
+      "m3u8_url": [
+        "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
+        "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "bloombergtvemealiveevent-uk-tv": {
-        "nombre": "Bloomberg TV EMEA Live Event",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FOuogLHx.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
-                "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.fun2k.com/es/bloombergtvemealiveevent-uk",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/angeltvafrica-in",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "bloombergtvemealiveevent-uk-tv": {
+    "nombre": "Bloomberg TV EMEA Live Event",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FOuogLHx.png&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://tv.fun2k.com/es/bloombergtvemealiveevent-uk"
+      ],
+      "m3u8_url": [
+        "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+        "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
-    "canal2international-cm-tv": {
-        "nombre": "Canal 2 International TV",
-        "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBzA2z7m.png&w=1920&q=75",
-        "señales": {
-            "iframe_url": [
-                "https://geo.dailymotion.com/player/xpnus.html?video=x8t0282"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal2international.net/live.php",
-        "país": "mg",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.fun2k.com/es/bloombergtvemealiveevent-uk",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "canal2international-cm-tv": {
+    "nombre": "Canal 2 International TV",
+    "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBzA2z7m.png&w=1920&q=75",
+    "señales": {
+      "iframe_url": [
+        "https://geo.dailymotion.com/player/xpnus.html?video=x8t0282",
+        "https://www.canal2international.net/live.php"
+      ],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
     },
+    "sitio_oficial": "https://www.canal2international.net/live.php",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "cnbcafrica-za-tv": {
         "nombre": "CNBC Africa TV",
         "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FBnNYzWI.png&w=1920&q=75",
@@ -21874,6 +21936,36 @@
         "país": "mg",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "godtvafrica-za-tv": {
         "nombre": "GOD TV Africa TV",
         "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FhW4g2oe.png&w=1920&q=75",
@@ -21910,6 +22002,36 @@
         "país": "mg",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "reflettv-ci-tv": {
         "nombre": "REFLET TV",
         "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.imgur.com%2FEauXR22.png&w=1920&q=75",
@@ -21946,6 +22068,36 @@
         "país": "mg",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "rtvyahoshuah-mg-tv": {
         "nombre": "RTV Yahoshuah TV",
         "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2F0mq5NXQ%2Flog.png&w=1920&q=75",
@@ -21982,6 +22134,36 @@
         "país": "mg",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "tvbricsafrica-za-tv": {
         "nombre": "BRICS Africa TV",
         "logo": "https://tvbrics.com/local/templates/tvbrics/dest/img/logo_brics.svg",
@@ -22020,6 +22202,36 @@
         "país": "mg",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "tviafrica-pt-tv": {
         "nombre": "TVI África",
         "logo": "https://tv.fun2k.com/_next/image?url=https%3A%2F%2Fi.ibb.co%2FvBbSHB4%2FTvi-africa.png&w=1920&q=75",
@@ -22056,6 +22268,36 @@
         "país": "mg",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mg",
+    "categoría": "news"
+  },
     "times-now-news-tv": {
         "nombre": "Times Now News",
         "logo": "https://www.timesnownews.com/assets/icons/svg/times-now.svg",
@@ -22091,6 +22333,36 @@
         "país": "mv",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "tv2-tv": {
         "nombre": "MBC TV Malawi",
         "logo": "https://mbc.mw/live/assets/images/logo.png",
@@ -22127,6 +22399,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "channel9": {
         "nombre": "Channel9",
         "logo": "assets/templates/basic/icon2020/apple-touch-icon.png",
@@ -22164,6 +22466,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "MRTV-HD": {
         "nombre": "MRTV HD",
         "logo": "",
@@ -22196,6 +22528,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "MRTV-News": {
         "nombre": "MRTV News",
         "logo": "",
@@ -22226,6 +22588,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "MRTV-SPORTS": {
         "nombre": "MRTV SPORTS",
         "logo": "",
@@ -22258,6 +22650,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "mizzimanewsTV": {
         "nombre": "mizzimanewsTV",
         "logo": "",
@@ -22290,6 +22712,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "Mahar-Esports": {
         "nombre": "Mahar Esports",
         "logo": "",
@@ -22327,6 +22779,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "DVB": {
         "nombre": "DVB",
         "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg",
@@ -22363,6 +22845,36 @@
         "país": "mm",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "mm",
+    "categoría": "news"
+  },
     "mntv-channel": {
         "nombre": "Mntv Channel",
         "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg",
@@ -22397,6 +22909,674 @@
     "país": "mm",
     "categoría": "news"
   },
+  "publika-tv": {
+    "nombre": "Publika TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "publikatv"
+    },
+    "sitio_oficial": "https://www.twitch.tv/publikatv",
+    "país": "md",
+    "categoría": "news"
+  },
+  "TV2 Hercegnovi": {
+    "nombre": "TV2 Hercegnovi",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rthn.co.me/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "tvhercegnovi"
+    },
+    "sitio_oficial": "https://rthn.co.me/",
+    "país": "me",
+    "categoría": "news"
+  },
+    "bollywood-hd": {
+        "nombre": "Bollywood HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmalaysia.live/channel/bollywood-hd"
+            ],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvmalaysia.live/channel/bollywood-hd",
+        "país": "my",
+        "categoría": "news"
+    },
+    "TV-Sarawak-Live": {
+        "nombre": "TV Sarawak Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cineasticview.blogspot.com/2024/05/serawak.html",
+                "https://www.livetvmalaysia.online/2024/05/tvs.html"
+            ],
+            "m3u8_url": [
+                "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8",
+                "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2024/05/tvs.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv3": {
+        "nombre": "TV3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livetvmalaysia.online/2019/04/tv3.html"
+            ],
+            "m3u8_url": [
+                "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv3.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "berita": {
+        "nombre": "Berita RTM Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://hiji3.blogspot.com/2024/08/berita1.html",
+                "https://www.livetvmalaysia.online/2022/09/berita.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2022/09/berita.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv-ikim": {
+        "nombre": "TV IKIM Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livetvmalaysia.online/2017/12/tv-ikim.html"
+            ],
+            "m3u8_url": [
+                "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "unifi-degup": {
+        "nombre": "Unifi Degup HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://astro.webhop.me/unifidegup.html",
+                "https://www.tvmalaysia.live/channel/unifi-degup"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvmalaysia.live/channel/unifi-degup",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv1-MY": {
+        "nombre": "TV1 MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtmklik.rtm.gov.my/live/tv1",
+                "https://rtm-player.glueapi.io/latest/h/1",
+                "https://rtmklik.rtm.gov.my/live/tv2",
+                "https://www.tvmy.online/2021/12/tv2.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/tv1",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv2-live": {
+        "nombre": "TV2 MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtmklik.rtm.gov.my/live/tv2",
+                "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv2/",
+                "https://williamyaps.github.io/tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/williamyaps/tv?tab=readme-ov-file",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Tv3-MY": {
+        "nombre": "Tv3 MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvonline.my/",
+                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
+                "https://strim-tv.netlify.app/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv3.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Tv6-MY": {
+        "nombre": "Tv6 MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtm-player.glueapi.io/latest/h/6"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/tv6",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv9-MY": {
+        "nombre": "TV9 MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rozo.loginto.me/tv9",
+                "https://malaysia-tv.net/tv9-malaysia/",
+                "https://www.tvmalaysia.org/tv9/",
+                "https://www.tvmalaysia.live/channel/tv9",
+                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv9.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tvS-MY": {
+        "nombre": "TVS MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvsarawak.my/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvsarawak.my/",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Voleibol-Olímpico-al-hijrah": {
+        "nombre": "PROCOLOMBIA Olímpico Al Hijrah TV Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
+                "https://malaysia-tv.net/al-hijrah/",
+                "https://www.tvmalaysia.live/channel/alhijrah",
+                "https://www.mana2.my/channel/live/tv-alhijrah"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2024/06/volleyball.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Baloncesto-Olímpico-TV-IKIM": {
+        "nombre": "PROCOLOMBIA Olímpico TV IKIM",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
+                "https://malaysia-tv.net/ikim-live/",
+                "https://www.tvikim.my/live.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2024/07/basketball.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "RaketTVBádminton-Olímpico-Suke-TV": {
+        "nombre": "badminton Olímpico Suke TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmy.online/2021/12/rtm-sports.html",
+                "https://malaysia-tv.net/suke/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2024/04/badminton.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Bola-Sepak-Olímpico-DidikTV": {
+        "nombre": "Bola Sepak Olímpico DidikTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmalaysia.org/playerdidik.html?autoplay=1&mute=1",
+                "https://malaysia-tv.net/bola-sepak-live/",
+                "https://www.tvmalaysia.org/didiktv/",
+                "https://www.tontonlive.com/live-streaming/didik-tv-kpm#google_vignette"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://malaysia-tv.net/bola-sepak-live/",
+        "país": "my",
+        "categoría": "news"
+    },
+    "RTM-Olímpico-mara-tv": {
+        "nombre": "RTM Olímpico Mara TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmy.online/2021/12/rtm-sports.html",
+                "https://malaysia-tv.net/mara-tv/",
+                "https://www.mana2.my/channel/live/mytv-v2",
+                "https://salaamtv.org/",
+                "https://www.tvmalaysia.live/channel/salamhd"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2024/04/rtm-olympic.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "TV-Okey-malaysia": {
+        "nombre": "TV Okey Malaysia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtm-player.glueapi.io/latest/h/3",
+                "https://rtmklik.rtm.gov.my/live/okey",
+                "https://www.livetvmalaysia.online/2018/05/okey.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/okey",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Beritartm-MY": {
+        "nombre": "Beritartm MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtm-player.glueapi.io/latest/h/5"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/beritartm",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Parliament-Live": {
+        "nombre": "Parliament Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtm-player.glueapi.io/latest/h/7"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.pmo.gov.my/parliament-live-dewan-rakyat/",
+        "país": "my",
+        "categoría": "news"
+    },
+    "boraktengahlapar-MY": {
+        "nombre": "boraktengahlapar MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtm-player.glueapi.io/latest/h/13669"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/boraktengahlapar",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Madani-Urdu-Live": {
+        "nombre": "Madani Urdu Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Bernama-TV-🇲🇾": {
+        "nombre": "Bernama TV 🇲🇾",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://malaysia-tv.net/bernama/#google_vignette",
+                "https://www.tvmalaysia.live/channel/bernama-tv",
+                "https://www.tvmalaysia.live/channel/global-trekker-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCcZg5r9hBqK_VPUT2I7eYVw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Astro-AWANI-mewatch": {
+        "nombre": "Astro AWANI Mewatch",
+        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278682948%27&EntityType=%27LinearSchedule%27&EntityId=%27d6489d74-481a-40d2-81cd-f6da5bd7a942%27&Width=1080&Height=608&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmalaysia.live/channel/awani",
+                "https://www.mewatch.sg/channels/LIVE-1-97073?redirect=true&clickToPlay=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.astroawani.com/video-terkini",
+        "país": "my",
+        "categoría": "news"
+    },
+    "sukan-MY": {
+        "nombre": "sukan MY",
+        "logo": "https://www.aladala.tv/wp-content/uploads/2022/11/RTM-SUKAN-Live.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.mana2.my/channel/live/sukan-rtm",
+                "https://rtmklik.rtm.gov.my/live/sukanrtm",
+                "https://www.tvmalaysia.live/channel/rtm-sports"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2022/06/sukan.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "berita-MY": {
+        "nombre": "Berita MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rtmklik.rtm.gov.my/live/beritartm",
+                "https://www.mana2.my/channel/live/berita-rtm",
+                "https://www.tvmalaysia.live/channel/berita-rtm",
+                "https://www.itvmalaysia.net/2022/04/berita-rtm.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCjUxj4cyy_F0tVCT8WfmdZQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2022/09/berita.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "Ikim-MY": {
+        "nombre": "Ikim MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mana2.my/channel/live/tv-ikim",
+                "https://www.tvikim.my/live.php",
+                "https://www.tvmy.online/2021/12/tv-ikim.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "nasul-tv": {
+        "nombre": "NAȘUL TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.nasul.tv/live/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=nasul-tv#google_vignette",
+        "país": "my",
+        "categoría": "news"
+    },
+    "selangor-MY": {
+        "nombre": "Selangor MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mana2.my/channel/live/selangor-tv",
+                "https://selangortv.my/live-stream-tvs/",
+                "https://www.bosstv.top/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCldPEJgJgq_Mb6Ndek5RxQg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCldPEJgJgq_Mb6Ndek5RxQg",
+        "país": "my",
+        "categoría": "news"
+    },
+    "awani-oasis-MY": {
+        "nombre": "Awani oasis MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmalaysia.live/channel/oasis"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC5dYmq91e5_g54krpO06NJw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/astroawani",
+        "país": "my",
+        "categoría": "news"
+    },
+    "didik-ntv7-MY": {
+        "nombre": "Didik ntv7 MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmalaysia.live/channel/didiktv",
+                "https://livetvmalaysia.com/didiktv/",
+                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
+                "https://livetvmalaysia.com/didiktv/#google_vignette"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/ntv7.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "alhijrah-MY": {
+        "nombre": "Alhijrah MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mana2.my/channel/live/tv-alhijrah",
+                "https://www.tvmy.online/2022/12/tv-alhijrah.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvalhijrah.com/",
+        "país": "my",
+        "categoría": "news"
+    },
+    "mytv-v2-Motogp-MY": {
+        "nombre": "Mytv v2 Motogp MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mana2.my/channel/live/mytv-v2",
+                "https://sungohd.com/live/sun-music-hd/",
+                "https://www.tvmalaysia.live/channel/sun-music-hd"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mana2.my/",
+        "país": "my",
+        "categoría": "news"
+    },
+    "unifi-siar-one-MY": {
+        "nombre": "Unifi siar One MY",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvmalaysia.live/channel/unifi-siar",
+                "https://www.tvmalaysia.live/channel/duniasinema",
+                "https://www.tvmalaysia.live/channel/one"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2018/03/bola.html",
+        "país": "my",
+        "categoría": "news"
+    },
   "Primer-Impacto": {
     "nombre": "Primer Impacto",
     "logo": "",
@@ -31746,687 +32926,6 @@
     "país": "ug",
     "categoría": "news"
   },
-  "publika-tv": {
-    "nombre": "Publika TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "publikatv"
-    },
-    "sitio_oficial": "https://www.twitch.tv/publikatv",
-    "país": "md",
-    "categoría": "news"
-  },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
-    "país": "md",
-    "categoría": "news"
-  },
-    "tv-Hercegnovi": {
-        "nombre": "TV2 Hercegnovi",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvhercegnovi"
-        },
-        "sitio_oficial": "https://rthn.co.me/",
-        "país": "me",
-        "categoría": "news"
-    },
-    "bollywood-hd": {
-        "nombre": "Bollywood HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmalaysia.live/channel/bollywood-hd"
-            ],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvmalaysia.live/channel/bollywood-hd",
-        "país": "my",
-        "categoría": "news"
-    },
-    "TV-Sarawak-Live": {
-        "nombre": "TV Sarawak Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cineasticview.blogspot.com/2024/05/serawak.html",
-                "https://www.livetvmalaysia.online/2024/05/tvs.html"
-            ],
-            "m3u8_url": [
-                "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8",
-                "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2024/05/tvs.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "tv3": {
-        "nombre": "TV3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.livetvmalaysia.online/2019/04/tv3.html"
-            ],
-            "m3u8_url": [
-                "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv3.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "berita": {
-        "nombre": "Berita RTM Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hiji3.blogspot.com/2024/08/berita1.html",
-                "https://www.livetvmalaysia.online/2022/09/berita.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2022/09/berita.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "tv-ikim": {
-        "nombre": "TV IKIM Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.livetvmalaysia.online/2017/12/tv-ikim.html"
-            ],
-            "m3u8_url": [
-                "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "unifi-degup": {
-        "nombre": "Unifi Degup HD",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://astro.webhop.me/unifidegup.html",
-                "https://www.tvmalaysia.live/channel/unifi-degup"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvmalaysia.live/channel/unifi-degup",
-        "país": "my",
-        "categoría": "news"
-    },
-    "tv1-MY": {
-        "nombre": "TV1 MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtmklik.rtm.gov.my/live/tv1",
-                "https://rtm-player.glueapi.io/latest/h/1",
-                "https://rtmklik.rtm.gov.my/live/tv2",
-                "https://www.tvmy.online/2021/12/tv2.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/tv1",
-        "país": "my",
-        "categoría": "news"
-    },
-    "tv2-live": {
-        "nombre": "TV2 MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtmklik.rtm.gov.my/live/tv2",
-                "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv2/",
-                "https://williamyaps.github.io/tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/williamyaps/tv?tab=readme-ov-file",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Tv3-MY": {
-        "nombre": "Tv3 MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvonline.my/",
-                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
-                "https://strim-tv.netlify.app/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv3.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Tv6-MY": {
-        "nombre": "Tv6 MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtm-player.glueapi.io/latest/h/6"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/tv6",
-        "país": "my",
-        "categoría": "news"
-    },
-    "tv9-MY": {
-        "nombre": "TV9 MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rozo.loginto.me/tv9",
-                "https://malaysia-tv.net/tv9-malaysia/",
-                "https://www.tvmalaysia.org/tv9/",
-                "https://www.tvmalaysia.live/channel/tv9",
-                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv9.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "tvS-MY": {
-        "nombre": "TVS MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvsarawak.my/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvsarawak.my/",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Voleibol-Olímpico-al-hijrah": {
-        "nombre": "PROCOLOMBIA Olímpico Al Hijrah TV Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
-                "https://malaysia-tv.net/al-hijrah/",
-                "https://www.tvmalaysia.live/channel/alhijrah",
-                "https://www.mana2.my/channel/live/tv-alhijrah"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2024/06/volleyball.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Baloncesto-Olímpico-TV-IKIM": {
-        "nombre": "PROCOLOMBIA Olímpico TV IKIM",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
-                "https://malaysia-tv.net/ikim-live/",
-                "https://www.tvikim.my/live.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2024/07/basketball.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "RaketTVBádminton-Olímpico-Suke-TV": {
-        "nombre": "badminton Olímpico Suke TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmy.online/2021/12/rtm-sports.html",
-                "https://malaysia-tv.net/suke/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2024/04/badminton.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Bola-Sepak-Olímpico-DidikTV": {
-        "nombre": "Bola Sepak Olímpico DidikTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmalaysia.org/playerdidik.html?autoplay=1&mute=1",
-                "https://malaysia-tv.net/bola-sepak-live/",
-                "https://www.tvmalaysia.org/didiktv/",
-                "https://www.tontonlive.com/live-streaming/didik-tv-kpm#google_vignette"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://malaysia-tv.net/bola-sepak-live/",
-        "país": "my",
-        "categoría": "news"
-    },
-    "RTM-Olímpico-mara-tv": {
-        "nombre": "RTM Olímpico Mara TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmy.online/2021/12/rtm-sports.html",
-                "https://malaysia-tv.net/mara-tv/",
-                "https://www.mana2.my/channel/live/mytv-v2",
-                "https://salaamtv.org/",
-                "https://www.tvmalaysia.live/channel/salamhd"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2024/04/rtm-olympic.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "TV-Okey-malaysia": {
-        "nombre": "TV Okey Malaysia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtm-player.glueapi.io/latest/h/3",
-                "https://rtmklik.rtm.gov.my/live/okey",
-                "https://www.livetvmalaysia.online/2018/05/okey.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/okey",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Beritartm-MY": {
-        "nombre": "Beritartm MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtm-player.glueapi.io/latest/h/5"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/beritartm",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Parliament-Live": {
-        "nombre": "Parliament Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtm-player.glueapi.io/latest/h/7"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.pmo.gov.my/parliament-live-dewan-rakyat/",
-        "país": "my",
-        "categoría": "news"
-    },
-    "boraktengahlapar-MY": {
-        "nombre": "boraktengahlapar MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtm-player.glueapi.io/latest/h/13669"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtmklik.rtm.gov.my/live/boraktengahlapar",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Madani-Urdu-Live": {
-        "nombre": "Madani Urdu Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Bernama-TV-🇲🇾": {
-        "nombre": "Bernama TV 🇲🇾",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://malaysia-tv.net/bernama/#google_vignette",
-                "https://www.tvmalaysia.live/channel/bernama-tv",
-                "https://www.tvmalaysia.live/channel/global-trekker-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCcZg5r9hBqK_VPUT2I7eYVw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Astro-AWANI-mewatch": {
-        "nombre": "Astro AWANI Mewatch",
-        "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278682948%27&EntityType=%27LinearSchedule%27&EntityId=%27d6489d74-481a-40d2-81cd-f6da5bd7a942%27&Width=1080&Height=608&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmalaysia.live/channel/awani",
-                "https://www.mewatch.sg/channels/LIVE-1-97073?redirect=true&clickToPlay=true"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.astroawani.com/video-terkini",
-        "país": "my",
-        "categoría": "news"
-    },
-    "sukan-MY": {
-        "nombre": "sukan MY",
-        "logo": "https://www.aladala.tv/wp-content/uploads/2022/11/RTM-SUKAN-Live.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.mana2.my/channel/live/sukan-rtm",
-                "https://rtmklik.rtm.gov.my/live/sukanrtm",
-                "https://www.tvmalaysia.live/channel/rtm-sports"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2022/06/sukan.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "berita-MY": {
-        "nombre": "Berita MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rtmklik.rtm.gov.my/live/beritartm",
-                "https://www.mana2.my/channel/live/berita-rtm",
-                "https://www.tvmalaysia.live/channel/berita-rtm",
-                "https://www.itvmalaysia.net/2022/04/berita-rtm.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCjUxj4cyy_F0tVCT8WfmdZQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2022/09/berita.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "Ikim-MY": {
-        "nombre": "Ikim MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mana2.my/channel/live/tv-ikim",
-                "https://www.tvikim.my/live.php",
-                "https://www.tvmy.online/2021/12/tv-ikim.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "nasul-tv": {
-        "nombre": "NAȘUL TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.nasul.tv/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=nasul-tv#google_vignette",
-        "país": "my",
-        "categoría": "news"
-    },
-    "selangor-MY": {
-        "nombre": "Selangor MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mana2.my/channel/live/selangor-tv",
-                "https://selangortv.my/live-stream-tvs/",
-                "https://www.bosstv.top/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCldPEJgJgq_Mb6Ndek5RxQg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCldPEJgJgq_Mb6Ndek5RxQg",
-        "país": "my",
-        "categoría": "news"
-    },
-    "awani-oasis-MY": {
-        "nombre": "Awani oasis MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmalaysia.live/channel/oasis"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC5dYmq91e5_g54krpO06NJw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/astroawani",
-        "país": "my",
-        "categoría": "news"
-    },
-    "didik-ntv7-MY": {
-        "nombre": "Didik ntv7 MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmalaysia.live/channel/didiktv",
-                "https://livetvmalaysia.com/didiktv/",
-                "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
-                "https://livetvmalaysia.com/didiktv/#google_vignette"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/ntv7.html",
-        "país": "my",
-        "categoría": "news"
-    },
-    "alhijrah-MY": {
-        "nombre": "Alhijrah MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mana2.my/channel/live/tv-alhijrah",
-                "https://www.tvmy.online/2022/12/tv-alhijrah.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvalhijrah.com/",
-        "país": "my",
-        "categoría": "news"
-    },
-    "mytv-v2-Motogp-MY": {
-        "nombre": "Mytv v2 Motogp MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mana2.my/channel/live/mytv-v2",
-                "https://sungohd.com/live/sun-music-hd/",
-                "https://www.tvmalaysia.live/channel/sun-music-hd"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mana2.my/",
-        "país": "my",
-        "categoría": "news"
-    },
-    "unifi-siar-one-MY": {
-        "nombre": "Unifi siar One MY",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.tvmalaysia.live/channel/unifi-siar",
-                "https://www.tvmalaysia.live/channel/duniasinema",
-                "https://www.tvmalaysia.live/channel/one"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livetvmalaysia.online/2018/03/bola.html",
-        "país": "my",
-        "categoría": "news"
-    },
   "globovision": {
     "nombre": "Globovisión",
     "logo": "",
