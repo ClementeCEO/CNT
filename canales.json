@@ -10995,30 +10995,30 @@
     "país": "co",
     "categoría": "news"
   },
-  "noticias-caracol-1": {
-    "nombre": "Noticias Caracol - Señal Colombia",
+  "noticias-caracol": {
+    "nombre": "Noticias Caracol",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
         "https://play.tdtchannels.com/television/NoticiasCaracolColombia",
         "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
-        "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://tv.garden/co/ugDDmzcLdJhWCd",
         "https://5900.tv/video/noticias-caracol-tv-colombia",
-        "https://www.noticiascaracol.com/senal-en-vivo",
-        "https://cdn.chatytvgratis.net/embed.php?id=sencol",
-        "https://deporflix.com/canales/caracol-tv/",
-        "https://deporflix.com/canales/caracol-tv/",
-        "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0",
+        "https://deporflix.net/canales/caracol-tv/",
+        "https://la14hd.com/vivo/canales.php?stream=caracol",
+        "https://deporflix.net/canales/caracol-tv/",
         "https://www.tvporinternet2.com/caracol-en-vivo-por-internet.html",
         "https://www.chatytvgratis.net/caracol-colombia/",
         "https://www.tvporinternet.org/2025/05/Canal-Caracol-en-Vivo-por-Internet.html",
         "https://www.tvporinternet.org/2025/06/Senal-colombia-en-vivo-hd.html",
-        "https://cdn.chatytvgratis.net/sencol02.php",
         "https://ssh101.com/securelive/index.php?id=c2jultenok",
         "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3",
-        "https://live.saohgdasregions.fun/stream.php?canal=caracol&target=3"
+        "https://www.noticiascaracol.com/senal-en-vivo",
+        "https://chatytvgratis.net/",
+        "https://t.me/s/deporflix?before=7",
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0"
       ],
       "m3u8_url": [
         "https://hls.tdtcloud.xyz/hls/CarSD1/index.m3u8?token=KIf-gDFXNzNSrYWI7UI2fw&expires=1780442034",
