@@ -5,6 +5,10 @@
     "señales": {
       "iframe_url": [
         "https://www.channelstv.com/live/",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
         "https://globetv.app/swe/uz/Ozbekiston24.uz/",
         "https://gia.tv/watchssh101.php?sn=dball",
         "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?volume=0",
@@ -24580,11 +24584,13 @@
     "categoría": "news"
   },
   "América-Televisión-oficialPE-LiraTV": {
-    "nombre": "América Televisión ⭐️ OficialPE",
+    "nombre": "América⭐️ Televisión OficialPE",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
+        "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=20_",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
         "https://tvgo.americatv.com.pe/",
         "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
         "https://tvgo.americatv.com.pe/canalesenvivo?channel=65fc43190d37be36e84e931f",
@@ -24932,6 +24938,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=2",
         "https://globoview.cam/directorio/peru/atv/",
         "https://www.atv.pe/",
         "https://v2.ssh101.com/detailng.php?id=lagloriafm",
