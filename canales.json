@@ -4,7 +4,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
     "señales": {
       "iframe_url": [
-        "https://tvron.ro/player.php?id=124&f=aW05OS5waHA",
         "https://www.channelstv.com/live/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
@@ -24591,6 +24590,7 @@
     "señales": {
       "iframe_url": [
         "https://tvgo.americatv.com.pe/?utm_source=AE&utm_medium=Cabecera-vivo&utm_campaign=Vivo-tvGO&utm_content=&utm_term=",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=americatv&target=2",
         "https://regionales.saohgdasregions.fun/tvporinternet.php?stream=20_",
         "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
         "https://tvgo.americatv.com.pe/",
@@ -29610,7 +29610,9 @@
     "señales": {
       "iframe_url": [
         "https://www.telemundopr.com/en-vivo",
-        "https://www.tvlibrehd.com/en-vivo/telemundo"
+        "https://www.tvlibrehd.com/en-vivo/telemundo",
+        "https://tvron.ro/",
+        "https://www.tvporinternet2.com/"
       ],
       "m3u8_url": [
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8"
