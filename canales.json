@@ -23158,6 +23158,7 @@
     "logo": "https://graph.facebook.com/ImagenTVMex/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://www.youtube.com/embed/EQEBqMqJzs0?autoplay=0&controls=2&rel=0&embed_config=%7B%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F35139216%2FYouTube_Intrasitio%2FImagen_TV%22%2C%22cust_params%22%3A%22intereses%3D%26channel%3Den-vivo%22%2C%22ppid%22%3A%22no_define%22%2C%22pp%22%3A%22z%22%7D%7D%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.imagentv.com&widgetid=1&forigin=https%3A%2F%2Fwww.imagentv.com%2Fen-vivo&aoriginsup=1&gporigin=https%3A%2F%2Fwww.imagentv.com%2Fen-vivo&vf=6",
         "https://www.imagentv.com/en-vivo"
       ],
       "m3u8_url": [],
@@ -23182,7 +23183,7 @@
       ],
       "m3u8_url": [],
     "yt_id": "UChA9u7JJzC4sCqegZeEoe9w",
-    "yt_embed": "",
+    "yt_embed": "EQEBqMqJzs0?",
     "yt_playlist": "",
     "twitch_id": ""
     },
