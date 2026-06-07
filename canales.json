@@ -3881,6 +3881,7 @@
     "país": "cl",
     "categoría": "general"
   },
+  
   "Santa-María-TV": {
     "nombre": "Santa María TV",
     "logo": "",
@@ -3889,8 +3890,9 @@
         "https://rudo.video/live/smtv",
         "https://tvonlinechile.cl/canal/santa-maria-tv"
       ],
-      "m3u8_url": 
-      "https://rudo.video/rudo.m3u8"
+      "m3u8_url": [
+        "https://rudo.video/rudo.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -3917,21 +3919,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.umagtv.cl/",
-    "país": "cl",
-    "categoría": "general"
-  },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
     "país": "cl",
     "categoría": "general"
   },
