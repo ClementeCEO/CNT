@@ -28699,445 +28699,252 @@
     "país": "pe",
     "categoría": "news"
   },
-    "faro-de-santidad-tv": {
-        "nombre": "Faro de Santidad TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/faro-de-santidad-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist_w1155712607.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/faro-de-santidad-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
+  "faro-de-santidad-tv": {
+    "nombre": "Faro de Santidad TV Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/faro-de-santidad-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/chunklist_w1155712607.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/faro-de-santidad-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "extrema-tv-online": {
+    "nombre": "Extrema TV Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/extrema-tv.htm",
+        "https://musicacristiana.com.ar/extrema-tv.html"
+      ],
+      "m3u8_url": [
+        "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w688890983.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/extrema-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-    "extrema-tv-online": {
-        "nombre": "Extrema TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/extrema-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w688890983.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/extrema-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "tele-vida-abundante-tv": {
-        "nombre": "Tele Vida Abundante Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/tele-vida-abundante-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://tls-cl.cdnz.cl/televida/live/chunklist_w1569907288.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/tele-vida-abundante-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
+  "tele-vida-abundante-tv": {
+    "nombre": "Tele Vida Abundante Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/tele-vida-abundante-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://tls-cl.cdnz.cl/televida/live/chunklist_w1569907288.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/tele-vida-abundante-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "master-video-tv": {
+    "nombre": "Master Video TV Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/master-video-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://5fd5567570c0e.streamlock.net/222/stream/chunklist_w16692732.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/master-video-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-    "master-video-tv": {
-        "nombre": "Master Video TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/master-video-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://5fd5567570c0e.streamlock.net/222/stream/chunklist_w16692732.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/master-video-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "iglesia-ebenezer-honduras-tv": {
-        "nombre": "Ebenezer TV (honduras) Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/iglesia-ebenezer-honduras-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1273193402_b3556000.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/iglesia-ebenezer-honduras-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
+  "iglesia-ebenezer-honduras-tv": {
+    "nombre": "Ebenezer TV (honduras) Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/iglesia-ebenezer-honduras-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/chunklist_w1273193402_b3556000.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/iglesia-ebenezer-honduras-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "canal-luz": {
+    "nombre": "Luz Satelital Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=true",
+        "tv/canal-luz-satelital.htm"
+      ],
+      "m3u8_url": [
+        "https://g4.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/index.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/canal-luz.html",
     "país": "pe",
     "categoría": "news"
   },
-    "canal-luz": {
-        "nombre": "Luz Satelital Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=true",
-                "tv/canal-luz-satelital.htm"
-            ],
-            "m3u8_url": [
-                "https://g4.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_360p/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/canal-luz.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "advenir-tv-online": {
-        "nombre": "ADVENIR TV INTERNACIONAL Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/advenir-tv.htm",
+  "advenir-tv-online": {
+    "nombre": "ADVENIR TV INTERNACIONAL Cristiana",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/advenir-tv.htm",
                 "https://streamhost.org/player/c/GMIredadvenirh?title=RedADvenir"
-            ],
-            "m3u8_url": [
-                "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1282364151.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/advenir-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      ],
+      "m3u8_url": [
+        "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1282364151.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/advenir-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "iglesia-del-camino-tv": {
+    "nombre": "IGLESIA DEL CAMINO TV Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/iglesia-del-camino-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/iglesia-del-camino-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-    "iglesia-del-camino-tv": {
-        "nombre": "IGLESIA DEL CAMINO TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/iglesia-del-camino-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/iglesia-del-camino-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "canal-27-tv-online": {
-        "nombre": "CANAL 27 TV2 Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/canal-27-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/canal-27-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
+  "canal-27-tv-online": {
+    "nombre": "CANAL 27 TV2 Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/canal-27-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/canal-27-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "luz-naciente-tv": {
+    "nombre": "Luz Naciente TV Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/luz-naciente-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/luz-naciente-tv.html",
     "país": "pe",
     "categoría": "news"
   },
-    "luz-naciente-tv": {
-        "nombre": "Luz Naciente TV Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/luz-naciente-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/luz-naciente-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "tv-catolica-online": {
-        "nombre": "TVCatolica Televisión Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/television-catolica.htm"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/tv-catolica.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
+  "tv-catolica-online": {
+    "nombre": "TVCatolica Televisión Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/television-catolica.htm"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/tv-catolica.html",
     "país": "pe",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "canal11delzulia-online": {
+    "nombre": "canal 11 del zulia Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://player.restream.io/?token=82c3e679c9b24efd8ef70017d54c0ddf&vwrs=1",
+        "https://canal11delzulia.com/"
+      ],
+      "m3u8_url": [
+        "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjNWFlZDUzY2E5NDg4MDk2ZjFhMTEwOTA5NWI1MDEzMCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzMxNDcxMjIwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.NufORuovUQdf3GiAi8MrtIStOOGUew3HMIfhn2fvlyIeEbDQjTe21gunBiARKtctnkqww_gN5AMana8bOsEu3F8Qk1ljtfiPUdNg1QaX9wUcB4IWijPSEg0wyJ64mngxFwjTWrVCMyKhBTWd73Tg8xG6p30Vb2pNG2zVvy0JwCY8PZ6L9d06mL5XMWi7QNrY93i_QVEtCvZmraGiaCmpGc5vuKKMVSvST-x49p-Smzdi_R7HM1nTTIZGE9rmtnqAXJkIxDi9-6JNgOsy0zE8VexgFj_Bq28dt7e3aCcHMCPJlJoz7Ge0qQ-ypmRg-NrRl-55qgz-EAPUpDsuKTgQMw/manifest/video.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://canal11delzulia.com/",
     "país": "pe",
     "categoría": "news"
   },
-    "canal11delzulia-online": {
-        "nombre": "canal 11 del zulia Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.restream.io/?token=82c3e679c9b24efd8ef70017d54c0ddf&vwrs=1"
-            ],
-            "m3u8_url": [
-                "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjNWFlZDUzY2E5NDg4MDk2ZjFhMTEwOTA5NWI1MDEzMCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzMxNDcxMjIwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.NufORuovUQdf3GiAi8MrtIStOOGUew3HMIfhn2fvlyIeEbDQjTe21gunBiARKtctnkqww_gN5AMana8bOsEu3F8Qk1ljtfiPUdNg1QaX9wUcB4IWijPSEg0wyJ64mngxFwjTWrVCMyKhBTWd73Tg8xG6p30Vb2pNG2zVvy0JwCY8PZ6L9d06mL5XMWi7QNrY93i_QVEtCvZmraGiaCmpGc5vuKKMVSvST-x49p-Smzdi_R7HM1nTTIZGE9rmtnqAXJkIxDi9-6JNgOsy0zE8VexgFj_Bq28dt7e3aCcHMCPJlJoz7Ge0qQ-ypmRg-NrRl-55qgz-EAPUpDsuKTgQMw/manifest/video.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canal11delzulia.com/",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-    "asomavision-tv": {
-        "nombre": "AsomaVision Televisión Cristiana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://musicacristiana.com.ar/tv/asomavision-tv.htm"
-            ],
-            "m3u8_url": [
-                "https://asomatv.duckdns.org/livestream/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://musicacristiana.com.ar/asomavision-tv.html",
-        "país": "pe",
-        "categoría": "cristiana"
-    },
-  "": {
-    "nombre": "",
+  "asomavision-tv": {
+    "nombre": "AsomaVision Televisión Cristiana",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://musicacristiana.com.ar/tv/asomavision-tv.htm"
+      ],
+      "m3u8_url": [
+        "https://asomatv.duckdns.org/livestream/stream.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://musicacristiana.com.ar/asomavision-tv.html",
     "país": "pe",
     "categoría": "news"
   },
