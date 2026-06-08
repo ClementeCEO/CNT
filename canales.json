@@ -15987,6 +15987,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://videoserver.tmcreativos.com:2020/VideoPlayer/wwzthqpupr?autoplay=1",
+        "https://www.canal4tenerife.tv/directo/",
         "https://www.mitele.uno/canal-4-tenerife/",
         "https://videoserver.tmcreativos.com:2020/VideoPlayer/ccxwhsfcnq?autoplay=1",
         "https://www.canal4tenerife.tv/directo/"
@@ -16008,9 +16010,9 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.cuatro.com/en-directo/",
         "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
         "https://tvcuatro.tv/4-1/",
-        "https://www.cuatro.com/en-directo/",
         "https://canal4jujuy.elcuatro.com/",
         "https://www.canal4tenerife.tv/directo/",
         "https://www.mitele.es/directo/cuatro/",
@@ -16034,7 +16036,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://nebunexa.co/clappr/?id=CUATRO",
         "https://www.cuatro.com/en-directo/",
         "https://www.mitele.uno/cuatro/",
         "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
@@ -16061,10 +16062,10 @@
     "señales": {
       "iframe_url": [
         "https://www.telecinco.es/endirecto/#utm_source=directo_desktop",
+        "https://canalcoin.com/tv-directo/",
         "https://teleonline.org/canal/informacion-tv/",
         "https://teleonline.org/canal/canal-coin/",
         "https://www.mitele.es/directo/telecinco/",
-        "https://canalcoin.com/tv-directo/",
         "https://www.telecinco.es/endirecto/"
       ],
       "m3u8_url": [
