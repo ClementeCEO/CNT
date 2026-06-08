@@ -26192,6 +26192,21 @@
     "país": "pe",
     "categoría": "news"
   },
+  "ATV-DEPORTES-pe": {
+    "nombre": "ATV DEPORTES PE",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@deportes-atv",
+    "país": "pe",
+    "categoría": "news"
+  },
   "hechicera-tv-identidad": {
     "nombre": "HECHICERA TV - IDENTIDAD TV",
     "logo": "",
@@ -35846,28 +35861,352 @@
     "país": "us",
     "categoría": "outdoor"
   },
-    "axisexperiencecentersouthc7747": {
-        "nombre": "Axis Experience Center South Central",
-        "logo": "https://graph.facebook.com/axiscommunications/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCdiPSngCBBo_6DBbj7oWNow",
-            "yt_embed": "LP2yUXUBazs",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.axis.com/",
-        "país": "us",
-        "categoría": "camera"
+  "axisexperiencecentersouthc7747": {
+    "nombre": "Axis Experience Center South Central",
+    "logo": "https://graph.facebook.com/axiscommunications/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCdiPSngCBBo_6DBbj7oWNow",
+      "yt_embed": "LP2yUXUBazs",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-  "": {
-    "nombre": "",
+    "sitio_oficial": "https://www.axis.com/",
+    "país": "us",
+    "categoría": "camera"
+  },
+  "times-square": {
+    "nombre": "Times Square Live 4K",
     "logo": "",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
+      "yt_id": "UC6qrG3W8SMK0jior2olka3g",
+      "yt_embed": "UVftxDFol90",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.earthcam.net/",
+    "país": "us",
+    "categoría": "camera"
+  },
+  "puente-brooklyn": {
+    "nombre": "St. George Tower",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
+      "yt_embed": "y1b1yrCSjFE",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://stgeorgetower.com/",
+    "país": "us",
+    "categoría": "camera"
+  },
+  "bryant-park": {
+    "nombre": "Bryant Park NYC",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC6AlfoRUeH4B1an_R5YSSTw",
+      "yt_embed": "srlpC5tmhYs",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://bryantpark.org/",
+    "país": "us",
+    "categoría": "camera"
+  },
+  "nasa": {
+    "nombre": "NASA Live",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "yt_embed": "21X5lGlDOfg",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.nasa.gov/",
+    "país": "us",
+    "categoría": "science"
+  },
+  "spacex": {
+    "nombre": "SpaceX",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCtI0Hodo5o5dUb67FeUjDeA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.spacex.com/",
+    "país": "us",
+    "categoría": "science"
+  },
+  "blue-origin": {
+    "nombre": "Blue Origin",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCVxTHEKKLxNjGcvVaZindlg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.blueorigin.com/",
+    "país": "us",
+    "categoría": "science"
+  },
+  "virgin-galactic": {
+    "nombre": "Virgin Galactic",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UClcvOr7LV8tlJwJvkNMmnKg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.virgingalactic.com/",
+    "país": "us",
+    "categoría": "science"
+  },
+  "cmc-music-usa": {
+    "nombre": "CMC ALIFORNIA Music Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cmctv.com/cmc/"
+      ],
+      "m3u8_url": [
+        "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?DEVICE_ID=_DEVICE_UUID_&device[dnt]=&us_privacy=&coppa=&app_bundle=&app_name=CMC California Music Channel&app_store_url=&platform="
+      ],
       "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://cmctv.com/cmc/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "30a-music-usa": {
+    "nombre": "30a Music Usa",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.hispanochannel.tv/30a-music-usa/"
+      ],
+      "m3u8_url": [
+        "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.hispanochannel.tv/30a-music-usa/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "3abnplus-usa": {
+    "nombre": "3abnplus",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://3abnplus.tv/programs/live-pxsqo62adkg?categoryId=48342"
+      ],
+      "m3u8_url": [
+        "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://3abnplus.tv/programs/live-pxsqo62adkg?categoryId=48342",
+    "país": "us",
+    "categoría": "news"
+  },
+  "6abc-usa": {
+    "nombre": "6abc Usa",
+    "logo": "https://cdn.abcotvs.com/dip/images/14517651_031224-wpvi-action-news-2024-generic-img.png",
+    "señales": {
+      "iframe_url": [
+        "https://6abc.com/watch/live/"
+      ],
+      "m3u8_url": [
+        "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946",
+        "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVILive2.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946",
+        "https://content-asae1-up-1.uplynk.com/channel/f0a689e1c8c541629fd4d026da9eaedd/b.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946&pbs=ab8fd2a4880a492b8b019662993ed5c5"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://6abc.com/watch/live/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "whdh-usa": {
+    "nombre": "WHDH Usa",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://whdh.com/on-air-live-stream/"
+      ],
+      "m3u8_url": [
+        "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4744899807001/ff584400-afee-40a0-8571-efa61f51d3a4/10s/master.m3u8?fastly_token=NjZjNDA5NDlfOTE2MmI5ZTc4NDFlMjJkZjI1OWNmZjMzNDk1OGNmYjg3NWM4M2FhYjYyZTMyZThkYjhmZWMxZGM4NmFjODllZg%3D%3D"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://whdh.com/on-air-live-stream/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "citytv-usa": {
+    "nombre": "City TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.citytv.com/livestream/"
+      ],
+      "m3u8_url": [
+        "https://citytvbctorontolive.akamaized.net/6e45476909fa4180818b7599b2ab18b0/us-west-2/1632712407/playlist_wv.m3u8",
+        "https://citytvbctorontolive.akamaized.net/6e45476909fa4180818b7599b2ab18b0/us-west-2/1632712407/profile_2/chunklist_wv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.citytv.com/livestream/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "azfamily-usa": {
+    "nombre": "azfamily",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://television-planet.tv/es/canales-tv/united-states/page/3/"
+      ],
+      "m3u8_url": [
+        "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=6f0a23b5651c4ba6b4c1275e61183940",
+        "https://d27wx7ytq78mow.cloudfront.net/offair/ktvk-adpadding-v4-0-296/media_b1_0057.ts"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://television-planet.tv/es/canales-tv/united-states/page/3/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "associated-press": {
+    "nombre": "Associated Press",
+    "logo": "https://graph.facebook.com/APNews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.apnews.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.apnews.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "aabc-tv": {
+    "nombre": "AABC TV",
+    "logo": "https://graph.facebook.com/APNews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.connecttotv.com/cttvplayer/index.html?param1=https://streamer1.connectto.com:443/AABC_WEB_1201&lang=en",
+        "https://www.aabc.tv/watch-us-online/"
+      ],
+      "m3u8_url": [
+        "https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.aabc.tv/watch-us-online/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "FOX-Weather": {
+    "nombre": "FOX Weather",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC1FbPiXx59_ltnFVx7IxWow",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@Foxweather/streams",
+    "país": "us",
+    "categoría": "news"
+  },
+  "News-12": {
+    "nombre": "News 12",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCFhbonoFqxg2b9FMRzYAwog",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@news12",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Shout-Studios": {
+    "nombre": "Shout! Studios",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCpHaAKu74UHvcYCi2g_PvBQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@ShoutStudios",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Chisme-No-Like": {
+    "nombre": "Chisme No Like",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC5qgk9xFZhXjzvCRcZn8KqQ",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
@@ -35876,574 +36215,219 @@
     "país": "us",
     "categoría": "news"
   },
-    "times-square": {
-        "nombre": "Times Square Live 4K",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC6qrG3W8SMK0jior2olka3g",
-            "yt_embed": "UVftxDFol90",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.earthcam.net/",
-        "país": "us",
-        "categoría": "camera"
+  "YoTube-Radio": {
+    "nombre": "YoTube Radio",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCeQQWlUVno4fE_B_AWECkYg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "puente-brooklyn": {
-        "nombre": "St. George Tower",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCp1ojgNJ8mNWdMDsdcMRA2Q",
-            "yt_embed": "y1b1yrCSjFE",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://stgeorgetower.com/",
-        "país": "us",
-        "categoría": "camera"
-    },
-    "bryant-park": {
-        "nombre": "Bryant Park NYC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC6AlfoRUeH4B1an_R5YSSTw",
-            "yt_embed": "srlpC5tmhYs",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bryantpark.org/",
-        "país": "us",
-        "categoría": "camera"
-    },
-    "nasa": {
-        "nombre": "NASA Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCLA_DiR1FfKNvjuUpBHmylQ",
-            "yt_embed": "21X5lGlDOfg",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.nasa.gov/",
-        "país": "us",
-        "categoría": "science"
-    },
-    "spacex": {
-        "nombre": "SpaceX",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCtI0Hodo5o5dUb67FeUjDeA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.spacex.com/",
-        "país": "us",
-        "categoría": "science"
-    },
-    "blue-origin": {
-        "nombre": "Blue Origin",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCVxTHEKKLxNjGcvVaZindlg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.blueorigin.com/",
-        "país": "us",
-        "categoría": "science"
-    },
-    "virgin-galactic": {
-        "nombre": "Virgin Galactic",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UClcvOr7LV8tlJwJvkNMmnKg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.virgingalactic.com/",
-        "país": "us",
-        "categoría": "science"
-    },
-    "cmc-music-usa": {
-        "nombre": "CMC ALIFORNIA Music Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?DEVICE_ID=_DEVICE_UUID_&device[dnt]=&us_privacy=&coppa=&app_bundle=&app_name=CMC California Music Channel&app_store_url=&platform="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cmctv.com/cmc/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "30a-music-usa": {
-        "nombre": "30a Music Usa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hispanochannel.tv/30a-music-usa/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "3abnplus-usa": {
-        "nombre": "3abnplus",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://3abnplus.tv/programs/live-pxsqo62adkg?categoryId=48342",
-        "país": "us",
-        "categoría": "news"
-    },
-    "6abc-usa": {
-        "nombre": "6abc Usa",
-        "logo": "https://cdn.abcotvs.com/dip/images/14517651_031224-wpvi-action-news-2024-generic-img.png",
-        "señales": {
-            "iframe_url": [
-                "https://6abc.com/watch/live/"
-            ],
-            "m3u8_url": [
-                "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946",
-                "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVILive2.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946",
-                "https://content-asae1-up-1.uplynk.com/channel/f0a689e1c8c541629fd4d026da9eaedd/b.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946&pbs=ab8fd2a4880a492b8b019662993ed5c5"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://6abc.com/watch/live/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "whdh-usa": {
-        "nombre": "WHDH Usa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4744899807001/ff584400-afee-40a0-8571-efa61f51d3a4/10s/master.m3u8?fastly_token=NjZjNDA5NDlfOTE2MmI5ZTc4NDFlMjJkZjI1OWNmZjMzNDk1OGNmYjg3NWM4M2FhYjYyZTMyZThkYjhmZWMxZGM4NmFjODllZg%3D%3D"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://whdh.com/on-air-live-stream/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "citytv-usa": {
-        "nombre": "City TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://citytvbctorontolive.akamaized.net/6e45476909fa4180818b7599b2ab18b0/us-west-2/1632712407/playlist_wv.m3u8",
-                "https://citytvbctorontolive.akamaized.net/6e45476909fa4180818b7599b2ab18b0/us-west-2/1632712407/profile_2/chunklist_wv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.citytv.com/livestream/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "azfamily-usa": {
-        "nombre": "azfamily",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=6f0a23b5651c4ba6b4c1275e61183940",
-                "https://d27wx7ytq78mow.cloudfront.net/offair/ktvk-adpadding-v4-0-296/media_b1_0057.ts"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://television-planet.tv/es/canales-tv/united-states/page/3/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "associated-press": {
-        "nombre": "Associated Press",
-        "logo": "https://graph.facebook.com/APNews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC52X5wxOL_s5yw0dQk7NtgA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.apnews.com/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "aabc-tv": {
-        "nombre": "AABC TV",
-        "logo": "https://graph.facebook.com/APNews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.connecttotv.com/cttvplayer/index.html?param1=https://streamer1.connectto.com:443/AABC_WEB_1201&lang=en"
-            ],
-            "m3u8_url": [
-                "https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.aabc.tv/watch-us-online/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "FOX-Weather": {
-        "nombre": "FOX Weather",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC1FbPiXx59_ltnFVx7IxWow",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Foxweather/streams",
-        "país": "us",
-        "categoría": "news"
-    },
-    "News-12": {
-        "nombre": "News 12",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCFhbonoFqxg2b9FMRzYAwog",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@news12",
-        "país": "us",
-        "categoría": "news"
-    },
-    "Shout-Studios": {
-        "nombre": "Shout! Studios",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCpHaAKu74UHvcYCi2g_PvBQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@ShoutStudios",
-        "país": "us",
-        "categoría": "news"
-    },
-    "Chisme-No-Like": {
-        "nombre": "Chisme No Like",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC5qgk9xFZhXjzvCRcZn8KqQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "us",
-        "categoría": "news"
-    },
-    "YoTube-Radio": {
-        "nombre": "YoTube Radio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCeQQWlUVno4fE_B_AWECkYg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@YoTubeRadio",
-        "país": "us",
-        "categoría": "news"
-    },
-    "RCC-MEDIA": {
-        "nombre": "RCC MEDIA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://dominicanplayers.com/video-player/1589/0"
-            ],
-            "m3u8_url": [
-                "https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1152599309.m3u8"
-            ],
-            "yt_id": "UCviHC4F7P1E0KK5GPPkh9Dw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@RCCMEDIA",
-        "país": "us",
-        "categoría": "news"
-    },
-    "NUEVA-EPS": {
-        "nombre": "NUEVA EPS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCyxIPlnHog5L4MAZ5K5xjBQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "us",
-        "categoría": "news"
-    },
-    "Hosanna-Radio": {
-        "nombre": "Hosanna Radio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCQ0HFRHNA3Fubn8k25h6cmA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Hosannaradio947",
-        "país": "us",
-        "categoría": "news"
-    },
-    "ATV-DEPORTES-pe": {
-        "nombre": "ATV DEPORTES PE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@deportes-atv",
-        "país": "us",
-        "categoría": "news"
-    },
-    "Radio-Omasuyo": {
-        "nombre": "Radio Omasuyo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCoqzQn0Q-evPSQ9MN7Ug_EQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@radioomasuyo6552",
-        "país": "us",
-        "categoría": "news"
-    },
-    "fox5-atlanta": {
-        "nombre": "Fox5 Atlanta",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV0FHQSIsInYiOiJhZHN0TEtybnZvamVxV1pBIiwiYW52YWNrIjoibzNRTE1venB2OFVPMjhMZk5INUozTDhpZGVrTnJBWXAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3g1YXRsYW50YS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggNSBBdGxhbnRhIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJXQUdBIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid2FnYSIsImFwcF9uYW1lIjoiZm94NWF0bGFudGEuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6InZhVWRuRzFRYTVCbWdmdWc4Umd6ZDNZcnQyV0tLa3BMIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItMDg1Njk5NWQtM2E2ZC00OTgwLWE1NzEtZTkwZTJjYTU5NjM2IiwidmlkZW9faWQiOiJhZHN0TEtybnZvamVxV1pBIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJseTROZEI1ZDdSdHVrd2lMci1ndDVaWHFYaFNpOGxadWVNWXhhc3Zyd0pBfk1uNHdmZyJ9"
-            ],
-            "m3u8_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV0FHQSIsInYiOiJhZHN0TEtybnZvamVxV1pBIiwiYW52YWNrIjoibzNRTE1venB2OFVPMjhMZk5INUozTDhpZGVrTnJBWXAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3g1YXRsYW50YS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggNSBBdGxhbnRhIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJXQUdBIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid2FnYSIsImFwcF9uYW1lIjoiZm94NWF0bGFudGEuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6InZhVWRuRzFRYTVCbWdmdWc4Umd6ZDNZcnQyV0tLa3BMIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItMDg1Njk5NWQtM2E2ZC00OTgwLWE1NzEtZTkwZTJjYTU5NjM2IiwidmlkZW9faWQiOiJhZHN0TEtybnZvamVxV1pBIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJseTROZEI1ZDdSdHVrd2lMci1ndDVaWHFYaFNpOGxadWVNWXhhc3Zyd0pBfk1uNHdmZyJ9"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.fox5atlanta.com/live",
-        "país": "us",
-        "categoría": "news"
-    },
-    "fox11-la": {
-        "nombre": "FOX 11 LA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS1RUViIsInYiOiJhZHN0YWdWR01ESnFaTnlYIiwiYW52YWNrIjoiYm1RdjhuWE1hbENPb2JCaHZocG85ZU1URTFPek40bEQiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3hsYS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggMTEgTG9zIEFuZ2VsZXMiLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IktUVFYiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJrdHR2IiwiYXBwX25hbWUiOiJmb3hsYS5jb20iLCJhcHBfcGxhdGZvcm0iOiJ3ZWIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwic2VnbWVudElkIjoiQzJzZVdsRWxWUkNGaEtYd29GRTNvWFk5N3NjZko1QnciLCJwbGF5ZXJVbmlxdWVJZCI6InBsYXllci05YTlmZTA1MC1iOWE1LTRmZDUtOTlhZC0yN2QxY2ZmZDgzZmEiLCJ2aWRlb19pZCI6ImFkc3RhZ1ZHTURKcVpOeVgifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOm51bGwsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUiLCJ1c19wcml2YWN5IjoiMS0tLSJ9fSwic2VydmVyU2lkZSI6eyJ1c19wcml2YWN5IjoiMS0tLSJ9LCJsaWJyYXJ5UmVxdWVzdGVkIjp0cnVlfX0sImh0bWw1Ijp0cnVlLCJ0b2tlbiI6ImJ3UDlzNXBINUVSSnpqdUw2Um9fal9aREpCbFJEVTdyVldKcFRFNEw4Ujh%2BTW40d2ZnIn0%3D"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-uw1.mp.lura.live/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-3&anvsid=m177610526-n05f055e2f355303df958841bad54702f&ts=1725916533&anvtrid=dce3aa5fd4d5f6063828959db70133c2"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.foxla.com/live",
-        "país": "us",
-        "categoría": "news"
-    },
-    "island-tv": {
-        "nombre": "Islandtv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.vhx.tv/videos/3227418?api=1&auth-user-token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxODc1NDc2OSwiZXhwIjoxNjM4MzYyMjgwfQ.nnVDeuFcH-oiIUnHFc95wx4PwjqRxEORSY-3wgAzkW0&autoplay=1&back=Island%20TV%20Live&buy_label=Register&collection_id=247388&color=282829&context=https%3A%2F%2Fondemand.islandtv.tv%2Fisland-tv-plus&is_trailer=true&live=1&locale=en&playsinline=1&product_id=69746&referrer=https%3A%2F%2Fondemand.islandtv.tv%2Fbrowse&sharing=1&show_price=0&title=0",
-                "https://embed.vhx.tv/videos/2727116?api=1&auth-user-token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxODc1NDc2OSwiZXhwIjoxNjM4MzYyMjgwfQ.nnVDeuFcH-oiIUnHFc95wx4PwjqRxEORSY-3wgAzkW0&autoplay=1&back=Island%20TV%20Live&buy_label=Register&collection_id=247388&color=282829&context=https%3A%2F%2Fondemand.islandtv.tv%2Flive-tv&is_trailer=true&live=1&locale=en&playsinline=1&product_id=69746&referrer=https%3A%2F%2Fondemand.islandtv.tv%2Fbrowse&sharing=1&show_price=0&title=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://islandtv.tv/watch-live/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "ktsf-26-tv": {
-        "nombre": "Ktsf 26 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smccdn.com/ocn-tv.com/"
-            ],
-            "m3u8_url": [
-                "https://597f64b67707a.streamlock.net/ocnbroadcasting.com/ocnbroadcasting2/chunklist_w1384910403.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ktsf.com/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "timetvusa-tv": {
-        "nombre": "Time TV usa",
-        "logo": "https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.streamcast.xyz/timetv/embed.html"
-            ],
-            "m3u8_url": [
-                "https://cdn.streamcast.xyz/timetv/tracks-v1/index.fmp4.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvchannels.live/bhutan/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "global-punjab-tv": {
-        "nombre": "Global Punjab TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://server.livelegitpro.in/globalpunjab/globalpunjab/embed.html",
-                "https://server.livelegitpro.in/globalpunjab/globalpunjab/embed.html"
-            ],
-            "m3u8_url": [
-                "https://server.livelegitpro.in/globalpunjab/globalpunjab/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://globalpunjabtv.com/tv/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "ftv-new-york": {
-        "nombre": "FTV New York",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.fashiontv.com/watch/16891758"
-            ],
-            "m3u8_url": [
-                "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.fashiontv.com/",
-        "país": "us",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+    "sitio_oficial": "https://www.youtube.com/@YoTubeRadio",
+    "país": "us",
+    "categoría": "news"
+  },
+  "RCC-MEDIA": {
+    "nombre": "RCC MEDIA",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "",
-        ""
+        "https://dominicanplayers.com/video-player/1589/0"
       ],
       "m3u8_url": [
-        ""
+        "https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1152599309.m3u8"
+      ],
+      "yt_id": "UCviHC4F7P1E0KK5GPPkh9Dw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@RCCMEDIA",
+    "país": "us",
+    "categoría": "news"
+  },
+  "NUEVA-EPS": {
+    "nombre": "NUEVA EPS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCyxIPlnHog5L4MAZ5K5xjBQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Hosanna-Radio": {
+    "nombre": "Hosanna Radio",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCQ0HFRHNA3Fubn8k25h6cmA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@Hosannaradio947",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Radio-Omasuyo": {
+    "nombre": "Radio Omasuyo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCoqzQn0Q-evPSQ9MN7Ug_EQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@radioomasuyo6552",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox5-atlanta": {
+    "nombre": "Fox5 Atlanta",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV0FHQSIsInYiOiJhZHN0TEtybnZvamVxV1pBIiwiYW52YWNrIjoibzNRTE1venB2OFVPMjhMZk5INUozTDhpZGVrTnJBWXAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3g1YXRsYW50YS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggNSBBdGxhbnRhIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJXQUdBIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid2FnYSIsImFwcF9uYW1lIjoiZm94NWF0bGFudGEuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6InZhVWRuRzFRYTVCbWdmdWc4Umd6ZDNZcnQyV0tLa3BMIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItMDg1Njk5NWQtM2E2ZC00OTgwLWE1NzEtZTkwZTJjYTU5NjM2IiwidmlkZW9faWQiOiJhZHN0TEtybnZvamVxV1pBIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJseTROZEI1ZDdSdHVrd2lMci1ndDVaWHFYaFNpOGxadWVNWXhhc3Zyd0pBfk1uNHdmZyJ9",
+        "https://www.fox5atlanta.com/live"
+      ],
+      "m3u8_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV0FHQSIsInYiOiJhZHN0TEtybnZvamVxV1pBIiwiYW52YWNrIjoibzNRTE1venB2OFVPMjhMZk5INUozTDhpZGVrTnJBWXAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3g1YXRsYW50YS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggNSBBdGxhbnRhIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJXQUdBIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid2FnYSIsImFwcF9uYW1lIjoiZm94NWF0bGFudGEuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6InZhVWRuRzFRYTVCbWdmdWc4Umd6ZDNZcnQyV0tLa3BMIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItMDg1Njk5NWQtM2E2ZC00OTgwLWE1NzEtZTkwZTJjYTU5NjM2IiwidmlkZW9faWQiOiJhZHN0TEtybnZvamVxV1pBIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJseTROZEI1ZDdSdHVrd2lMci1ndDVaWHFYaFNpOGxadWVNWXhhc3Zyd0pBfk1uNHdmZyJ9"
       ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.fox5atlanta.com/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox11-la": {
+    "nombre": "FOX 11 LA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS1RUViIsInYiOiJhZHN0YWdWR01ESnFaTnlYIiwiYW52YWNrIjoiYm1RdjhuWE1hbENPb2JCaHZocG85ZU1URTFPek40bEQiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3hsYS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggMTEgTG9zIEFuZ2VsZXMiLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IktUVFYiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJrdHR2IiwiYXBwX25hbWUiOiJmb3hsYS5jb20iLCJhcHBfcGxhdGZvcm0iOiJ3ZWIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwic2VnbWVudElkIjoiQzJzZVdsRWxWUkNGaEtYd29GRTNvWFk5N3NjZko1QnciLCJwbGF5ZXJVbmlxdWVJZCI6InBsYXllci05YTlmZTA1MC1iOWE1LTRmZDUtOTlhZC0yN2QxY2ZmZDgzZmEiLCJ2aWRlb19pZCI6ImFkc3RhZ1ZHTURKcVpOeVgifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOm51bGwsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUiLCJ1c19wcml2YWN5IjoiMS0tLSJ9fSwic2VydmVyU2lkZSI6eyJ1c19wcml2YWN5IjoiMS0tLSJ9LCJsaWJyYXJ5UmVxdWVzdGVkIjp0cnVlfX0sImh0bWw1Ijp0cnVlLCJ0b2tlbiI6ImJ3UDlzNXBINUVSSnpqdUw2Um9fal9aREpCbFJEVTdyVldKcFRFNEw4Ujh%2BTW40d2ZnIn0%3D",
+        "https://www.foxla.com/live"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-uw1.mp.lura.live/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-3&anvsid=m177610526-n05f055e2f355303df958841bad54702f&ts=1725916533&anvtrid=dce3aa5fd4d5f6063828959db70133c2"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.foxla.com/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Islandtv-TV": {
+    "nombre": "Islandtv TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.vhx.tv/videos/3227418?api=1&auth-user-token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxODc1NDc2OSwiZXhwIjoxNjM4MzYyMjgwfQ.nnVDeuFcH-oiIUnHFc95wx4PwjqRxEORSY-3wgAzkW0&autoplay=1&back=Island%20TV%20Live&buy_label=Register&collection_id=247388&color=282829&context=https%3A%2F%2Fondemand.islandtv.tv%2Fisland-tv-plus&is_trailer=true&live=1&locale=en&playsinline=1&product_id=69746&referrer=https%3A%2F%2Fondemand.islandtv.tv%2Fbrowse&sharing=1&show_price=0&title=0",
+        "https://embed.vhx.tv/videos/2727116?api=1&auth-user-token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxODc1NDc2OSwiZXhwIjoxNjM4MzYyMjgwfQ.nnVDeuFcH-oiIUnHFc95wx4PwjqRxEORSY-3wgAzkW0&autoplay=1&back=Island%20TV%20Live&buy_label=Register&collection_id=247388&color=282829&context=https%3A%2F%2Fondemand.islandtv.tv%2Flive-tv&is_trailer=true&live=1&locale=en&playsinline=1&product_id=69746&referrer=https%3A%2F%2Fondemand.islandtv.tv%2Fbrowse&sharing=1&show_price=0&title=0",
+        "https://islandtv.tv/watch-live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://islandtv.tv/watch-live/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "ktsf-26-tv": {
+    "nombre": "Ktsf 26 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://smccdn.com/ocn-tv.com/",
+        "https://www.ktsf.com/"
+      ],
+      "m3u8_url": [
+        "https://597f64b67707a.streamlock.net/ocnbroadcasting.com/ocnbroadcasting2/chunklist_w1384910403.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.ktsf.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "timetvusa-tv": {
+    "nombre": "Time TV usa",
+    "logo": "https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://cdn.streamcast.xyz/timetv/embed.html",
+        "https://tvchannels.live/bhutan/"
+      ],
+      "m3u8_url": [
+        "https://cdn.streamcast.xyz/timetv/tracks-v1/index.fmp4.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvchannels.live/bhutan/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "global-punjab-tv": {
+    "nombre": "Global Punjab TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://server.livelegitpro.in/globalpunjab/globalpunjab/embed.html",
+        "https://server.livelegitpro.in/globalpunjab/globalpunjab/embed.html",
+        "https://globalpunjabtv.com/tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://globalpunjabtv.com/tv/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "ftv-new-york": {
+    "nombre": "FTV New York",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.fashiontv.com/watch/16891758"
+      ],
+      "m3u8_url": [
+        "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.fashiontv.com/",
     "país": "us",
     "categoría": "news"
   },
@@ -36468,436 +36452,459 @@
     "país": "us",
     "categoría": "news"
   },
-    "the-beach-channel": {
-        "nombre": "The Beach Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ljsp.lwcdn.com/api/video/embed.jsp?id=014dc067-4922-4168-bdcd-5278589269ed&pi=51bb5bf6-472b-4a31-baec-a3c56ddf5aca&wmode=opaque"
-            ],
-            "m3u8_url": [
-                "https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/a/chunklist_b3028000.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.thebeachchannel.tv/live",
-        "país": "us",
-        "categoría": "news"
+  "the-beach-channel": {
+    "nombre": "The Beach Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ljsp.lwcdn.com/api/video/embed.jsp?id=014dc067-4922-4168-bdcd-5278589269ed&pi=51bb5bf6-472b-4a31-baec-a3c56ddf5aca&wmode=opaque",
+        "https://www.thebeachchannel.tv/live"
+      ],
+      "m3u8_url": [
+        "https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/a/chunklist_b3028000.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wwor-tv": {
-        "nombre": "My 9 NJ - WWOR TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdERhbjdQOVZxeFg2MCIsImFudmFjayI6Im9keURyNXBYTTljelA3NVNKa1UwcGtOdlRPZGo1QkFuIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cubXk5bmouY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiV1dPUiBNeTkiLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IldXT1IiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJ3d29yIiwiYXBwX25hbWUiOiJteTluai5jb20iLCJhcHBfcGxhdGZvcm0iOiJ3ZWIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwic2VnbWVudElkIjoiIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItNmViM2Q2NTUtOTc2MC00OGFiLWIzZmMtZTgwZDQ4NTNiZmUyIiwidmlkZW9faWQiOiJhZHN0RGFuN1A5VnF4WDYwIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjoiIiwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIn0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9fSwiaHRtbDUiOnRydWUsInRva2VuIjoiOHFfYlpOVkYxRDd6NnF2eVBFR0t1N1preHJMVkxqOHJNODg2aHZ0eVhfWX5NbjR3ZmcifQ%3D%3D"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-ue1.mp.lura.live/server/play/10r3b2gtagOVuZAg/rendition.m3u8?track=video-9&anvsid=m177618733-nb6764cfce4a403e5406d333976295940&ts=1725917956&anvtrid=8aad445d0b91b4d591eb93241b72b93a"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/wwor-tv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.thebeachchannel.tv/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "wwor-tv": {
+    "nombre": "My 9 NJ - WWOR TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdERhbjdQOVZxeFg2MCIsImFudmFjayI6Im9keURyNXBYTTljelA3NVNKa1UwcGtOdlRPZGo1QkFuIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cubXk5bmouY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiV1dPUiBNeTkiLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IldXT1IiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJ3d29yIiwiYXBwX25hbWUiOiJteTluai5jb20iLCJhcHBfcGxhdGZvcm0iOiJ3ZWIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwic2VnbWVudElkIjoiIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItNmViM2Q2NTUtOTc2MC00OGFiLWIzZmMtZTgwZDQ4NTNiZmUyIiwidmlkZW9faWQiOiJhZHN0RGFuN1A5VnF4WDYwIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjoiIiwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIn0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9fSwiaHRtbDUiOnRydWUsInRva2VuIjoiOHFfYlpOVkYxRDd6NnF2eVBFR0t1N1preHJMVkxqOHJNODg2aHZ0eVhfWX5NbjR3ZmcifQ%3D%3D",
+        "https://es.livetvcentral.com/tv/wwor-tv"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-ue1.mp.lura.live/server/play/10r3b2gtagOVuZAg/rendition.m3u8?track=video-9&anvsid=m177618733-nb6764cfce4a403e5406d333976295940&ts=1725917956&anvtrid=8aad445d0b91b4d591eb93241b72b93a"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox13seattle-tv": {
-        "nombre": "Q13 FOX",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS0NQUSIsInYiOiJhZHN0b04xN3ZMR1ZxNDZlIiwiYW52YWNrIjoicDhRNmRWUGxucGlMM0tuSHZZaU1ORHpiaWxPZzdvNG4iLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5xMTNmb3guY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiUTEzIEZPWCBOZXdzIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJLQ1BRIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoia2NwcSIsImFwcF9uYW1lIjoicTEzZm94LmNvbSIsImFwcF9wbGF0Zm9ybSI6IndlYiIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJzZWdtZW50SWQiOiJsTjVReDI1VTF6YVAyQkREWUI5VFBsQ1lSeFBlVUllWSIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLTQyOTdkYjc5LWNhZWQtNDU0MC1hZmE5LWI1YmI0NDU1YTdjYiIsInZpZGVvX2lkIjoiYWRzdG9OMTd2TEdWcTQ2ZSJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6bnVsbCwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIn0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZ2xmNXplUXB3Ql9nWXpnTnUwaEU1dmhnTjVTQ3VDZ2M4RTN0QktiazhONH5NbjR3ZmcifQ%3D%3D"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-uw1.mp.lura.live/server/play/xjWzYdmubZxyhQ8A/rendition.m3u8?track=video-3&anvsid=m177610518-n9285985dba87b0a0407c423f8981a5b2&ts=1725918256&anvtrid=a459324f8a538bfe32ae3581d376ff66"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/joetv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/wwor-tv",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox13seattle-tv": {
+    "nombre": "Q13 FOX",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS0NQUSIsInYiOiJhZHN0b04xN3ZMR1ZxNDZlIiwiYW52YWNrIjoicDhRNmRWUGxucGlMM0tuSHZZaU1ORHpiaWxPZzdvNG4iLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5xMTNmb3guY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiUTEzIEZPWCBOZXdzIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJLQ1BRIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoia2NwcSIsImFwcF9uYW1lIjoicTEzZm94LmNvbSIsImFwcF9wbGF0Zm9ybSI6IndlYiIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJzZWdtZW50SWQiOiJsTjVReDI1VTF6YVAyQkREWUI5VFBsQ1lSeFBlVUllWSIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLTQyOTdkYjc5LWNhZWQtNDU0MC1hZmE5LWI1YmI0NDU1YTdjYiIsInZpZGVvX2lkIjoiYWRzdG9OMTd2TEdWcTQ2ZSJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6bnVsbCwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIn0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZ2xmNXplUXB3Ql9nWXpnTnUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr%3D%3D",
+        "https://es.livetvcentral.com/tv/joetv"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-uw1.mp.lura.live/server/play/xjWzYdmubZxyhQ8A/rendition.m3u8?track=video-3&anvsid=m177610518-n9285985dba87b0a0407c423f8981a5b2&ts=1725918256&anvtrid=a459324f8a538bfe32ae3581d376ff66"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "infowars-tv": {
-        "nombre": "Infowars TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://api.banned.video/embed/5b92a1e6568f22455f55be2b"
-            ],
-            "m3u8_url": [
-                "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/ganj-e-hozour-tv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/joetv",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Infowars-TV": {
+    "nombre": "Infowars TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://api.banned.video/embed/5b92a1e6568f22455f55be2b"
+      ],
+      "m3u8_url": [
+        "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ganj-e-hozour-tv": {
-        "nombre": "Ganj e Hozour TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8",
-                "https://media.parvizshahbazi.com/ganjehozour/Main_tv/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.parvizshahbazi.com/?quality=high",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/ganj-e-hozour-tv",
+    "país": "us",
+    "categoría": "news"
+  },
+  "ganj-e-hozour-tv": {
+    "nombre": "Ganj e Hozour TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8",
+        "https://media.parvizshahbazi.com/ganjehozour/Main_tv/chunks.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "viet-global-mall-tv": {
-        "nombre": "Global Mall TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/c6fnTI2vkCY"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/viet-global-mall-tv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.parvizshahbazi.com/?quality=high",
+    "país": "us",
+    "categoría": "news"
+  },
+  "viet-global-mall-tv": {
+    "nombre": "Global Mall TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://es.livetvcentral.com/tv/viet-global-mall-tv",
+        "https://www.youtube.com/embed/c6fnTI2vkCY"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCBvNR8xiS5crrzPXQir8TpQ",
+      "yt_embed": "Ql-EScgFxUo?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-29-philadelphia": {
-        "nombre": "Fox 29 Philadelphia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV1RYRiIsInYiOiJhZHN0RGFuN1A5VnF4WDYwIiwiYW52YWNrIjoiMHJRcDZQbVZaMXNtS244c1o5aDIzYllhSGx2elJCNFAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gyOS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggMjkgUGhpbGFkZWxwaGlhIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJXVFhGIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid3R4ZiIsImFwcF9uYW1lIjoiZm94MjkuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6IjAzQWJhTnRYdnNhaWVwQXlaNEExdEhhS3A3aWdNeTVtIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItYzhlNTZmYmYtYWM0OC00N2I1LWI5ZDUtMDI5MDc4ZDhkNmE4IiwidmlkZW9faWQiOiJhZHN0RGFuN1A5VnF4WDYwIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJfRk1obU1QR0h1NGlCT0JwWUtVTDJkUWtkSm5IVV90RzE5ZlJEdVViaWRVfk1uNHdmZyJ9"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-ue1.mp.lura.live/server/play/10r3b2gtagOVuZAg/rendition.m3u8?track=video-9&anvsid=m177618726-nf6190deddc513c6f406956d0c9fe3e5f&ts=1725919153&anvtrid=4cf6c5753432420d104e886535ab33d8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/fox-29-philadelphia",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@GlobalMallTVLive",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox-29-philadelphia": {
+    "nombre": "Fox 29 Philadelphia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV1RYRiIsInYiOiJhZHN0RGFuN1A5VnF4WDYwIiwiYW52YWNrIjoiMHJRcDZQbVZaMXNtS244c1o5aDIzYllhSGx2elJCNFAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gyOS5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggMjkgUGhpbGFkZWxwaGlhIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJXVFhGIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoid3R4ZiIsImFwcF9uYW1lIjoiZm94MjkuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6IjAzQWJhTnRYdnNhaWVwQXlaNEExdEhhS3A3aWdNeTVtIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItYzhlNTZmYmYtYWM0OC00N2I1LWI5ZDUtMDI5MDc4ZDhkNmE4IiwidmlkZW9faWQiOiJhZHN0RGFuN1A5VnF4WDYwIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJfRk1obU1QR0h1NGlCT0JwWUtVTDJkUWtkSm5IVV90RzE5ZlJEdVViaWRVfk1uNHdmZyJ9",
+        "https://es.livetvcentral.com/tv/fox-29-philadelphia"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-ue1.mp.lura.live/server/play/10r3b2gtagOVuZAg/rendition.m3u8?track=video-9&anvsid=m177618726-nf6190deddc513c6f406956d0c9fe3e5f&ts=1725919153&anvtrid=4cf6c5753432420d104e886535ab33d8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cutlery-corner-network": {
-        "nombre": "Cutlery Corner Network",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/dUgQCJQ9vsY?modestbranding=1&autoplay=1&controls=1&autohide=1&showinfo=0&rel=0&playsinline=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cutlerycorner.net/Watch/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/fox-29-philadelphia",
+    "país": "us",
+    "categoría": "news"
+  },
+  "cutlery-corner-network": {
+    "nombre": "Cutlery Corner Network",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cutlerycorner.net/Watch/",
+        "https://www.youtube.com/embed/dUgQCJQ9vsY?modestbranding=1&autoplay=1&controls=1&autohide=1&showinfo=0&rel=0&playsinline=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox4news-tv": {
-        "nombre": "FOX 4 Dallas TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS0RGVyIsInYiOiJhZHN0TkJua01CbXl2MTNXIiwiYW52YWNrIjoibGV5bjVrT3p6dFB2bnpTUHBVR3BkWk1pYTNCbk40MHoiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3g0bmV3cy5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggNCBOZXdzIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJLREZXIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoia2RmdyIsImFwcF9uYW1lIjoiZm94NG5ld3MuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6IjEwMHhwdUhXcWZmbHFHOUR6Q1RTNmoxRTV2QjB6QWJwIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItZGVjOTM1YWItNzAzZi00ZGMxLWE4NDgtNTFlNDRjMmM2YTA1IiwidmlkZW9faWQiOiJhZHN0TkJua01CbXl2MTNXIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiIxQmM1RmVmb3pJWmdoNHh5Mm5mWk1iRXRUZ0dHYjhHZkJtazk1WkxXODh3fk1uNHdmZyJ9"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-uw1.mp.lura.live/server/play/xjWzYdmuwrzYIbnA/rendition.m3u8?track=video-3&anvsid=m177610538-nc9a50ea5f22418b731afd6d42c19e181&ts=1725919548&anvtrid=c47959a8d1c8ec685acc22e12887ce15"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/kdfw-tv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cutlerycorner.net/Watch/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox4news-tv": {
+    "nombre": "FOX 4 Dallas TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS0RGVyIsInYiOiJhZHN0TkJua01CbXl2MTNXIiwiYW52YWNrIjoibGV5bjVrT3p6dFB2bnpTUHBVR3BkWk1pYTNCbk40MHoiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3g0bmV3cy5jb20vbGl2ZSIsInBsdWdpbnMiOnsiY3VzdG9tQ29tc2NvcmVQbHVnaW4iOnsiYzMiOiJGT1ggNCBOZXdzIiwiYzYiOiJmdHMiLCJzY3JpcHQiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9DdXN0b21Db21zY29yZVBsdWdpbi5qcyIsInNkayI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL2NvbXNjb3JlLmpzIiwiY2xpZW50SWQiOiI2MDQyOTAxIiwibnNfc3Rfc3QiOiJLREZXIiwidGl0bGUiOiIiLCJuc19zdF9jaSI6IiJ9LCJjdXN0b21TZWdtZW50UGx1Z2luIjp7InNjcmlwdCI6Imh0dHA6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvQ3VzdG9tU2VnbWVudFBsdWdpbi5qcyIsInByaW1hcnlfYnVzaW5lc3NfdW5pdCI6ImZ0cyIsInNlY29uZGFyeV9idXNpbmVzc191bml0Ijoia2RmdyIsImFwcF9uYW1lIjoiZm94NG5ld3MuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6IjEwMHhwdUhXcWZmbHFHOUR6Q1RTNmoxRTV2QjB6QWJwIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItZGVjOTM1YWItNzAzZi00ZGMxLWE4NDgtNTFlNDRjMmM2YTA1IiwidmlkZW9faWQiOiJhZHN0TkJua01CbXl2MTNXIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiIxQmM1RmVmb3pJWmdoNHh5Mm5mWk1iRXRUZ0dHYjhHZkJtazk1WkxXODh3fk1uNHdmZyJ9",
+        "https://es.livetvcentral.com/tv/kdfw-tv"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-uw1.mp.lura.live/server/play/xjWzYdmuwrzYIbnA/rendition.m3u8?track=video-3&anvsid=m177610538-nc9a50ea5f22418b731afd6d42c19e181&ts=1725919548&anvtrid=c47959a8d1c8ec685acc22e12887ce15"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "25-News-KXXV": {
-        "nombre": "25 News KXXV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://assets.scrippsdigital.com/cms/video/player.html?video=https://content.uplynk.com/channel/d98542382d0b49b2b573f1653590e346.m3u8&live=1&autoplay=true&purl=/live&ads.iu=/6088/ssp.kxxv/live&ads.proxy=1&poster=https://i.imgur.com/uhWC9GG.jpeg&title=25%20News%20at%205p&kw=&contplay=*recent&mute=0&cust_params=temp%3D%26weather%3D&paramOverrides=%3Frepl%3Daboi&host=kxxv.com&s=kxxv&env=production"
-            ],
-            "m3u8_url": [
-                "https://content-asae1-up-1.uplynk.com/channel/d98542382d0b49b2b573f1653590e346/a.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.kxxv.com%2F&ad.cust_params=%26user_id%3D7540422f-afb4-4246-a7e4-5073d31f4744%26givn%3Dundefined&pbs=ff3f05a3af154c4aa624b1a6298822ff"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.kxxv.com/live",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/kdfw-tv",
+    "país": "us",
+    "categoría": "news"
+  },
+  "25-News-KXXV": {
+    "nombre": "25 News KXXV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://assets.scrippsdigital.com/cms/video/player.html?video=https://content.uplynk.com/channel/d98542382d0b49b2b573f1653590e346.m3u8&live=1&autoplay=true&purl=/live&ads.iu=/6088/ssp.kxxv/live&ads.proxy=1&poster=https://i.imgur.com/uhWC9GG.jpeg&title=25%20News%20at%205p&kw=&contplay=*recent&mute=0&cust_params=temp%3D%26weather%3D&paramOverrides=%3Frepl%3Daboi&host=kxxv.com&s=kxxv&env=production",
+        "https://www.kxxv.com/live"
+      ],
+      "m3u8_url": [
+        "https://content-asae1-up-1.uplynk.com/channel/d98542382d0b49b2b573f1653590e346/a.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.kxxv.com%2F&ad.cust_params=%26user_id%3D7540422f-afb4-4246-a7e4-5073d31f4744%26givn%3Dundefined&pbs=ff3f05a3af154c4aa624b1a6298822ff"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-26-houston-tv": {
-        "nombre": "Fox 26 Houston",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS1JJViIsInYiOiJhZHN0a3JENXF4V1FQUTRMIiwiYW52YWNrIjoibDVRd1Y4cnAzMmZqb2tldTZJN1c2WUdUQkdLMmx5OVIiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gyNmhvdXN0b24uY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiRk9YIDI2IEhvdXN0b24iLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IktSSVYiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJrcml2IiwiYXBwX25hbWUiOiJmb3gyNmhvdXN0b24uY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6IjlZbzJZYlBLNEFUMUtYYUhsU0sySTVxOHpSYnFNcWRVIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItNTIyNWQxODYtNzFiNS00ZmFiLTgwZDMtODA1NDMyZGVjOGUxIiwidmlkZW9faWQiOiJhZHN0a3JENXF4V1FQUTRMIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJZblpQaEhXWHpsMXA2Nm1JcWRiTWJIZThYc0g1Z2VRazloanlmYzkwUUVJfk1uNHdmZyJ9"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-ue1.mp.lura.live/server/play/EA4nQa1ukgW3IK67/rendition.m3u8?track=video-3&anvsid=m177618729-n3c44ba4b0609235538994eeb59af2266&ts=1725920159&anvtrid=7f5e2c832145da8bf35f404e586d322c"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/fox-26-houston",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.kxxv.com/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox-26-houston-tv": {
+    "nombre": "Fox 26 Houston",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS1JJViIsInYiOiJhZHN0a3JENXF4V1FQUTRMIiwiYW52YWNrIjoibDVRd1Y4cnAzMmZqb2tldTZJN1c2WUdUQkdLMmx5OVIiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gyNmhvdXN0b24uY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiRk9YIDI2IEhvdXN0b24iLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IktSSVYiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJrcml2IiwiYXBwX25hbWUiOiJmb3gyNmhvdXN0b24uY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6IjlZbzJZYlBLNEFUMUtYYUhsU0sySTVxOHpSYnFNcWRVIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItNTIyNWQxODYtNzFiNS00ZmFiLTgwZDMtODA1NDMyZGVjOGUxIiwidmlkZW9faWQiOiJhZHN0a3JENXF4V1FQUTRMIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJZblpQaEhXWHpsMXA2Nm1JcWRiTWJIZThYc0g1Z2VRazloanlmYzkwUUVJfk1uNHdmZyJ9",
+        "https://es.livetvcentral.com/tv/fox-26-houston"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-ue1.mp.lura.live/server/play/EA4nQa1ukgW3IK67/rendition.m3u8?track=video-3&anvsid=m177618729-n3c44ba4b0609235538994eeb59af2266&ts=1725920159&anvtrid=7f5e2c832145da8bf35f404e586d322c"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "SBN-tv": {
-        "nombre": "SBN TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCf1y3FvYJYPbgMqHX7ZzeZA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/fox-26-houston",
+    "país": "us",
+    "categoría": "news"
+  },
+  "SBN-tv": {
+    "nombre": "SBN TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCf1y3FvYJYPbgMqHX7ZzeZA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "andisheh-tv": {
-        "nombre": "Andisheh TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www-andishehtv-com.filesusr.com/html/78ad37_78ed5a09abbe4dd4d2f24d25c82588d4.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.andishehtv.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Andisheh-TV": {
+    "nombre": "Andisheh TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www-andishehtv-com.filesusr.com/html/78ad37_78ed5a09abbe4dd4d2f24d25c82588d4.html",
+        "https://www.andishehtv.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "shepherds-chapel": {
-        "nombre": "Shepherds Chapel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/lkvLvbZK0YE"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCwX0AEx-qIhQ9kgtlNhyIXw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TheShepherdsChapel/streams",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.andishehtv.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "shepherds-chapel": {
+    "nombre": "Shepherds Chapel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCwX0AEx-qIhQ9kgtlNhyIXw",
+      "yt_embed": "X65jn0oznHc?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "abc-7-tv": {
-        "nombre": "ABC 7 Fort Myers",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/eXZ4-qp16nI",
-                "https://www.abc-7.com/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.abc-7.com/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@TheShepherdsChapel/streams",
+    "país": "us",
+    "categoría": "news"
+  },
+  "abc-7-tv": {
+    "nombre": "ABC 7 Fort Myers",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/eXZ4-qp16nI",
+        "https://www.abc-7.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "mohabat-tv": {
-        "nombre": "Mohabat TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://content.jwplatform.com/players/i3hgTEv1-lvbPj9Wt.html",
-                "https://es.livetvcentral.com/tv/mohabat-tv"
-            ],
-            "m3u8_url": [
-                "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/chunklist_w1535320668_b265536.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/mohabat-tv",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.abc-7.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "mohabat-tv": {
+    "nombre": "Mohabat TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://content.jwplatform.com/players/i3hgTEv1-lvbPj9Wt.html",
+        "https://es.livetvcentral.com/tv/mohabat-tv"
+      ],
+      "m3u8_url": [
+        "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/chunklist_w1535320668_b265536.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-fady-tv": {
-        "nombre": "Al-Fady TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://alfadytv.tv/player/truth2.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCLQboUGfxQKee9leGBjKj_w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://alfadytv.tv/watchlive10/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%88%D8%B1%D8%A8%D8%A7-%D9%88-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/mohabat-tv",
+    "país": "us",
+    "categoría": "news"
+  },
+  "al-fady-tv": {
+    "nombre": "Al-Fady TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://alfadytv.tv/player/truth2.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCLQboUGfxQKee9leGBjKj_w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "didgah-tv": {
-        "nombre": "Didgah TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://media.streambrothers.com/VideoPlayer/8276",
-                "https://www.didgah.tv/"
-            ],
-            "m3u8_url": [
-                "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.didgah.tv/",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://alfadytv.tv/watchlive10/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%88%D8%B1%D8%A8%D8%A7-%D9%88-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7",
+    "país": "us",
+    "categoría": "news"
+  },
+  "didgah-tv": {
+    "nombre": "Didgah TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://media.streambrothers.com/VideoPlayer/8276",
+        "https://www.didgah.tv/"
+      ],
+      "m3u8_url": [
+        "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-61-ct-hartford-fox-5-new-york": {
-        "nombre": "Fox 61 CT Hartford - Fox 5 New York",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.fox61.com/watch",
-                "https://www.fox5ny.com/live",
-                "https://es.livetvcentral.com/country/united-states"
-            ],
-            "m3u8_url": [
-                "https://video.tegnaone.com/wtic/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC-Production/live/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/country/united-states",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://www.didgah.tv/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox-61-ct-hartford-fox-5-new-york": {
+    "nombre": "Fox 61 CT Hartford - Fox 5 New York",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.fox61.com/watch",
+        "https://www.fox5ny.com/live",
+        "https://es.livetvcentral.com/country/united-states"
+      ],
+      "m3u8_url": [
+        "https://video.tegnaone.com/wtic/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC-Production/live/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-2-KTVU": {
-        "nombre": "Fox 2 KTVU",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS1RWVSIsInYiOiJhZHN0MDZXOXEzZzlxTGVyIiwiYW52YWNrIjoiMHJRcGExZG1CYVRtS254aGRVMjNiWWFIbHZ6UkJBUHAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5rdHZ1LmNvbS9saXZlIiwicGx1Z2lucyI6eyJjdXN0b21Db21zY29yZVBsdWdpbiI6eyJjMyI6IktUVlUgRk9YIDIiLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IktUVlUiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJrdHZ1IiwiYXBwX25hbWUiOiJrdHZ1LmNvbSIsImFwcF9wbGF0Zm9ybSI6IndlYiIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJzZWdtZW50SWQiOiJvZ1hUZndpSzhUQXJsSFF6cEFBNmN5MmcySEp4bHUzTyIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLWJiYWUyNjBjLWY4ZTAtNGI0Mi1iOTYyLWFkYjYzN2FlMGE1ZiIsInZpZGVvX2lkIjoiYWRzdDA2VzlxM2c5cUxlciJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6bnVsbCwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIn0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9fSwiaHRtbDUiOnRydWUsInRva2VuIjoieGlOV3p1VEQwWFhtYVBHbFRnSXpmd3JtSnRBWDBiRk5aU3k5RzJJOUsxSX5NbjR3ZmcifQ%3D%3D",
-                "https://es.livetvcentral.com/tv/ktvu"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-uc1.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-1&anvsid=m177626901-necda393b4da933e0838c2463578587cc&ts=1725925350&anvtrid=ea415354b77d7be1727d2c2d7181f650"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/ktvu",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/country/united-states",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox-2-KTVU": {
+    "nombre": "Fox 2 KTVU",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiS1RWVSIsInYiOiJhZHN0MDZXOXEzZzlxTGVyIiwiYW52YWNrIjoiMHJRcGExZG1CYVRtS254aGRVMjNiWWFIbHZ6UkJBUHAiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5rdHZ1LmNvbS9saXZlIiwicGx1Z2lucyI6eyJjdXN0b21Db21zY29yZVBsdWdpbiI6eyJjMyI6IktUVlUgRk9YIDIiLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IktUVlUiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJrdHZ1IiwiYXBwX25hbWUiOiJrdHZ1LmNvbSIsImFwcF9wbGF0Zm9ybSI6IndlYiIsImFwcF92ZXJzaW9uIjoiMS4wLjAiLCJzZWdtZW50SWQiOiJvZ1hUZndpSzhUQXJsSFF6cEFBNmN5MmcySEp4bHUzTyIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLWJiYWUyNjBjLWY4ZTAtNGI0Mi1iOTYyLWFkYjYzN2FlMGE1ZiIsInZpZGVvX2lkIjoiYWRzdDA2VzlxM2c5cUxlciJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6bnVsbCwia2V5VmFsdWVzIjp7InB0eXBlIjoidmlkZW8tbGl2ZSIsInVzX3ByaXZhY3kiOiIxLS0tIn19LCJzZXJ2ZXJTaWRlIjp7InVzX3ByaXZhY3kiOiIxLS0tIn0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9fSwiaHRtbDUiOnRydWUsInRva2VuIjoieGlOV3p1VEQwWFhtYVBHbFRnSXpmd3JtSnRBWDBiRk5aU3k5RzJJOUsxSX5NbjR3ZmcifQ%3D%3D",
+        "https://es.livetvcentral.com/tv/ktvu"
+      ],
+      "m3u8_url": [
+         "https://dcs-live-uc1.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-1&anvsid=m177626901-necda393b4da933e0838c2463578587cc&ts=1725925350&anvtrid=ea415354b77d7be1727d2c2d7181f650"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-orlando-tv": {
-        "nombre": "Fox 35 Orlando",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV09GTCIsInYiOiJhZHN0UTJvYXE1cEVQNzBPIiwiYW52YWNrIjoibHhRTU04bFpsQkNSYjNadGFJYkpxdmFVakphMjVRWTMiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gzNW9ybGFuZG8uY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiRk9YIDM1IE9ybGFuZG8iLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IldPRkwiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJ3b2ZsIiwiYXBwX25hbWUiOiJmb3gzNW5ld3MuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6Imc1Mllrd29nQzBPNjFXWDQ1bjVKSVRJYTZaSGthVExIIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItNjY4OTQ5NjQtZGY0OC00M2U5LTkxZDctZTdlMzU0NWMyMzNkIiwidmlkZW9faWQiOiJhZHN0UTJvYXE1cEVQNzBPIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJnc25qZGxJZWU4c0szX1I2UUFMTWhIQXgyREhralNGakNUT3ZoSjNzM3lNfk1uNHdmZyJ9",
-                "https://es.livetvcentral.com/tv/fox-orlando"
-            ],
-            "m3u8_url": [
-                "https://dcs-live-uc1.mp.lura.live/server/play/xADaLvVFzEBRFWrj/rendition.m3u8?track=video-0&anvsid=m177626919-n389d9c0fb77c3232ccfa9e8668222de0&ts=1725925951&anvtrid=912ba71da5c62098c9dbd65ba3464f49"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/fox-orlando",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/ktvu",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox-orlando-tv": {
+    "nombre": "Fox 35 Orlando",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV09GTCIsInYiOiJhZHN0UTJvYXE1cEVQNzBPIiwiYW52YWNrIjoibHhRTU04bFpsQkNSYjNadGFJYkpxdmFVakphMjVRWTMiLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gzNW9ybGFuZG8uY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiRk9YIDM1IE9ybGFuZG8iLCJjNiI6ImZ0cyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL0N1c3RvbUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IldPRkwiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIn0sImN1c3RvbVNlZ21lbnRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9DdXN0b21TZWdtZW50UGx1Z2luLmpzIiwicHJpbWFyeV9idXNpbmVzc191bml0IjoiZnRzIiwic2Vjb25kYXJ5X2J1c2luZXNzX3VuaXQiOiJ3b2ZsIiwiYXBwX25hbWUiOiJmb3gzNW5ld3MuY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInNlZ21lbnRJZCI6Imc1Mllrd29nQzBPNjFXWDQ1bjVKSVRJYTZaSGthVExIIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItNjY4OTQ5NjQtZGY0OC00M2U5LTkxZDctZTdlMzU0NWMyMzNkIiwidmlkZW9faWQiOiJhZHN0UTJvYXE1cEVQNzBPIn0sImRmcCI6eyJjbGllbnRTaWRlIjp7ImFkVGFnVXJsIjpudWxsLCJrZXlWYWx1ZXMiOnsicHR5cGUiOiJ2aWRlby1saXZlIiwidXNfcHJpdmFjeSI6IjEtLS0ifX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6IjEtLS0ifSwibGlicmFyeVJlcXVlc3RlZCI6dHJ1ZX19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJnc25qZGxJZWU4c0szX1I2UQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr",
+        "https://es.livetvcentral.com/tv/fox-orlando"
+      ],
+      "m3u8_url": [
+        "https://dcs-live-uc1.mp.lura.live/server/play/xADaLvVFzEBRFWrj/rendition.m3u8?track=video-0&anvsid=m177626919-n389d9c0fb77c3232ccfa9e8668222de0&ts=1725925951&anvtrid=912ba71da5c62098c9dbd65ba3464f49"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-chicago-tv": {
-        "nombre": "Fox 32 Chicago",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV0ZMRCIsInYiOiJhZHN0b04xN3ZMb0JxNDZlIiwiYW52YWNrIjoiTGc0ZVk5bld4ekNsYnh2RjFjNU1ZV1ZpS1B2Smo0cE4iLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gzMmNoaWNhZ28uY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiRk9YIDMyIENoaWNhZ28iLCJjNiI6IkZUUyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL05hdGl2ZUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IldGTEQiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIiwiYzQiOm51bGwsInNldEdlbnJlTmFtZSI6Ik5ld3MiLCJhcHBOYW1lIjoiRk9YIDMyIENoaWNhZ28gTmV3cyBBcHAifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOm51bGwsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUiLCJ1c19wcml2YWN5IjpudWxsfX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6bnVsbH0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJuYXRpdmVIZWFydGJlYXRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9hZG9iZS9DdXN0b21IZWFydGJlYXRQbHVnaW4uanMiLCJwcmltYXJ5X2J1c2luZXNzX3VuaXQiOiJmdHMiLCJzZWNvbmRhcnlfYnVzaW5lc3NfdW5pdCI6IndmbGQiLCJhcHBfbmFtZSI6ImZveDMyY2hpY2Fnby5jb20iLCJhcHBfcGxhdGZvcm0iOiJ3ZWIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItYzdlNTk2MWQtY2RlZC00MmUyLTkyZTAtYjZmYWU3N2Q4NjZlIiwidmlkZW9faWQiOiJhZHN0b04xN3ZMb0JxNDZlIn19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJzWUJZQ3JXcEZsSnp0THBwOWc2MW13SWV0M1g4czg3bVVSdldkYTl5SHJRfk1uNHdmZyJ9",
-                "https://wwitv.com/tv_channels/b4971.htm"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wwitv.com/tv_channels/b4971.htm",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://es.livetvcentral.com/tv/fox-orlando",
+    "país": "us",
+    "categoría": "news"
+  },
+  "fox-chicago-tv": {
+    "nombre": "Fox 32 Chicago",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiV0ZMRCIsInYiOiJhZHN0b04xN3ZMb0JxNDZlIiwiYW52YWNrIjoiTGc0ZVk5bld4ekNsYnh2RjFjNU1ZV1ZpS1B2Smo0cE4iLCJzaGFyZUxpbmsiOiJodHRwczovL3d3dy5mb3gzMmNoaWNhZ28uY29tL2xpdmUiLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiRk9YIDMyIENoaWNhZ28iLCJjNiI6IkZUUyIsInNjcmlwdCI6Imh0dHBzOi8vc3RhdGljLmZveHR2LmNvbS9zdGF0aWMvb3Jpb24vc2NyaXB0cy9jb3JlL3V0aWxzL2NvbXNjb3JlL05hdGl2ZUNvbXNjb3JlUGx1Z2luLmpzIiwic2RrIjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvY29tc2NvcmUuanMiLCJjbGllbnRJZCI6IjYwNDI5MDEiLCJuc19zdF9zdCI6IldGTEQiLCJ0aXRsZSI6IiIsIm5zX3N0X2NpIjoiIiwiYzQiOm51bGwsInNldEdlbnJlTmFtZSI6Ik5ld3MiLCJhcHBOYW1lIjoiRk9YIDMyIENoaWNhZ28gTmV3cyBBcHAifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOm51bGwsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUiLCJ1c19wcml2YWN5IjpudWxsfX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6bnVsbH0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJuYXRpdmVIZWFydGJlYXRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9hZG9iZS9DdXN0b21IZWFydGJlYXRQbHVnaW4uanMiLCJwcmltYXJ5X2J1c2luZXNzX3VuaXQiOiJmdHMiLCJzZWNvbmRhcnlfYnVzaW5lc3NfdW5pdCI6IndmbGQiLCJhcHBfbmFtZSI6ImZveDMyY2hpY2Fnby5jb20iLCJhcHBfcGxhdGZvcm0iOiJ3ZWIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwicGxheWVyVW5pcXVlSWQiOiJwbGF5ZXItYzdlNTk2MWQtY2RlZC00MmUyLTkyZTAtYjZmYWU3N2Q4NjZlIiwidmlkZW9faWQiOiJhZHN0b04xN3ZMb0JxNDZlIn19LCJodG1sNSI6dHJ1ZSwidG9rZW4iOiJzWUJZQ3JXcEZsSnp0THBwOWc2MW13SWV0M1g4czg3bVVSdldkYTl5SHJRfk1uNHdmZyJ9",
+        "https://wwitv.com/tv_channels/b4971.htm"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "al-hayat-tv-didgah": {
-        "nombre": "Al Hayat - Didgah",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.alhayat.tv/",
-                "https://www.elahmad.com/tv/watchtv.php?id=alhayat",
-                "https://www.elahmad.com/tv/watchtv.php?id=alhayat_drama",
-                "https://www.elahmad.com/tv/alhayattv.php",
-                "https://www.didgah.tv/"
-            ],
-            "m3u8_url": [
-                "https://lb2.elahmad.com/tv704_www.elahmad.com_alhayat_eg/index.m3u8?token=2d9dda700f2ba1c16081e687f5650a62c112f475-b1cee9689904e223bd982d17d206d088-1725933803-1725923003"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alhayattv.php",
-        "país": "us",
-        "categoría": "news"
+    "sitio_oficial": "https://wwitv.com/tv_channels/b4971.htm",
+    "país": "us",
+    "categoría": "news"
+  },
+  "al-hayat-tv-didgah": {
+    "nombre": "Al Hayat - Didgah",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.alhayat.tv/",
+        "https://www.elahmad.org/tv/watchtv.php?id=alhayat",
+        "https://www.elahmad.org/tv/watchtv.php?id=alhayat_drama",
+        "https://www.elahmad.org/tv/alhayattv.php",
+        "https://www.didgah.tv/"
+      ],
+      "m3u8_url": [
+        "https://lb2.elahmad.com/tv704_www.elahmad.com_alhayat_eg/index.m3u8?token=2d9dda700f2ba1c16081e687f5650a62c112f475-b1cee9689904e223bd982d17d206d088-1725933803-1725923003"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.elahmad.org/tv/alhayattv.php",
+    "país": "us",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "us",
+    "categoría": "news"
+  },
     "Tin-tv-ON-Drama": {
         "nombre": "Tin - ON-Drama",
         "logo": "",
