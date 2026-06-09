@@ -145,7 +145,7 @@
       "yt_playlist": "https://www.youtube.com/@Foxweather",
       "twitch_id": "https://tocsindata.com/watch?channel_id=3127----https://github.com/WildContagion/TV/blob/7f06e41f84a4c600ef0d5c07f29cede4df9cbfbc/us/us.m3u#L4"
     },
-    "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8/hls/US-FoxBussinessChannel.m3u8",
+    "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/US-FoxBussinessChannel.m3u8",
     "país": "us",
     "categoría": "news"
   },
@@ -172,7 +172,7 @@
         "https://abc7.com/watch/live/",
         "https://www.abc-7.com/",
         "https://www.gulfcoastnewsnow.com/article/live-stream/46210476",
-        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1HoecwsFtSMfrZtMjSK8Jmc9G7DP2EgJu8-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
+        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
         "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
       ],
       "m3u8_url": [
@@ -263,7 +263,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861Ht6TLmpMc3xhN5euPZo5ecC4RJtfJrJu8/hls/YahooFinance.m3u8",
+    "sitio_oficial": "https://github.com/dca2107/ctv/blob/fa7120a861AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/YahooFinance.m3u8",
     "país": "pe",
     "categoría": "news"
   },
@@ -6404,7 +6404,7 @@
       ],
       "m3u8_url": [
         "https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8",
-        "https://playback2.akamaized.net/streams/22636012_8242619_lsiyb8nrzz26r9jzs7k_1/exp=1729203029~acl=%2f*~data=hdntl~hmac=ee75a51e6c3a781d1fbd2aff7fd8311a57252278a5b7fd4db6b965edaa615d6a/media/22636012_8242619_lsiyb8nrzz26r9jzs7k_1@4756000pb.m3u8?dw=14400&ts=1729116000"
+        "https://playback2.akamaized.net/streams/22636012_8242619_lsiyb8nrzz26r9jzs7k_1/exp=1729203029~acl=%2f*~data=hdntl~hmac=ee75a51e6c3a781d1fbd2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/media/22636012_8242619_lsiyb8nrzz26r9jzs7k_1@4756000pb.m3u8?dw=14400&ts=1729116000"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -9022,7 +9022,7 @@
     },
     "web-tv-classicos-do-cinema": {
         "nombre": "Web Tv Clássicos do Cinema Ao Vivo",
-        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d8781AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi.webp",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
@@ -14420,7 +14420,7 @@
       "m3u8_url": [
         "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565",
         "https://ov.ottera.tv/channels/cnm_niv/master.m3u8",
-        "https://4ff77b38.wurl.com/master/f36d25e7e52f1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8"
+        "https://4ff77b38.wurl.com/master/f32n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -19081,7 +19081,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://bradmax.com/client/embed-player/8124fa32BXBiVmmFgf6BWAWwrQBPdG1TVCvcbbF2_5040?mediaUrl=https%3A%2F%2F2nbyjj2by53k-hls-live.5centscdn.com%2FOmidTV24%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Fplaylist.m3u8&title=OmidTV24%2Flive&id=16150",
+        "https://bradmax.com/client/embed-player/8124fa32sWxScGyATsUTHAVeAnkZkEKvHz8AnbF2_5040?mediaUrl=https%3A%2F%2F2nbyjj2by53k-hls-live.5centscdn.com%2FOmidTV24%2Fd0dbe915091d400bd8ee7f27f0791303.sdp%2Fplaylist.m3u8&title=OmidTV24%2Flive&id=16150",
         "https://omidtv24.com/live/"
       ],
       "m3u8_url": [],
@@ -20947,7 +20947,7 @@
     "logo": "https://i.imgur.com/FL2ZuGC.png",
     "señales": {
       "iframe_url": [
-        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1y5kN9EkM4kMo31hpmZWKSGwzUKiSv-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
+        "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8?Expires=1767745596&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHJlYW0tc3luY3dvcmRzLmxydC5sdC9vdXQvKiIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOiB7IkFXUzpTb3VyY2VJcCI6IjE3OS42LjYuMTg4In0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY3NzQ1NTk2fX19XX0_&Signature=Bner6~1qY4y2DGJXlu0UfdLiLiTAIQYA7LfPNt4pqW9dQXXKTwMZeb0ls~WCz2zqWlbEEacBbE~muOOZSfgsHr2ePAWDgrehD8NxgVVsv5LHlq9LaFGM0XJ9qA2BAXKxRb6rQE9r1HPXttdJBaYhOOhnyJs0o1CXcHELVhzNCOAQJupWmJjWHukNg-3Ao-PnUVlGErFJRNcP7uHzI77~BR5v5N8G7O6T1afbkFPfQZutGZurWrgLhme6-tgZKwZfnU2AjO49u96lc1nzOMx0IFUhjttqAh8RyGOKF~7PwGAZ1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi-dfewPv0L39A__&Key-Pair-Id=KAKLAV9ALHXL",
         "https://www.lrt.lt/mediateka/tiesiogiai/lrt-televizija"
       ],
       "m3u8_url": [
@@ -24461,7 +24461,7 @@
       ],
       "m3u8_url": [
         "https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8",
-        "https://github.com/antholyber1a/lista-iptv-peru/blob/c3c708a39a41d2f9823841767a52a8ca1b5123ea/iptvperu.m3u#L4"
+        "https://github.com/antholyber1a/lista-iptv-peru/blob/c3c708a39a41AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/iptvperu.m3u#L4"
       ],
       "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
       "yt_embed": "2yxQtYxdcn0?",
@@ -24983,8 +24983,8 @@
         "https://www.futxi.com/en-vivo/latina-television/"
       ],
       "m3u8_url": [
-        "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=",
-        "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0",
+        "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8?did=",
+        "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429009",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429010",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429011"
@@ -25161,7 +25161,7 @@
     "señales": {
       "iframe_url": [
         "https://radiosanborjatv.com/",
-        "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
+        "https://bradm.ax/build/202403/30/d853f825e47c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
       ],
       "m3u8_url": [
         "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
@@ -25318,7 +25318,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
     "señales": {
       "iframe_url": [
-        "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUndGA1W52zylSsdoQiRLVQXpaAVBxWxr1CsdI1KpBOjmHF_w-brVA_aem_CJ2LdD129ElkJMzbGSsn4A",
+        "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr-brVA_aem_CJ2LdD129ElkJMzbGSsn4A",
         "https://www.youtube.com/embed/bad5HyO2SGo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
       ],
       "m3u8_url": [
@@ -25907,7 +25907,7 @@
         "http://www.antarestvradio.com/tvonline.html"
       ],
       "m3u8_url": [
-        "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1722354644&tvtokenendtime=1722356444&tvtokenhash=lxJh6gXnTTnaehLDrn8atuw2UVBmg6AQmbVhjNSFKjg="
+        "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8?tvtokenstarttime=1722354644&tvtokenendtime=1722356444&tvtokenhash=l2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt="
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -26353,7 +26353,7 @@
         "https://tvgratisperu.com/pages/peru/oasisrtv.php",
         "https://elgrupofiesta.pe/miel-tv-vivo/",
         "https://elgrupofiesta.pe/nativa-tv-vivo/",
-        "https://elgrupofiesta.pe/?fbclid=IwZXh0bgNhZW0CMTAAAR2VWYe15Ya0tw2Ev_tnAat8iyb25tb364Ohkli-QOYWn1ODViIS_w2dbf0_aem_q7zMl_8mGQ3WISEpOl3vKw"
+        "https://elgrupofiesta.pe/?fbclid=IwZXh0bgNhZW0CMTAAAR2VWYe15Ya0tw2UQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_q7zMl_8mGQ3WISEpOl3vKw"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -26370,7 +26370,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://moyobamba.com/planetatv/?fbclid=IwZXh0bgNhZW0CMTAAAR1PH77IXmXtebKEUBsDZHSqUYML4F8G5b8klCYWFPHcZs4q8eruZzZzQEI_aem_SEbiZbeg8ZN-uDaIi_MgBQ",
+        "https://moyobamba.com/planetatv/?fbclid=IwZXh0bgNhZW0CMTAAAR1PH77IXmXtebKUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_SEbiZbeg8ZN-uDaIi_MgBQ",
         "https://servilive.com/live-stream-video-widget/qosqotimes",
         "https://tvgratisperu.com/pages/peru/re/qttv_op1.php",
         "https://servilive.com/live-stream-video-widget/qosqotimes",
@@ -26386,7 +26386,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://moyobamba.com/planetatv/?fbclid=IwZXh0bgNhZW0CMTAAAR1PH77IXmXtebKEUBsDZHSqUYML4F8G5b8klCYWFPHcZs4q8eruZzZzQEI_aem_SEbiZbeg8ZN-uDaIi_MgBQ",
+    "sitio_oficial": "https://moyobamba.com/planetatv/?fbclid=IwZXh0bgNhZW0CMTAAAR1PH77IXmXtebKUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_SEbiZbeg8ZN-uDaIi_MgBQ",
     "país": "pe",
     "categoría": "news"
   },
@@ -28430,7 +28430,7 @@
         "https://musicacristiana.com.ar/tabernaculo-tv.html",
         "https://musicacristiana.com.ar/tv/siloe-tv.htm",
         "https://musicacristiana.com.ar/siloe-tv.html",
-        "https://player.restream.io/?token=8835671364ce4c629f686fc9d9152ca8",
+        "https://player.restream.io/?token=8835671AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi",
         "https://musicacristiana.com.ar/tv/teleoro-canal13-tv.htm",
         "https://www.canal13pr.tv/"
       ],
@@ -28438,7 +28438,7 @@
         "https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8",
         "https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w674857428_b3428000_DVR_sleng.m3u8",
         "https://6110f70ea8d0e.streamlock.net/1689/1689/chunklist_w136353548.m3u8",
-        "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjOGZlMGVkODkxZjlmZmYwYzc3ZDJjZmZjYWFiMzUxOSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzMxNDY3MzUzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Gc_YlJxuJVylhxCDz89DA2f-lGgGQ8x8wiJNRugtTSH_UsCW_hDh2R490jlYqT5sjf21HIGImNBLtPHy8maJRGrIHlJsPR6XTyS6H_ZyLIAr3CTFzo8OjcKVxOjBlD57q428bALwTk9grcbrs0fK0m4J8PX-1O4Zd4v6WmASX-M5ZOirrpgsBA9QglUUC_oLN5GxhYJIVcIXcVU4xlpDM9l9YC29ZI8ZOGoTPmkruz0jlnFMYmpISbuj2sY97F3X55Vg7bTWDrMqGLWihFN1r2bLzi4b9NVxnYVt3zHX2bTt1nH3idg3m8LP1MMZNBDEn-Vu8mix7GKSuRgK_zGReg/manifest/stream_tbec4217892c808e79bbc2e6894b0f01f_r873336445.m3u8?useVODOTFE=false&llhlsHBs=0.9&CMCD=cid%3D%221731424149244%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22809a54fe-22be-4e57-9059-2c3e8397de89%22%2Csu"
+        "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjOGZlMGVkODkxZjlmZmYwYzc3ZDJjZmZjYWFiMzUxOSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzMxNDY3MzUzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Gc_YlJxuJVylhxCDz89DA2f-lGgGQ8x8wiJNRugtTSH_UsCW_hDh2R490jlYqT5sjf21HIGImNBLtPHy8maJRGrIHlJsPR6XTyS6H_ZyLIAr3CTFzo8OjcKVxOjBlD57q428bALwTk9grcbrs0fK0m4J8PX-1O4Zd4v6WmASX-M5ZOirrpgsBA9QglUUC_oLN5GxhYJIVcIXcVU4xlpDM9l9YC29ZI8ZOGoTPmkruz0jlnFMYmpISbuj2sY97F3X55Vg7bTWDrMqGLWihFN1r2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt-Vu8mix7GKSuRgK_zGReg/manifest/stream_tbec4217892c808e79bbc2e6894b0f01f_r873336445.m3u8?useVODOTFE=false&llhlsHBs=0.9&CMCD=cid%3D%221731424149244%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22809a54fe-22be-4e57-9059-2c3e8397de89%22%2Csu"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -33031,7 +33031,7 @@
     "señales": {
       "iframe_url": [
         "https://vpitv.com/",
-        "https://ott3.streann.com/streaming/player.html?U2FsdGVkX19Y1LKAfsKTbMpxmIDS3cmY7F1eXb/MUPQShzF7OmNZ3LfeSuvZvT4MFQngiCSizN1LpYn6bnVIQSnuur3ao0kfP11pV0bQwjtmSKGnrzFaqvPy6rI3DvH4lCfP4l7ur8Lu2t9sVbmnxpCdcUXyL0hJLaBmXQFjvetQ6NCSjDua9z22QZch32mVNey5LLY3uKnEReCUh9n4+0o0oWeA4sQnAJ5FPLlHZ9Kbn45OsJ5mKeX+G3UDJJRAcQ9XUma5m0BiTzjt30a9/DtW82FX7KVqCvcj7ZT8p3ojBBXqPcWyEweDsBAnbjsvWWzX5u9fUtTVMWkFdiQq7Q=="
+        "https://ott3.streann.com/streaming/player.html?U2FsdGVkX19Y1LKAfsKTbMpxmIDS3cmY7F1eXb/MUPQShzF7OmNZ3LfeSuvZvT4MFQngiCSizN1LpYn6bnVIQSnuur3ao0kfP11pV0bQwjtmSKGnrzFaqvPy6rI3DvH4lCfP4l7ur8Lu2t9sVbmnxpCdcUXyL0hJLaBmXQFj2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt+0o0oWeA4sQnAJ5FPLlHZ9Kbn45OsJ5mKeX+G3UDJJRAcQ9XUma5m0BiTzjt30a9/DtW82FX7KVqCvcj7ZT8p32n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt=="
       ],
       "m3u8_url": [],
       "yt_id": "UCVFiIRuxJ2GmJLUkHmlmj4w",
@@ -34508,7 +34508,7 @@
         "https://i.mjh.nz/.r/channel-news-asia.m3u8",
         "https://i.mjh.nz/.r/redbull-tv.m3u8",
         "https://i.mjh.nz/world/",
-        "https://github.com/caliwyr/Software/blob/00c10301dc4a4b6ceba7eaebcc1c4171f17192f6/IPTV/us_tcl.m3u"
+        "https://github.com/caliwyr/Software/blob/00c10301AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/IPTV/us_tcl.m3u"
       ],
       "yt_id": "UCef1-8eOpJgud7szVPlZQAQ",
       "yt_embed": "MXNEtHeXj1U?",
@@ -37413,7 +37413,7 @@
       ],
       "m3u8_url": [
         "https://live-cdn-bfm2-euw3.bfmtv.bct.nextradiotv.com/master.m3u8",
-        "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/eurosportde.m3u8",
+        "https://sv20.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/eurosportde.m3u8",
         "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"
       ],
       "yt_id": "",
@@ -37561,7 +37561,7 @@
         "https://www.livehdtv.com/ch194/"
       ],
       "m3u8_url": [
-        "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/seriefilmes.m3u8"
+        "https://sv1.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/seriefilmes.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -37757,7 +37757,7 @@
                 "https://www.cxtvlive.com/live-tv/rlpro-tv"
             ],
             "m3u8_url": [
-                "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/artefrance.m3u8",
+                "https://sv1.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/artefrance.m3u8",
                 "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
             ],
             "yt_id": "",
@@ -37804,9 +37804,9 @@
                 "https://karwan.tv/4-kurd-tv.html"
             ],
             "m3u8_url": [
-                "https://sv7.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/lequipe.m3u8",
+                "https://sv7.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/lequipe.m3u8",
                 "https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8",
-                "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1cf68cbe464d3a72fd4faeeb9bf7/hls/planeteplus.m3u8"
+                "https://sv20.data-stream.top/daeb340061419f9e3184328011c3d6e2842c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/hls/planeteplus.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -40943,7 +40943,7 @@
                 "https://bx-tv.com/mazhavil-manorama/"
             ],
             "m3u8_url": [
-                "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8"
+                "https://yuppmedtaorire.akamaized.net/v1/master/a0d00732sWxScGyATsUTHAVeAnkZkEKvHz8AnbF2/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -41620,8 +41620,8 @@
         "https://www.elahmad.com/tv/mpegts_player.php?id=jeemtv"
       ],
       "m3u8_url": [
-        "http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8",
-        "http://azrotv.com/pyr/tara-back.php?id=http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8"
+        "http://102.38.4.226:80/play/2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/.m3u8",
+        "http://azrotv.com/pyr/tara-back.php?id=http://102.38.4.226:80/play/2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
@@ -43378,7 +43378,7 @@
             ],
             "m3u8_url": [
                 "https://a5.pokaz.me/cdnQAX_3qSqkcowHiehX0g/133/1734209663/index.m3u8",
-                "https://a5.pokaz.me/133/index.m3u8?k=1734209616p51i861i6i971Sf9bed2cc637c8cf9cb55593cfa3eb86a&rand=0.38969542437869364"
+                "https://a5.pokaz.me/133/index.m3u8?k=1734209616p52n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt&rand=0.38969542437869364"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -44929,7 +44929,7 @@
     },
     "columna-tv-targoviste": {
         "nombre": "Columna TV Targoviste",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qNhi7VograPudDBIL2bKzNvTxcOylal3SRaF3wJcmOohx2sXiZ61OcCqDrIbtC623e28sDGd_4HEQkNfjIi2Id24RqbtnOF3DOwOpFGjj8x1kXTYKqyx7Re_Nhs_CGCP6DvpKneXKBOZ/s1600/columna+tv+live+online.png",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qNhi7VograPudDBIL2bKzNvTxcOylal3SRaF3wJcmOohx2sXiZ61OcCqDrIbtC623e28sDGd_4HUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_CGCP6DvpKneXKBOZ/s1600/columna+tv+live+online.png",
         "señales": {
             "iframe_url": [
                 "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html"
@@ -44948,7 +44948,7 @@
     },
     "bucovina-tv-suceava": {
         "nombre": "Bucovina TV Suceava",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3XW2zgVROdPzecNDYIs-4hUzoTAVb36J8orrCZXbIx7g_2cTTXPcF4i2KIXzUUqAkuXw7DSC8-40BHdv13w260wDmKukBHOMK1LtfUB5MUvcE_Uy7Ra4cRw8qIUzxR69kKFDgocXOW1x/s1600/bucovina+live+online.png",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3XW2zgVROdPzecNDYIs-4hUzoTAVb36J8orrCZXbIx7g_2cTTXPcF4i2KIXzUUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_Uy7Ra4cRw8qIUzxR69kKFDgocXOW1x/s1600/bucovina+live+online.png",
         "señales": {
             "iframe_url": [
                 "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
@@ -45258,7 +45258,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1720886484&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjA4ODY0ODR9fX1dfQ__&Signature=JEzhgjh6M0phaVwvyhyNtqnUE2dAC4EPVfiSOcIadSE6OqLzgYBY0hLfdzdWMUOL9vTEGOj1BBGwQqNaHTV7jR6VdK3Z~UN-GJ-awiwZtS1T-dZBYX137lyaw92HFFGa2TLT6Mm~aLdbsEQl9pTNEeth2U8z7szWBN5PsNYskUHVyb3MrHiY-wIKwCjb347iiDKfUGjiwzZBRA0qjjYMZ9AvVt0mBwzROUehhR7Mb51U~wvTlni8LxAVXpdE~IO8fJs9Wem5fw38nksFTgu~4zLD-8dDs8btI9kCXieRQ~3tb6chXYbHT5CzRR3KxnPO22eMAvWQp~IW8AhPg-vqdg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+                "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1720886484&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjA4ODY0ODR9fX1dfQ__&Signature=JEzhgjh6M0phaVwvyhyNtqnUE2dAC4EPVfiSOcIadSE6OqLzgYBY0hLfdzdWMUOL9vTEGOj1BBGwQqNaHTV7jR6VdK3Z~UN-GJ-awiwZtS1T-dZBYX137lyaw92HFFGa2TLT6Mm~aLdbsEQl9pTPQCVwD5vo1cfbPYiFWBhcWds8YNxMxWQs-wIKwCjb347iiDKfUGjiwzZBRA0qjjYMZ9AvVt0mBwzROUehhR7Mb51U~wvTlni8LxAVXpdE~IO8fJs9Wem5fw38nksFTgu~4zLD-8dDs8btI9kCXieRQ~3tb6chXYbHT5CzRR3KxnPO22eMAvWQp~IW8AhPg-vqdg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
                 "https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod1.m3u8?Expires=1720887261&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMDg4NzI2MX19fV19&Signature=l1wULXWZCSF~1BSHjIaDCxa~wJQp9BQtFIbseb8FDJIowQhcXTwLFSKUiYcbxhul1viz-PF4T9GBVbYc1udx6NVXp9hD0wXiY9dkNRkZwDtA~V66P55U3723RDaw7Iy47i72YtUj-4w-hjpBkgLmJbsnjKnTWOWbsWSOWrSiF5FL1OfP7skzi8UoQXmaH8ArGZlmSqOQvlZkuaizrembHHaNqU2cf3Q9N7epejMRsESqqkO6VdF0kVh3V2HdlEo4tx~EkIyunotz98pVgdwv8U64Hw4rvrZjarhGhypPl8UX8Yita7Pf43aarzPcPGMEJjPqiDKlISkQfTe3Br36Ng__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
             ],
             "yt_id": "",
@@ -46053,7 +46053,7 @@
             "m3u8_url": [
                 "https://t.wice.one/tt2/s/index.m3u8?e=1735431983&t=-ODNY2zrqkTjaFyCiW1Fsg",
                 "https://t.wice.one/tepl/8/index.m3u8?e=1735431906&t=PbeHODfcDemFCXTcijd18w",
-                "https://p2.skypeak.cloud/media.m3u8?id=a090e74010febe42c34651589caaf2c8&mt=m3u8&ix=E22gv%2FJ0jl0QnWxacWs4WUzZ7VF4TnTxZxWGrzk0leKTsSA4K0A7kbhgmj6wcdnZ1Hv%2BdeLP0RzLDRRQ%2FowOZ3lOPg1eLfuQoNOKnPbwG%2B9DyrOjuESyd%2F3WvtJTYrCPu2v%2Fn6eTydZnsFS4m1nv6NduUulTS3hoFdmCPOEG9d8g6S9VRtqbzzR5ssuEAuKCEL7v3u%2BoyCMYq7xMMLPcaX9CJmedkPswFrDkYjxyaCv9lzKxVOPyHR6vQjtGcFwYpD56uaIqsolyKAaDqxN1Hc5pEZ1JcP%2BOzIkqxPKV9hPwT3PbrLbgpSqZxJZpWESxt6baZGGuBuzrsiqbs%2F%2BIYA%3D%3D"
+                "https://p2.skypeak.cloud/media.m3u8?id=a090e74010febe42c34651589caaf2c8&mt=m3u8&ix=E22gv%2FJ0jl0QnWxacWs4WUzZ7VF4TnTxZxWGrzk0leKTsSA4K0A7kbhgmj6wcdnZ1Hv%2BdeLP0RzLDRRQ%2FowOZ3lOPg1eLfuQoNOKnPbwG%2B9DyrOjuESyd%2F3WvtJTYrCPu2v%2Fn6eTydZnsFS4m1nv6NduUulTS3hoFdmCPOEG9d8g6S9VRtqbzzR5ssuEAuKCEL7v3u%2BoyCMYq7xMMLPcaX9CJmedkPswFrDkYjxyaCv9lzKxVOPyHR6vQjtGcFwYpD56uaIqsolyKAaDqxN1Hc5pEZ1JcP%2BOzIkqx2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt%2F%2BIYA%3D%3D"
             ],
             "yt_id": "",
             "yt_embed": "",
