@@ -48439,552 +48439,567 @@
         "país": "th",
         "categoría": "news"
     },
-    "dltv-14": {
-        "nombre": "DLTV 14",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.10dailythings.com/channel/th/dltv-14"
-            ],
-            "m3u8_url": [
-                "https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w415513666_b3128000_slth.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.10dailythings.com/country/th",
-        "país": "th",
-        "categoría": "news"
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "dltv-2": {
-        "nombre": "TV Channel 'DLTV 2'",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.10dailythings.com/channel/th/dltv-2"
-            ],
-            "m3u8_url": [
-                "https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w1151572760_b3128000_slth.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.10dailythings.com/country/th",
-        "país": "th",
-        "categoría": "news"
+    "sitio_oficial": "",
+    "país": "th",
+    "categoría": "news"
+  },
+  "DLTV-14": {
+    "nombre": "DLTV 14",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.10dailythings.com/channel/th/dltv-14"
+      ],
+      "m3u8_url": [
+        "https://cdn-live.dltv.ac.th/smil:origin03-dltv-14-adaptive.smil/chunklist_w415513666_b3128000_slth.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "taiwanplustv": {
-        "nombre": "taiwanplustv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.taiwanplus.com/taiwanplustv",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.10dailythings.com/country/th",
+    "país": "th",
+    "categoría": "news"
+  },
+  "dltv-2": {
+    "nombre": "TV Channel 'DLTV 2'",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.10dailythings.com/channel/th/dltv-2"
+      ],
+      "m3u8_url": [
+        "https://cdn-live.dltv.ac.th/smil:origin01-dltv-02-adaptive.smil/chunklist_w1151572760_b3128000_slth.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ftv": {
-        "nombre": "ftv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.4gtv.tv/ftv/M-FTV.html?player_mute=on"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://m.ftv.com.tw/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://tv.10dailythings.com/country/th",
+    "país": "th",
+    "categoría": "news"
+  },
+  "taiwanplustv": {
+    "nombre": "taiwanplustv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "CTI": {
-        "nombre": "CTI",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/WPfPjbOLNfE?modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@CtiDeepThroat",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.taiwanplus.com/taiwanplustv",
+    "país": "th",
+    "categoría": "news"
+  },
+  "ftv": {
+    "nombre": "ftv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.4gtv.tv/ftv/M-FTV.html?player_mute=on"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Da-Ai": {
-        "nombre": "Da Ai",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/MIqUplvSRWA?autoplay=0&feature=player_detailpage&modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@DaAiVideo",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://m.ftv.com.tw/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "CTI": {
+    "nombre": "CTI",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/WPfPjbOLNfE?modestbranding=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "EBC-News": {
-        "nombre": "EBC News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/watch?v=V1p33hqPrUk&embeds_referring_euri=https%3A%2F%2Fnews.ebc.net.tw%2F",
-                "https://www.youtube.com/embed/yCv9FKY9wlo?enablejsapi=1&rel=0",
-                "https://www.youtube-nocookie.com/embed/V1p33hqPrUk?autoplay=0&feature=player_detailpage&modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCR3asjvr_WAaxwJYEDV_Bfw",
-            "yt_embed": "V1p33hqPrUk?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://news.ebc.net.tw/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@CtiDeepThroat",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "Da-Ai": {
+    "nombre": "Da Ai",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/MIqUplvSRWA?autoplay=0&feature=player_detailpage&modestbranding=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "FTV": {
-        "nombre": "FTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/ylYJSBUgaMA?autoplay=0&feature=player_detailpage&modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@FTV_News",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@DaAiVideo",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "EBC-News": {
+    "nombre": "EBC-News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/watch?v=V1p33hqPrUk&embeds_referring_euri=https%3A%2F%2Fnews.ebc.net.tw%2F",
+        "https://www.youtube.com/embed/yCv9FKY9wlo?enablejsapi=1&rel=0",
+        "https://www.youtube-nocookie.com/embed/V1p33hqPrUk?autoplay=0&feature=player_detailpage&modestbranding=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCR3asjvr_WAaxwJYEDV_Bfw",
+      "yt_embed": "V1p33hqPrUk?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "goodtv": {
-        "nombre": "goodtv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/?list=UUpHgvLfY23_S6jvT8BuZ3kQ"
-            ],
-            "m3u8_url": [
-                "https://live.streamingfast.net/osmflivech2.m3u8",
-                "https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8"
-            ],
-            "yt_id": "UCpHgvLfY23_S6jvT8BuZ3kQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "www.goodtv.tv/tv-channel?ch=1",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://news.ebc.net.tw/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "FTV": {
+    "nombre": "FTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/ylYJSBUgaMA?autoplay=0&feature=player_detailpage&modestbranding=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "NTDAPTV": {
-        "nombre": "NTDAPTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@NTDAPTV",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@FTV_News",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "goodtv": {
+    "nombre": "goodtv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/?list=UUpHgvLfY23_S6jvT8BuZ3kQ"
+      ],
+      "m3u8_url": [
+        "https://live.streamingfast.net/osmflivech2.m3u8",
+        "https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8"
+      ],
+      "yt_id": "UCpHgvLfY23_S6jvT8BuZ3kQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "SET-News": {
-        "nombre": "SET News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/FoBfXvlOR6I?ecver=1&modestbranding=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@setnews",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "www.goodtv.tv/tv-channel?ch=1",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "NTDAPTV": {
+    "nombre": "NTDAPTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "TVBSNEWS": {
-        "nombre": "TVBSNEWS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/m_dhMSvUCIc?enablejsapi=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-            "yt_embed": "MrDcwYF8aRk?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://news.tvbs.com.tw/live/news4live/34664",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@NTDAPTV",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "SET-News": {
+    "nombre": "SET-News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/FoBfXvlOR6I?ecver=1&modestbranding=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ttv": {
-        "nombre": "TTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/XmWhoHbkYyU?fs=1&hl=zh_TW&rel=0&autoplay=1&showinfo=1&autohide=1&html5=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCWkLmxOW1ifqJonW_B3xjtg",
-            "yt_embed": "XmWhoHbkYyU?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ttv.com.tw/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@setnews",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "TVBSNEWS": {
+    "nombre": "TVBSNEWS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/m_dhMSvUCIc?enablejsapi=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+      "yt_embed": "MrDcwYF8aRk?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ftv1": {
-        "nombre": "FTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
-                "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
-                "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
-                "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
-                "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
-                "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
-                "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ftv.com.tw/index.aspx",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://news.tvbs.com.tw/live/news4live/34664",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "TTV": {
+    "nombre": "TTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/XmWhoHbkYyU?fs=1&hl=zh_TW&rel=0&autoplay=1&showinfo=1&autohide=1&html5=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCWkLmxOW1ifqJonW_B3xjtg",
+      "yt_embed": "XmWhoHbkYyU?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "globalnewstw": {
-        "nombre": "globalnewstw",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/w87VGpgd90U?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.youtube.com/embed/NhZXUwlY2dU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCp2f7tGJGN6R9Muxipem8Nw",
-            "yt_embed": "6IquAgfvYmc?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@globalnewstw",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ttv.com.tw/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "FTV1": {
+    "nombre": "FTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
+        "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
+        "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
+        "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
+        "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
+        "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
+        "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "hakkatv": {
-        "nombre": "Hakkatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.4gtv.tv/hakka/hakkatv.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hakkatv.org.tw/live",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ftv.com.tw/index.aspx",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "globalnewstw": {
+    "nombre": "globalnewstw",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/w87VGpgd90U?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+        "https://www.youtube.com/embed/NhZXUwlY2dU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCp2f7tGJGN6R9Muxipem8Nw",
+      "yt_embed": "6IquAgfvYmc?",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ipcf2": {
-        "nombre": "Ipcf2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
-            ],
-            "m3u8_url": [
-                "https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ipcf.org.tw/zh-TW/Vod/Home",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@globalnewstw",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "Hakkatv": {
+    "nombre": "Hakkatv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.4gtv.tv/hakka/hakkatv.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "mnews": {
-        "nombre": "mnews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/5n0y6b0Q25o?playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.mnews.tw&widgetid=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mnews.tw/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.hakkatv.org.tw/live",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "Ipcf2": {
+    "nombre": "Ipcf2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
+      ],
+      "m3u8_url": [
+        "https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "TVBS-NEWS": {
-        "nombre": "TVBS NEWS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/2mCSYvcfhtc?si=zvjzjW3aahPJuTMC&rel=0&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@TVBSNEWS01",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ipcf.org.tw/zh-TW/Vod/Home",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "mnews": {
+    "nombre": "mnews",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/5n0y6b0Q25o?playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.mnews.tw&widgetid=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "TVBSNEWS02": {
-        "nombre": "TVBSNEWS02",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/m_dhMSvUCIc?si=KD32L581c5R3G8tn&rel=0&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCL0_NxCvkcXwZHpvqgMZY-A",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@tvbsnews02",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.mnews.tw/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "TVBS-NEWS": {
+    "nombre": "TVBS NEWS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/2mCSYvcfhtc?si=zvjzjW3aahPJuTMC&rel=0&autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "PNNPTS": {
-        "nombre": "PNNPTS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCexpzYDEnfmAvPSfG4xbcjA&rel=0&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCexpzYDEnfmAvPSfG4xbcjA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@PNNPTS",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@TVBSNEWS01",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "TVBSNEWS02": {
+    "nombre": "TVBSNEWS02",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/m_dhMSvUCIc?si=KD32L581c5R3G8tn&rel=0&autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCL0_NxCvkcXwZHpvqgMZY-A",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "EBC-Financial-News": {
-        "nombre": "EBC Financial News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/LbS-xQ67fos?rel=0&enablejsapi=1&autoplay=1&mute=1&origin=https%3A%2F%2Ffnc.ebc.net.tw"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCuzqko_GKcj9922M1gUo__w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://fnc.ebc.net.tw/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@tvbsnews02",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "PNNPTS": {
+    "nombre": "PNNPTS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCexpzYDEnfmAvPSfG4xbcjA&rel=0&autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCexpzYDEnfmAvPSfG4xbcjA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Express-Finance-Satellite-TV": {
-        "nombre": "Express Finance Satellite TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCiqm4JC8lbGqgePjHd3Mahw&rel=0&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/@PNNPTS",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "EBC-Financial-News": {
+    "nombre": "EBC-Financial-News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/LbS-xQ67fos?rel=0&enablejsapi=1&autoplay=1&mute=1&origin=https%3A%2F%2Ffnc.ebc.net.tw"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCuzqko_GKcj9922M1gUo__w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sindatv2": {
-        "nombre": "Sindatv2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/rcLJRZi_jUQ?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCZIvbuuP-xGgMG-_0tLLadg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.sindatv.com.tw/?driect=tvshowlive",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://fnc.ebc.net.tw/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "Express-Finance-Satellite-TV": {
+    "nombre": "Express Finance Satellite TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCiqm4JC8lbGqgePjHd3Mahw&rel=0&autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCiqm4JC8lbGqgePjHd3Mahw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "SDTV-1": {
-        "nombre": "SDTV 1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCHycXkewR3NXQE59t3hhlaQ&rel=0&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/c/SDTV55ch",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "Sindatv2": {
+    "nombre": "Sindatv2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/rcLJRZi_jUQ?autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCZIvbuuP-xGgMG-_0tLLadg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "wxtv": {
-        "nombre": "WXTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://go.hoptv.tw/ch/wxtv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wxtv.com.tw/public/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "http://www.sindatv.com.tw/?driect=tvshowlive",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "SDTV-1": {
+    "nombre": "SDTV 1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube-nocookie.com/embed/live_stream?channel=UCHycXkewR3NXQE59t3hhlaQ&rel=0&autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ipcf": {
-        "nombre": "IPCF",
-        "logo": "https://ipcf.ginnet.cloud/upload/live/202204/poster_16499327508065.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
-            ],
-            "m3u8_url": [
-                "https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ipcf.org.tw/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.youtube.com/c/SDTV55ch",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "WXTV": {
+    "nombre": "WXTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://go.hoptv.tw/ch/wxtv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "lifetv-爱尔达影剧-星卫电影": {
-        "nombre": "Lifetv - 爱尔达影剧 - 星卫电影",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.lifetv.org.tw/a_date/live.htm",
-                "http://www.hoptv.tw:8080//ch/lifetvr//live/live.asp?link=http%3A%2F%2F211%2E73%2E19%2E201%3A80%2Flive%2FAB167E56%2D808C%2D81D4%2D6471%2D76DC400D5192%3Ffmt%3Dx264%5F1200K%5Fts%26cpid%3Dadmin%26size%3D1920X1080&LT=2019%2F06%2F10+17%3A01&BG=&W=100&h=100",
-                "https://www.tiantianzhibo.net/gangaotai/aierdayingju.html",
-                "https://www.tiantianzhibo.net/gangaotai/aierdayingjutai.html",
-                "https://www.tiantianzhibo.net/gangaotai/aierdazonghetai.html",
-                "https://www.tiantianzhibo.net/gangaotai/xingweidianying.html"
-            ],
-            "m3u8_url": [
-                "https://stream.bookmarkmanager.net/live/tv?id=8b04AZmuizoUkM2cVGcViVR91Lw1r8akFTHaHlnTjIscE1FkqQl-kyJz8HWierERtqephgbmxuqPun84IGB4YakuriMc46ZCJl-68JGlZJl-5yjHGb2kvJuubE3SRbYiOXDPm8AL03OIC1XUPU7zWF1L1FbQkxOq3jxFwte7nokA1kd6zUrBtYpE9A&idp=6ff8QEMQI7hnxRycLQgLD4QeVKP385igj7oQKnHiOetLC6iX3qLSKNy_VJ3FKa04jxJ5yCMZxg3yq-uFrIHbQrx3_g"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.lifetv.org.tw/a_date/live.htm",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://wxtv.com.tw/public/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "IPCF": {
+    "nombre": "IPCF",
+    "logo": "https://ipcf.ginnet.cloud/upload/live/202204/poster_16499327508065.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
+      ],
+      "m3u8_url": [
+        "https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "hwazan-AFC亚洲旅游台-爱尔达影剧": {
-        "nombre": "Hwazan - AFC 亚洲旅游台 - 爱尔达影剧",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/ypmrwYeLAaQ?si=ARQh_7SzIEyiqkVZ",
-                "https://www.tiantianzhibo.net/gangaotai/afc_yazhouluyoutai.html",
-                "https://www.tiantianzhibo.net/gangaotai/aierdayingju.html"
-            ],
-            "m3u8_url": [
-                "https://stream.bookmarkmanager.net/live/tv?id=8b04AZmuizoUkM2cVGcViVR91Lw1r8akFTHaHlnTjIscE1FkqQl-kyJz8HWierERtqephgbmxuqPun84IGB4YakuriMc46ZCJl-68JGlZJl-5yjHGb2kvJuubE3SRbYiOXDPm8AL03OIC1XUPU7zWF1L1FbQkxOq3jxFwte7nokA1kd6zUrBtYpE9A&idp=6ff8QEMQI7hnxRycLQgLD4QeVKP385igj7oQKnHiOetLC6iX3qLSKNy_VJ3FKa04jxJ5yCMZxg3yq-uFrIHbQrx3_g"
-            ],
-            "yt_id": "UC0D4u31or8aGenc86eMB6wA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hwazan.org/",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ipcf.org.tw/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "lifetv-爱尔达影剧-星卫电影": {
+    "nombre": "Lifetv - 爱尔达影剧 - 星卫电影",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.lifetv.org.tw/a_date/live.htm",
+        "http://www.hoptv.tw:8080//ch/lifetvr//live/live.asp?link=http%3A%2F%2F211%2E73%2E19%2E201%3A80%2Flive%2FAB167E56%2D808C%2D81D4%2D6471%2D76DC400D5192%3Ffmt%3Dx264%5F1200K%5Fts%26cpid%3Dadmin%26size%3D1920X1080&LT=2019%2F06%2F10+17%3A01&BG=&W=100&h=100",
+        "https://www.tiantianzhibo.net/gangaotai/aierdayingju.html",
+        "https://www.tiantianzhibo.net/gangaotai/aierdayingjutai.html",
+        "https://www.tiantianzhibo.net/gangaotai/aierdazonghetai.html",
+        "https://www.tiantianzhibo.net/gangaotai/xingweidianying.html"
+      ],
+      "m3u8_url": [
+        "https://stream.bookmarkmanager.net/live/tv?id=8b04AZmuizoUkM2cVGcViVR91Lw1r8akFTHaHlnTjIscE1FkqQl-kyJz8HWierERtqephgbmxuqPun84IGB4YakuriMc46ZCJl-68JGlZJl-5yjHGb2kvJuubE3SRbYiOXDPm8AL03OIC1XUPU7zWF1L1FbQkxOq3jxFwte7nokA1kd6zUrBtYpE9A&idp=6ff8QEMQI7hnxRycLQgLD4QeVKP385igj7oQKnHiOetLC6iX3qLSKNy_VJ3FKa04jxJ5yCMZxg3yq-uFrIHbQrx3_g"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "buddha-compassion-tv-station-ViuTv高清直播-ViuTv在線直播": {
-        "nombre": "Buddha Compassion TV Station - ViuTv高清直播,ViuTv在線直播",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.123iptv.tv/tw/tv/viutv.html",
-                "https://www.123iptv.tv/tw/tv/xingweidianying.html",
-                "https://www.123iptv.tv/tw/tv/meiyadianying.html",
-                "https://www.123iptv.tv/tw/tv/fenghuangweishizixuntai.html"
-            ],
-            "m3u8_url": [
-                "https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ottlive.hinet.net/webapp/bts/live",
-        "país": "tw",
-        "categoría": "news"
+    "sitio_oficial": "http://www.lifetv.org.tw/a_date/live.htm",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "hwazan-AFC亚洲旅游台-爱尔达影剧": {
+    "nombre": "Hwazan - AFC 亚洲旅游台 - 爱尔达影剧",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/ypmrwYeLAaQ?si=ARQh_7SzIEyiqkVZ",
+        "https://www.tiantianzhibo.net/gangaotai/afc_yazhouluyoutai.html",
+        "https://www.tiantianzhibo.net/gangaotai/aierdayingju.html"
+      ],
+      "m3u8_url": [
+        "https://stream.bookmarkmanager.net/live/tv?id=8b04AZmuizoUkM2cVGcViVR91Lw1r8akFTHaHlnTjIscE1FkqQl-kyJz8HWierERtqephgbmxuqPun84IGB4YakuriMc46ZCJl-68JGlZJl-5yjHGb2kvJuubE3SRbYiOXDPm8AL03OIC1XUPU7zWF1L1FbQkxOq3jxFwte7nokA1kd6zUrBtYpE9A&idp=6ff8QEMQI7hnxRycLQgLD4QeVKP385igj7oQKnHiOetLC6iX3qLSKNy_VJ3FKa04jxJ5yCMZxg3yq-uFrIHbQrx3_g"
+      ],
+      "yt_id": "UC0D4u31or8aGenc86eMB6wA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.hwazan.org/",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "buddha-compassion-tv-station-ViuTv高清直播-ViuTv在線直播": {
+    "nombre": "Buddha Compassion TV Station - ViuTv高清直播,ViuTv在線直播",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.123iptv.tv/tw/tv/viutv.html",
+        "https://www.123iptv.tv/tw/tv/xingweidianying.html",
+        "https://www.123iptv.tv/tw/tv/meiyadianying.html",
+        "https://www.123iptv.tv/tw/tv/fenghuangweishizixuntai.html"
+      ],
+      "m3u8_url": [
+        "https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ottlive.hinet.net/webapp/bts/live",
+    "país": "tw",
+    "categoría": "news"
+  },
     "uchanneltv": {
         "nombre": "Uchanneltv",
         "logo": "",
@@ -49004,6 +49019,36 @@
         "país": "tw",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "tw",
+    "categoría": "news"
+  },
     "chengteTV": {
         "nombre": "chengteTV",
         "logo": "",
@@ -49036,6 +49081,36 @@
         "país": "tw",
         "categoría": "news"
     },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "tw",
+    "categoría": "news"
+  },
     "Viva-美好購物2台": {
         "nombre": "Viva 美好購物2台 Business",
         "logo": "",
@@ -49079,429 +49154,422 @@
         "país": "tw",
         "categoría": "news"
     },
-    "人间卫视bltv-4gtv": {
-        "nombre": "人间卫视 Bltv - 4gtvTelevisión Satelital Humana",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.bltv.tv/about/?f=audience",
-                "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001793.do",
-                "https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1"
-            ],
-            "m3u8_url": [
-                "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
-        "país": "tw",
-        "categoría": "news"
-    },
-    "大爱1台": {
-        "nombre": "大爱1台 Tzu Chi DaAi",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://daai.tv/",
-                "https://v1.welife6.com/channels/daai1/#google_vignette",
-                "https://daairadio.tw/Radio.htm?Seed=834841955",
-                "https://daaimobile.com/channel?nonyoutube=true",
-                "https://daairadio.tw/Page/Home/Index.aspx",
-                "https://m.daai.tv/v3/live",
-                "https://www.youtube.com/user/DaAiVideo"
-            ],
-            "m3u8_url": [
-                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8"
-            ],
-            "yt_id": "UClrEYreVkBee7ZQYei_6Jqg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
-        "país": "tw",
-        "categoría": "news"
-    },
-    "P-TAIWAN": {
-        "nombre": "PLUS TAIWAN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.taiwanplus.com/taiwanplustv",
-                "https://td.doubleclick.net/td/rul/10843670048?random=1747413283704&cv=11&fst=1747413283704&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55f0h2z8859262896za200zb852512834&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116&ptag_exp=101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116&u_w=1366&u_h=768&url=https%3A%2F%2Fwww.taiwanplus.com%2Ftaiwanplustv&ref=https%3A%2F%2Fwww.google.com.pe%2F&hn=www.googleadservices.com&frm=0&tiba=TaiwanPlus%20%E2%80%93%20Bringing%20Taiwan%20to%20the%20World&npa=0&pscdl=noapi&auid=1975549744.1747413278&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.93%7CMicrosoft%2520Edge%3B136.0.3240.64%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&fledge=1&_tu=ygQ"
-            ],
-            "m3u8_url": [
-                "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV92.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv/blob/master/TV92.m3u8",
-        "país": "tw",
-        "categoría": "news"
-    },
-    "LIVE-NEWS": {
-        "nombre": "LIVE NEWS2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.newsmaxtv.com/n2",
-                "https://www.2news.com/live-stream/",
-                "https://www.fox2detroit.com/live",
-                "https://www.click2houston.com/watchlive/",
-                "https://www.wfmynews2.com/watch",
-                "https://www.counton2.com/",
-                "https://www.gulfcoastnewsnow.com/nowcast",
-                "https://www.wkrn.com/",
-                "https://www.wesh.com/nowcast",
-                "https://kutv.com/watch",
-                "https://www.wesh.com/nowcast",
-                "https://www.nbcnews.com/watch",
-                "https://www.wmar2news.com/live",
-                "https://www.wbrz.com/pages/live-stream-3/",
-                "https://www.television-en-vivo.com.ar/tv.html"
-            ],
-            "m3u8_url": [
-                "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV90.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv/blob/master/TV90.m3u8",
-        "país": "tw",
-        "categoría": "news"
-    },
-    "ucl-uruguay": {
-        "nombre": "UCL",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.trodi.dev/tv/UY/UCL.uy",
-                "https://5900.tv/webcam/ucl.html",
-                "https://artv.watch/embed.php?channel=UCL.uy",
-                "https://www.perfiles.uy/"
-            ],
-            "m3u8_url": [
-                "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.5900.tv/ucl-uruguay/",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "canalalma-tufortunatv": {
-        "nombre": "canalalma - Tufortunatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.trodi.dev/tv/UY/UCL.uy",
-                "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
-                "https://canalalma.tv/",
-                "https://almavision.com/ondemand/live-tv/almavision-tv.html",
-                "https://almanar.com.lb/live/",
-                "https://vaughn.live/tufortunatv",
-                "https://vaughn.live/futurama_mania_",
-                "https://vaughn.live/a_juanmusic"
-            ],
-            "m3u8_url": [
-                "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1747430411~acl=/*~hmac=657aa8d720698497edb52951bcd85697438dbc634845df15c087542bfa2bf859"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalalma.tv/",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "camara-senadores-canalmas-canal8mercedes": {
-        "nombre": "camarasenadores - Tele 8 Tropical - canal mas uruguay - canal 8 mercedes",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://canalmasuruguay.com/",
-                "https://canalmasuruguay.com/",
-                "http://online.familylatinatv.com/plugin/Live/?c=663129cbcd38d",
-                "https://www.canal8mercedes.com/"
-            ],
-            "m3u8_url": [
-                "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8",
-                "https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8",
-                "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8"
-            ],
-            "yt_id": "UCyM7oro5NhR5oPyMEFB_rUA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://parlamento.gub.uy/camarasycomisiones/senadores",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "33tv-CharruaTelevision-parlamento-uruguay": {
-        "nombre": "33 TV - Charrua Television - parlamento anteltv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6r5",
-                "https://www.charrua.tv/",
-                "https://anteltv.com.uy/play/2s68m",
-                "https://vaughn.live/zonafilmstv",
-                "https://vaughn.live/compumaster"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "charruatvcanal"
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6r5",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "LatinoKidsTV-LaRed-DelEsteTV": {
-        "nombre": "Latino Kids TV - La Red - Del Este TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tuvideoonline.com.ar/broadcaster/calle7/hybrid/player",
-                "https://radiodeleste.com.uy/",
-                "https://vaughn.live/patriot_news",
-                "https://vaughn.live/patriot_news",
-                "https://www-latinokids-online.filesusr.com/html/b22f37_8b081eb24364a1c4b75b7aedb62aa0aa.html",
-                "https://cloud5.streaminglivehd.com/hybrid-stream-video-widget/latinokids",
-                "https://www.latinokids.online/",
-                "https://vaughn.live/latinokidstv"
-            ],
-            "m3u8_url": [
-                "https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8",
-                "https://tuvideoonline.com.ar:3196/live/calle7live.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.latinokids.online/",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "VIVOTV-RDTV-misionvida": {
-        "nombre": "VIVO TV - Raquel Daruech TV - Mision Vida TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vivotv.uy/ver-vivotv/",
-                "https://www.trodi.dev/tv/UY/RDTV.uy",
-                "https://artv.watch/en/UY/RDTV.uy",
-                "https://www.misionvida.org/mvtv/",
-                "https://unored.tv/"
-            ],
-            "m3u8_url": [
-                "https://stream.vivotv.uy/hls/0/stream.m3u8"
-            ],
-            "yt_id": "UCxZ7Z0-z9EnTZAyKmeP2_MQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.television-en-vivo.com.ar/vivo/uy-canal-rdtv.html#google_vignette",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "1000XHORA-adutv-AmasV": {
-        "nombre": "1000 X HORA - ADU TV - A+V",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2sh8l",
-                "https://anteltv.com.uy/play/2sh8q",
-                "https://anteltv.com.uy/play/2s6nx"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2sh8l",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "anpitv-artigas-efusiva-tv": {
-        "nombre": "Anpi TV - ARTIGAS C3 - Efusiva TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6nj",
-                "https://anteltv.com.uy/play/2s6nt",
-                "https://www.twitch.tv/efusivatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "efusivatv"
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6nj",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-11-Las-Piedras-uruguay-Canal-11-Treinta-y-Tres-uruguay": {
-        "nombre": "Canal 11 Las Piedras - Canal 11 Treinta y Tres",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6nm",
-                "https://anteltv.com.uy/play/2s6nv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6nm",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-12-Melo-uruguay-Canal-2-HD-San-Carlos-uruguay": {
-        "nombre": "Canal 12 Melo - Canal 2 HD San Carlos",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6n0",
-                "https://anteltv.com.uy/play/2s6n8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6n0",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-2-Lascano-uruguay-Canal-2-Visión-Canaria-uruguay": {
-        "nombre": "Canal 2 Lascano - Canal 2 Visión Canaria",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6nk",
-                "https://anteltv.com.uy/play/2s6nh"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6nk",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-23-Florida-uruguay-Canal-4-Chuy-uruguay": {
-        "nombre": "Canal 23 Florida - Canal 4 Chuy",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6n6",
-                "https://anteltv.com.uy/content/2s6n1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6n6",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-4-Juan-Lacaze-uruguay-Canal-4-Paysandú-uruguay": {
-        "nombre": "Canal 4 Juan Lacaze - Canal 4 Paysandú",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6nf",
-                "https://anteltv.com.uy/play/2s6pl"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6nf",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-4-Salto-uruguay-Canal-4-Tacuarembó-uruguay": {
-        "nombre": "Canal 4 Salto - Canal 4 Tacuarembó",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6p4",
-                "https://anteltv.com.uy/play/2s6p5"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6p4",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "Canal-6-Durazno-uruguay- Canal-7-Punta-uruguay": {
-        "nombre": "Canal 6 Durazno - Canal 7 Punta",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://anteltv.com.uy/play/2s6pn",
-                "https://anteltv.com.uy/play/2sh83"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anteltv.com.uy/play/2s6pn",
-        "país": "uy",
-        "categoría": "news"
-    },
   "": {
     "nombre": "",
     "logo": "",
     "señales": {
-      "iframe_url": [
-        "",
-        ""
-      ],
-      "m3u8_url": [
-        ""
-      ],
+      "iframe_url": [],
+      "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
     "sitio_oficial": "",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "人间卫视bltv-4gtv": {
+    "nombre": "人间卫视 Bltv - 4gtvTelevisión Satelital Humana",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.bltv.tv/about/?f=audience",
+        "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001793.do",
+        "https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1"
+      ],
+      "m3u8_url": [
+        "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "大爱1台": {
+    "nombre": "大爱1台 Tzu Chi DaAi",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://daai.tv/",
+        "https://v1.welife6.com/channels/daai1/#google_vignette",
+        "https://daairadio.tw/Radio.htm?Seed=834841955",
+        "https://daaimobile.com/channel?nonyoutube=true",
+        "https://daairadio.tw/Page/Home/Index.aspx",
+        "https://m.daai.tv/v3/live",
+        "https://www.youtube.com/user/DaAiVideo"
+      ],
+      "m3u8_url": [
+        "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8"
+      ],
+      "yt_id": "UClrEYreVkBee7ZQYei_6Jqg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "P-TAIWAN": {
+    "nombre": "PLUS TAIWAN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.taiwanplus.com/taiwanplustv",
+        "https://td.doubleclick.net/td/rul/10843670048?random=1747413283704&cv=11&fst=1747413283704&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be55f0h2z8859262896za200zb852512834&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116&ptag_exp=101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103233427~103252644~103252646~103263073~103301114~103301116&u_w=1366&u_h=768&url=https%3A%2F%2Fwww.taiwanplus.com%2Ftaiwanplustv&ref=https%3A%2F%2Fwww.google.com.pe%2F&hn=www.googleadservices.com&frm=0&tiba=TaiwanPlus%20%E2%80%93%20Bringing%20Taiwan%20to%20the%20World&npa=0&pscdl=noapi&auid=1975549744.1747413278&uaa=x86&uab=64&uafvl=Chromium%3B136.0.7103.93%7CMicrosoft%2520Edge%3B136.0.3240.64%7CNot.A%252FBrand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=10.0.0&uaw=0&fledge=1&_tu=ygQ"
+      ],
+      "m3u8_url": [
+        "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV92.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv/blob/master/TV92.m3u8",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "LIVE-NEWS": {
+    "nombre": "LIVE NEWS2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.newsmaxtv.com/n2",
+        "https://www.2news.com/live-stream/",
+        "https://www.fox2detroit.com/live",
+        "https://www.click2houston.com/watchlive/",
+        "https://www.wfmynews2.com/watch",
+        "https://www.counton2.com/",
+        "https://www.gulfcoastnewsnow.com/nowcast",
+        "https://www.wkrn.com/",
+        "https://www.wesh.com/nowcast",
+        "https://kutv.com/watch",
+        "https://www.wesh.com/nowcast",
+        "https://www.nbcnews.com/watch",
+        "https://www.wmar2news.com/live",
+        "https://www.wbrz.com/pages/live-stream-3/",
+        "https://www.television-en-vivo.com.ar/tv.html"
+      ],
+      "m3u8_url": [
+        "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV90.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv/blob/master/TV90.m3u8",
+    "país": "tw",
+    "categoría": "news"
+  },
+  "ucl-uruguay": {
+    "nombre": "UCL",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.trodi.dev/tv/UY/UCL.uy",
+        "https://5900.tv/webcam/ucl.html",
+        "https://artv.watch/embed.php?channel=UCL.uy",
+        "https://www.perfiles.uy/"
+      ],
+      "m3u8_url": [
+        "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.5900.tv/ucl-uruguay/",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "canalalma-tufortunatv": {
+    "nombre": "canalalma - Tufortunatv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.trodi.dev/tv/UY/UCL.uy",
+        "https://almatv.tv/video/viewlivestreaming?rel=29&cntr=0",
+        "https://canalalma.tv/",
+        "https://almavision.com/ondemand/live-tv/almavision-tv.html",
+        "https://almanar.com.lb/live/",
+        "https://vaughn.live/tufortunatv",
+        "https://vaughn.live/futurama_mania_",
+        "https://vaughn.live/a_juanmusic"
+      ],
+      "m3u8_url": [
+        "https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1747430411~acl=/*~hmac=657aa8d720698497edb52951bcd85697438dbc634845df15c087542bfa2bf859"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://canalalma.tv/",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "camara-senadores-canalmas-canal8mercedes": {
+    "nombre": "camarasenadores - Tele 8 Tropical - canal mas uruguay - canal 8 mercedes",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://canalmasuruguay.com/",
+        "https://canalmasuruguay.com/",
+        "http://online.familylatinatv.com/plugin/Live/?c=663129cbcd38d",
+        "https://www.canal8mercedes.com/"
+      ],
+      "m3u8_url": [
+        "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8",
+        "https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8",
+        "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8"
+      ],
+      "yt_id": "UCyM7oro5NhR5oPyMEFB_rUA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://parlamento.gub.uy/camarasycomisiones/senadores",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "33tv-CharruaTelevision-parlamento-uruguay": {
+    "nombre": "33 TV - Charrua Television - parlamento anteltv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6r5",
+        "https://www.charrua.tv/",
+        "https://anteltv.com.uy/play/2s68m",
+        "https://vaughn.live/zonafilmstv",
+        "https://vaughn.live/compumaster"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "charruatvcanal"
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6r5",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "LatinoKidsTV-LaRed-DelEsteTV": {
+    "nombre": "Latino Kids TV - La Red - Del Este TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tuvideoonline.com.ar/broadcaster/calle7/hybrid/player",
+        "https://radiodeleste.com.uy/",
+        "https://vaughn.live/patriot_news",
+        "https://vaughn.live/patriot_news",
+        "https://www-latinokids-online.filesusr.com/html/b22f37_8b081eb24364a1c4b75b7aedb62aa0aa.html",
+        "https://cloud5.streaminglivehd.com/hybrid-stream-video-widget/latinokids",
+        "https://www.latinokids.online/",
+        "https://vaughn.live/latinokidstv"
+      ],
+      "m3u8_url": [
+        "https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8",
+        "https://tuvideoonline.com.ar:3196/live/calle7live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.latinokids.online/",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "VIVOTV-RDTV-misionvida": {
+    "nombre": "VIVO TV - Raquel Daruech TV - Mision Vida TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://vivotv.uy/ver-vivotv/",
+        "https://www.trodi.dev/tv/UY/RDTV.uy",
+        "https://artv.watch/en/UY/RDTV.uy",
+        "https://www.misionvida.org/mvtv/",
+        "https://unored.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCxZ7Z0-z9EnTZAyKmeP2_MQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.television-en-vivo.com.ar/vivo/uy-canal-rdtv.html#google_vignette",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "1000XHORA-adutv-AmasV": {
+    "nombre": "1000 X HORA - ADU TV - A+V",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2sh8l",
+        "https://anteltv.com.uy/play/2sh8q",
+        "https://anteltv.com.uy/play/2s6nx"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2sh8l",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "anpitv-artigas-efusiva-tv": {
+    "nombre": "Anpi TV - ARTIGAS C3 - Efusiva TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6nj",
+        "https://anteltv.com.uy/play/2s6nt",
+        "https://www.twitch.tv/efusivatv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "efusivatv"
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6nj",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-11-Las-Piedras-uruguay-Canal-11-Treinta-y-Tres-uruguay": {
+    "nombre": "Canal 11 Las Piedras - Canal 11 Treinta y Tres",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6nm",
+        "https://anteltv.com.uy/play/2s6nv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6nm",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-12-Melo-uruguay-Canal-2-HD-San-Carlos-uruguay": {
+    "nombre": "Canal 12 Melo - Canal 2 HD San Carlos",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6n0",
+        "https://anteltv.com.uy/play/2s6n8"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6n0",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-2-Lascano-uruguay-Canal-2-Visión-Canaria-uruguay": {
+    "nombre": "Canal 2 Lascano - Canal 2 Visión Canaria",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6nk",
+        "https://anteltv.com.uy/play/2s6nh"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6nk",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-23-Florida-uruguay-Canal-4-Chuy-uruguay": {
+    "nombre": "Canal 23 Florida - Canal 4 Chuy",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6n6",
+        "https://anteltv.com.uy/content/2s6n1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6n6",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-4-Juan-Lacaze-uruguay-Canal-4-Paysandú-uruguay": {
+    "nombre": "Canal 4 Juan Lacaze - Canal 4 Paysandú",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6nf",
+        "https://anteltv.com.uy/play/2s6pl"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6nf",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-4-Salto-uruguay-Canal-4-Tacuarembó-uruguay": {
+    "nombre": "Canal 4 Salto - Canal 4 Tacuarembó",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6p4",
+        "https://anteltv.com.uy/play/2s6p5"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6p4",
+    "país": "uy",
+    "categoría": "news"
+  },
+  "Canal-6-Durazno-uruguay- Canal-7-Punta-uruguay": {
+    "nombre": "Canal 6 Durazno - Canal 7 Punta",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://anteltv.com.uy/play/2s6pn",
+        "https://anteltv.com.uy/play/2sh83"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://anteltv.com.uy/play/2s6pn",
     "país": "uy",
     "categoría": "news"
   },
@@ -50867,7 +50935,7 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/channel/UC1AFNoYDu-Rub31kwug5drA",
-    "país": "",
+    "país": "kh",
     "categoría": "classic"
   }
 }
