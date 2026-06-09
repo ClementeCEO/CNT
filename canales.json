@@ -42005,133 +42005,11 @@
         "país": "sy",
         "categoría": "news"
     },
-    "alyaumtv": {
-        "nombre": "Alyaumtv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alyaumtv",
-                "https://www.elahmad.com/tv/alyaum-tv-live.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=syria",
-        "país": "sy",
-        "categoría": "news"
-    },
-    "syri-net": {
-        "nombre": "Syri Net",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.syri.net/video.html?v=1"
-            ],
-            "m3u8_url": [
-                "https://stream.syritv.al/SyriTV/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.syri.net/video.html?v=1",
-        "país": "sy",
-        "categoría": "news"
-    },
-    "shahid-mbc": {
-        "nombre": "Shahid MBC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://shahid.mbc.net/en/livestream/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/livechannel-946948",
-                "https://shahid.mbc.net/en/livestream/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/livechannel-946948"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://shahid.mbc.net/en/livestream/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/livechannel-946948",
-        "país": "sy",
-        "categoría": "news"
-    },
-    "cna": {
-        "nombre": "CNA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.channelnewsasia.com/",
-        "país": "sg",
-        "categoría": "news"
-    },
-    "channels-television": {
-        "nombre": "Channels Television",
-        "logo": "https://graph.facebook.com/channelsforum/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCEXGDNclvmg6RW0vipJYsTQ",
-            "yt_embed": "ENHYOYm-kUE",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.channelstv.com/live",
-        "país": "cf",
-        "categoría": "news"
-    },
-    "africanews": {
-        "nombre": "africanews",
-        "logo": "https://graph.facebook.com/africanews.channel/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC1_E8NeF5QHY2dtdLRBCCLA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.africanews.com/live/",
-        "país": "cf",
-        "categoría": "news"
-    },
-    "namibiacam": {
-        "nombre": "NamibiaCam",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC9X6gGKDv2yhMoofoeS7-Gg",
-            "yt_embed": "DAmFZj1y_a0",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg",
-        "país": "cf",
-        "categoría": "camera"
-    },
   "": {
     "nombre": "",
     "logo": "",
     "señales": {
-      "iframe_url": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ],
+      "iframe_url": [],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
@@ -42142,578 +42020,708 @@
     "país": "cf",
     "categoría": "news"
   },
-    "hawaii-livecam": {
-        "nombre": "Aqualink Hawaii",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCTLF36lXVM7uiR-VolWHv0Q",
-            "yt_embed": "e3gesqRHJIk",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q",
-        "país": "us-hi",
-        "categoría": "camera"
+  "Alyaumtv": {
+    "nombre": "Alyaumtv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alyaumtv",
+        "https://www.elahmad.com/tv/alyaum-tv-live.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "daily-seoul": {
-        "nombre": "Daily Seoul Live Camera - Hangang",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCQKQTgZJo3PlxA-9V1Z51XA",
-            "yt_embed": "-JhoMGoAfFc",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA",
-        "país": "kr",
-        "categoría": "camera"
+    "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=syria",
+    "país": "cf",
+    "categoría": "news"
+  },
+  "Syri-Net": {
+    "nombre": "Syri Net",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.syri.net/video.html?v=1"
+      ],
+      "m3u8_url": [
+        "https://stream.syritv.al/SyriTV/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "lofi-girl": {
-        "nombre": "Lofi Girl",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/_uMuuHk_KkQ?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCSJ4gkVC6NrvII8umztf0Ow",
-            "yt_embed": "jfKfPfyJRdk",
-            "yt_playlist": "PL6NdkXsPL07KN01gH2vucrHCEyyNmVEx4",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.syri.net/video.html?v=1",
+    "país": "sy",
+    "categoría": "news"
+  },
+  "Shahid-MBC": {
+    "nombre": "Shahid MBC",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://shahid.mbc.net/en/livestream/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/livechannel-946948",
+        "https://shahid.mbc.net/en/livestream/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/livechannel-946948"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "chillhop": {
-        "nombre": "Chillhop",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCOxqgCwgOqC2lMqC5PYz_Dg",
-            "yt_embed": "7NOSDKb0HlU",
-            "yt_playlist": "PLt7bG0K25iXiGoaDLYiIdBidFngbWRumT",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://live.chillhop.com",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://shahid.mbc.net/en/livestream/%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9/livechannel-946948",
+    "país": "sy",
+    "categoría": "news"
+  },
+  "cna": {
+    "nombre": "CNA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC83jt4dlz1Gjl58fzQrrKZg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "steezyasfuck": {
-        "nombre": "Steezyasfuck",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCsIg9WMfxjZZvwROleiVsQg",
-            "yt_embed": "lP26UCnoH9s",
-            "yt_playlist": "PLqeSJS3N5tziqS0O3Ete2Ez_dvsAPSbPi",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.stzzzy.com/",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.channelnewsasia.com/",
+    "país": "sg",
+    "categoría": "news"
+  },
+  "channels-television": {
+    "nombre": "Channels Television",
+    "logo": "https://graph.facebook.com/channelsforum/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCEXGDNclvmg6RW0vipJYsTQ",
+      "yt_embed": "ENHYOYm-kUE",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "doom-radio": {
-        "nombre": "Doom Radio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCR2D48i5MCMYwVKbgYIAftQ",
-            "yt_embed": "JEuAYnjtJP0",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://dcealopez.es/rip-tear-radio/",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.channelstv.com/live",
+    "país": "cf",
+    "categoría": "news"
+  },
+  "Africanews": {
+    "nombre": "Africanews",
+    "logo": "https://graph.facebook.com/africanews.channel/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC1_E8NeF5QHY2dtdLRBCCLA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "acidjazz": {
-        "nombre": "AcidJazz",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC8cRYBn-z6y1EOUeMdJ0VHA",
-            "yt_embed": "KayMykXWTxE",
-            "yt_playlist": "PLG-zLRr1gVskYa5Gf3HeOltYLvT1oQrI_",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.africanews.com/live/",
+    "país": "cf",
+    "categoría": "news"
+  },
+  "NamibiaCam": {
+    "nombre": "NamibiaCam",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC9X6gGKDv2yhMoofoeS7-Gg",
+      "yt_embed": "DAmFZj1y_a0",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "darkwave": {
-        "nombre": "The 80s Guy",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC6ghlxmJNMd8BE_u1HR-bTg",
-            "yt_embed": "MGJWPha7rJw",
-            "yt_playlist": "PLw_PftenZEPf9GYPZCZgesz8DjjMGp_Lu",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC6ghlxmJNMd8BE_u1HR-bTg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UC9X6gGKDv2yhMoofoeS7-Gg",
+    "país": "cf",
+    "categoría": "camera"
+  },
+  "hawaii-livecam": {
+    "nombre": "Aqualink Hawaii",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCTLF36lXVM7uiR-VolWHv0Q",
+      "yt_embed": "e3gesqRHJIk",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "chill-with-taiki": {
-        "nombre": "Chill with Taiki",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCKdURsjh1xT1vInYBy82n6g",
-            "yt_embed": "qH3fETPsqXU",
-            "yt_playlist": "PL0PDUyeuJRS1JfkKtpX3tfQtSPsdp8DsS",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCKdURsjh1xT1vInYBy82n6g",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCTLF36lXVM7uiR-VolWHv0Q",
+    "país": "us-hi",
+    "categoría": "camera"
+  },
+  "daily-seoul": {
+    "nombre": "Daily Seoul Live Camera - Hangang",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCQKQTgZJo3PlxA-9V1Z51XA",
+      "yt_embed": "-JhoMGoAfFc",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "college-music": {
-        "nombre": "College Music",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCWzZ5TIGoZ6o-KtbGCyhnhg",
-            "yt_embed": "gtzOKTpwLvY",
-            "yt_playlist": "PLWeiPFlwTt8Hcau6I2CO7f1G18xfMdGn3",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCWzZ5TIGoZ6o-KtbGCyhnhg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCQKQTgZJo3PlxA-9V1Z51XA",
+    "país": "cf",
+    "categoría": "camera"
+  },
+  "Lofi-Girl": {
+    "nombre": "Lofi Girl",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/_uMuuHk_KkQ?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCSJ4gkVC6NrvII8umztf0Ow",
+      "yt_embed": "jfKfPfyJRdk",
+      "yt_playlist": "PL6NdkXsPL07KN01gH2vucrHCEyyNmVEx4",
+      "twitch_id": ""
     },
-    "dark-monkey-music": {
-        "nombre": "Dark Monkey Music",
-        "logo": "https://graph.facebook.com/DarkMonkeym/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCrcfRtdHb11YJEloTSaOYvw",
-            "yt_embed": "1T2H1poqiW4",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCrcfRtdHb11YJEloTSaOYvw",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow",
+    "país": "cf",
+    "categoría": "news"
+  },
+  "Chillhop": {
+    "nombre": "Chillhop",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCOxqgCwgOqC2lMqC5PYz_Dg",
+      "yt_embed": "7NOSDKb0HlU",
+      "yt_playlist": "PLt7bG0K25iXiGoaDLYiIdBidFngbWRumT",
+      "twitch_id": ""
     },
-    "tiempo-de-relajación-para-ti": {
-        "nombre": "Tiempo de relajación para ti",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCKptJ-XQRf_4X4ZY9Cr_75Q",
-            "yt_embed": "jdksn8VLL74",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCKptJ-XQRf_4X4ZY9Cr_75Q",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://live.chillhop.com",
+    "país": "cf",
+    "categoría": "news"
+  },
+  "Steezyasfuck": {
+    "nombre": "Steezyasfuck",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCsIg9WMfxjZZvwROleiVsQg",
+      "yt_embed": "lP26UCnoH9s",
+      "yt_playlist": "PLqeSJS3N5tziqS0O3Ete2Ez_dvsAPSbPi",
+      "twitch_id": ""
     },
-    "melody-note": {
-        "nombre": "Melody Note 멜로디노트",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCBzTytkF5toaL4o5EHQ0UoA",
-            "yt_embed": "60vT3ZurFnQ",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCBzTytkF5toaL4o5EHQ0UoA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.stzzzy.com/",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "doom-radio": {
+    "nombre": "Doom Radio",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCR2D48i5MCMYwVKbgYIAftQ",
+      "yt_embed": "JEuAYnjtJP0",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "j-radio": {
-        "nombre": "J Radio 제이라디오",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCVrrOB7u5ZbxpiqbxhJ-kjw",
-            "yt_embed": "MbDXb3KjxEE",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCVrrOB7u5ZbxpiqbxhJ-kjw",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://dcealopez.es/rip-tear-radio/",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "AcidJazz": {
+    "nombre": "AcidJazz",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC8cRYBn-z6y1EOUeMdJ0VHA",
+      "yt_embed": "KayMykXWTxE",
+      "yt_playlist": "PLG-zLRr1gVskYa5Gf3HeOltYLvT1oQrI_",
+      "twitch_id": ""
     },
-    "sonido-de-fuego-relajante": {
-        "nombre": "Sonido de fuego relajante",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCMlIZGBeueCZBUmEP-PddJg",
-            "yt_embed": "h7yqKEskpIM",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCMlIZGBeueCZBUmEP-PddJg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UC8cRYBn-z6y1EOUeMdJ0VHA",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "darkwave": {
+    "nombre": "The 80s Guy",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC6ghlxmJNMd8BE_u1HR-bTg",
+      "yt_embed": "MGJWPha7rJw",
+      "yt_playlist": "PLw_PftenZEPf9GYPZCZgesz8DjjMGp_Lu",
+      "twitch_id": ""
     },
-    "pure-sleeping-vibes": {
-        "nombre": "Pure Sleeping Vibes",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCa6DBGeztqfXOwcpUnk0Ccg",
-            "yt_embed": "0V0SKiiFZMs",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCa6DBGeztqfXOwcpUnk0Ccg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UC6ghlxmJNMd8BE_u1HR-bTg",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "chill-with-taiki": {
+    "nombre": "Chill with Taiki",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCKdURsjh1xT1vInYBy82n6g",
+      "yt_embed": "qH3fETPsqXU",
+      "yt_playlist": "PL0PDUyeuJRS1JfkKtpX3tfQtSPsdp8DsS",
+      "twitch_id": ""
     },
-    "nocopyrightsounds": {
-        "nombre": "NoCopyrightSounds",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC_aEa8K-EOJ3D6gOs7HcyNg",
-            "yt_embed": "oWW5TLrrbNo",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCKdURsjh1xT1vInYBy82n6g",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "college-music": {
+    "nombre": "College Music",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCWzZ5TIGoZ6o-KtbGCyhnhg",
+      "yt_embed": "gtzOKTpwLvY",
+      "yt_playlist": "PLWeiPFlwTt8Hcau6I2CO7f1G18xfMdGn3",
+      "twitch_id": ""
     },
-    "frequenzy": {
-        "nombre": "frequenzy",
-        "logo": "https://graph.facebook.com/frequenzysessions/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UClRJcsRS9YETAAj0nG_pX6g",
-            "yt_embed": "tWTPGVIw1es",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UClRJcsRS9YETAAj0nG_pX6g",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCWzZ5TIGoZ6o-KtbGCyhnhg",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "dark-monkey-music": {
+    "nombre": "Dark Monkey Music",
+    "logo": "https://graph.facebook.com/DarkMonkeym/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCrcfRtdHb11YJEloTSaOYvw",
+      "yt_embed": "1T2H1poqiW4",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "chillyourmind": {
-        "nombre": "ChillYourMind",
-        "logo": "https://graph.facebook.com/chillyourmind/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCmDM6zuSTROOnZnjlt2RJGQ",
-            "yt_embed": "NJyCwdWT80c",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCmDM6zuSTROOnZnjlt2RJGQ",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCrcfRtdHb11YJEloTSaOYvw",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "tiempo-de-relajación-para-ti": {
+    "nombre": "Tiempo de relajación para ti",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCKptJ-XQRf_4X4ZY9Cr_75Q",
+      "yt_embed": "jdksn8VLL74",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rare-phonk": {
-        "nombre": "rare phonk",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC8d8GkPcfQGa8lWAnqhElWg",
-            "yt_embed": "8v_kKMaq5po",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC8d8GkPcfQGa8lWAnqhElWg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCKptJ-XQRf_4X4ZY9Cr_75Q",
+    "país": "cf",
+    "categoría": "music"
+  },
+  "melody-note": {
+    "nombre": "Melody Note 멜로디노트",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCBzTytkF5toaL4o5EHQ0UoA",
+      "yt_embed": "60vT3ZurFnQ",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cafe-music-bgm-channel": {
-        "nombre": "Cafe Music BGM channel",
-        "logo": "https://graph.facebook.com/bgmc.bgmchannel/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCJhjE7wbdYAae1G25m0tHAA",
-            "yt_embed": "Dx5qFachd3A",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCBzTytkF5toaL4o5EHQ0UoA",
+    "país": "",
+    "categoría": "music"
+  },
+  "j-radio": {
+    "nombre": "J Radio 제이라디오",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCVrrOB7u5ZbxpiqbxhJ-kjw",
+      "yt_embed": "MbDXb3KjxEE",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "relax-chillout-deep": {
-        "nombre": "Relax Chillout Deep",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCm001e4lKtX7SULWHx6EdzA",
-            "yt_embed": "JDiEqy5Fb9w",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCm001e4lKtX7SULWHx6EdzA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCVrrOB7u5ZbxpiqbxhJ-kjw",
+    "país": "",
+    "categoría": "music"
+  },
+  "sonido-de-fuego-relajante": {
+    "nombre": "Sonido de fuego relajante",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCMlIZGBeueCZBUmEP-PddJg",
+      "yt_embed": "h7yqKEskpIM",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "n&t-party": {
-        "nombre": "N&T Party",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCC9rwt1T2i4klATksN6prdQ",
-            "yt_embed": "qWf-FPFmVw0",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCC9rwt1T2i4klATksN6prdQ",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCMlIZGBeueCZBUmEP-PddJg",
+    "país": "",
+    "categoría": "music"
+  },
+  "pure-sleeping-vibes": {
+    "nombre": "Pure Sleeping Vibes",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCa6DBGeztqfXOwcpUnk0Ccg",
+      "yt_embed": "0V0SKiiFZMs",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "the-bootleg-boy-2": {
-        "nombre": "the bootleg boy 2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCwkTfp14Sj7o6q9_8ADJpnA",
-            "yt_embed": "HBPtQVzRZUY",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCwkTfp14Sj7o6q9_8ADJpnA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCa6DBGeztqfXOwcpUnk0Ccg",
+    "país": "",
+    "categoría": "music"
+  },
+  "NoCopyrightSounds": {
+    "nombre": "NoCopyrightSounds",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC_aEa8K-EOJ3D6gOs7HcyNg",
+      "yt_embed": "oWW5TLrrbNo",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "best-of-mix": {
-        "nombre": "Best of Mix",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCSx0CKSPK_jUE2REJtgHIPA",
-            "yt_embed": "XnUNOaxw6bs",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCSx0CKSPK_jUE2REJtgHIPA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg",
+    "país": "",
+    "categoría": "music"
+  },
+  "Frequenzy": {
+    "nombre": "Frequenzy",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UClRJcsRS9YETAAj0nG_pX6g",
+      "yt_embed": "tWTPGVIw1es",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "immortal-swings": {
-        "nombre": "Immortal Swings",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCr_D8RsfDhZ1CVgD7l5ByoQ",
-            "yt_embed": "ttonvJSzOCc",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCr_D8RsfDhZ1CVgD7l5ByoQ",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UClRJcsRS9YETAAj0nG_pX6g",
+    "país": "",
+    "categoría": "music"
+  },
+  "chillyourmind": {
+    "nombre": "ChillYourMind",
+    "logo": "https://graph.facebook.com/chillyourmind/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCmDM6zuSTROOnZnjlt2RJGQ",
+      "yt_embed": "NJyCwdWT80c",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "amor-musica": {
-        "nombre": "Amor Musica",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCR30r2JHz2eqQlutmPzWfhw",
-            "yt_embed": "d4dHirclrYk",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCR30r2JHz2eqQlutmPzWfhw",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCmDM6zuSTROOnZnjlt2RJGQ",
+    "país": "",
+    "categoría": "music"
+  },
+  "rare-phonk": {
+    "nombre": "Rare Phonk",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC8d8GkPcfQGa8lWAnqhElWg",
+      "yt_embed": "8v_kKMaq5po",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "romantica-musica": {
-        "nombre": "Romantica Musica",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC8HEkuYR6IJGMhZ8YqNFB3g",
-            "yt_embed": "ZVnAkbuUy94",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC8HEkuYR6IJGMhZ8YqNFB3g",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UC8d8GkPcfQGa8lWAnqhElWg",
+    "país": "",
+    "categoría": "music"
+  },
+  "cafe-music-bgm-channel": {
+    "nombre": "Cafe Music BGM channel",
+    "logo": "https://graph.facebook.com/bgmc.bgmchannel/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCJhjE7wbdYAae1G25m0tHAA",
+      "yt_embed": "Dx5qFachd3A",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "livemusicradio": {
-        "nombre": "Radio Hits Music",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC0f4WJAjYdwl4XYHz-6FhyQ",
-            "yt_embed": "8M0AvPvPg0A",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6FhyQ",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA",
+    "país": "",
+    "categoría": "music"
+  },
+  "relax-chillout-deep": {
+    "nombre": "Relax Chillout Deep",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCm001e4lKtX7SULWHx6EdzA",
+      "yt_embed": "JDiEqy5Fb9w",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tomorrowland": {
-        "nombre": "Tomorrowland",
-        "logo": "https://graph.facebook.com/tomorrowland/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCsN8M73DMWa8SPp5o_0IAQQ",
-            "yt_embed": "wBgSH-CGPzg",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tomorrowland.com/home/",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCm001e4lKtX7SULWHx6EdzA",
+    "país": "",
+    "categoría": "music"
+  },
+  "n&t-party": {
+    "nombre": "N&T Party",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCC9rwt1T2i4klATksN6prdQ",
+      "yt_embed": "qWf-FPFmVw0",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "nonstopmusic1990": {
-        "nombre": "Nonstop Music",
-        "logo": "https://graph.facebook.com/nonstopmediarec/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCqswUMaC5yWUrkQszr8fuBA",
-            "yt_embed": "k7XQ96U9GtA",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://nonstop-records.com/",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCC9rwt1T2i4klATksN6prdQ",
+    "país": "",
+    "categoría": "music"
+  },
+  "the-bootleg-boy-2": {
+    "nombre": "the bootleg boy 2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCwkTfp14Sj7o6q9_8ADJpnA",
+      "yt_embed": "HBPtQVzRZUY",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "musichits6891": {
-        "nombre": "Music Hits",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC-ITe1nKavRL6-Sl2aE3LKA",
-            "yt_embed": "R6_3OchvW_c",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCwkTfp14Sj7o6q9_8ADJpnA",
+    "país": "",
+    "categoría": "music"
+  },
+  "best-of-mix": {
+    "nombre": "Best of Mix",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCSx0CKSPK_jUE2REJtgHIPA",
+      "yt_embed": "XnUNOaxw6bs",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "thegoodliferadio": {
-        "nombre": "The Good Life Radio x Sensual Musique",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UChs0pSaEoNLV4mevBFGaoKA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCSx0CKSPK_jUE2REJtgHIPA",
+    "país": "",
+    "categoría": "music"
+  },
+  "immortal-swings": {
+    "nombre": "Immortal Swings",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCr_D8RsfDhZ1CVgD7l5ByoQ",
+      "yt_embed": "ttonvJSzOCc",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "bgmtotorostudio": {
-        "nombre": "BGM Totoro Studio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCdg_xadHqcIT40t-rgwuSZg",
-            "yt_embed": "zSuC9irWnWY",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCdg_xadHqcIT40t-rgwuSZg",
-        "país": "",
-        "categoría": "music"
+    "sitio_oficial": "https://www.youtube.com/channel/UCr_D8RsfDhZ1CVgD7l5ByoQ",
+    "país": "",
+    "categoría": "music"
+  },
+  "amor-musica": {
+    "nombre": "Amor Musica",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCR30r2JHz2eqQlutmPzWfhw",
+      "yt_embed": "d4dHirclrYk",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "camaras-aleatorias": {
-        "nombre": "Boston and Maine Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC8gbWbcNNyb5-NIXvFklkOA",
-            "yt_embed": "xCFHfJMV4fs",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA",
-        "país": "",
-        "categoría": "camera"
+    "sitio_oficial": "https://www.youtube.com/channel/UCR30r2JHz2eqQlutmPzWfhw",
+    "país": "",
+    "categoría": "music"
+  },
+  "romantica-musica": {
+    "nombre": "Romantica Musica",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC8HEkuYR6IJGMhZ8YqNFB3g",
+      "yt_embed": "ZVnAkbuUy94",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "birder-king": {
-        "nombre": "Birder King",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC7wafFu5c8AO0YF5U7R7xFA",
-            "yt_embed": "",
-            "yt_playlist": "xsmzulgRJtE",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA",
-        "país": "",
-        "categoría": "camera"
+    "sitio_oficial": "https://www.youtube.com/channel/UC8HEkuYR6IJGMhZ8YqNFB3g",
+    "país": "",
+    "categoría": "music"
+  },
+  "livemusicradio": {
+    "nombre": "Radio Hits Music",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC0f4WJAjYdwl4XYHz-6FhyQ",
+      "yt_embed": "8M0AvPvPg0A",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "alyssas-nature-sanctuary": {
-        "nombre": "Alyssa's Nature Sanctuary",
-        "logo": "https://graph.facebook.com/alyssasnaturesanctuary/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCkirg3K9o212uh5BEt100NQ",
-            "yt_embed": "9bsh7gFDvyo",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ",
-        "país": "",
-        "categoría": "camera"
+    "sitio_oficial": "https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6FhyQ",
+    "país": "",
+    "categoría": "music"
+  },
+  "Tomorrowland": {
+    "nombre": "Tomorrowland",
+    "logo": "https://graph.facebook.com/tomorrowland/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCsN8M73DMWa8SPp5o_0IAQQ",
+      "yt_embed": "wBgSH-CGPzg",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "afartv": {
-        "nombre": "afarTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCaG0IHN1RMOZ4-U3wDXAkwA",
-            "yt_embed": "xRPjKQtRXR8",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://afar.tv/",
-        "país": "",
-        "categoría": "camera"
+    "sitio_oficial": "https://www.tomorrowland.com/home/",
+    "país": "",
+    "categoría": "music"
+  },
+  "nonstopmusic1990": {
+    "nombre": "Nonstop Music",
+    "logo": "https://graph.facebook.com/nonstopmediarec/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCqswUMaC5yWUrkQszr8fuBA",
+      "yt_embed": "k7XQ96U9GtA",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://nonstop-records.com/",
+    "país": "",
+    "categoría": "music"
+  },
+  "musichits6891": {
+    "nombre": "Music Hits",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC-ITe1nKavRL6-Sl2aE3LKA",
+      "yt_embed": "R6_3OchvW_c",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC-ITe1nKavRL6-Sl2aE3LKA",
+    "país": "",
+    "categoría": "music"
+  },
+  "thegoodliferadio": {
+    "nombre": "The Good Life Radio x Sensual Musique",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UChs0pSaEoNLV4mevBFGaoKA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA",
+    "país": "",
+    "categoría": "music"
+  },
+  "bgmtotorostudio": {
+    "nombre": "BGM Totoro Studio",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCdg_xadHqcIT40t-rgwuSZg",
+      "yt_embed": "zSuC9irWnWY",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCdg_xadHqcIT40t-rgwuSZg",
+    "país": "",
+    "categoría": "music"
+  },
+  "camaras-aleatorias": {
+    "nombre": "Boston and Maine Live",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC8gbWbcNNyb5-NIXvFklkOA",
+      "yt_embed": "xCFHfJMV4fs",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC8gbWbcNNyb5-NIXvFklkOA",
+    "país": "",
+    "categoría": "camera"
+  },
+  "Birder -": {
+    "nombre": "Birder King",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC7wafFu5c8AO0YF5U7R7xFA",
+      "yt_embed": "xsmzulgRJtE",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UC7wafFu5c8AO0YF5U7R7xFA",
+    "país": "",
+    "categoría": "camera"
+  },
+  "alyssas-nature-sanctuary": {
+    "nombre": "Alyssa's Nature Sanctuary",
+    "logo": "https://graph.facebook.com/alyssasnaturesanctuary/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCkirg3K9o212uh5BEt100NQ",
+      "yt_embed": "9bsh7gFDvyo",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCkirg3K9o212uh5BEt100NQ",
+    "país": "",
+    "categoría": "music"
+  },
+  "AfarTV": {
+    "nombre": "AfarTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCaG0IHN1RMOZ4-U3wDXAkwA",
+      "yt_embed": "xRPjKQtRXR8",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://afar.tv/",
+    "país": "",
+    "categoría": "camera"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "",
+    "categoría": "camera"
+  },
     "bob-ross": {
         "nombre": "Bob Ross (Todas las Temporadas)",
         "logo": "",
