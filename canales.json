@@ -36832,332 +36832,320 @@
     "país": "us",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "Tin-ON-Drama": {
+    "nombre": "Tin - ON-Drama",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://swf.tulix.tv/iframe/tin-tv/index.php",
+        "http://tintv.net/",
+        "https://www.3rbcafee.org/2019/10/ON-Drama-Live-Streaming.html",
+        "https://www.elahmad.org/tv/mobiletv/glarb.php?id=on_drama",
+        "https://www.elahmad.org/tv/mobiletv/glarb.php?id=on_drama"
+      ],
+      "m3u8_url": [
+        "https://tgn2.bozztv.com/tintv/tintv/tracks-v1a1/mono.m3u8?nimblesessionid=290781139"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "http://tintv.net/",
     "país": "us",
     "categoría": "news"
   },
-    "Tin-tv-ON-Drama": {
-        "nombre": "Tin - ON-Drama",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://swf.tulix.tv/iframe/tin-tv/index.php",
-                "http://tintv.net/",
-                "https://www.3rbcafee.com/2019/10/ON-Drama-Live-Streaming.html",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama"
-            ],
-            "m3u8_url": [
-                "https://tgn2.bozztv.com/tintv/tintv/tracks-v1a1/mono.m3u8?nimblesessionid=290781139"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://tintv.net/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "his-channel": {
-        "nombre": "His Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://hischannel.com/Live-Coder/HisChannel.html",
-                "https://hischannel.com/ChristianLiveTv/LiveTvHD",
-                "https://hischannel.com/ChristianLiveTv/LiveTvUhd",
-                "https://hischannel.com/"
-            ],
-            "m3u8_url": [
-                "https://www1.hischannel.com/liveedge/smil:hls.smil/chunklist_w691504330_b1428000_sleng.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hischannel.com/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "al-karma-tv": {
-        "nombre": "Al Karma NA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smccdn.com/alkarmatv.com/na/",
-                "https://alkarmatv.com/watch_na/"
-            ],
-            "m3u8_url": [
-                "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w1760577827_b2328000_slar.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://alkarmatv.com/watch_na/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "wggs-tv-16": {
-        "nombre": "WGGS 16",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player2.streamspot.com/?playerId=7313bcb3",
-                "https://wggs16.com/"
-            ],
-            "m3u8_url": [
-                "https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/chunklist.m3u8?origin=1"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://wggs16.com/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "HTV-10-tv": {
-        "nombre": "HTV 10",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.htv10.tv/Livestream"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.htv10.tv/Livestream",
-        "país": "us",
-        "categoría": "news"
-    },
-    "mnn-lifestyle-tv": {
-        "nombre": "MNN Lifestyle",
-        "logo": "https://www.mnn.org/themes/custom/mnn/logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://livestream.com/accounts/6478976/events/10721188/player?width=620&height=450&autoPlay=false&mute=false",
-                "https://www.mnn.org/watch/channels/lifestyle-channel"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mnn.org/watch/channels/lifestyle-channel",
-        "país": "us",
-        "categoría": "news"
-    },
-    "al-horreya-tv": {
-        "nombre": "Al Horreya",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://smccdn.com/alhorreya.tv/websitessl.html",
-                "https://alhorreya.org/default.aspx"
-            ],
-            "m3u8_url": [
-                "https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w1592734814_b143000_slar.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://alhorreya.org/default.aspx",
-        "país": "us",
-        "categoría": "news"
-    },
-    "amazing-facts-tv": {
-        "nombre": "Amazing Facts",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?channel=UC6VJE6cD8ZPpe6ZOtVtlBTA&rel=0&autoplay=1",
-                "https://www.amazingfacts.org/media-library"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.amazingfacts.org/media-library",
-        "país": "us",
-        "categoría": "news"
-    },
-    "hsn-tv": {
-        "nombre": "HSN TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/1ph8qQnjXts",
-                "https://www.hsn.com/watch/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCKV0PostOmPjnXEbDgDYSFg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hsn.com/watch/live",
-        "país": "us",
-        "categoría": "news"
-    },
-    "hope-channel-tv": {
-        "nombre": "Hope Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.jetstream.studio/embed/jsl:0sUSK6VA7GTNxQaY8E8L",
-                "https://players.brightcove.net/753071706001/e6Ux8vOis_default/index.html?videoId=4358330007001",
-                "https://hopetv.org/watch/hope-channel"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hopetv.org/watch/hope-channel",
-        "país": "us",
-        "categoría": "news"
-    },
-    "victory-channel-thespectrumtvlive-tv": {
-        "nombre": "Victory Channel - Thespectrumtvlive TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.govictory.com/watch/",
-                "https://es.livetvcentral.com/tv/victory-channel"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
-        "país": "us",
-        "categoría": "news"
-    },
-    "cbn-news-cristiana-us-es": {
-        "nombre": "CBN News Cristiana us-es",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www1.cbn.com/sites/all/libraries/html5player/html5player.php?videoId=5721815535001&auto_play=true&live=true",
-                "https://musicacristiana.com.ar/tv/cbn-en-ingles-tv.htm",
-                "https://musicacristiana.com.ar/tv/cbn-en-espa%C3%B1ol-tv.htm",
-                "https://musicacristiana.com.ar/cbn-tv-en-espanol.html",
-                "https://musicacristiana.com.ar/cbn-television.html",
-                "https://www.youtube.com/embed/CG2XDTgvZPo",
-                "https://www2.cbn.com/video/cbn-live-https",
-                "https://cbn.com/video/cbn-espanol-channel-live-https"
-            ],
-            "m3u8_url": [
-                "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8",
-                "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8",
-                "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.movilocho.com/tv/us-tv-cbn.html",
-        "país": "us",
-        "categoría": "news"
-    },
-    "tele-vida-abundante-emsnj-tv": {
-        "nombre": "Tele Vida Abundante - Emsnj TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://videocloud.instream.audio:2000/VideoPlayer/televidaabundante",
-                "https://videocloud.instream.audio:2000/VideoPlayer/televidaabundante",
-                "https://www.radiovidaabundante.com/tv-en-vivo"
-            ],
-            "m3u8_url": [
-                "https://5f700d5b2c46f.streamlock.net/televidaabundante/televidaabundante/chunklist_w838971046.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "emsnj"
-        },
-        "sitio_oficial": "https://www.twitch.tv/emsnj",
-        "país": "us",
-        "categoría": "news"
-    },
-    "gbn-tv-gospel-b-n-behelstreet-tv": {
-        "nombre": "GBN TV - Behelstreet TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://subsplash.com/+2c93/embed/mi/+d47b5c1?video&audio&info&embeddable&shareable&logo_watermark",
-                "https://subsplash.com/+2c93/embed/mi/+d47b5c1?video&audio&info&embeddable&shareable&logo_watermark",
-                "https://gbntv.org/live-tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "behelstreet"
-        },
-        "sitio_oficial": "https://www.twitch.tv/behelstreet",
-        "país": "us",
-        "categoría": "news"
-    },
-    "the-young-turks-space1999-tv": {
-        "nombre": "The Young Turks - Space1999 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tyt.com/live/streams/17760",
-                "https://es.livetvcentral.com/tv/the-young-turks"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "space1999_tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/space1999_tv",
-        "país": "us",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "His-Channel": {
+    "nombre": "His Channel",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://hischannel.com/Live-Coder/HisChannel.html",
+        "https://hischannel.com/ChristianLiveTv/LiveTvHD",
+        "https://hischannel.com/ChristianLiveTv/LiveTvUhd",
+        "https://hischannel.com/"
+      ],
+      "m3u8_url": [
+        "https://www1.hischannel.com/liveedge/smil:hls.smil/chunklist_w691504330_b1428000_sleng.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hischannel.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Al-Karma-NA": {
+    "nombre": "Al Karma NA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://smccdn.com/alkarmatv.com/na/",
+        "https://alkarmatv.com/watch_na/"
+      ],
+      "m3u8_url": [
+        "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w1760577827_b2328000_slar.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://alkarmatv.com/watch_na/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "WGGS-16": {
+    "nombre": "WGGS 16",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player2.streamspot.com/?playerId=7313bcb3",
+        "https://wggs16.com/"
+      ],
+      "m3u8_url": [
+        "https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/chunklist.m3u8?origin=1"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://wggs16.com/",
+    "país": "us",
+    "categoría": "news"
+  },
+  "HTV-10": {
+    "nombre": "HTV 10",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.htv10.tv/Livestream"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.htv10.tv/Livestream",
+    "país": "us",
+    "categoría": "news"
+  },
+  "MNN-Lifestyle": {
+    "nombre": "MNN Lifestyle",
+    "logo": "https://www.mnn.org/themes/custom/mnn/logo.png",
+    "señales": {
+      "iframe_url": [
+        "https://livestream.com/accounts/6478976/events/10721188/player?width=620&height=450&autoPlay=false&mute=false",
+        "https://www.mnn.org/watch/channels/lifestyle-channel"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.mnn.org/watch/channels/lifestyle-channel",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Al-Horreya": {
+    "nombre": "Al Horreya",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://smccdn.com/alhorreya.tv/websitessl.html",
+        "https://alhorreya.org/default.aspx"
+      ],
+      "m3u8_url": [
+        "https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w1592734814_b143000_slar.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://alhorreya.org/default.aspx",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Amazing-Facts": {
+    "nombre": "Amazing Facts",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/live_stream?channel=UC6VJE6cD8ZPpe6ZOtVtlBTA&rel=0&autoplay=1",
+        "https://www.amazingfacts.org/media-library"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.amazingfacts.org/media-library",
+    "país": "us",
+    "categoría": "news"
+  },
+  "HSN-2-TV": {
+    "nombre": "HSN 2 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.hsn.com/watch/live",
+        "https://www.youtube.com/embed/1ph8qQnjXts"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCKV0PostOmPjnXEbDgDYSFg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.hsn.com/watch/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "HSN-TV": {
+    "nombre": "HSN TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.hsn.com/watch/live",
+        "https://www.youtube.com/embed/1ph8qQnjXts"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCKV0PostOmPjnXEbDgDYSFg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.hsn.com/watch/live",
+    "país": "us",
+    "categoría": "news"
+  },
+  "Hope-Channel": {
+    "nombre": "Hope Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.jetstream.studio/embed/jsl:0sUSK6VA7GTNxQaY8E8L",
+        "https://players.brightcove.net/753071706001/e6Ux8vOis_default/index.html?videoId=4358330007001",
+        "https://hopetv.org/watch/hope-channel"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hopetv.org/watch/hope-channel",
+    "país": "us",
+    "categoría": "news"
+  },
+  "victory-channel-thespectrumtvlive-tv": {
+    "nombre": "Victory Channel - Thespectrumtvlive TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.govictory.com/watch/",
+        "https://es.livetvcentral.com/tv/victory-channel"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
+    "país": "us",
+    "categoría": "news"
+  },
+  "cbn-news-cristiana-us-es": {
+    "nombre": "CBN News Cristiana us-es",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www1.cbn.com/sites/all/libraries/html5player/html5player.php?videoId=5721815535001&auto_play=true&live=true",
+        "https://musicacristiana.com.ar/tv/cbn-en-ingles-tv.htm",
+        "https://musicacristiana.com.ar/tv/cbn-en-espa%C3%B1ol-tv.htm",
+        "https://musicacristiana.com.ar/cbn-tv-en-espanol.html",
+        "https://musicacristiana.com.ar/cbn-television.html",
+        "https://www.youtube.com/embed/CG2XDTgvZPo",
+        "https://www2.cbn.com/video/cbn-live-https",
+        "https://cbn.com/video/cbn-espanol-channel-live-https"
+      ],
+      "m3u8_url": [
+        "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8",
+        "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_3/chunklist.m3u8",
+        "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://www.movilocho.com/tv/us-tv-cbn.html",
+    "país": "us",
+    "categoría": "news"
+  },
+  "tele-vida-abundante-emsnj-tv": {
+    "nombre": "Tele Vida Abundante - Emsnj TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://videocloud.instream.audio:2000/VideoPlayer/televidaabundante",
+        "https://videocloud.instream.audio:2000/VideoPlayer/televidaabundante",
+        "https://www.radiovidaabundante.com/tv-en-vivo"
+      ],
+      "m3u8_url": [
+        "https://5f700d5b2c46f.streamlock.net/televidaabundante/televidaabundante/chunklist_w838971046.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/emsnj",
+    "país": "us",
+    "categoría": "news"
+  },
+  "gbn-tv-gospel-b-n-behelstreet-tv": {
+    "nombre": "GBN TV - Behelstreet TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://subsplash.com/+2c93/embed/mi/+d47b5c1?video&audio&info&embeddable&shareable&logo_watermark",
+        "https://subsplash.com/+2c93/embed/mi/+d47b5c1?video&audio&info&embeddable&shareable&logo_watermark",
+        "https://gbntv.org/live-tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "behelstreet"
+    },
+    "sitio_oficial": "https://www.twitch.tv/behelstreet",
+    "país": "us",
+    "categoría": "news"
+  },
+  "The-Young-Turks-Space1999-TV": {
+    "nombre": "The Young Turks - Space1999 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tyt.com/live/streams/17760",
+        "https://es.livetvcentral.com/tv/the-young-turks"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "space1999_tv"
+    },
+    "sitio_oficial": "https://www.twitch.tv/space1999_tv",
     "país": "us",
     "categoría": "news"
   },
