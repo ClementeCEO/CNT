@@ -24957,6 +24957,8 @@
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/latinanoticias",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=2",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=1",
         "https://rudo.video/live/latinanoticias?autoplay=true&volume=0",
         "https://www.latina.pe/tvenvivo",
         "https://www.youtube.com/embed/FlCcO7Ae5Y8?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
@@ -24968,7 +24970,6 @@
         "https://www.futxi.com/en-vivo/latina-television/"
       ],
       "m3u8_url": [
-        "https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/6c529e75-b525-49b3-b460-fb526485c4ab:SCL2/variant/dca78385fa6e9d55f2ddb5fe349781a5/bandwidth/882795.m3u8",
         "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8?did=",
         "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429009",
@@ -30530,35 +30531,20 @@
     "país": "ph",
     "categoría": "news"
   },
-    "Super-Radyo-DZBB": {
-        "nombre": "Super Radyo DZBB",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/Alimaku26/iptv/tree/949b5c51c8d59c0e39d63776f08cda1a2a5a9c0b/streams",
-        "país": "ph",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "Super-Radyo-DZBB": {
+    "nombre": "Super Radyo DZBB",
     "logo": "",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://github.com/Alimaku26/iptv/tree/949b5c51c8d59c0e39d63776f08cda1a2a5a9c0b/streams",
     "país": "ph",
     "categoría": "news"
   },
@@ -30809,21 +30795,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://myx.global/",
-    "país": "ph",
-    "categoría": "news"
-  },
-  "": {
-    "nombre": "",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "",
     "país": "ph",
     "categoría": "news"
   },
@@ -31558,8 +31529,8 @@
     "país": "pt",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "Waytvportugal-TV": {
+    "nombre": "Waytvportugal TV",
     "logo": "",
     "señales": {
       "iframe_url": [],
@@ -31567,710 +31538,695 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "waytvportugal"
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://waytv.com.pt/",
     "país": "pt",
     "categoría": "news"
   },
-    "waytvportugal-tv": {
-        "nombre": "Waytvportugal TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "waytvportugal"
-        },
-        "sitio_oficial": "https://waytv.com.pt/",
-        "país": "pt",
-        "categoría": "news"
+  "Loasstvofc-TV": {
+    "nombre": "Loasstvofc TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "loasstvofc"
     },
-    "loasstvofc-tv": {
-        "nombre": "Loasstvofc TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "loasstvofc"
-        },
-        "sitio_oficial": "https://www.twitch.tv/loasstvofc",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.twitch.tv/loasstvofc",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "TVI": {
+    "nombre": "TVI",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/tvi"
+      ],
+      "m3u8_url": [
+        "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
+        "https://alanza.iptv2022.com/sh/TVI_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tvi": {
-        "nombre": "TVI",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/tvi"
-            ],
-            "m3u8_url": [
-                "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
-                "https://alanza.iptv2022.com/sh/TVI_TV/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://brasilaovivo.tv/tvi",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://brasilaovivo.tv/tvi",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "SIC": {
+    "nombre": "SIC",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://sic.pt/direto"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sic": {
-        "nombre": "SIC",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://sic.pt/direto"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://sic.pt",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://sic.pt",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "TVI-Reality-Ao-Vivo": {
+    "nombre": "TVI Reality Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/tvi-reality"
+      ],
+      "m3u8_url": [
+        "https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tvi-reality": {
-        "nombre": "TVI Reality Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/tvi-reality"
-            ],
-            "m3u8_url": [
-                "https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-reality",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-reality",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "TVI-Ficção-Ao-Vivo": {
+    "nombre": "TVI Ficção Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/tvi-ficcao"
+      ],
+      "m3u8_url": [
+        "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tvi-ficcao": {
-        "nombre": "TVI Ficção Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/tvi-ficcao"
-            ],
-            "m3u8_url": [
-                "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-ficcao",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-ficcao",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "SIC-Notícias-Ao-Vivo": {
+    "nombre": "SIC Notícias Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/sic-noticias",
+        "https://sicnoticias.pt/direto",
+        "https://www.tvtuga.com/sic-noticias/"
+      ],
+      "m3u8_url": [
+        "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8",
+        "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sic-noticias": {
-        "nombre": "SIC Notícias Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/sic-noticias",
-                "https://sicnoticias.pt/direto",
-                "https://www.tvtuga.com/sic-noticias/"
-            ],
-            "m3u8_url": [
-                "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8",
-                "https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/sic-noticias",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/sic-noticias",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP1": {
+    "nombre": "RTP1",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtp1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp1": {
-        "nombre": "RTP1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtp1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rtp.pt/play/",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.rtp.pt/play/",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "CNN-Portugal-Ao-Vivo": {
+    "nombre": "CNN Portugal Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tviplayer.iol.pt/direto/CNN",
+        "https://cnnportugal.iol.pt/direto"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cnn-portugal": {
-        "nombre": "CNN Portugal Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tviplayer.iol.pt/direto/CNN",
-                "https://cnnportugal.iol.pt/direto"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tviplayer.iol.pt/",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://tviplayer.iol.pt/",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "VMAS-TVI-Ao-Vivo": {
+    "nombre": "V+ TVI Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/vmais"
+      ],
+      "m3u8_url": [
+        "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vmais": {
-        "nombre": "V+ TVI Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/vmais"
-            ],
-            "m3u8_url": [
-                "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/vmais",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/vmais",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Euronews-PT-Ao-Vivo": {
+    "nombre": "Euronews PT Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/live_stream?channel=UCUmEPYxmnyQDeRUcFkslmQw&autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "euronews-pt": {
-        "nombre": "Euronews PT Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?channel=UCUmEPYxmnyQDeRUcFkslmQw&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/euronews-pt",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/euronews-pt",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-3-Ao-Vivo": {
+    "nombre": "RTP 3 Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtp3",
+        "https://www.cxtv.com.br/tv-ao-vivo/rtp-3"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-3": {
-        "nombre": "RTP 3 Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtp3",
-                "https://www.cxtv.com.br/tv-ao-vivo/rtp-3"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-3",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-3",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Porto-Canal-Ao-Vivo": {
+    "nombre": "Porto Canal Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://portocanal.sapo.pt/live",
+        "https://geo.dailymotion.com/player/x9yo3.html?video=x8egnb8"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "porto-canal": {
-        "nombre": "Porto Canal Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://portocanal.sapo.pt/live",
-                "https://geo.dailymotion.com/player/x9yo3.html?video=x8egnb8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/porto-canal",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/porto-canal",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-Internacional-Ao-Vivo": {
+    "nombre": "RTP Internacional Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtpinternacional",
+        "https://www.cxtv.com.br/tv-ao-vivo/rtp-internacional"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-internacional": {
-        "nombre": "RTP Internacional Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtpinternacional",
-                "https://www.cxtv.com.br/tv-ao-vivo/rtp-internacional"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-internacional",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-internacional",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "tvi-internacional": {
+    "nombre": "TVI Internacional",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/tvi-internacional"
+      ],
+      "m3u8_url": [
+        "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tvi-internacional": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/tvi-internacional"
-            ],
-            "m3u8_url": [
-                "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-internacional",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi-internacional",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-2-Ao-Vivo": {
+    "nombre": "RTP 2 Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtp2",
+        "https://www.cxtv.com.br/tv-ao-vivo/rtp-rtp2"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-rtp2": {
-        "nombre": "RTP 2 Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtp2",
-                "https://www.cxtv.com.br/tv-ao-vivo/rtp-rtp2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-rtp2",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-rtp2",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "TVI24-Ao-Vivo": {
+    "nombre": "TVI24 Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/XuZAl-ZPEcA?autoplay=true",
+        "https://www.cxtv.com.br/tv-ao-vivo/tvi24"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tvi24": {
-        "nombre": "TVI24 Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/XuZAl-ZPEcA?autoplay=true",
-                "https://www.cxtv.com.br/tv-ao-vivo/tvi24"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi24",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tvi24",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Kuriakos-Cine-Ao-Vivo": {
+    "nombre": "Kuriakos Cine Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://kuriakos-cine.com/",
+        "https://www.olhosnatv.com.br/2020/02/kuriakos-cine.html",
+        "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-cine",
+        "https://brasilaovivo.tv/kuriakos_cine",
+        "http://www.kuriakos-tv.com/"
+      ],
+      "m3u8_url": [
+        "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+        "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "kuriakos-cine": {
-        "nombre": "Kuriakos Cine Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://kuriakos-cine.com/",
-                "https://www.olhosnatv.com.br/2020/02/kuriakos-cine.html",
-                "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-cine",
-                "https://brasilaovivo.tv/kuriakos_cine",
-                "http://www.kuriakos-tv.com/"
-            ],
-            "m3u8_url": [
-                "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
-                "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-cine",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-cine",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-Memória-Ao-Vivo": {
+    "nombre": "RTP Memória Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtpmemoria"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-memoria": {
-        "nombre": "RTP Memória Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtpmemoria"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-memoria",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-memoria",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Sobrenatural-TV-Ao-Vivo": {
+    "nombre": "Sobrenatural TV Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/sobrenatural-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sobrenatural-tv": {
-        "nombre": "Sobrenatural TV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/sobrenatural-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/sobrenatural-tv",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/sobrenatural-tv",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-Africa-Ao-Vivo": {
+    "nombre": "RTP Africa Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtpafrica"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-africa": {
-        "nombre": "RTP Africa Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtpafrica"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-africa",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-africa",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Fama-TV-Ao-Vivo": {
+    "nombre": "Fama TV Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://famaradio.tv/play/livestream/88582",
+        "https://www.cxtv.com.br/tv-ao-vivo/fama-tv-portugal"
+      ],
+      "m3u8_url": [
+        "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
+        "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fama-tv-portugal": {
-        "nombre": "Fama TV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://famaradio.tv/play/livestream/88582",
-                "https://www.cxtv.com.br/tv-ao-vivo/fama-tv-portugal"
-            ],
-            "m3u8_url": [
-                "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
-                "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/fama-tv-portugal",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/fama-tv-portugal",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "IURDTV-Europa-Ao-Vivo": {
+    "nombre": "IURDTV Europa Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.igrejauniversal.pt/iurdtv/",
+        "https://www.cxtv.com.br/tv-ao-vivo/iurdtv-europa"
+      ],
+      "m3u8_url": [
+        "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/f5a81ae3-05ce-24c6-1b16-2341fd51909d.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "iurdtv-europa": {
-        "nombre": "IURDTV Europa Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.igrejauniversal.pt/iurdtv/",
-                "https://www.cxtv.com.br/tv-ao-vivo/iurdtv-europa"
-            ],
-            "m3u8_url": [
-                "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/f5a81ae3-05ce-24c6-1b16-2341fd51909d.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/iurdtv-europa",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/iurdtv-europa",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "R7-Universal": {
+    "nombre": "R7 Universal",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.r7.com/universal/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "R7-universal": {
-        "nombre": "R7 Universal",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.r7.com/universal/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.r7.com/",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "kuriakos-kids": {
-        "nombre": "Kuriakos Kids Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.olhosnatv.com.br/2018/05/kuriakos-kids.html",
+    "sitio_oficial": "https://www.r7.com/",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Kuriakos-Kids-Ao-Vivo": {
+    "nombre": "Kuriakos Kids Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.olhosnatv.com.br/2018/05/kuriakos-kids.html",
                 "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-kids"
-            ],
-            "m3u8_url": [
-                "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-kids",
-        "país": "pt",
-        "categoría": "news"
+      ],
+      "m3u8_url": [
+        "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-madeira": {
-        "nombre": "RTP Madeira Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtpmadeira"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-madeira",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-kids",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-Madeira-Ao-Vivo": {
+    "nombre": "RTP Madeira Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtpmadeira"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "on-fm-portugal": {
-        "nombre": "ON FM Portugal Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://onfm.pt/on-fm-tv/",
-                "https://www.cxtv.com.br/tv-ao-vivo/on-fm-portugal"
-            ],
-            "m3u8_url": [
-                "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://onfm.pt",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-madeira",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "ON-FM-Portugal-Ao-Vivo": {
+    "nombre": "ON FM Portugal Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://onfm.pt/on-fm-tv/",
+        "https://www.cxtv.com.br/tv-ao-vivo/on-fm-portugal"
+      ],
+      "m3u8_url": [
+        "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rit-europa": {
-        "nombre": "Canal Um Europa (RIT Europa) Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www-rittv-com-br.filesusr.com/html/e2bcec_b7f481e9eb5c2a0a3a3c4ae0808de095.html",
-                "https://www.rittv.com.br/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rit-europa",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://onfm.pt",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RIT-Europa": {
+    "nombre": "Canal Um Europa (RIT Europa) Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www-rittv-com-br.filesusr.com/html/e2bcec_b7f481e9eb5c2a0a3a3c4ae0808de095.html",
+        "https://www.rittv.com.br/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "rtp-acores": {
-        "nombre": "RTP Açores Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtp.pt/play/direto/rtpacores"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-acores",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rit-europa",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "RTP-Açores-Ao-Vivo": {
+    "nombre": "RTP Açores Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.rtp.pt/play/direto/rtpacores"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "kuriakos-music": {
-        "nombre": "Kuriakos Music Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.olhosnatv.com.br/2018/05/kuriakos-music.html",
-                "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-music"
-            ],
-            "m3u8_url": [
-                "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-music",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rtp-acores",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Kuriakos-Music-Ao-Vivo": {
+    "nombre": "Kuriakos Music Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.olhosnatv.com.br/2018/05/kuriakos-music.html",
+        "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-music"
+      ],
+      "m3u8_url": [
+        "https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "adbtv": {
-        "nombre": "ADBTV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/adbtv"
-            ],
-            "m3u8_url": [
-                "https://stream-hls.castr.net/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/adbtv",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-music",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "vadbtv": {
+    "nombre": "ADBTV Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/adbtv"
+      ],
+      "m3u8_url": [
+        "https://stream-hls.castr.net/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "kuriakos-tv": {
-        "nombre": "Kuriakos Tv Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.kuriakos-tv.com/",
-                "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-tv"
-            ],
-            "m3u8_url": [
-                "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-tv",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/adbtv",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "kuriakos-tv": {
+    "nombre": "Kuriakos Tv Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.kuriakos-tv.com/",
+        "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-tv"
+      ],
+      "m3u8_url": [
+        "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-vida": {
-        "nombre": "Canal Vida Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.castr.com/live_43f24df056e711ec8a98fbc0216fffd2",
-                "https://www.cxtv.com.br/tv-ao-vivo/canal-vida"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/canal-vida",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kuriakos-tv",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "canal-vida": {
+    "nombre": "Canal Vida Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.castr.com/live_43f24df056e711ec8a98fbc0216fffd2",
+        "https://www.cxtv.com.br/tv-ao-vivo/canal-vida"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "Ao-vivo-REDEVIDA": {
-        "nombre": "Ao vivo - REDEVIDA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://redevida.com.br/ao-vivo/",
-                "https://r15.ciclano.io/proxy/diariofm/stream"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://redevida.com.br",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/canal-vida",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "Ao-vivo-REDEVIDA": {
+    "nombre": "Ao vivo - REDEVIDA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://redevida.com.br/ao-vivo/",
+        "https://r15.ciclano.io/proxy/diariofm/stream"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ies-tv-igreja-do-espirito-santo": {
-        "nombre": "ies TV - Igreja do Espírito Santo Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/ies-tv-igreja-do-espirito-santo"
-            ],
-            "m3u8_url": [
-                "https://iescc.ddns.net/iestv/stream.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/ies-tv-igreja-do-espirito-santo",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://redevida.com.br",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "ies-tv-igreja-do-espirito-santo": {
+    "nombre": "ies TV - Igreja do Espírito Santo Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/ies-tv-igreja-do-espirito-santo"
+      ],
+      "m3u8_url": [
+        "https://iescc.ddns.net/iestv/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "nasci-para-cantar": {
-        "nombre": "Nasci Para Cantar Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/nasci-para-cantar"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/nasci-para-cantar",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/ies-tv-igreja-do-espirito-santo",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "nasci-para-cantar": {
+    "nombre": "Nasci Para Cantar Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/nasci-para-cantar"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "way-tv": {
-        "nombre": "Way TV Ao Vivo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.cxtv.com.br/tv-ao-vivo/way-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/way-tv",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/nasci-para-cantar",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "way-tv": {
+    "nombre": "Way TV Ao Vivo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/way-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "radiopaixaofm": {
-        "nombre": "Web TV Canal R Paixão FM",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://playerv.samcast.com.br/video/romeu6719/2/true/true/c3Rtdjguc2FtY2FzdC5jb20uYnIrMQ==/16:9//nao/nao?autoplay=1",
-                "https://radiopaixaofm.site/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiopaixaofm.site/",
-        "país": "pt",
-        "categoría": "news"
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/way-tv",
+    "país": "pt",
+    "categoría": "news"
+  },
+  "radiopaixaofm": {
+    "nombre": "Web TV Canal R Paixão FM",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://playerv.samcast.com.br/video/romeu6719/2/true/true/c3Rtdjguc2FtY2FzdC5jb20uYnIrMQ==/16:9//nao/nao?autoplay=1",
+        "https://radiopaixaofm.site/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://radiopaixaofm.site/",
+    "país": "pt",
+    "categoría": "news"
+  },
   "TV8-SK": {
     "nombre": "TV8 SK",
     "logo": "",
