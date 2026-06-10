@@ -37510,79 +37510,49 @@
     "sitio_oficial": "https://www.twitch.tv/la16tv",
     "país": "fr",
     "categoría": "news"
-  },
-    "cnews-LUXTV": {
-        "nombre": "CNEWS - LUX TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
-                "https://www.livehdtv.com/embed/cnews/",
-                "https://www.cxtvlive.com/live-tv/i-tele-france",
-                "https://www.tvlux.sk/nazivo/",
-                "https://www.tvlux.be/direct"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livehdtv.com/cnews/",
-        "país": "fr",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  }
+  "cnews-LUXTV": {
+    "nombre": "cnews-LUXTV",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
+        "https://www.livehdtv.com/embed/cnews/",
+        "https://www.cxtvlive.com/live-tv/i-tele-france",
+        "https://www.tvlux.sk/nazivo/",
+        "https://www.tvlux.be/direct"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.livehdtv.com/cnews/",
     "país": "fr",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "W9": {
+    "nombre": "W9",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.livehdtv.com/token.php?stream=w9",
+        "https://azrotv.com/local/drPlayer/?id=w9",
+        "https://daddylive1.ru/live/stream-30.php",
+        "https://sslivetv.com/live/680-",
+        "http://azrotv.com/iphone/Fr/ch2/w9.php"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.livehdtv.com/w9-live-stream-from-france/",
     "país": "fr",
     "categoría": "news"
   },
-    "w9-live": {
-        "nombre": "W9 Live",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/token.php?stream=w9",
-                "https://azrotv.com/local/drPlayer/?id=w9",
-                "https://daddylive1.ru/live/stream-30.php",
-                "https://sslivetv.com/live/680-",
-                "http://azrotv.com/iphone/Fr/ch2/w9.php"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.livehdtv.com/w9-live-stream-from-france/",
-        "país": "fr",
-        "categoría": "news"
-    },
     "tv5-MONDE-S-Médias-Tv3-LIGHT-ECO-TV-RMTV": {
         "nombre": "TV5 MONDE - S-Médias Tv3 - LIGHT ECO TV",
         "logo": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
