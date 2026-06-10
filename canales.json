@@ -44164,715 +44164,6 @@
         "país": "ru",
         "categoría": "news"
     },
-    "ont-tv": {
-        "nombre": "ONT TV",
-        "logo": "https://ont.by/_nuxt/img/logo.ec0f4ee.svg",
-        "señales": {
-            "iframe_url": [
-                "https://ont.by/broadcasting"
-            ],
-            "m3u8_url": [
-                "https://edge59.dc.beltelecom.by/ont/_definst_/ont/chunklist_w816544205.m3u8",
-                "https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8",
-                "https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w131973150.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ont.by/broadcasting",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "Agro-Tv": {
-        "nombre": "Agro Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://agro-tv.ro/tv-live/"
-            ],
-            "m3u8_url": [
-                "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://agro-tv.ro/tv-live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "antena3-cnn": {
-        "nombre": "antena3 CNN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.antena3.ro/live/"
-            ],
-            "m3u8_url": [
-                "https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8",
-                "https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=51e8f0733aebd363c4fc&free=1&starttime=1728685240&endtime=1728699670&source=a3web&token=9Jf-ClSj10iBW55Aij5LKaFYrpY="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.antena3.ro/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "antena3-constanta": {
-        "nombre": "antena3 Constanta",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://antena3constanta.ro/live/"
-            ],
-            "m3u8_url": [
-                "https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8",
-                "https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=51e8f0733aebd363c4fc&free=1&starttime=1728685240&endtime=1728699670&source=a3web&token=9Jf-ClSj10iBW55Aij5LKaFYrpY="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://antena3constanta.ro/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "rapsodia-tv": {
-        "nombre": "Rapsodia TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.b1tv.ro/live"
-            ],
-            "m3u8_url": [
-                "https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8?from=1728686808&to=1728708408&session=AdGxhts1nPln1YsZ&source=cms&token=-foC482PMNLkCor6bk_kiqAsEA8="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "rapsodiatv"
-        },
-        "sitio_oficial": "https://www.b1tv.ro/live",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "kanald2-tv": {
-        "nombre": "kanald2 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://kanald2.ro/live.html"
-            ],
-            "m3u8_url": [
-                "https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8",
-                "https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://kanald2.ro/live.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "antena-tv": {
-        "nombre": "Antena 1 Antena 3 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/2007/08/online-tv-romania-antena-1-2-3.html"
-            ],
-            "m3u8_url": [
-                "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/2007/08/online-tv-romania-antena-1-2-3.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Arad-tv": {
-        "nombre": "Arad TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/2009/10/radio-tv-live-arad.html"
-            ],
-            "m3u8_url": [
-                "https://live.djemba.ro/live/tvaradlive/chunklist_w887533785.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/2009/10/radio-tv-live-arad.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Ardeal-tv": {
-        "nombre": "Ardeal TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/ardealtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ardealtv.ro/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Arges-tv": {
-        "nombre": "Arges TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/2023/04/arges-tv-live-curier-tv-online-tv-arges.html"
-            ],
-            "m3u8_url": [
-                "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/2023/04/arges-tv-live-curier-tv-online-tv-arges.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Atomic-tv": {
-        "nombre": "Atomic Bucuresti",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/2011/03/dolce-tv-online-live-web-tv.html"
-            ],
-            "m3u8_url": [
-                "https://atomic.streamnet.ro/academia.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/2011/03/dolce-tv-online-live-web-tv.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Bucovina-Suceava-tv": {
-        "nombre": "Bucovina Suceava",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
-            ],
-            "m3u8_url": [
-                "https://transmisiuni.ro/media/btvsvlive/btvsvlive/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "romania-tv": {
-        "nombre": "Romania TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.romaniatv.net/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.romaniatv.net/live",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "digi24-tv": {
-        "nombre": "Digi24 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.digi24.ro/live/digi24"
-            ],
-            "m3u8_url": [
-                "https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.digi24.ro/live/digi24",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "realitatea-tv": {
-        "nombre": "Realitatea TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.realitatea.net/live"
-            ],
-            "m3u8_url": [
-                "https://stream.realitatea.net/realitatea/plus_md/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.realitatea.net/live",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "nasul-tv": {
-        "nombre": "Nasul TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.nasul.tv/live/"
-            ],
-            "m3u8_url": [
-                "https://65f16f0fdfc51.streamlock.net/NasulTV/livestream/chunklist_w541792004.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.nasul.tv/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "aleph-news": {
-        "nombre": "Aleph News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://alephnews.ro/"
-            ],
-            "m3u8_url": [
-                "https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b1398304.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://alephnews.ro/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Kanal-D-România": {
-        "nombre": "Kanal D România",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.kanald.ro/live.html"
-            ],
-            "m3u8_url": [
-                "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8",
-                "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.kanald.ro/live.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Prima-tv": {
-        "nombre": "Prima TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.primatv.ro/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.primatv.ro/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Realitatea-Star": {
-        "nombre": "Realitatea Star",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://realitateastar.net/live/"
-            ],
-            "m3u8_url": [
-                "https://stream.realitatea.net/realitatea/star_md/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://realitateastar.net/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Profit-News-tv": {
-        "nombre": "Profit News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.profit.ro/live",
-                "https://www.primaplay.ro/profit-tv/live/embed"
-            ],
-            "m3u8_url": [
-                "https://live2.cdn.dejacast.com/profit-tv/profit-tv.m3u8?from=1728690879&to=1728726878&session=Y9Y2zsddvujHS1ya&source=cms&token=V3xdy3DuyHb7_2POIKx8yLWo6vg="
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.profit.ro/live",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Aleph-Business-tv": {
-        "nombre": "Aleph Business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://alephbusiness.ro/"
-            ],
-            "m3u8_url": [
-                "https://streamw.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/chunklist_b948304.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://alephbusiness.ro/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Realitatea-Sportivă": {
-        "nombre": "Realitatea Sportivă",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.realitateasportiva.net/live#google_vignette"
-            ],
-            "m3u8_url": [
-                "https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.realitateasportiva.net/live#google_vignette",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Mooz-tv": {
-        "nombre": "Mooz TV",
-        "logo": "https://mooz.tv/site/img/MoozDance_Summer_2016.jpg",
-        "señales": {
-            "iframe_url": [
-                "https://mooz.tv/live-ro/"
-            ],
-            "m3u8_url": [
-                "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8",
-                "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8",
-                "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8",
-                "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://mooz.tv/live-ro/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "magic-TV": {
-        "nombre": "Magic TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.magicfm.ro/magictv",
-                "https://tv.broadcasting.ro/925f90db-5c88-4190-a53d-5163cdffe6f4.html"
-            ],
-            "m3u8_url": [
-                "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.magicfm.ro/magictv",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Kiss-tv": {
-        "nombre": "Kiss TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html",
-                "https://www.kissfm.ro/kisstv",
-                "https://bx-tv.com/kiss-tv/"
-            ],
-            "m3u8_url": [
-                "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.kissfm.ro/kisstv",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Rock-tv": {
-        "nombre": "Rock TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tv.broadcasting.ro/85c83a80-4f71-4f2d-a8d6-43f676896bcb.html",
-                "https://www.rockfm.ro/rocktv"
-            ],
-            "m3u8_url": [
-                "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rockfm.ro/rocktv",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "TeleM-Botosani": {
-        "nombre": "TeleM Botosani",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/undefined?showinfo=0&theme=light&autohide=1&rel=0&wmode=opaque",
-                "https://telembotosani.ro/"
-            ],
-            "m3u8_url": [
-                "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://telembotosani.ro/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Banat-tv": {
-        "nombre": "Banat TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.btv.ro/live-tv/"
-            ],
-            "m3u8_url": [
-                "https://www.btv.ro/hls/banat-tv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.btv.ro/live-tv/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Roman-tv": {
-        "nombre": "Roman TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.squidtv.net/europe/romania/romania-131.html",
-                "https://player.twitch.tv?channel=romantv__&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-131.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "romantv__"
-        },
-        "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-131.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Sălăjeanul-INFO": {
-        "nombre": "Sălăjeanul INFO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.squidtv.net/europe/romania/romania-141.html",
-                "https://player.twitch.tv?channel=salajeanulinfo&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-141.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "salajeanulinfo"
-        },
-        "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-141.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "trinitas-tv": {
-        "nombre": "Trinitas TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/dIqzpDj441k?autoplay=1",
-                "https://www.trinitas.tv/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.trinitas.tv/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Alfa-Omega": {
-        "nombre": "Alfa Omega",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://alfaomega.tv/embed/live/",
-                "https://www.squidtv.net/europe/romania/romania-052.html"
-            ],
-            "m3u8_url": [
-                "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-052.html",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Credo-tv": {
-        "nombre": "Credo TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.credo.tv/"
-            ],
-            "m3u8_url": [
-                "https://651c69fa2ff4e.streamlock.net/ctv/livecredo/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.credo.tv/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "Speranta-tv": {
-        "nombre": "Speranta TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://jstre.am/embed/jsl:2gNjpghXRLE/jsp:PA39Owb5kkR?autoplay=",
-                "https://www.sperantatv.ro/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.sperantatv.ro/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "a7-tv": {
-        "nombre": "A7 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.a7tv.ro/live/"
-            ],
-            "m3u8_url": [
-                "https://a7tvlive.ro/A7TV/A7TV/chunklist_w1992303597.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.a7tv.ro/live/",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "tvarad": {
-        "nombre": "TV Arad",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://tvarad.ro/live"
-            ],
-            "m3u8_url": [
-                "https://live.djemba.ro/live/tvaradlive/chunklist_w899703312.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvarad.ro/live",
-        "país": "ro",
-        "categoría": "news"
-    },
   "": {
     "nombre": "",
     "logo": "",
@@ -44888,139 +44179,586 @@
     "país": "ro",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
-    "logo": "",
+  "ont-tv": {
+    "nombre": "ONT TV",
+    "logo": "https://ont.by/_nuxt/img/logo.ec0f4ee.svg",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://ont.by/broadcasting"
+      ],
+      "m3u8_url": [
+        "https://edge59.dc.beltelecom.by/ont/_definst_/ont/chunklist_w816544205.m3u8",
+        "https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8",
+        "https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w131973150.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://ont.by/broadcasting",
+    "país": "ru",
+    "categoría": "news"
+  },
+  "Agro-Tv": {
+    "nombre": "Agro Tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://agro-tv.ro/tv-live/"
+      ],
+      "m3u8_url": [
+        "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://agro-tv.ro/tv-live/",
     "país": "ro",
     "categoría": "news"
   },
-    "TD-Ameritrade-Network-tv": {
-        "nombre": "TD Ameritrade Network TV - Rioni - kobTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.kob.com/live/",
-                "https://rionitv.com/index.php?do=static&page=livetv",
-                "https://televiziebi.com/imedi-live",
-                "https://televiziebi.com/rustavi-2-live",
-                "https://www.televizia.org/pirveli-arxi/",
-                "https://livetelevizia.com/rioni/",
-                "https://live.rionitv.com/",
-                "https://www.wfmzplus.com/",
-                "https://www.rionitv.com/"
-            ],
-            "m3u8_url": [
-                "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
-                "http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
-                "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
-                "https://github.com/iptv-org/iptv/issues/2440"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://github.com/caliwyr/Software/blob/3ec44337259037497db01bd658c1b265ea39c7f0/IPTV/us_distro.m3u",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "cool-tv": {
-        "nombre": "Cool TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://36578ca484df8bc0e290eda20e6c42de0041f2b1",
-                "https://cool-tv.net/ch/euforia.htm"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cool-tv.net/ch/euforia.htm",
-        "país": "ro",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "antena3 CNN": {
+    "nombre": "antena3 CNN",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://www.antena3.ro/live/"
+      ],
+      "m3u8_url": [
+        "https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8",
+        "https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=51e8f0733aebd363c4fc&free=1&starttime=1728685240&endtime=1728699670&source=a3web&token=9Jf-ClSj10iBW55Aij5LKaFYrpY="
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.antena3.ro/live/",
     "país": "ro",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
+  "antena3-Constanta": {
+    "nombre": "antena3 Constanta",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://antena3constanta.ro/live/"
+      ],
+      "m3u8_url": [
+        "https://ccwork.go.ro/memfs/6cc05b86-8175-440c-ac56-a216869cb92a.m3u8",
+        "https://ivm.antenaplay.ro/live/a3free/playlist.m3u8?version=1&session=51e8f0733aebd363c4fc&free=1&starttime=1728685240&endtime=1728699670&source=a3web&token=9Jf-ClSj10iBW55Aij5LKaFYrpY="
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://antena3constanta.ro/live/",
     "país": "ro",
     "categoría": "news"
   },
-    "columna-tv-targoviste": {
-        "nombre": "Columna TV Targoviste",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qNhi7VograPudDBIL2bKzNvTxcOylal3SRaF3wJcmOohx2sXiZ61OcCqDrIbtC623e28sDGd_4HUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_CGCP6DvpKneXKBOZ/s1600/columna+tv+live+online.png",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html"
-            ],
-            "m3u8_url": [
-                "https://cdn.streamnet.pro/columnatv/live//playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html",
-        "país": "ro",
-        "categoría": "news"
+  "Rapsodia-TV": {
+    "nombre": "Rapsodia TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.b1tv.ro/live"
+      ],
+      "m3u8_url": [
+        "https://live3.cdn.dejacast.com/b1tv/b1tv_0.m3u8?from=1728686808&to=1728708408&session=AdGxhts1nPln1YsZ&source=cms&token=-foC482PMNLkCor6bk_kiqAsEA8="
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "rapsodiatv"
     },
-    "bucovina-tv-suceava": {
-        "nombre": "Bucovina TV Suceava",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3XW2zgVROdPzecNDYIs-4hUzoTAVb36J8orrCZXbIx7g_2cTTXPcF4i2KIXzUUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_Uy7Ra4cRw8qIUzxR69kKFDgocXOW1x/s1600/bucovina+live+online.png",
-        "señales": {
-            "iframe_url": [
-                "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
-            ],
-            "m3u8_url": [
-                "https://transmisiuni.ro/media/btvsvlive/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html",
-        "país": "ro",
-        "categoría": "news"
+    "sitio_oficial": "https://www.b1tv.ro/live",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "kanald2-TV": {
+    "nombre": "kanald2 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://kanald2.ro/live.html"
+      ],
+      "m3u8_url": [
+        "https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8",
+        "https://stream2.kanald.ro/iphone/knd-live_low/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-  "": {
-    "nombre": "",
+    "sitio_oficial": "https://kanald2.ro/live.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Antena-1-Antena-3TV": {
+    "nombre": "Antena 1 Antena 3 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://romanialivewebcam.blogspot.com/2007/08/online-tv-romania-antena-1-2-3.html"
+      ],
+      "m3u8_url": [
+        "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/2007/08/online-tv-romania-antena-1-2-3.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Arad-TV": {
+    "nombre": "Arad TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://romanialivewebcam.blogspot.com/2009/10/radio-tv-live-arad.html"
+      ],
+      "m3u8_url": [
+        "https://live.djemba.ro/live/tvaradlive/chunklist_w887533785.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/2009/10/radio-tv-live-arad.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Ardeal-TV": {
+    "nombre": "Ardeal TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/ardealtv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ardealtv.ro/live/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Arges-TV": {
+    "nombre": "Arges TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://romanialivewebcam.blogspot.com/2023/04/arges-tv-live-curier-tv-online-tv-arges.html"
+      ],
+      "m3u8_url": [
+        "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/2023/04/arges-tv-live-curier-tv-online-tv-arges.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Atomic-Bucuresti": {
+    "nombre": "Atomic Bucuresti",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://romanialivewebcam.blogspot.com/2011/03/dolce-tv-online-live-web-tv.html"
+      ],
+      "m3u8_url": [
+        "https://atomic.streamnet.ro/academia.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/2011/03/dolce-tv-online-live-web-tv.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Bucovina-Suceava": {
+    "nombre": "Bucovina Suceava",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+         "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
+      ],
+      "m3u8_url": [
+        "https://transmisiuni.ro/media/btvsvlive/btvsvlive/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Romania-TV": {
+    "nombre": "Romania TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.romaniatv.net/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.romaniatv.net/live",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Digi24 TV": {
+    "nombre": "Digi24 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.digi24.ro/live/digi24"
+      ],
+      "m3u8_url": [
+        "https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.digi24.ro/live/digi24",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Realitatea-TV": {
+    "nombre": "Realitatea TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.realitatea.net/live"
+      ],
+      "m3u8_url": [
+        "https://stream.realitatea.net/realitatea/plus_md/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.realitatea.net/live",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Nasul-TV": {
+    "nombre": "Nasul TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.nasul.tv/live/"
+      ],
+      "m3u8_url": [
+        "https://65f16f0fdfc51.streamlock.net/NasulTV/livestream/chunklist_w541792004.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.nasul.tv/live/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Aleph-News": {
+    "nombre": "Aleph News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://alephnews.ro/"
+      ],
+      "m3u8_url": [
+        "https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/chunklist_b1398304.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://alephnews.ro/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Kanal-D-România": {
+    "nombre": "Kanal D România",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kanald.ro/live.html"
+      ],
+      "m3u8_url": [
+        "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8",
+        "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.kanald.ro/live.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Prima-TV": {
+    "nombre": "Prima TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.primatv.ro/live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.primatv.ro/live/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Realitatea-Star": {
+    "nombre": "Realitatea Star",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://realitateastar.net/live/"
+      ],
+      "m3u8_url": [
+        "https://stream.realitatea.net/realitatea/star_md/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://realitateastar.net/live/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Profit-News": {
+    "nombre": "Profit News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.profit.ro/live",
+        "https://www.primaplay.ro/profit-tv/live/embed"
+      ],
+      "m3u8_url": [
+        "https://live2.cdn.dejacast.com/profit-tv/profit-tv.m3u8?from=1728690879&to=1728726878&session=Y9Y2zsddvujHS1ya&source=cms&token=V3xdy3DuyHb7_2POIKx8yLWo6vg="
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.profit.ro/live",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Realitatea-Sportivă": {
+    "nombre": "Realitatea Sportivă",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.realitateasportiva.net/live#google_vignette"
+      ],
+      "m3u8_url": [
+        "https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.realitateasportiva.net/live#google_vignette",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Aleph-Business": {
+    "nombre": "Aleph Business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://alephbusiness.ro/"
+      ],
+      "m3u8_url": [
+        "https://streamw.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/chunklist_b948304.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://alephbusiness.ro/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Mooz-TV": {
+    "nombre": "Mooz TV",
+    "logo": "https://mooz.tv/site/img/MoozDance_Summer_2016.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://mooz.tv/live-ro/"
+      ],
+      "m3u8_url": [
+        "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8",
+        "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8",
+        "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8",
+        "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://mooz.tv/live-ro/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Magic-TV": {
+    "nombre": "Magic TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.magicfm.ro/magictv",
+        "https://tv.broadcasting.ro/925f90db-5c88-4190-a53d-5163cdffe6f4.html"
+      ],
+      "m3u8_url": [
+        "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.magicfm.ro/magictv",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Kiss TV": {
+    "nombre": "Kiss TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html",
+        "https://www.kissfm.ro/kisstv",
+        "https://bx-tv.com/kiss-tv/"
+      ],
+      "m3u8_url": [
+        "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.kissfm.ro/kisstv",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Rock-TV": {
+    "nombre": "Rock TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tv.broadcasting.ro/85c83a80-4f71-4f2d-a8d6-43f676896bcb.html",
+        "https://www.rockfm.ro/rocktv"
+      ],
+      "m3u8_url": [
+        "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.rockfm.ro/rocktv",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "TeleM-Botosani": {
+    "nombre": "TeleM Botosani",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/undefined?showinfo=0&theme=light&autohide=1&rel=0&wmode=opaque",
+        "https://telembotosani.ro/"
+      ],
+      "m3u8_url": [
+        "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://telembotosani.ro/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Banat-TV": {
+    "nombre": "Banat TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.btv.ro/live-tv/"
+      ],
+      "m3u8_url": [
+        "https://www.btv.ro/hls/banat-tv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.btv.ro/live-tv/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Roman-TV": {
+    "nombre": "Roman TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.squidtv.net/europe/romania/romania-131.html",
+        "https://player.twitch.tv?channel=romantv__&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-131.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "romantv__"
+    },
+    "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-131.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Sălăjeanul-INFO": {
+    "nombre": "Sălăjeanul INFO",
     "logo": "",
     "señales": {
       "iframe_url": [],
@@ -45028,9 +44766,208 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
+      "twitch_id": "salajeanulinfo"
+    },
+    "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-141.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Trinitas-TV": {
+    "nombre": "Trinitas TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/dIqzpDj441k?autoplay=1",
+        "https://www.trinitas.tv/live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.trinitas.tv/live/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Alfa-Omega": {
+    "nombre": "Alfa Omega",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://alfaomega.tv/embed/live/",
+        "https://www.squidtv.net/europe/romania/romania-052.html"
+      ],
+      "m3u8_url": [
+        "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-052.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Credo-TV": {
+    "nombre": "Credo TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.credo.tv/"
+      ],
+      "m3u8_url": [
+        "https://651c69fa2ff4e.streamlock.net/ctv/livecredo/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.credo.tv/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "Speranta-TV": {
+    "nombre": "Speranta TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://jstre.am/embed/jsl:2gNjpghXRLE/jsp:PA39Owb5kkR?autoplay=",
+        "https://www.sperantatv.ro/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.sperantatv.ro/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "A7-TV": {
+    "nombre": "A7 TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.a7tv.ro/live/"
+      ],
+      "m3u8_url": [
+        "https://a7tvlive.ro/A7TV/A7TV/chunklist_w1992303597.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.a7tv.ro/live/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "TV-Arad": {
+    "nombre": "TV Arad",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://tvarad.ro/live"
+      ],
+      "m3u8_url": [
+        "https://live.djemba.ro/live/tvaradlive/chunklist_w899703312.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvarad.ro/live",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "TD-Ameritrade-Network-tv": {
+    "nombre": "TD Ameritrade Network TV - Rioni - kobTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kob.com/live/",
+        "https://rionitv.com/index.php?do=static&page=livetv",
+        "https://televiziebi.com/imedi-live",
+        "https://televiziebi.com/rustavi-2-live",
+        "https://www.televizia.org/pirveli-arxi/",
+        "https://livetelevizia.com/rioni/",
+        "https://live.rionitv.com/",
+        "https://www.wfmzplus.com/",
+        "https://www.rionitv.com/"
+      ],
+      "m3u8_url": [
+        "https://tdameritrade-distro.amagi.tv/playlist.m3u8",
+        "http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+        "http://video.rionitv.com:9090/hls/live/rioni.m3u8",
+        "https://github.com/iptv-org/iptv/issues/2440"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/caliwyr/Software/blob/3ec44337259037497db01bd658c1b265ea39c7f0/IPTV/us_distro.m3u",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "COOL-TV": {
+    "nombre": "COL TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://36578ca484df8bc0e290eda20e6c42de0041f2b1",
+        "https://cool-tv.net/ch/euforia.htm"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://cool-tv.net/ch/euforia.htm",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "ColumnaTV-Targoviste": {
+    "nombre": "Columna TV Targoviste",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qNhi7VograPudDBIL2bKzNvTxcOylal3SRaF3wJcmOohx2sXiZ61OcCqDrIbtC623e28sDGd_4HUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_CGCP6DvpKneXKBOZ/s1600/columna+tv+live+online.png",
+    "señales": {
+      "iframe_url": [
+        "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html"
+      ],
+      "m3u8_url": [
+        "https://cdn.streamnet.pro/columnatv/live//playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "BucovinaTV-Suceava": {
+    "nombre": "Bucovina TV Suceava",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3XW2zgVROdPzecNDYIs-4hUzoTAVb36J8orrCZXbIx7g_2cTTXPcF4i2KIXzUUQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr_Uy7Ra4cRw8qIUzxR69kKFDgocXOW1x/s1600/bucovina+live+online.png",
+    "señales": {
+      "iframe_url": [
+        "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html"
+      ],
+      "m3u8_url": [
+        "https://transmisiuni.ro/media/btvsvlive/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html",
     "país": "ro",
     "categoría": "news"
   },
