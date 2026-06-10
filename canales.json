@@ -40501,189 +40501,174 @@
     "país": "in",
     "categoría": "news"
   },
-  "": {
-    "nombre": "",
-    "logo": "",
+  "News18-Urdu": {
+    "nombre": "News18 Urdu",
+    "logo": "https://graph.facebook.com/EtvUrduIndia/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://urdu.news18.com/live-tv/"
+      ],
+      "m3u8_url": [
+        "https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/News18_Urdu_NW18_MOB-audio_108034_eng=108000-video=3728000.m3u8"
+      ],
+      "yt_id": "UC9IQhNgS43lmUdU-KdGyb0A",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/c/News18Urdu",
+    "país": "in",
+    "categoría": "news"
+  },
+  "news18-up-uttarakhand": {
+    "nombre": "News18 UP Uttarakhand",
+    "logo": "https://graph.facebook.com/News18UP/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://hindi.news18.com/livetv/"
+      ],
+      "m3u8_url": [
+        "https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_33635_eng=33600-video=148000.m3u8"
+      ],
+      "yt_id": "UCafYgzpyw7aIUYOLjjADu7w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hindi.news18.com/news/uttar-pradesh/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "DD-India": {
+    "nombre": "DD India",
+    "logo": "https://graph.facebook.com/DDIndiaLive/picture?width=800&height=800",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [],
+      "yt_id": "UCGDQNvybfDDeGTf4GtigXaw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ddindia.co.in/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "Kairali-News": {
+    "nombre": "Kairali News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kairalinewsonline.com/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCnEvxaWfVL91XIYuyQRO5QA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@kairalinews",
+    "país": "in",
+    "categoría": "news"
+  },
+  "abn-digital-exclusives": {
+    "nombre": "ABN Digital Exclusives",
+    "logo": "https://graph.facebook.com/somethingspecialvideos/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.andhrajyothy.com/live-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCMIobchb8wgycijrgc1UnZw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
+    "país": "in",
+    "categoría": "news"
+  },
+  "zeebiz-Business": {
+    "nombre": "zeebiz Business",
+    "logo": "https://cdn.zeebiz.com/html/images/zeenbizlogo_mobile.png",
+    "señales": {
+      "iframe_url": [
+        "https://www.zeebiz.com/news/live_tv.php?videoId=zee_business_english&title=Zee%20Business&extraParam1=Zee%20Business&extraParam2=https://www.zeebiz.com/&taptounmute=0&mute=0&piv=0&pip=0&autoplay=1"
+      ],
+      "m3u8_url": [
+        "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
     "país": "in",
     "categoría": "news"
   },
-    "news18-urdu": {
-        "nombre": "News18 Urdu",
-        "logo": "https://graph.facebook.com/EtvUrduIndia/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://urdu.news18.com/live-tv/"
-            ],
-            "m3u8_url": [
-                "https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/News18_Urdu_NW18_MOB-audio_108034_eng=108000-video=3728000.m3u8"
-            ],
-            "yt_id": "UC9IQhNgS43lmUdU-KdGyb0A",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/c/News18Urdu",
-        "país": "in",
-        "categoría": "news"
+  "NDTV-INDIA-profit": {
+    "nombre": "NDTV INDIA Profit",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ndtvprofit.com/live-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC9CYT9gSNLevX5ey2_6CK0Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "news18-up-uttarakhand": {
-        "nombre": "News18 UP Uttarakhand",
-        "logo": "https://graph.facebook.com/News18UP/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://hindi.news18.com/livetv/"
-            ],
-            "m3u8_url": [
-                "https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_33635_eng=33600-video=148000.m3u8"
-            ],
-            "yt_id": "UCafYgzpyw7aIUYOLjjADu7w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hindi.news18.com/news/uttar-pradesh/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://ndtv.in/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "CNN-News18": {
+    "nombre": "",
+    "logo": "https://graph.facebook.com/cnnnews18/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.news18.com/livetv/"
+      ],
+      "m3u8_url": [
+        "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8",
+        "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
+      ],
+      "yt_id": "UCef1-8eOpJgud7szVPlZQAQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "dd-india": {
-        "nombre": "DD India",
-        "logo": "https://graph.facebook.com/DDIndiaLive/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCGDQNvybfDDeGTf4GtigXaw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ddindia.co.in/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.news18.com/livetv/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "WION": {
+    "nombre": "WION",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.wionews.com/live-tv"
+      ],
+      "m3u8_url": [
+        "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+        "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+        "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
+        "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
+        "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
+        "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
+        "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8"
+      ],
+      "yt_id": "UC_gUM8rL-Lrg6O3adPW9K1g",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "kairalinews": {
-        "nombre": "Kairali News",
-        "logo": "https://graph.facebook.com/kairalinews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.kairalinewsonline.com/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCnEvxaWfVL91XIYuyQRO5QA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@kairalinews",
-        "país": "in",
-        "categoría": "news"
-    },
-    "abn-digital-exclusives": {
-        "nombre": "ABN Digital Exclusives",
-        "logo": "https://graph.facebook.com/somethingspecialvideos/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.andhrajyothy.com/live-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCMIobchb8wgycijrgc1UnZw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
-        "país": "in",
-        "categoría": "general"
-    },
-    "zeebiz-Business": {
-        "nombre": "zeebiz Business",
-        "logo": "https://cdn.zeebiz.com/html/images/zeenbizlogo_mobile.png",
-        "señales": {
-            "iframe_url": [
-                "https://www.zeebiz.com/news/live_tv.php?videoId=zee_business_english&title=Zee%20Business&extraParam1=Zee%20Business&extraParam2=https://www.zeebiz.com/&taptounmute=0&mute=0&piv=0&pip=0&autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCMIobchb8wgycijrgc1UnZw",
-        "país": "in",
-        "categoría": "general"
-    },
-    "NDTV-INDIA-profit": {
-        "nombre": "NDTV INDIA Profit",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.ndtvprofit.com/live-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC9CYT9gSNLevX5ey2_6CK0Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ndtv.in/",
-        "país": "in",
-        "categoría": "general"
-    },
-    "cnn-news18": {
-        "nombre": "CNN-News18",
-        "logo": "https://graph.facebook.com/cnnnews18/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.news18.com/livetv/"
-            ],
-            "m3u8_url": [
-                "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8",
-                "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
-            ],
-            "yt_id": "UCef1-8eOpJgud7szVPlZQAQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.news18.com/livetv/",
-        "país": "in",
-        "categoría": "news"
-    },
-    "wion": {
-        "nombre": "WION",
-        "logo": "https://graph.facebook.com/WIONews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://www.wionews.com/live-tv"
-            ],
-            "m3u8_url": [
-                "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-                "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
-                "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
-                "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
-                "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
-                "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
-                "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8"
-            ],
-            "yt_id": "UC_gUM8rL-Lrg6O3adPW9K1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.wionews.com/live-tv",
-        "país": "in",
-        "categoría": "news"
-    },
+    "sitio_oficial": "https://www.wionews.com/live-tv",
+    "país": "in",
+    "categoría": "news"
+  },
   "india-today": {
     "nombre": "India Today",
     "logo": "https://graph.facebook.com/IndiaToday/picture?width=800&height=800",
@@ -40734,282 +40719,297 @@
     "país": "in",
     "categoría": "news"
   },
-    "ndtv-profit": {
-        "nombre": "Ndtv Profit",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.ndtvprofit.com/live-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ndtvprofit.com/live-tv",
-        "país": "in",
-        "categoría": "news"
+  "Ndtv-Profit": {
+    "nombre": "Ndtv Profit",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ndtvprofit.com/live-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "colors-bangla": {
-        "nombre": "BBO",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.yupptv.com/channels/colors-bangla/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.yupptv.com/channels/colors-bangla/live",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ndtvprofit.com/live-tv",
+    "país": "in",
+    "categoría": "news"
+  },
+  "colors-bangla-BBO": {
+    "nombre": "colors-bangla-BBO",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.yupptv.com/channels/colors-bangla/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "pulari-tv": {
-        "nombre": "Pulari TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://bx-tv.com/pulari-tv/"
-            ],
-            "m3u8_url": [
-                "https:\/\/royalstarindia.co.in\/pularitv_hls\/pularitv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/pulari-tv/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.yupptv.com/channels/colors-bangla/live",
+    "país": "in",
+    "categoría": "news"
+  },
+  "Pulari-TV": {
+    "nombre": "Pulari TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://bx-tv.com/pulari-tv/"
+      ],
+      "m3u8_url": [
+        "https:\/\/royalstarindia.co.in\/pularitv_hls\/pularitv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "mazhavil-manorama": {
-        "nombre": "Mazhavil Manorama",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://bx-tv.com/mazhavil-manorama/"
-            ],
-            "m3u8_url": [
-                "https://yuppmedtaorire.akamaized.net/v1/master/a0d00732sWxScGyATsUTHAVeAnkZkEKvHz8AnbF2/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/mazhavil-manorama/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://bx-tv.com/pulari-tv/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "mazhavil-manorama": {
+    "nombre": "Mazhavil Manorama",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://bx-tv.com/mazhavil-manorama/"
+      ],
+      "m3u8_url": [
+        "https://yuppmedtaorire.akamaized.net/v1/master/a0d00732BXBiVmmFgf6BWAWwrQBPdG1TVCvcbbF2/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "safari": {
-        "nombre": "SAFARI",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://bx-tv.com/safari/"
-            ],
-            "m3u8_url": [
-                "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/safari/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://bx-tv.com/mazhavil-manorama/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "SAFARI": {
+    "nombre": "SAFARI",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://bx-tv.com/safari/"
+      ],
+      "m3u8_url": [
+        "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/chunks.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "etv-cinema-surya-music": {
-        "nombre": "Etv Cinema Surya Music",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.yupptv.com/channels/etv-cinema/live",
-                "https://bx-tv.com/surya-music/",
-                "https://www.youtube.com/embed/?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PL80lT6dKTsGn0hfqS-BGoV1dUKgZ2-Saz&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&",
-                "https://www.youtube.com/embed/QAc5JffacFo?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PL0u6psZycCU4H288tiZWoBF0EmXXgBcPA&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/surya-music/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://bx-tv.com/safari/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "etv-cinema-surya-music": {
+    "nombre": "Etv Cinema Surya Music",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.yupptv.com/channels/etv-cinema/live",
+        "https://bx-tv.com/surya-music/",
+        "https://www.youtube.com/embed/?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PL80lT6dKTsGn0hfqS-BGoV1dUKgZ2-Saz&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&",
+        "https://www.youtube.com/embed/QAc5JffacFo?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PL0u6psZycCU4H288tiZWoBF0EmXXgBcPA&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ctvn-akd-plus-darshana-tv": {
-        "nombre": "Ctvn Akd Plus Darshana TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.yupptv.com/channels/ctvn-akd-plus/live",
-                "https://www.youtube.com/embed/?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PL1FXoSgjaDmc_L0IvqmQyGGo1BhAMUzyR&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/darshana-tv/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://bx-tv.com/surya-music/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "ctvn-akd-plus-darshana-tv": {
+    "nombre": "Ctvn Akd Plus Darshana TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.yupptv.com/channels/ctvn-akd-plus/live",
+        "https://www.youtube.com/embed/?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PL1FXoSgjaDmc_L0IvqmQyGGo1BhAMUzyR&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "etv-plus-kairali-arabia": {
-        "nombre": "ETV Plus LKairali Arabia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.yupptv.com/channels/etv-plus/live",
-                "https://www.youtube.com/embed/?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PLRUWHfiqj8TT5y4O7frJADffJjv5YWmBy&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bx-tv.com/kairali-arabia/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://bx-tv.com/darshana-tv/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "etv-plus-kairali-arabia": {
+    "nombre": "ETV Plus LKairali Arabia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.yupptv.com/channels/etv-plus/live",
+        "https://www.youtube.com/embed/?enablejsapi=1&origin=https://bx-tv.com&listType=playlist&list=PLRUWHfiqj8TT5y4O7frJADffJjv5YWmBy&autoplay=0&cc_load_policy=1&cc_lang_pref=&iv_load_policy=1&loop=1&modestbranding=1&rel=-1&fs=1&playsinline=1&autohide=2&hl=en_US&theme=dark&color=red&controls=1&"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "NEWS-24N": {
-        "nombre": "NEWS 24N",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://content.vidgyor.com/live/midroll/html/news24.html"
-            ],
-            "m3u8_url": [
-                "https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://hindi.news24online.com/live-tv/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://bx-tv.com/kairali-arabia/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "NEWS-24N": {
+    "nombre": "NEWS 24N",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://content.vidgyor.com/live/midroll/html/news24.html"
+      ],
+      "m3u8_url": [
+        "https://bb4ece8d78fb4e85b0713ee8a3f73e7b.mediatailor.ap-south-1.amazonaws.com/v1/master/8c46099fe45335f63ce7178b3eb4f427ab1d2158/news24-prod-pal/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "hindi-news": {
-        "nombre": "Hindi News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.india.com/embedded/icom_main.html?videoId=183_english&title=Zee%20News&extraParam1=india.com&extraParam2=https://wwww.india.com/hindi-news/&taptounmute=1&mute=true&piv=0&pip=0&autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://dknttpxmr0dwf.cloudfront.net/index_3.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.india.com/hindi-news/watch/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://hindi.news24online.com/live-tv/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "Hindi-News": {
+    "nombre": "Hindi News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.india.com/embedded/icom_main.html?videoId=183_english&title=Zee%20News&extraParam1=india.com&extraParam2=https://wwww.india.com/hindi-news/&taptounmute=1&mute=true&piv=0&pip=0&autoplay=1"
+      ],
+      "m3u8_url": [
+        "https://dknttpxmr0dwf.cloudfront.net/index_3.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "times-now-hindi": {
-        "nombre": "Times Now Hindi",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.timesnowhindi.com/live-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.timesnowhindi.com/live-tv",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.india.com/hindi-news/watch/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "Times-Now-Hindi": {
+    "nombre": "Times Now Hindi",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.timesnowhindi.com/live-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "janta-tv": {
-        "nombre": "Janta TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.jantatv.com/livetv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.jantatv.com/livetv",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.timesnowhindi.com/live-tv",
+    "país": "in",
+    "categoría": "news"
+  },
+  "Janta-TV": {
+    "nombre": "Janta TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.jantatv.com/livetv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ABP": {
-        "nombre": "ABP",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.abplive.com/LiveStreams/abp_live_tv/hindi/live-tv.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.abplive.com/live-tv",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.jantatv.com/livetv",
+    "país": "in",
+    "categoría": "news"
+  },
+  "ABP": {
+    "nombre": "ABP",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cdn.abplive.com/LiveStreams/abp_live_tv/hindi/live-tv.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "time-tv": {
-        "nombre": "TIME INDIA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://timetv.news/livetv/timetv-india/"
-            ],
-            "m3u8_url": [
-                "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-                "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
-                "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
-                "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
-                "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8"
-            ],
-            "yt_id": "UChfKn8lKy182G8m6GZ_ATDw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://timetv.news/livetv/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://www.abplive.com/live-tv",
+    "país": "in",
+    "categoría": "news"
+  },
+  "TIME-INDIA": {
+    "nombre": "TIME INDIA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://timetv.news/livetv/timetv-india/"
+      ],
+      "m3u8_url": [
+        "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
+        "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
+        "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+        "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+        "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8"
+      ],
+      "yt_id": "UChfKn8lKy182G8m6GZ_ATDw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "giniko": {
-        "nombre": "Giniko",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.giniko.com/watch.php?id=1559"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.giniko.com/",
-        "país": "in",
-        "categoría": "news"
+    "sitio_oficial": "https://timetv.news/livetv/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "Giniko": {
+    "nombre": "Giniko",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.giniko.com/watch.php?id=1559"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.giniko.com/",
+    "país": "in",
+    "categoría": "news"
+  },
+  "": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "bd",
+    "categoría": "news"
+  },
     "banglavision-live": {
         "nombre": "BanglaVision LIVE",
         "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
