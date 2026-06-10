@@ -21212,7 +21212,7 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://tlfaz.com/Tv-Channel/alrasmia-tv/",
-    "país": "",
+    "país": "ly",
     "categoría": "news"
   },
   "Al-Masar-TV": {
@@ -21344,224 +21344,209 @@
     "país": "ly",
     "categoría": "news"
   },
-    "aloula1-tv": {
-        "nombre": "Aloula1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aloula1",
-                "https://www.elahmad.com/tv/radiant.php?id=laayoune",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alaoulaeurope"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/rtm_maroc.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "2M-tv": {
-        "nombre": "2M",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
-                "https://ok.ru/videoembed/8053965659722?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "2m-tv": {
-        "nombre": "2M+",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
-                "https://ok.ru/video/8053965659722",
-                "https://www.web24iptv.online/player/phpar/fas2m.php",
-                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
-            ],
-            "m3u8_url": [
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "arryadia3-tv": {
-        "nombre": "Arryadia 3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=arryadia1",
-                "/tv/cloudflare.php?id=arryadia1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arryadia"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCRN5ho3UGhUi7ZCBe2G2f2w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/arryadia_maroc.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "Aarrabiaa4-tv": {
-        "nombre": "Arrabiaa 4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=arrabia",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arrabiaa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/arrabia-maroc.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "almaghribia5-tv": {
-        "nombre": "Almaghribia 5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.org/tv/radiant.php?id=al_maghribia",
-                "https://www.elahmad.org/tv/arabic-tv-online.php?id=almaghribia"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.org/tv/almaghribia-tv.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "assadissa-tv": {
-        "nombre": "Assadissa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.org/tv/radiant.php?id=assadissatv",
-                "https://www.elahmad.org/tv/arabic-tv-online.php?id=assadissa",
-                "https://qanawat.taghtia.com/api/player/assadissa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv.taghtia.com/en/watch/assadissa",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "aflam-maroc-tv": {
-        "nombre": "Aflam Maroc",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.org/tv/radiant.php?id=aflam_maroc"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.org/tv/",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "tamazight-tv": {
-        "nombre": "Tamazight",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.org/tv/radiant.php?id=tamazight",
-                "https://www.elahmad.org/tv/arabic-tv-online.php?id=tamazight"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.org/tv/tamazight-live-tv.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "medi1tv-tv": {
-        "nombre": "Medi1tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.org/tv/radiant.php?id=medi1tv",
-                "https://www.elahmad.org/tv/radiant.php?id=medi1tv_arabia",
-                "https://www.elahmad.org/tv/radiant.php?id=medi1tv_afrique",
-                "https://www.elahmad.org/tv/arabic-tv-online.php?id=medi1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.org/tv/medi1tv.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "maptvnews-tv": {
-        "nombre": "Maptv News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.org/tv/radiant.php?id=maptvnews"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.org/tv/",
-        "país": "ma",
-        "categoría": "news"
-    },
-  "": {
-    "nombre": "",
+  "aloula1-tv": {
+    "nombre": "Aloula1",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=aloula1",
+        "https://www.elahmad.org/tv/radiant.php?id=laayoune",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=alaoulaeurope"
+      ],
       "m3u8_url": [],
-    "yt_id": "",
-    "yt_embed": "",
-    "yt_playlist": "",
-    "twitch_id": ""
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.elahmad.org/tv/rtm_maroc.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "2M-tv": {
+    "nombre": "2M-tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/watchtv.php?id=maroc2",
+        "https://www.elahmad.org/tv/mobiletv/glarb.php?id=2m_maroc",
+        "https://ok.ru/videoembed/8053965659722?autoplay=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "2m-tv": {
+    "nombre": "2M+",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
+        "https://ok.ru/video/8053965659722",
+        "https://www.web24iptv.online/player/phpar/fas2m.php",
+        "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
+      ],
+      "m3u8_url": [
+        "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Arryadia-3": {
+    "nombre": "Arryadia 3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=arryadia1",
+        "/tv/cloudflare.php?id=arryadia1",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=arryadia"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCRN5ho3UGhUi7ZCBe2G2f2w",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/arryadia_maroc.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Arrabiaa-4": {
+    "nombre": "Arrabiaa 4",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=arrabia",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=arrabiaa"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/arrabia-maroc.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Almaghribia-5": {
+    "nombre": "Almaghribia 5",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=al_maghribia",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=almaghribia"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/almaghribia-tv.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Assadissa": {
+    "nombre": "Assadissa",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=assadissatv",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=assadissa",
+        "https://qanawat.taghtia.com/api/player/assadissa"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tv.taghtia.com/en/watch/assadissa",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Aflam-Maroc": {
+    "nombre": "Aflam Maroc",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=aflam_maroc"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Tamazight": {
+    "nombre": "Tamazight",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=tamazight",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=tamazight"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/tamazight-live-tv.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "Medi1tv": {
+    "nombre": "Medi1tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=medi1tv",
+        "https://www.elahmad.org/tv/radiant.php?id=medi1tv_arabia",
+        "https://www.elahmad.org/tv/radiant.php?id=medi1tv_afrique",
+        "https://www.elahmad.org/tv/arabic-tv-online.php?id=medi1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/medi1tv.php",
+    "país": "ma",
+    "categoría": "news"
+  },
+  "maptvnews-tv": {
+    "nombre": "Maptv News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.elahmad.org/tv/radiant.php?id=maptvnews"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.elahmad.org/tv/",
     "país": "ma",
     "categoría": "news"
   },
