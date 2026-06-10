@@ -38299,10 +38299,10 @@
     "señales": {
       "iframe_url": [
         "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml",
-                "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml",
-                "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml",
-                "http://www.funhillrm.com/news/folder65/",
-                "https://www.squidtv.net/china/zhejiang/zhejiang-003.html#google_vignette"
+        "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml",
+        "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml",
+        "http://www.funhillrm.com/news/folder65/",
+        "https://www.squidtv.net/china/zhejiang/zhejiang-003.html#google_vignette"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -39281,7 +39281,7 @@
     "sitio_oficial": "",
     "país": "tj",
     "categoría": "news"
-  }
+  },
   "trt-world": {
     "nombre": "TRT World",
     "logo": "",
@@ -39444,7 +39444,7 @@
     "sitio_oficial": "https://www.instagram.com/tivi.6/?locale=es_us",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "A-SPORT": {
     "nombre": "A SPORT",
     "logo": "https://i.ibb.co/rwnrgFV/a-spor.png",
@@ -39463,7 +39463,7 @@
     "sitio_oficial": "https://www.youtube.com/@ASpor",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "NTV-AVRUPA": {
     "nombre": "NTV AVRUPA",
     "logo": "https://i.ibb.co/gRR1zpm/ntv.png",
@@ -39486,7 +39486,7 @@
     "sitio_oficial": "https://www.ntv.com.tr/canli-yayin/ntv?youtube=true",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Atv-Canli": {
     "nombre": "Atv Canli",
     "logo": "",
@@ -39507,7 +39507,7 @@
     "sitio_oficial": "https://www.atv.com.tr/canli-yayin",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Kral-PopTV": {
     "nombre": "Kral Pop TV",
     "logo": "",
@@ -39525,7 +39525,7 @@
     "sitio_oficial": "https://www.kralmuzik.com.tr/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "KRT-TV-CANLI-YAYIN": {
     "nombre": "KRT TV CANLI YAYIN",
     "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
@@ -39542,7 +39542,7 @@
     "sitio_oficial": "https://www.krttv.com.tr/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "HT-SPORT": {
     "nombre": "HT SPORT",
     "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
@@ -39559,7 +39559,7 @@
     "sitio_oficial": "https://www.htspor.com/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "TELE1-CANLI-YAYIN": {
     "nombre": "TELE1 CANLI YAYINᴴᴰ",
     "logo": "",
@@ -39576,7 +39576,7 @@
     "sitio_oficial": "https://tele1.com.tr/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "A-SPOR-CANLI-YAYIN": {
     "nombre": "A SPOR CANLI YAYIN",
     "logo": "",
@@ -39597,7 +39597,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/a-spor-canli-13/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Kanal-2020-Canlı-Yayını": {
     "nombre": "TV 2020 Canlı Yayını",
     "logo": "",
@@ -39617,7 +39617,7 @@
     "sitio_oficial": "https://canlitv.com/tv-2020",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "a2-tv-canli-6": {
     "nombre": "A2 TV",
     "logo": "",
@@ -39636,7 +39636,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/a2-tv-canli-6/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Kanal-32-Canlı-Yayını": {
     "nombre": "Kanal 32 Canlı Yayını",
     "logo": "",
@@ -39655,7 +39655,7 @@
     "sitio_oficial": "https://kanal32.com.tr/canli-tv",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Kanal-26-Canlı-Yayını": {
     "nombre": "Kanal 26 Canlı Yayını",
     "logo": "",
@@ -39675,7 +39675,7 @@
     "sitio_oficial": "https://canlitv.com/kanal-26",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Kanal-23-Canlı-Yayını": {
     "nombre": "Kanal 23 Canlı Yayını",
     "logo": "",
@@ -39696,7 +39696,7 @@
     "sitio_oficial": "https://canlitv.com/kanal-23",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Kanal-12-Canlı-Yayını": {
     "nombre": "Kanal 12 Canlı Yayını",
     "logo": "",
@@ -39717,7 +39717,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/kanal-12-canli/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Teve-2-Canlı-Yayını": {
     "nombre": "Teve 2 Canlı Yayını",
     "logo": "",
@@ -39735,7 +39735,7 @@
     "sitio_oficial": "https://www.teve2.com.tr/canli-yayin",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "sanlurfa63-tv69": {
     "nombre": "Şanlıurfa 63 TV",
     "logo": "",
@@ -39750,7 +39750,7 @@
     "sitio_oficial": "https://www.youtube.com/@sanlurfa63tv69",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "NRJ-12-FR": {
     "nombre": "NRJ 12 FR",
     "logo": "",
@@ -39769,7 +39769,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/nrj-12-fr/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "TV264-CANALI": {
     "nombre": "TV 264 CANALI",
     "logo": "",
@@ -39788,7 +39788,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/tv-264-canli/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "ARB-24TV-Canlı-Yayını": {
     "nombre": "ARB 24 TV Canlı Yayını",
     "logo": "",
@@ -39809,7 +39809,7 @@
     "sitio_oficial": "https://canlitv.com/arb-24-tv",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "ARB-GÜNƏŞ": {
     "nombre": "ARB GÜNƏŞ",
     "logo": "",
@@ -39829,7 +39829,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/arb-gunes/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "ARB-AZ-CANALI": {
     "nombre": "ARB AZ CANALI",
     "logo": "",
@@ -39853,7 +39853,7 @@
     "sitio_oficial": "https://ecanlitvizle.video/arb-az-canli/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Tv-52-Canlı-Yayını": {
     "nombre": "Tv 52 Canlı Yayını",
     "logo": "",
@@ -39872,7 +39872,7 @@
     "sitio_oficial": "https://www.tv52.com.tr/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "HALK-TV": {
     "nombre": "HALK TV",
     "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
@@ -39892,7 +39892,7 @@
     "sitio_oficial": "https://www.halktv.com.tr/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "Habertürk-TV": {
     "nombre": "Habertürk TV",
     "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
@@ -39909,7 +39909,7 @@
     "sitio_oficial": "https://tv.haberturk.com/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "trt-haber": {
     "nombre": "Trt Haber",
     "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
@@ -39928,7 +39928,7 @@
     "sitio_oficial": "https://www.trthaber.com/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "24-TV-ayın-akışı": {
     "nombre": "24 TV yayın akışı",
     "logo": "https://i.ibb.co/tHQpWvn/24.png",
@@ -39947,7 +39947,7 @@
     "sitio_oficial": "https://www.yirmidort.tv/canli-yayin/",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "now-TV": {
     "nombre": "NOW TV yayın akışı",
     "logo": "",
@@ -39968,7 +39968,7 @@
     "sitio_oficial": "https://www.nowtv.com.tr/canli-yayin",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "SHOW-TV": {
     "nombre": "SHOW TV",
     "logo": "https://i.ibb.co/tHQpWvn/24.png",
@@ -39990,7 +39990,7 @@
     "sitio_oficial": "https://www.showtv.com.tr/canli-yayin",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "tv8-5-canli": {
     "nombre": "TV8,5",
     "logo": "https://user-images.githubusercontent.com/16838044/195684196-a3405e3d-98fc-41a7-9d79-ec34023ccff8.png",
@@ -40008,7 +40008,7 @@
     "sitio_oficial": "https://tv8bucuk.com/tv8-5-canli-yayin",
     "país": "tr",
     "categoría": "news"
-  }
+  },
   "DD-India": {
     "nombre": "DD-India",
     "logo": "",
@@ -40023,7 +40023,7 @@
     "sitio_oficial": "https://www.youtube.com/@DDIndia",
     "país": "in",
     "categoría": "radio"
-  }
+  },
   "Zee-Tamil-Sunnewstamil-India": {
     "nombre": "Sun News சன் டிவி லைவ் தமிழ்",
     "logo": "https://tatalogo.pages.dev/521.png",
@@ -40043,7 +40043,7 @@
     "sitio_oficial": "https://www.youtube.com/channel/UCYlh4lH762HvHt6mmiecyWQ",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "JayaTV-thanthitv-India": {
     "nombre": "Jaya TV - Thanthi TV சன் டிவி லைவ் தமிழ்",
     "logo": "",
@@ -40061,7 +40061,7 @@
     "sitio_oficial": "https://www.youtube.com/channel/UC-JFyL0zDFOsPMpuWu39rPA",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "Tsports-variant-Mastiii-Indias": {
     "nombre": "Tsports variant Mastiii - India's",
     "logo": "https://graph.facebook.com/abpmajha/picture?width=800&height=800",
@@ -40084,7 +40084,7 @@
     "sitio_oficial": "https://gist.github.com/ibrahim4250/53f98bf9df14387e75c93b814e434fe3",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "Kalaignarseithigal": {
     "nombre": "Kalaignarseithigal",
     "logo": "https://graph.facebook.com/abpmajha/picture?width=800&height=800",
@@ -40102,7 +40102,7 @@
     "sitio_oficial": "https://www.youtube.com/channel/UCcVF2Fth-qEA4T1Lhn3CgKg",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "ABP-MAJHA": {
     "nombre": "ABP MAJHA",
     "logo": "",
@@ -40119,7 +40119,7 @@
     "sitio_oficial": "https://marathi.abplive.com/live-tv",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "good-news-today": {
     "nombre": "Good News Today",
     "logo": "https://graph.facebook.com/goodnewstoday/picture?width=800&height=800",
@@ -40136,7 +40136,7 @@
     "sitio_oficial": "https://www.gnttv.com/livetv",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "ABN -elugu": {
     "nombre": "ABN Telugu",
     "logo": "https://graph.facebook.com/abntelugutv/picture?width=800&height=800",
@@ -40151,7 +40151,7 @@
     "sitio_oficial": "https://www.andhrajyothy.com/live-tv",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "tv9-telugu-live": {
     "nombre": "TV9 Telugu Live",
     "logo": "https://graph.facebook.com/tv9telugu/picture?width=800&height=800",
@@ -40168,7 +40168,7 @@
     "sitio_oficial": "https://tv9telugu.com/live-tv",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "IndiaTV": {
     "nombre": "IndiaTV",
     "logo": "https://graph.facebook.com/indiatvnews/picture?width=800&height=800",
@@ -40185,7 +40185,7 @@
     "sitio_oficial": "https://www.indiatvnews.com/livetv",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "REPORTER-LIVE": {
     "nombre": "REPORTER LIVE",
     "logo": "https://graph.facebook.com/reporterlive/picture?width=800&height=800",
@@ -40200,7 +40200,7 @@
     "sitio_oficial": "https://www.reporterlive.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "hmtv-News": {
     "nombre": "hmtv News",
     "logo": "https://graph.facebook.com/hmtvnewslive/picture?width=800&height=800",
@@ -40215,7 +40215,7 @@
     "sitio_oficial": "https://www.hmtvlive.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "NDTV-India": {
     "nombre": "NDTV India",
     "logo": "https://graph.facebook.com/NDTVIndia/picture?width=800&height=800",
@@ -40232,7 +40232,7 @@
     "sitio_oficial": "https://www.ndtv.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "ET-NOW": {
     "nombre": "ET NOW",
     "logo": "https://graph.facebook.com/etnow/picture?width=800&height=800",
@@ -40249,7 +40249,7 @@
     "sitio_oficial": "https://www.etnownews.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18-Rajasthan": {
     "nombre": "News18 Rajasthan",
     "logo": "https://graph.facebook.com/News18Rajasthan/picture?width=800&height=800",
@@ -40266,7 +40266,7 @@
     "sitio_oficial": "https://hindi.news18.com/livetv/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18-Assam/Northeast": {
     "nombre": "News18 Assam/Northeast",
     "logo": "https://graph.facebook.com/News18AssamNE/picture?width=800&height=800",
@@ -40283,7 +40283,7 @@
     "sitio_oficial": "https://assam.news18.com/live-tv/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "news18-bangla-banglatv-channeli-zee-24ghonta": {
     "nombre": "News18 Bangla - Banglatv - Channeli - Zee-24ghonta",
     "logo": "https://graph.facebook.com/News18Bangla/picture?width=800&height=800",
@@ -40305,7 +40305,7 @@
     "sitio_oficial": "https://assam.news18.com/live-tv/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "news18-bihar-jharkhand-bvnews24": {
     "nombre": "News18 Bihar Jharkhand",
     "logo": "https://graph.facebook.com/News18Bihar/picture?width=800&height=800",
@@ -40329,7 +40329,7 @@
     "sitio_oficial": "https://hindi.news18.com/news/bihar/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18 Gujarati": {
     "nombre": "News18 Gujarati",
     "logo": "https://graph.facebook.com/News18Gujarati/picture?width=800&height=800",
@@ -40348,7 +40348,7 @@
     "sitio_oficial": "https://www.news18.com/livetv/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18-India": {
     "nombre": "News18 India",
     "logo": "https://graph.facebook.com/News18India/picture?width=800&height=800",
@@ -40367,7 +40367,7 @@
     "sitio_oficial": "https://hindi.news18.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18-Kannada": {
     "nombre": "News18 Kannada",
     "logo": "",
@@ -40386,7 +40386,7 @@
     "sitio_oficial": "https://kannada.news18.com/live-tv/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18-Kerala": {
     "nombre": "News18 Kerala",
     "logo": "https://graph.facebook.com/News18Kerala/picture?width=800&height=800",
@@ -40405,7 +40405,7 @@
     "sitio_oficial": "https://malayalam.news18.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "news18-lokmattv": {
     "nombre": "News18 Lokmat",
     "logo": "https://graph.facebook.com/News18Lokmat/picture?width=800&height=800",
@@ -40424,7 +40424,7 @@
     "sitio_oficial": "https://lokmat.news18.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "news18-mp-chhattisgarh": {
     "nombre": "News18 MP Chhattisgarh",
     "logo": "https://graph.facebook.com/News18MP/picture?width=800&height=800",
@@ -40443,7 +40443,7 @@
     "sitio_oficial": "https://hindi.news18.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "News18-Odia": {
     "nombre": "News18 Odia",
     "logo": "https://graph.facebook.com/News18Odia/picture?width=800&height=800",
@@ -40462,7 +40462,7 @@
     "sitio_oficial": "https://odia.news18.com/odisha/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "news18-punjabharyanahimacha35": {
     "nombre": "News18 Punjab/Haryana/Himachal",
     "logo": "https://graph.facebook.com/News18Haryana/picture?width=800&height=800",
@@ -40481,7 +40481,7 @@
     "sitio_oficial": "https://punjab.news18.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "news18-tamil-nadu": {
     "nombre": "News18 Tamil Nadu",
     "logo": "https://graph.facebook.com/News18TamilNadu/picture?width=800&height=800",
@@ -40500,7 +40500,7 @@
     "sitio_oficial": "https://tamil.news18.com/",
     "país": "in",
     "categoría": "news"
-  }
+  },
   "": {
     "nombre": "",
     "logo": "",
@@ -40515,7 +40515,7 @@
     "sitio_oficial": "",
     "país": "in",
     "categoría": "news"
-  }
+  },
     "news18-urdu": {
         "nombre": "News18 Urdu",
         "logo": "https://graph.facebook.com/EtvUrduIndia/picture?width=800&height=800",
