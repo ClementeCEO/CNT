@@ -23280,7 +23280,8 @@
       "m3u8_url": [
         "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
         "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8",
-        "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8"
+        "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8",
+        "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
       ],
     "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
     "yt_embed": "",
@@ -23291,15 +23292,16 @@
     "país": "mx",
     "categoría": "news"
   },
-  "amas-tv": {
-    "nombre": "Amas TV - EWTN",
+  "amas-EWTN-Canal-22": {
+    "nombre": "Amas TV - EWTN - Canal 22",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
     "señales": {
       "iframe_url": [
         "https://www.tvazteca.com/cine/envivo"
       ],
       "m3u8_url": [
-        "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+        "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+        "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8"
       ],
     "yt_id": "UC__aHR3xDkwx0Q8CgoyVUVA",
     "yt_embed": "",
