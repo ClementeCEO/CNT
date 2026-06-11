@@ -94,6 +94,7 @@
         "https://www.youtube.com/watch?v=f6VpkfV7m4Y"
       ],
       "m3u8_url": [
+        "http://190.11.225.124:5000/live/golden_hd/playlist.m3u8",
         "https://gg.hls2.xyz/live/tv3/playlist.m3u8",
         "https://live-news.asharq.com/asharq_1080p30.m3u8",
         "http://azrotv.com/pyr/?id=https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
