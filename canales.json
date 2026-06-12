@@ -10997,6 +10997,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://regionales.saohgdasregions.fun/stream.php?canal=caracol&target=2",
         "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
         "https://play.tdtchannels.com/television/NoticiasCaracolColombia",
@@ -23198,10 +23199,11 @@
     "categoría": "news"
   },
   "telesecundaria-oro-noticias-puebla": {
-    "nombre": "telesecundaria - Oro Noticias Puebla",
+    "nombre": "Telesecundaria - Oro Noticias Puebla",
     "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/141",
         "https://aprende.gob.mx/telesecundaria/",
         "https://www.canalesdemexicoenvivo.com/2021/08/telesecundaria-tv-mexico-en-vivo.html"
       ],
@@ -23209,7 +23211,7 @@
     "yt_id": "UCiJ9v3AalnGScbn9VrhDF7A",
     "yt_embed": "",
     "yt_playlist": "",
-    "twitch_id": ""
+    "twitch_id": "https://github.com/678190/mysky.w3u/blob/3b4b7637ad3c82016d78c8f6720366c8d7ce8a2f/senial1.w3u#L252"
     },
     "sitio_oficial": "https://oronoticiaspuebla.com/",
     "país": "mx",
@@ -23355,8 +23357,8 @@
     "país": "mx",
     "categoría": "news"
   },
-  "adn40mx-AZTECAINTERNACIONAL": {
-    "nombre": "Adn40 - AZTECA INTERNACIONAL",
+  "adn40mx": {
+    "nombre": "Adn40",
     "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
@@ -23366,8 +23368,7 @@
       "m3u8_url": [
         "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
         "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
-        "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8?HasBahCa.m3u8",
-        "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
+        "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8?HasBahCa.m3u8"
       ],
     "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
     "yt_embed": "DwWjFQGGp5I?",
@@ -23383,6 +23384,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://regionales.saohgdasregions.fun/stream.php?canal=telemundo51&target=2",
         "https://vix.com/es-es/canales?lang=canales"
       ],
       "m3u8_url": [],
@@ -23395,21 +23397,26 @@
     "país": "mx",
     "categoría": "news"
   },
-  "Azteca-1-Azteca-7-espn-azteca-internacional": {
-    "nombre": "espn - Azteca Internacional - Azteca-1-Azteca-7",
+  "AZTECA1-AZTECA7-AZTECA-INTERNACIONAL": {
+    "nombre": "AZTECA 1 - AZTECA 7 - AZTECA INTERNACIONAL",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=2",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=1",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=2",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=aztecauno&target=2",
         "https://envivo.tvazteca.com/",
         "https://www.tvazteca.com/tv-azteca-internacional/envivo"
       ],
       "m3u8_url": [
         "https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8",
         "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8",
-        "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+        "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8",
+        "https://azt-mun.otteravision.com/azt/mun/mun.m3u8"
       ],
       "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
-      "yt_embed": "",
+      "yt_embed": "https://embed.ksdjugfsddeports.com",
       "yt_playlist": "https://github.com/Osares10/ipmx",
       "twitch_id": ""
     },
@@ -24981,7 +24988,6 @@
         "https://www.futxi.com/en-vivo/latina-television/"
       ],
       "m3u8_url": [
-        "https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8?dpssid=b213996258086a2c212fe6dd7&sid=ba5t1l1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi&ndvc=1",
         "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8",
         "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8",
         "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0",
