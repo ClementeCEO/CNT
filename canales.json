@@ -23203,11 +23203,12 @@
     "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
-        "http://live.superteve.com:33527/livetv/9Wu6os8Dmg/141",
         "https://aprende.gob.mx/telesecundaria/",
         "https://www.canalesdemexicoenvivo.com/2021/08/telesecundaria-tv-mexico-en-vivo.html"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stream.aprende.gob.mx/telesecundaria_1/hls/index.m3u8"
+      ],
     "yt_id": "UCiJ9v3AalnGScbn9VrhDF7A",
     "yt_embed": "",
     "yt_playlist": "",
@@ -23745,7 +23746,7 @@
     "país": "mx",
     "categoría": "news"
   },
-  "unimas": {
+  "unimasMX": {
     "nombre": "Unimas",
     "logo": "",
     "señales": {
@@ -23756,7 +23757,7 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "",
+    "sitio_oficial": "https://www.youtube.com/channel/UCxjAywdMGltlVokq1oWTeQA",
     "país": "mx",
     "categoría": "news"
   },
@@ -23815,9 +23816,10 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://embed.sdfgnksbounce.com/embed2/foxsportsmexico.html",
-        "https://embed.sdfgnksbounce.com/embed2/foxsports2mexico.html",
-        "https://embed.sdfgnksbounce.com/embed2/foxsports3mexico.html"
+        "https://embed.ksdjugfsddeports.com/embed2/tudn.html",
+        "https://embed.ksdjugfsddeports.com/embed/tudn.html",
+        "https://embed.ksdjugfsddeports.com/embed2/tntsports.html",
+        "https://embed.ksdjugfsddeports.com/embed/tntsports.html"
       ],
       "m3u8_url": [],
       "yt_id": "",
