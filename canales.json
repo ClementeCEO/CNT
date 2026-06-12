@@ -23318,12 +23318,15 @@
     "país": "mx",
     "categoría": "news"
   },
-  "Migrante-tv": {
-    "nombre": "TV Migrante",
+  "Migrante-tv-CANAL5": {
+    "nombre": "TV Migrante - CANAL 5",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://mxplus.tv/television/tv-migrante"
+        "https://mxplus.tv/television/tv-migrante",
+        "https://embed.saohgdasregions.fun/embed2/canal5.html",
+        "https://embed.saohgdasregions.fun/embed/canal5.html",
+        "https://la18hd.com/vivo/canales.php?stream=canal5"
       ],
       "m3u8_url": [
         "https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1911119574.m3u8"
@@ -23331,17 +23334,25 @@
     "yt_id": "",
     "yt_embed": "",
     "yt_playlist": "",
-    "twitch_id": ""
+    "twitch_id": "https://embed.saohgdasregions.fun/"
     },
     "sitio_oficial": "https://mxplus.tv/television/tv-migrante",
     "país": "mx",
     "categoría": "news"
   },
-  "nmas-LASESTRELLAS": {
-    "nombre": "NMás - LAS ESTRELLAS",
+  "nmas-LASESTRELLAS-TNTSERIES": {
+    "nombre": "NMás - LAS ESTRELLAS - TNT SERIES",
     "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://regionales.saohgdasregions.fun/stream.php?canal=lasestrellas&target=3",
+        "https://embed.saohgdasregions.fun/embed2/tnt.html",
+        "https://embed.saohgdasregions.fun/embed/tnt.html",
+        "https://embed.saohgdasregions.fun/embed2/lasestrellas.html",
+        "https://embed.saohgdasregions.fun/embed/lasestrellas.html",
+        "https://embed.saohgdasregions.fun/embed2/tntseries.html",
+        "https://embed.saohgdasregions.fun/embed/tntseries.html"
+      ],
       "m3u8_url": [
         "https://estrellatv-roku.amagi.tv/playlist.m3u8",
         "https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8",
@@ -34494,11 +34505,12 @@
     "categoría": "Busines"
   },
   "univision3-US-Tlnovelas": {
-    "nombre": "Univision3 Noticias US Tlnovelas",
+    "nombre": "Univision3 NoticiasUS - Tlnovelas",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://deporflix.com/canales/univision/",
+        "https://la18hd.com/vivo/canales.php?stream=univision",
+        "https://deporflix.net/canales/univision/",
         "https://www.univision.com/noticias/en-vivo-noticias-24-7",
         "https://www.xtremo-stereo.com/univision-en-vivo/",
         "https://www.tvporinternet2.com/univision-en-vivo-por-internet.html",
@@ -34521,12 +34533,15 @@
     "país": "us",
     "categoría": "news"
   },
-  "ABC7": {
-    "nombre": "ABC7",
+  "ABC7-FoxDeportes-FoxSports1": {
+    "nombre": "ABC7- Fox Deportes - Fox Sports 1",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://abc7.com/"
+        "https://abc7.com/",
+        "https://la18hd.com/vivo/canales.php?stream=foxdeportes",
+        "https://la18hd.com/vivo/canales.php?stream=foxsports1_usa",
+        "https://la18hd.com/vivo/canales.php?stream=foxsports2_usa"
       ],
       "m3u8_url": [],
       "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
@@ -34538,14 +34553,15 @@
     "país": "us",
     "categoría": "news"
   },
-  "abc-news": {
-    "nombre": "ABC News",
+  "abc-news-BeINSportsEspañol": {
+    "nombre": "ABC News - BeIN Sports Español",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://abcnews.go.com/Live",
         "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
-        "https://www.livehdtv.com/embed/ch92/"
+        "https://www.livehdtv.com/embed/ch92/",
+        "https://la18hd.com/vivo/canales.php?stream=beinsportes"
       ],
       "m3u8_url": [
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
@@ -34562,7 +34578,7 @@
     "categoría": "news"
   },
   "cbs-news": {
-    "nombre": "CBS News",
+    "nombre": "CBS News - ESPN Deportes",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -34571,7 +34587,8 @@
         "https://epctv.com/stream/CBS-Stream_3.html",
         "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
         "https://www.cbsnews.com/live/",
-        "https://www.cbs.com/live-tv/stream/cbs-news/"
+        "https://www.cbs.com/live-tv/stream/cbs-news/",
+        "https://la18hd.com/vivo/canales.php?stream=espndeportes"
       ],
       "m3u8_url": [
         "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
@@ -34586,8 +34603,8 @@
     "país": "us",
     "categoría": "news"
   },
-  "cbsnews-0": {
-    "nombre": "CBSNews 0",
+  "cbsnews-TUDN": {
+    "nombre": "CBSNews - TUDN",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -34595,7 +34612,8 @@
         "https://thedaddy.to/embed/stream-767.php",
          "https://epctv.com/stream/CBS-Stream_3.html",
         "https://www.youtube.com/embed/0LDpOEhJXdw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-        "https://www.livehdtv.com/embed/cbsn/"
+        "https://www.livehdtv.com/embed/cbsn/",
+        "https://la18hd.com/vivo/canales.php?stream=tudn"
       ],
       "m3u8_url": [
         "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
@@ -34610,12 +34628,13 @@
     "país": "us",
     "categoría": "news"
   },
-  "cbs8-news": {
-    "nombre": "CBS8 News",
+  "cbs8-news-Unimás": {
+    "nombre": "CBS8 News - Unimás",
     "logo": "https://media.cbs8.com/assets/KFMB/images/e4fca405-db6c-4ee6-991a-f249077ce56b/e4fca405-db6c-4ee6-991a-f249077ce56b_1920x1080.jpg",
     "señales": {
       "iframe_url": [
-        "https://www.cbs8.com/watch"
+        "https://www.cbs8.com/watch",
+        "https://la18hd.com/vivo/canales.php?stream=unimas"
       ],
       "m3u8_url": [
         "https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8"
