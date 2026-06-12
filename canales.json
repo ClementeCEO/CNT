@@ -274,7 +274,9 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1"
+        "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1",
+        "https://www.tvporinternet2.com/",
+        "https://www.cablevisionhd.com/espn-en-vivo.php"
       ],
       "m3u8_url": [
         "https://eu1.servers10.com:8081/8106/index.m3u8",
