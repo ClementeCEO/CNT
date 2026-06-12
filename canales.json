@@ -23425,14 +23425,15 @@
     "país": "mx",
     "categoría": "news"
   },
-  "tv-ujat-aztecanoticias": {
-    "nombre": "TV UJAT - Azteca Noticias",
+  "aztecanoticias-tv-ujat": {
+    "nombre": "Azteca Noticias - TV UJAT",
     "logo": "https://graph.facebook.com/aztecanoticias/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://conceptoweb-studio.com/radio/video/ujat",
         "https://www.tvazteca.com/regional-news/envivo",
-        "https://www.ujat.tv/",
-        "https://envivo.tvazteca.com/epg"
+        "https://envivo.tvazteca.com/epg",
+        "https://www.ujat.tv/"
       ],
       "m3u8_url": [],
     "yt_id": "UCUP6qv-_EIL0hwTsJaKYnvw",
@@ -23811,15 +23812,23 @@
     "país": "mx",
     "categoría": "news"
   },
-  "fox-sports-mexico-noticias": {
-    "nombre": "Fox Sports Mexico",
+  "TUDN-TNTsports-ESPN-PREMIUM-LAT-ESPN-PREMIUM-LAT-TYC-SPORTS-FOX-SPORTS": {
+    "nombre": "TUDN - TNTSports - ESPN PREMIUM LAT - ESPN PREMIUM LAT - TYC SPORTS - FOX SPORTS",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://embed.ksdjugfsddeports.com/embed2/tudn.html",
         "https://embed.ksdjugfsddeports.com/embed/tudn.html",
         "https://embed.ksdjugfsddeports.com/embed2/tntsports.html",
-        "https://embed.ksdjugfsddeports.com/embed/tntsports.html"
+        "https://embed.ksdjugfsddeports.com/embed/tntsports.html",
+        "https://embed.ksdjugfsddeports.com/embed2/espnpremium.html",
+        "https://embed.ksdjugfsddeports.com/embed/espnpremium.html",
+        "https://embed.ksdjugfsddeports.com/embed2/espnpremiumargentina.html",
+        "https://embed.ksdjugfsddeports.com/embed/espnpremiumargentina.html",
+        "https://embed.ksdjugfsddeports.com/embed2/tycsports.html",
+        "https://embed.ksdjugfsddeports.com/embed/tycsports.html",
+        "https://embed.ksdjugfsddeports.com/embed2/foxsports.html",
+        "https://embed.ksdjugfsddeports.com/embed/foxsports.html"
       ],
       "m3u8_url": [],
       "yt_id": "",
