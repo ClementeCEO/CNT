@@ -49,7 +49,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://zonatv.store/canales.php?id=espn5",
         "https://telewebion.ir/live/tv1",
         "https://telewebion.ir/embed/live/irinn",
         "https://telewebion.ir/embed/live/tv3",
@@ -7608,6 +7607,282 @@
     "país": "gb-eng",
     "categoría": "news"
   },
+  "HLN-be": {
+    "nombre": "HLN be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.parsatv.com/embed.php?name=HLN&auto=false",
+        "https://www.parsatv.com/name=HLN#news",
+        "https://www.livehdtv.com/hln-be/"
+      ],
+      "m3u8_url": [
+        "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/hln-be/",
+    "país": "be",
+    "categoría": "news"
+  },
+  "ATV-be": {
+    "nombre": "ATV be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.gva.be/atv"
+      ],
+      "m3u8_url": [
+        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.gva.be/atv",
+    "país": "be",
+    "categoría": "news"
+  },
+  "BX1-be": {
+    "nombre": "BX1 be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.bx1.be/playertv.php",
+        "rtmps://59959724487e3.streamlock.net:443/radio/live",
+        "rtmps://59959724487e3.streamlock.net:443/stream/live",
+        "https://bx1.be/"
+      ],
+      "m3u8_url": [
+        "https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8",
+        "https://59959724487e3.streamlock.net:443/radio/live/playlist.m3u8",
+        "https://59959724487e3.streamlock.net/radio/live/chunklist_w387106910.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://bx1.be/",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Bruzz-be": {
+    "nombre": "Bruzz-be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.clevercast.com?account_id=WXv1JD&event_id=V3n5YY",
+        "https://www.bruzz.be/kijken",
+        "https://www.bruzz.be/live/popup/#/bruzz/watch",
+        "https://www.bruzz.be/live/popup/#/ice/watch",
+        "https://www.bruzz.be/kijken"
+      ],
+      "m3u8_url": [
+        "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b1300000.m3u8",
+        "https://n1.cdn.jetstre.am/session/a5c62ede9a57f2566a56dfdf491d0256/sz/fmbrussel/wowza4/live/BruzzIceVideo/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.bruzz.be/kijken",
+    "país": "be",
+    "categoría": "news"
+  },
+  "TV-Oost-be": {
+    "nombre": "TV Oost-be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvoost.be/"
+      ],
+      "m3u8_url": [
+        "https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.tvoost.be/",
+    "país": "be",
+    "categoría": "news"
+  },
+  "ROB-tv-be": {
+    "nombre": "ROB tv-be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.robtv.be/meld-nieuws/"
+      ],
+      "m3u8_url": [
+        "https://live.zendzend.com/mpegts/29375_395477/media_mpegts_1.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.robtv.be/",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Notélé-be": {
+    "nombre": "Notélé-be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.notele.be/it105-md5-direct.html"
+      ],
+      "m3u8_url": [
+        "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.notele.be/it105-md5-direct.html",
+    "país": "be",
+    "categoría": "news"
+  },
+  "TV-Limburg-TVL-be": {
+    "nombre": "TV Limburg (TVL) be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvl.be/"
+      ],
+      "m3u8_url": [
+        "https://live.zendzend.com/mpegts/29375_395474/media_mpegts_0.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.tvl.be/",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Matélé-be": {
+    "nombre": "Matélé-be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.matele.be/direct"
+      ],
+      "m3u8_url": [
+        "https://live.matele.be/hls/live.m3u8",
+        "https://live.matele.be/hls/live.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.matele.be/direct",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Focus-WTV-be": {
+    "nombre": "Focus WTV-be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://focus-wtv.be/tv-zone"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://focus-wtv.be/tv-zone",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Fun-Vision-be": {
+    "nombre": "Fun Vision be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.funradio.be/funvision/",
+        "https://www.dailymotion.com/embed/video/x8fy3fv?autoplay=1",
+        "https://geo2.dailymotion.com/player/xb0mn.html?video=x8fy3fv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.funradio.be/funvision/",
+    "país": "be",
+    "categoría": "news"
+  },
+  "VRT-MAX-be": {
+    "nombre": "VRT MAX be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.squidtv.net/europe/belgium/belgium-006.html"
+      ],
+      "m3u8_url": [
+        "https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8",
+        "https://live-radio.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.squidtv.net/europe/belgium/belgium-006.html",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Qmusic-be": {
+    "nombre": "Qmusic be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://qmusic.be/luister/qmusic_be/watch"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://qmusic.be/luister/qmusic_be/watch",
+    "país": "be",
+    "categoría": "news"
+  },
+  "Europeby-Satellitebe": {
+    "nombre": "Europe by Satellite be",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=1&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
+        "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=2&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
+        "https://audiovisual.ec.europa.eu/en/ebs/live/1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://audiovisual.ec.europa.eu/en/ebs/live/1",
+    "país": "be",
+    "categoría": "news"
+  },
   "red-uno-bolivia": {
     "nombre": "Red uno Bolivia",
     "logo": "https://television-libre.online/img/rcn.webp",
@@ -9553,588 +9828,82 @@
         "país": "br",
         "categoría": "news"
     },
-    "band-news": {
-        "nombre": "Band News Ao",
-        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/20211a3689f153de32e70cc0e29da4a4.webp",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed?list=UUWijW6tW0iI5ghsAbWDFtTg&playnext=1&index=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCWijW6tW0iI5ghsAbWDFtTg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/band-news",
-        "país": "br",
-        "categoría": "news"
-    },
-    "estudio-noticias-agricolas": {
-        "nombre": "Estudio Noticias Agricolas Ao",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "estudionoticiasagricolas"
-        },
-        "sitio_oficial": "https://www.twitch.tv/estudionoticiasagricolas",
-        "país": "br",
-        "categoría": "news"
-    },
-    "canuelas-noticias": {
-        "nombre": "Canuelas Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canuelasnoticias"
-        },
-        "sitio_oficial": "https://www.twitch.tv/canuelasnoticias",
-        "país": "br",
-        "categoría": "news"
-    },
-    "noticias-diarias-gt": {
-        "nombre": "Noticias Diarias gt",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "noticiasdiariasgt"
-        },
-        "sitio_oficial": "https://www.twitch.tv/noticiasdiariasgt",
-        "país": "br",
-        "categoría": "news"
-    },
-    "bmgtv-news": {
-        "nombre": "BMgtv Business",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://bm.ge/tv",
-                "https://www.bmgtv.com/"
-            ],
-            "m3u8_url": [
-                "https://www.30a-tv.com/InvPit.m3u8",
-                "https://www.30a-tv.com/InvPit.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://onlinetvplayer.com/category/business/",
-        "país": "ge",
-        "categoría": "news"
-    },
-    "gbnewsonline": {
-        "nombre": "GBNews",
-        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
-            ],
-            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gbnews.com/watch/live",
-        "país": "gb-eng",
-        "categoría": "news"
-    },
-    "EUROTV-hnl": {
-        "nombre": "EUROTV - HNL",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ssh101.com/securelive/index.php?id=eurochgreece",
-                "https://www.eurotv.gr/live-tv/",
-                "https://www.parsatv.com/name=HLN#news",
-                "http://www.parsatv.com/embed.php?name=HLN&auto=false",
-                "https://www.hln.be/videos/productie/webstream-3-103242-103242"
-            ],
-            "m3u8_url": [
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8",
-                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eurotv.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "pronews-tv-MEGA": {
-        "nombre": "PronewsTV - MEGA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
-                "https://www.megatv.com/live/",
-                "https://www.tvopen.gr/ethnoslive",
-                "https://www.tvopen.gr/live",
-                "https://www.grlivetv.com/p/open.html",
-                "https://www.skai.gr/tv/live",
-                "https://stasinos.tv/Greek/Greek-TV-Online1.aspx",
-                "https://netnix.tv/countries/gr/channels/skai-hd-bup2",
-                "https://www.antenna.gr/live"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pronewstv"
-        },
-        "sitio_oficial": "www.pronews.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "extacytv-alpha-ertnews": {
-        "nombre": "ExtacyTV - Alpha - Ertnews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://fr.crystalweb.net:2020/VideoPlayer/extacytv?autoplay=1&muted=1",
-                "https://extacytv.gr/",
-                "https://www.ertflix.gr/embed/index.html?codename=ert-news",
-                "https://netnix.tv/countries/gr/channels/ert-news#google_vignette",
-                "https://www.ertnews.gr/live-tv/",
-                "https://kontra.siliconweb.com/webtv/kontrachannel/iframe.jsp",
-                "https://kontrachannel.gr/livetv-kontrachannel.html#google_vignette",
-                "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
-                "https://www.alphatv.gr/live/",
-                "https://www.grlivetv.com/p/alpha.html",
-                "https://www.star.gr/tv/live-stream",
-                "https://digitalstar.gr/",
-                "https://www.star.gr/tv/live-stream",
-                "https://parltv.live.grnet.gr/webtv/",
-                "https://www.grlivetv.com/p/vouli.html",
-                "https://parltv.live.grnet.gr/webtv/"
-            ],
-            "m3u8_url": [
-                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8",
-                "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "extacy_tv"
-        },
-        "sitio_oficial": "https://extacytv.gr/",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "tv100-blueskytv-action24": {
-        "nombre": "TV100 - Blueskytv - Action24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://deliver2.siliconweb.com/besttv/live_abr.html?2",
-                "https://www.youtube.com/embed/uWIhV9gQClg",
-                "https://fm100.gr/live/tv100",
-                "https://blueskytv.gr/live-tv/",
-                "https://www.grlivetv.com/p/tv100.html#google_vignette",
-                "https://www.action24.gr/live-stream/",
-                "https://stasinos.tv/Greek-Live-TV/Action24.aspx",
-                "https://netnix.tv/countries/gr/channels/action-24#google_vignette",
-                "https://www.attica-tv.gr/live-stream/",
-                "https://www.cretetv.gr/live-stream/",
-                "https://netnix.tv/countries/gr/channels/creta#google_vignette",
-                "https://netnix.tv/countries/gr/channels/krhth-tv",
-                "https://www.neatv.gr/live-broadcast/",
-                "https://netnix.tv/countries/gr/channels/nea-tv",
-                "https://epirustv1.eu/",
-                "https://aeolos.tv/live/",
-                "https://enachannel.gr/webtv/",
-                "https://netnix.tv/countries/gr/channels/ena-channel",
-                "https://best-tv.gr/home/best-live-tv/"
-            ],
-            "m3u8_url": [
-                "https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8",
-                "https://bestTV.siliconweb.com/bestTV/live_abr/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://webtv.gr/live/",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "maktv-tv4e-ioniantv": {
-        "nombre": "Maktv - Tv4e - Ioniantv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rumble.com/embed/v6p0jb8/?pub=kjm83",
-                "https://watch.antennaplus.gr/#/live/maktv",
-                "http://www.tv4e.gr/livestreaming.php",
-                "https://ioniantv.gr/live/",
-                "https://tv.rik.cy/live-tv/rik-sat/",
-                "https://www.arttv.info/p/art.html",
-                "https://onechannel.gr/live-tv/",
-                "https://www.sigmatv.com/live",
-                "https://www.alphacyprus.com.cy/live",
-                "https://www.ant1live.com/webtv/live",
-                "https://tvcreta.gr/live/",
-                "https://www.mesogeiostv.gr/live-tv/",
-                "https://www.omegatv.com.cy/live/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "thrakinet-syrostv1-egnatia": {
-        "nombre": "Thrakinet - Syrostv1 - Egnatia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://eco.streams.ovh:2000/VideoPlayer/syrostv1",
-                "https://www.thrakinet.tv/thrakinet-live/",
-                "https://syrostv1.gr/live-tv/",
-                "https://www.egnatia.tv/live",
-                "https://www.verginanews.gr/web-tv-2/",
-                "https://www.alerttv.com.gr/webtv",
-                "https://trttv.gr/web-tv/",
-                "https://www.astratv.gr/live-streaming/",
-                "http://213.16.128.6:8101/deltatv/live.php",
-                "https://www.pronews.gr/live/"
-            ],
-            "m3u8_url": [
-                "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "astratv2021"
-        },
-        "sitio_oficial": "https://netnix.tv/countries/gr/channels/m-tv-hd",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "dhras-pellatv-extra3": {
-        "nombre": "Dhras - Pellatv - Extra3",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dhras.gr/live-tv",
-                "https://www.tvkosmos.gr/",
-                "https://www.dhras.gr/",
-                "http://www.elladatv.gr/",
-                "https://pellatv.gr/live",
-                "https://www.extra3.tv/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvkosmosgr"
-        },
-        "sitio_oficial": "https://www.grlivetv.com/#google_vignette",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "iview-tv-lampsi-tv-village-world": {
-        "nombre": "Iviewtv - Lampsi-tv - Village world",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ellastvmax.com/village-world/",
-                "https://netnix.tv/countries/gr/channels/iview-tv",
-                "https://ellastvmax.com/ellasworld-tv-live/",
-                "https://netnix.tv/countries/gr/channels/lampsi-tv",
-                "https://www.gamostv.eu/%CE%BB%CE%AC%CE%BC%CF%88%CE%B7-tv-live%21/",
-                "https://ellastvmax.com/madworld-tv-live/",
-                "https://netnix.tv/countries/gr/channels/level",
-                "https://netnix.tv/countries/gr/channels/zeys",
-                "https://netnix.tv/countries/gr/channels/omikron-tv",
-                "https://omikrontv.gr/",
-                "https://netnix.tv/countries/gr/channels/ns-tv#google_vignette",
-                "https://www.nstv.gr/nstvlive/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.greek-web-tv.com/p/live-tv_5.html",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "flash-tv-samiaki-thessaliatv": {
-        "nombre": "Flashtv - Samiaki - Thessaliatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://livestream.com/watch",
-                "https://flash-tv.gr/live/#google_vignette",
-                "https://diontv.gr/webtv/",
-                "https://www.startmediacorfu.gr/kerkyra-starttv-webtv/",
-                "https://epiloges.tv/tileorasi/",
-                "https://samiaki.tv/web-tv/#google_vignette",
-                "https://www.thessaliatv.gr/live/",
-                "https://www.startvfm.gr/live/",
-                "https://www.zougla.gr/live/",
-                "https://centertv.gr/live-tv",
-                "https://www.acheloostv.gr/news/achelooswebtvlive/",
-                "https://netnix.tv/countries/gr/channels/pro-news#google_vignette"
-            ],
-            "m3u8_url": [
-                "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "orestidatv"
-        },
-        "sitio_oficial": "https://newsinmax.blogspot.com/",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "opap-stent-tv-gnomi-tv": {
-        "nombre": "Opap - Stenttv - Gnomitv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://horseraces.pamestoixima.gr/el/live-stream",
-                "https://netnix.tv/countries/gr/channels/opap-tv#google_vignette",
-                "https://netnix.tv/countries/gr/channels/argolida-sport",
-                "https://argolidasport.gr/?page_id=1777",
-                "https://netnix.tv/countries/gr/channels/stent-tv",
-                "https://stent.net.gr/",
-                "https://netnix.tv/countries/gr/channels/tv-dipso",
-                "https://netnix.tv/countries/gr/channels/ekklhsia-tv-hd#google_vignette",
-                "https://ecclesiatv.gr/live",
-                "https://netnix.tv/countries/gr/channels/gnomi-tv",
-                "https://www.gnomi.eu/live.html",
-                "https://netnix.tv/countries/gr/channels/alfa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "alfatv-rodopi-tv-super-b": {
-        "nombre": "Alfatv - Rodopitv - Super-b",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://vectromdigital.com/netveurope.html",
-                "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
-                "https://alfatv.com/en/watch-live",
-                "https://netnix.tv/countries/gr/channels/rodopi-tv",
-                "https://stasinos.tv/Greek/RodopiTV.aspx",
-                "https://netnix.tv/countries/gr/channels/super-b",
-                "https://netnix.tv/countries/gr/channels/groovy",
-                "https://babaktv.com/groovy-tv/",
-                "https://www.parsatv.com/name=Groovy-TV",
-                "https://eja.tv/?country=gr",
-                "https://www.newtv.click/gr/groovy-tv-gr/",
-                "https://netnix.tv/countries/gr/channels/netmax-tv",
-                "https://www.newtv.click/gr/netmax-tv-gr/",
-                "https://netmaxtv.com/live/",
-                "https://netnix.tv/countries/gr/channels/netv-europe-hd",
-                "https://netnix.tv/countries/gr/channels/netv-toronto-hd",
-                "https://www.netvtoronto.com/",
-                "https://netnix.tv/countries/gr/channels/village-world",
-                "https://www.wpbt2.org/live-tv/",
-                "https://worldstvmobile.com/country/GR/Choice.gr/Choice",
-                "https://www.wmht.org/live/",
-                "https://bx-tv.com/kiss-tv/",
-                "https://www.kissfm.ro/kisstv",
-                "https://netnix.tv/countries/gr/channels/kiss-tv",
-                "https://netnix.tv/countries/gr/channels/music-web-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
-        "país": "gr",
-        "categoría": "news"
-  },
-  "guatemalaplus-online": {
-    "nombre": "Guatemala Plus - TN23 - Noti 7",
-    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+  "": {
+    "nombre": "",
+    "logo": "",
     "señales": {
-      "iframe_url": [
-        "https://embed.vhx.tv/videos/3634508?api=1&autoplay=1&buy_label=Registrarse&collection_id=962086&color=000000&context=https%3A%2F%2Fwww.guatemalaplus.com%2Ffeatured-category&is_trailer=false&live=1&locale=es&playsinline=1&product_id=169917&referrer=https%3A%2F%2Fwww.google.com%2F&vimeo=1",
-        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-3-guatemala-en-vivo-gratis-247/27",
-        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-7-guatemala-en-vivo-televisiete-online-gratis-hd/20?server=2",
-        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-7-guatemala-en-vivo-televisiete-online-gratis-hd/20",
-        "https://www.tvguatemalaenvivo.com/livetv/watch/tn23-en-vivo-guatemala/19",
-        "https://www.chapintv.com/envivo-canal-3/?source=Internal&ref=Signals+Menu",
-        "https://www.tn23.tv/en-vivo/",
-        "https://www.guatemalaplus.com/featured-category/events/canal-en-vivo",
-        "https://www.rtv.live/",
-        "https://emisorasgt.com/canal-3/",
-        "https://tvinsur.com/guatemala/canal-7/",
-        "https://canalantigua.tv/envivo/",
-        "https://www.guatemalaenvivo.net/2017/07/Cana-Vea-Tv-en-vivo.html",
-        "https://tvweb360.tv/live_embed_player_630px_sp?ch=frnnspr"
-      ],
-      "m3u8_url": [
-        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_5900814650867226228_hls.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_5900814650867226228_hls.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
-        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8"
-      ],
+      "iframe_url": [],
+      "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
     },
     "sitio_oficial": "",
-    "país": "gt",
-    "categoría": "cristiana"
-  },
-  "ebenezer2-online": {
-    "nombre": "Ebenezer2 - Quesada Tv26 - Romance channel",
-    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-    "señales": {
-      "iframe_url": [
-        "https://cdn.streamhispanatv.net/live-stream-video-widget/canal26quezada",
-        "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
-        "https://ebenezer.hn/envivo",
-        "https://tvocanal23.com/tvo-en-vivo/",
-        "https://www.chapintv.com/envivo-canal-7/",
-        "https://www.enlace.org/envivo/",
-        "https://www.distro.tv/live/romance-channel/",
-        "https://www.timesnownews.com/live-tv"
-      ],
-      "m3u8_url": [
-        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
-    "país": "gt",
-    "categoría": "cristiana"
-  },
-  "canal-27G": {
-    "nombre": "Canal 27G - Aztecaguate",
-    "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
-    "señales": {
-      "iframe_url": [
-        "https://www.canal27.tv/live-tv",
-        "https://emisorasgt.com/embed/tv2/canal-27.html?v=1",
-        "https://play.tvaztecaguate.com/home",
-        "https://guatemala.gob.gt/guatv-transmision-en-vivo/",
-        "https://www.playgt.net/",
-        "https://tvguatemala.net/en-vivo/nuestra-senal-en-vivo/",
-        "https://www.guatemalaenvivo.net/2018/07/TV-USAC-Canal-33-en-vivo.html"
-      ],
-      "m3u8_url": [
-        "https://ch1-c27.duin.dev/hls/0/stream.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://emisorasgt.com/canal-27/",
-    "país": "gt",
-    "categoría": "cristiana"
-  },
-  "canal6": {
-    "nombre": "Canal6",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.panadish.com/canal6.html"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.panadish.com/canal6.html",
-    "país": "gt",
+    "país": "br",
     "categoría": "news"
   },
-  "Maxivisión-TV": {
-    "nombre": "Maxivisión TV",
+  "band-news": {
+    "nombre": "Band News Ao",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/20211a3689f153de32e70cc0e29da4a4.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.cxtv.com.br/tv-ao-vivo/band-news",
+        "https://www.youtube.com/embed?list=UUWijW6tW0iI5ghsAbWDFtTg&playnext=1&index=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCWijW6tW0iI5ghsAbWDFtTg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/band-news",
+    "país": "br",
+    "categoría": "news"
+  },
+  "estudio-noticias-agricolas": {
+    "nombre": "Estudio Noticias Agricolas Ao",
     "logo": "",
     "señales": {
       "iframe_url": [],
-      "m3u8_url": [
-        "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-        "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "https://tvguatemalaenvivo.com/public/livetv/watch/maxivision-tv/52"
-    },
-    "sitio_oficial": "https://github.com/Duartegame/001/blob/5479450ab18fdefcd8e84fe96ea060b7d5d89ca9/free.m3u",
-    "país": "gt",
-    "categoría": "news"
-  },
-  "GRUPO-alphatv": {
-    "nombre": "GRUPO Alphatv GR",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.alphatv.gr/live/",
-        "https://tvstanici.net/alfa-vo-zivo/",
-        "https://ioniantv.gr/live/",
-        "https://www.skai.gr/tv/live",
-        "https://www.ant1live.com/webtv/live",
-        "https://diontv.gr/webtv/",
-        "https://www.attica-tv.gr/live-stream/",
-        "https://www.tvopen.gr/live"
-      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "estudionoticiasagricolas"
     },
-    "sitio_oficial": "https://greek-movies.com/livetv",
-    "país": "gr",
+    "sitio_oficial": "https://www.twitch.tv/estudionoticiasagricolas",
+    "país": "br",
+    "categoría": "news"
+  },
+  "canuelas-noticias": {
+    "nombre": "Canuelas Noticias",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "canuelasnoticias"
+    },
+    "sitio_oficial": "https://www.twitch.tv/canuelasnoticias",
+    "país": "br",
+    "categoría": "news"
+  },
+  "noticias-diarias-gt": {
+    "nombre": "Noticias Diarias gt",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "noticiasdiariasgt"
+    },
+    "sitio_oficial": "https://www.twitch.tv/noticiasdiariasgt",
+    "país": "br",
     "categoría": "news"
   },
   "city-btvplus-tiankov-TV": {
@@ -10198,46 +9967,46 @@
     "país": "bg",
     "categoría": "news"
   },
-    "ctv-news-channel": {
-        "nombre": "CTV News Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268",
-                "https://www.ctv.ca/on-air?tab=on-air",
-                "https://www.ctvchannel.tv/live-tv?day=5",
-                "https://www.ctvnews.ca/video/live/",
-                "https://www.ctvnews.ca/toronto/video/live/",
-                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ctvnews.ca/video/c64268-ctv-news-channel-live",
-        "país": "ca",
-        "categoría": "news"
+  "ctv-news-channel": {
+    "nombre": "CTV News Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268",
+        "https://www.ctv.ca/on-air?tab=on-air",
+        "https://www.ctvchannel.tv/live-tv?day=5",
+        "https://www.ctvnews.ca/video/live/",
+        "https://www.ctvnews.ca/toronto/video/live/",
+        "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "global-news": {
-        "nombre": "Global News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://globalnews.ca/live/national/",
-        "país": "ca",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ctvnews.ca/video/c64268-ctv-news-channel-live",
+    "país": "ca",
+    "categoría": "news"
+  },
+  "Global-News": {
+    "nombre": "Global News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://globalnews.ca/live/national/",
+    "país": "ca",
+    "categoría": "news"
+  },
   "cbc-news": {
     "nombre": "CBC News",
     "logo": "https://i.imgur.com/SjTdhvJ.png",
@@ -10255,701 +10024,757 @@
     "país": "ca",
     "categoría": "news"
   },
-    "multimedios-costa-rica": {
-        "nombre": "Multimedios Costa Rica",
-        "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?jsapi=true&autoplay=true&volume=0",
-                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?volume=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCILU2ghO8GrOeB-zo93eYdA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telediario.cr/television",
-        "país": "cr",
-        "categoría": "news"
+  "multimedios-costa-rica": {
+    "nombre": "Multimedios Costa Rica",
+    "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?jsapi=true&autoplay=true&volume=0",
+        "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?volume=0"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCILU2ghO8GrOeB-zo93eYdA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "TV-Nosara": {
-        "nombre": "TV Nosara",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://costaricayplayas.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.telediario.cr/television",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TV-Nosara": {
+    "nombre": "TV Nosara",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://costaricayplayas.com/"
+      ],
+      "m3u8_url": 
+      "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "canal-Retro": {
-        "nombre": "canal Retro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2053077816.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://costaricayplayas.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://costaricayplayas.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "canal-Retro": {
+    "nombre": "canal Retro",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://costaricayplayas.com/"
+      ],
+      "m3u8_url": [
+        "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2053077816.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "voice-over-radio-tv": {
-        "nombre": "voice over radio tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/voice-over-radio-tv.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://costaricayplayas.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "voice-over-radio-tv": {
+    "nombre": "voice over radio tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/voice-over-radio-tv.html"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "nicoya-tv": {
-        "nombre": "nicoya tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/nicoya-tv.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/voice-over-radio-tv.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "nicoya-tv": {
+    "nombre": "nicoya tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/nicoya-tv.html"
+      ],
+      "m3u8_url": [
+        "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "88-stereo": {
-        "nombre": "88 stereo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8",
-                "https://59ef525c24caa.streamlock.net/CableLatino/88stereo/chunklist_w592847741.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.88stereo.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/nicoya-tv.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "88-stereo": {
+    "nombre": "88 stereo",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.88stereo.com/"
+      ],
+      "m3u8_url": [
+        "http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8",
+        "https://59ef525c24caa.streamlock.net/CableLatino/88stereo/chunklist_w592847741.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "partidos-de-la-seleccion": {
-        "nombre": "CANAL 3 KMK TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/partidos-de-la-seleccion.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "http://www.88stereo.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "partidos-de-la-seleccion": {
+    "nombre": "CANAL 3 KMK TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/partidos-de-la-seleccion.html"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "santa-cruz-tv": {
-        "nombre": "SANTA CRUZ TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/santa-cruz-tv.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/partidos-de-la-seleccion.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "santa-cruz-tv": {
+    "nombre": "SANTA CRUZ TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/santa-cruz-tv.html"
+      ],
+      "m3u8_url": [
+        "https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "ticavision": {
-        "nombre": "RETROPLUS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w630250148.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/ticavision.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/santa-cruz-tv.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "ticavision": {
+    "nombre": "RETROPLUS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/ticavision.html"
+      ],
+      "m3u8_url": [
+        "https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w630250148.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-sports-3": {
-        "nombre": "TELESISTEMAS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/fox-sports-3.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/ticavision.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TELESISTEMAS-fox-sports-3": {
+    "nombre": "TELESISTEMAS",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/fox-sports-3.html"
+      ],
+      "m3u8_url": [
+        "https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tele-uno-costa-rica": {
-        "nombre": "TELE UNO CR",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1208228634.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/tele-uno-costa-rica.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/fox-sports-3.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "tele-uno-costa-rica": {
+    "nombre": "TELE UNO CR",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/tele-uno-costa-rica.html"
+      ],
+      "m3u8_url": [
+        "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1208228634.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tv-norte-inf": {
-        "nombre": "Zurquí TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/tv-norte-inf.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/tele-uno-costa-rica.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "tv-norte-inf": {
+    "nombre": "Zurquí TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/tv-norte-inf.html"
+      ],
+      "m3u8_url": [
+        "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "san-vito-tv": {
-        "nombre": "SAN VITO TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.sanvito-television.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/tv-norte-inf.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "san-vito-tv": {
+    "nombre": "SAN VITO TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.sanvito-television.com/"
+      ],
+      "m3u8_url": [
+        "https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "espn-3": {
-        "nombre": "Norte Informativo TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://videohd.live:19360/8076/8076.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/espn-3.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.sanvito-television.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "espn-3-Norte-InformativoTV": {
+    "nombre": "Norte Informativo TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/espn-3.html"
+      ],
+      "m3u8_url": [
+        "https://videohd.live:19360/8076/8076.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "TVSUR-14": {
-        "nombre": "PEREZ ZELEDON TV SUR 14 - Extratvcr",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-              "https://www.extratvcr.com/envivo/",
-              "https://www.tvsur.co.cr/envivo/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/espn-2.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/espn-3.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TVSUR-14": {
+    "nombre": "PEREZ ZELEDON TV SUR 14 - Extratvcr",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.extratvcr.com/envivo/",
+        "https://www.tvsur.co.cr/envivo/",
+        "https://www.costaricayplayas.com/p/espn-2.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "guatuso-tv": {
-        "nombre": "GUATUSO TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-              "https://www.costaricayplayas.com/p/guatuso-tv.html"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/guatuso-tv.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/espn-2.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "guatuso-tv": {
+    "nombre": "GUATUSO TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/guatuso-tv.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "extrema-tv": {
-        "nombre": "EXTREMA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w83924531.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/extrema-tv.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/guatuso-tv.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "extrema-tv": {
+    "nombre": "EXTREMA TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w83924531.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "telefides": {
-        "nombre": "TELEFIDES",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/telefides.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/extrema-tv.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TELEFIDES": {
+    "nombre": "TELEFIDES",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/telefides.html"
+      ],
+      "m3u8_url": [
+        "https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "coto-brus-tv": {
-        "nombre": "COTO BRUS TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cloudvideo.servers10.com:2020/VideoPlayer/8030?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cotobrustv.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/telefides.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "coto-brus-tv": {
+    "nombre": "COTO BRUS TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cloudvideo.servers10.com:2020/VideoPlayer/8030?autoplay=1",
+        "https://cotobrustv.com/"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "fox-sports-2": {
-        "nombre": "TV 8 Costa Rica",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video.misistemareseller.com:1936/sanvito/sanvito/chunklist_w834201973.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/fox-sports-2.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://cotobrustv.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TV8-CostaRica": {
+    "nombre": "TV 8 Costa Rica",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/fox-sports-2.html"
+      ],
+      "m3u8_url": [
+        "https://video.misistemareseller.com:1936/sanvito/sanvito/chunklist_w834201973.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tica-tv-plus": {
-        "nombre": "tica tv plus",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
-                "https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR",
-                "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8",
-                "http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8",
-                "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ticatvplus.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/fox-sports-2.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "tica-tv-plus": {
+    "nombre": "tica tv plus",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ticatvplus.com/"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+        "https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR",
+        "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8",
+        "http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8",
+        "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "curridabat-registro-nacionalvista-este": {
-        "nombre": "TURRIALBA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/curridabat-registro-nacionalvista-este.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.ticatvplus.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "curridabat-registro-nacionalvista-este": {
+    "nombre": "TURRIALBA TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/curridabat-registro-nacionalvista-este.html"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "taras-vista-ochomogo-cartago": {
-        "nombre": "GAM TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/taras-vista-ochomogo-cartago.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/curridabat-registro-nacionalvista-este.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "taras-vista-ochomogo-cartago": {
+    "nombre": "GAM TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/taras-vista-ochomogo-cartago.html"
+      ],
+      "m3u8_url": [
+        "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "la-urucaplaza-de-deportes-vista-oeste_17": {
-        "nombre": "TICA TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/la-urucaplaza-de-deportes-vista-oeste_17.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/taras-vista-ochomogo-cartago.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "la-urucaplaza-de-deportes-vista-oeste_17": {
+    "nombre": "TICA TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/la-urucaplaza-de-deportes-vista-oeste_17.html"
+      ],
+      "m3u8_url": [
+        "https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "cinemax-prueba": {
-        "nombre": "LIMON TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/cinemax-prueba.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/la-urucaplaza-de-deportes-vista-oeste_17.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "LIMON-TV": {
+    "nombre": "",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/cinemax-prueba.html"
+      ],
+      "m3u8_url": [
+        "https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "CANAL-13": {
-        "nombre": "CANAL 13",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://live-b.cf.dmcdn.net/sec2(Z_ub-YK7qk9Es-vMJXYJDQ4R9dqTtDXfE_lQz1-WWD96i_BSA98Brf3iDffvF4e6eCUaegHVh0UnPa8nKckH8-g-kNm0AdXVYDuSpcZNjWc)/dm/3/x7vh8g3/d/live-480.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/blog-page_11.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/cinemax-prueba.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "CANAL-13": {
+    "nombre": "CANAL 13",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1",
+        "https://www.costaricayplayas.com/p/blog-page_11.html"
+      ],
+      "m3u8_url": [
+        "https://live-b.cf.dmcdn.net/sec2(Z_ub-YK7qk9Es-vMJXYJDQ4R9dqTtDXfE_lQz1-WWD96i_BSA98Brf3iDffvF4e6eCUaegHVh0UnPa8nKckH8-g-kNm0AdXVYDuSpcZNjWc)/dm/3/x7vh8g3/d/live-480.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "trivision-36": {
-        "nombre": "TRIVISION 36",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/trivision-36.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/blog-page_11.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "trivision-36": {
+    "nombre": "TRIVISION 36",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/trivision-36.html"
+      ],
+      "m3u8_url": [
+        "https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "iq-tv": {
-        "nombre": "¡OPA! CANAL 38",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://opa.usastreams.com:3066/live/canalopalive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/iq-tv.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/trivision-36.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "iq-tv": {
+    "nombre": "¡OPA! CANAL 38",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.costaricayplayas.com/p/iq-tv.html"
+      ],
+      "m3u8_url": [
+        "https://opa.usastreams.com:3066/live/canalopalive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tmc": {
-        "nombre": "TELETICA 7",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://bit.ly/TeleticaLiveStream_DVR",
-                "https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8"
-            ],
-            "m3u8_url": [
-                "https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48866644",
-                "https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48866776"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/tmc.html",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/iq-tv.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TELETICA-7": {
+    "nombre": "TELETICA 7",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://bit.ly/TeleticaLiveStream_DVR",
+        "https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8",
+        "https://www.costaricayplayas.com/p/tmc.html"
+      ],
+      "m3u8_url": [
+        "https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48866644",
+        "https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48866776"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "tv-cuatro": {
-        "nombre": "TV Cuatro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.conceptoweb-studio.com/radio/video/tv4/"
-            ],
-            "m3u8_url": [
-                "https://5ca3e84a76d30.streamlock.net:443/tv4/videotv4_240p/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net:443/tv4/videotv4_360p/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8",
-                "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42_480p/playlist.m3u8",
-                "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42_720p/playlist.m3u8",
-                "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8",
-                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
-                "https://5ca3e84a76d30.streamlock.net/tv43/videotv43_240p/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8",
-                "https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvcuatro.tv/4-1/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.costaricayplayas.com/p/tmc.html",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "TV-Cuatro": {
+    "nombre": "TV Cuatro",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.conceptoweb-studio.com/radio/video/tv4/",
+        "https://tvcuatro.tv/4-1/"
+      ],
+      "m3u8_url": [
+        "https://5ca3e84a76d30.streamlock.net:443/tv4/videotv4_240p/playlist.m3u8",
+        "https://5f1af61612fb5.streamlock.net:443/tv4/videotv4_360p/playlist.m3u8",
+        "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8",
+        "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42_480p/playlist.m3u8",
+        "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42_720p/playlist.m3u8",
+        "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8",
+        "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
+        "https://5ca3e84a76d30.streamlock.net/tv43/videotv43_240p/playlist.m3u8",
+        "https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8",
+        "https://5ca3e84a76d30.streamlock.net:443/tv44gto/smil:tv44gto.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "luznacientetv": {
-        "nombre": "Luz Naciente TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/8x2fza9v5m",
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2680&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/luz-naciente"
-            ],
-            "m3u8_url": [
-                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
-                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
-                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.luznacientetv.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://tvcuatro.tv/4-1/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "luznacientetv": {
+    "nombre": "Luz Naciente TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play4you.icu/e/8x2fza9v5m",
+        "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2680&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/luz-naciente",
+        "https://www.luznacientetv.com/"
+      ],
+      "m3u8_url": [
+        "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+        "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+        "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "zurqui-tv": {
-        "nombre": "Zurqui TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/7h46l1wg5x"
-            ],
-            "m3u8_url": [
-                "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/zurqui-tv",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://www.luznacientetv.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "Zurqui-TV": {
+    "nombre": "Zurqui TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play4you.icu/e/7h46l1wg5x",
+        "https://livestreamlinks.net/en/onlinetv/costa-rica/zurqui-tv"
+      ],
+      "m3u8_url": [
+        "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "xpresso-joven-radio": {
-        "nombre": "Xpresso Joven Radio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/zu8mc4bafy"
-            ],
-            "m3u8_url": [
-                "https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/chunklist_w874839867.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/xpresso-joven-radio",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/zurqui-tv",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "xpresso-joven-radio": {
+    "nombre": "Xpresso Joven Radio",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play4you.icu/e/zu8mc4bafy",
+        "https://livestreamlinks.net/en/onlinetv/costa-rica/xpresso-joven-radio"
+      ],
+      "m3u8_url": [
+        "https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/chunklist_w874839867.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "voiceover-radio-tv": {
-        "nombre": "Voiceover Radio TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cloudvideo.servers10.com/VideoPlayer/8198",
-                "https://play4you.icu/e/ujovhblmz6",
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3334&autoplay=yes&showChat=no&chat-theme=dark&parent_url=www.vivalivetv.com/channel/voice-over-radio-tv"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8",
-                "https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/voiceover-radio-tv",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/xpresso-joven-radio",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "voiceover-radio-tv": {
+    "nombre": "Voiceover Radio TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cloudvideo.servers10.com/VideoPlayer/8198",
+        "https://play4you.icu/e/ujovhblmz6",
+        "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3334&autoplay=yes&showChat=no&chat-theme=dark&parent_url=www.vivalivetv.com/channel/voice-over-radio-tv",
+        "https://livestreamlinks.net/en/onlinetv/costa-rica/voiceover-radio-tv"
+      ],
+      "m3u8_url": [
+        "https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8",
+        "https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vintage-music-tv": {
-        "nombre": "Vintage Music",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/9x58glthkn"
-            ],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w536426197.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/vintage-music",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/voiceover-radio-tv",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "vintage-music-tv": {
+    "nombre": "Vintage Music",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play4you.icu/e/9x58glthkn",
+        "https://livestreamlinks.net/en/onlinetv/costa-rica/vintage-music"
+      ],
+      "m3u8_url": [
+        "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w536426197.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "video-tour-channel": {
-        "nombre": "Video Tour Channel",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://popup.play4you.icu/29r1lks6m4"
-            ],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://videotourchannel.com/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/vintage-music",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "video-tour-channel": {
+    "nombre": "Video Tour Channel",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://popup.play4you.icu/29r1lks6m4",
+        "https://videotourchannel.com/"
+      ],
+      "m3u8_url": [
+        "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "vm-latino-tv": {
-        "nombre": "Vm Latino TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play4you.icu/e/p5nfr8dokl"
-            ],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1606565019.m3u8",
-                "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://vmlatino.com/en-vivo/",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://videotourchannel.com/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "vm-latino-tv": {
+    "nombre": "Vm Latino TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://play4you.icu/e/p5nfr8dokl",
+        "https://vmlatino.com/en-vivo/"
+      ],
+      "m3u8_url": [
+        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1606565019.m3u8",
+        "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
-    "my-life-tv2": {
-        "nombre": "My Life TV2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3012&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/my-life-tv2"
-            ],
-            "m3u8_url": [
-                "https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3012/amlst:mainstream/chunklist_b7390770.m3u8?op_id=0&userId=0&channelId=3012&stime=1731370287&etime=1731456687&token=0c1f8100288e403223603&p=livecdn"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/my-life-tv2",
-        "país": "cr",
-        "categoría": "news"
+    "sitio_oficial": "https://vmlatino.com/en-vivo/",
+    "país": "cr",
+    "categoría": "news"
+  },
+  "my-life-tv2": {
+    "nombre": "My Life TV2",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3012&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/my-life-tv2",
+        "https://www.vivalivetv.com/channel/my-life-tv2"
+      ],
+      "m3u8_url": [
+        "https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3012/amlst:mainstream/chunklist_b7390770.m3u8?op_id=0&userId=0&channelId=3012&stime=1731370287&etime=1731456687&token=0c1f8100288e403223603&p=livecdn"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
     },
+    "sitio_oficial": "https://www.vivalivetv.com/channel/my-life-tv2",
+    "país": "cr",
+    "categoría": "news"
+  },
   "plous-tv": {
     "nombre": "Plous TV",
     "logo": "",
@@ -12838,6 +12663,202 @@
     "país": "cz",
     "categoría": "news"
   },
+  "DW-News": {
+    "nombre": "DW News",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dw.com/en/live-tv/channel-english"
+      ],
+      "m3u8_url": [
+        "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.dw.com/en",
+    "país": "de",
+    "categoría": "news"
+  },
+  "dw-arabic": {
+    "nombre": "DW عربية",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dw.com/ar/live-tv/channel-arabic"
+      ],
+      "m3u8_url": [
+        "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
+      ],
+      "yt_id": "UC30ditU5JI16o5NbFsHde_Q",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.dw.com/ar",
+    "país": "de",
+    "categoría": "news"
+  },
+  "DW-Español": {
+    "nombre": "DW Español",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dw.com/es/live-tv/channel-spanish"
+      ],
+      "m3u8_url": [
+        "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      ],
+      "yt_id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.dw.com/es",
+    "país": "de",
+    "categoría": "news"
+  },
+  "WELTOK54-OffenerKanalMainz": {
+    "nombre": "WELT - OK 54 - Offener Kanal Mainz",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kabeljournal.de/livestream",
+        "https://icanlive.tv/live/14728/ard-tagesschau.html",
+        "https://www.oktv-rlp.de/sehen/livestream/156/",
+        "https://ok54.de/webtv",
+        "https://www.l-tv.de/livestream.html",
+        "https://www.yoltv.eu/",
+        "https://www.welt.de/tv-programm-live-stream/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.welt.de/",
+    "país": "de",
+    "categoría": "news"
+  },
+  "WeAreDiamond-osftv-Nrwision": {
+    "nombre": "We Are Diamond - osftv - Nrwision",
+    "logo": "https://graph.facebook.com/wearediamond1/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://osftv.de/",
+        "https://www.nrwision.de/tv",
+        "https://icanlive.tv/live/15181/osf-fernsehen.html",
+        "https://ok-nahetv.de/index.php/programmvorschau/livestream"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCrFFy9BMtlNsg2wsa4XbTPg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "oderspreefernsehen"
+    },
+    "sitio_oficial": "https://wearediamond.net/",
+    "país": "de",
+    "categoría": "music"
+  },
+  "ArteLive-NiceTV-BRFernsehenSüd": {
+    "nombre": "Arte Live - Nice TV - BR Fernsehen Süd",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ardmediathek.de/br/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA",
+        "https://www.livehdtv.com/rtl-germany/",
+        "https://www.zdf.de/",
+        "https://www.mixcloud.com/live/niceMIXTV/",
+        "https://www.livehdtv.com/arte-german/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/arte-german/",
+    "país": "de",
+    "categoría": "news"
+  },
+  "ARD": {
+    "nombre": "ARD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/ard/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/ard/",
+    "país": "de",
+    "categoría": "news"
+  },
+  "HR-Fernsehen": {
+    "nombre": "HR Fernsehen",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/hr-fernsehen/"
+      ],
+      "m3u8_url": [
+        "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/hr-fernsehen/",
+    "país": "de",
+    "categoría": "news"
+  },
+  "wdr-fernsehen": {
+    "nombre": "WDR Fernsehen",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/wdr-fernsehen/"
+      ],
+      "m3u8_url": [
+        "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/wdr-fernsehen/",
+    "país": "de",
+    "categoría": "news"
+  },
+  "KIKA": {
+    "nombre": "KIKA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.kika.de/live/live-100"
+      ],
+      "m3u8_url": [
+        "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.kika.de/live/live-100",
+    "país": "de",
+    "categoría": "news"
+  },
   "RNN-Canal-27": {
     "nombre": "RNN Canal 27",
     "logo": "",
@@ -13921,13 +13942,12 @@
     "país": "dz",
     "categoría": "news"
   },
-  "Vivatvonline": {
-    "nombre": "Vivatvonline",
+  "tv2bornholm": {
+    "nombre": "Tv2bornholm",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
-        "https://www.vivatvonline.com/tv-en-vivo"
+        "https://play.tv2bornholm.dk/?area=liveTV"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -13935,50 +13955,8 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.vivatvonline.com/tv-en-vivo",
-    "país": "ge",
-    "categoría": "news"
-  },
-  "Maraotv": {
-    "nombre": "Maraotv",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.televizia.org/marao/",
-        "https://www.televizia.org/rioni/",
-        "https://www.televizia.org/comedy-arxi/",
-        "https://www.televizia.org/tvpirveli/",
-        "https://www.televizia.org/silk-universal/",
-        "https://www.televizia.org/gds/",
-        "https://www.televizia.org/formula/",
-        "https://www.televizia.org/pirveli-arxi-hd/",
-        "https://www.televizia.org/pirveli-arxi/",
-        "https://www.televizia.org/imedihq/",
-        "https://www.televizia.org/rustavi2/",
-        "https://www.televizia.org/mtavari-arxi/",
-        "https://www.televizia.live/ge/maraotv"
-      ],
-      "m3u8_url": [
-        "https://streaming-hls3.televizia.org/hls/marao.m3u8",
-        "https://streaming-hls4.televizia.org/hls/rioni.m3u8",
-        "https://streaming-hls1.televizia.org/hls/comedy.m3u8",
-        "https://streaming-hls2.televizia.org/hls/tvpirveli.m3u8",
-        "https://streaming-hls1.televizia.org/hls/silk.m3u8",
-        "https://streaming-hls4.televizia.org/hls/gds.m3u8",
-        "https://streaming-hls3.televizia.org/hls/formula.m3u8",
-        "https://streaming-hls4.televizia.org/hls/pirveliarxi.m3u8",
-        "https://streaming-hls2.televizia.org/hls/pirveliarxi.m3u8",
-        "https://streaming-hls1.televizia.org/hls/imedi.m3u8",
-        "https://streaming-hls4.televizia.org/hls/imedi.m3u8",
-        "https://streaming-hls3.televizia.org/hls/mtavari.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.televizia.org/marao/",
-    "país": "ge",
+    "sitio_oficial": "https://play.tv2bornholm.dk/?area=liveTV",
+    "país": "dk",
     "categoría": "news"
   },
   "Rustavi2": {
@@ -15975,8 +15953,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://telelibree.com/en-vivo/la-cuatro/embed.php",
-        "https://zonatv.store/canales.php?id=lacuatro",
         "https://www.cuatro.com/en-directo/",
         "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
         "https://tvcuatro.tv/4-1/",
@@ -15986,6 +15962,8 @@
         "https://www.canal4.com.ni/en-vivo/",
         "https://eltorotv.com/directo-tv",
         "https://misionescuatro.com/",
+        "https://telelibree.com/en-vivo/la-cuatro/embed.php",
+        "https://zonatv.store/canales.php?id=lacuatro",
         "https://www.elcuatro.com/"
       ],
       "m3u8_url": [],
@@ -16608,23 +16586,6 @@
     "país": "es",
     "categoría": "news"
   },
-  "tv2bornholm": {
-    "nombre": "Tv2bornholm",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://play.tv2bornholm.dk/?area=liveTV"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://play.tv2bornholm.dk/?area=liveTV",
-    "país": "dk",
-    "categoría": "news"
-  },
   "Areena-Yle": {
     "nombre": "Areena Yle",
     "logo": "",
@@ -16642,6 +16603,1000 @@
     },
     "sitio_oficial": "https://areena.yle.fi/tv",
     "país": "fi",
+    "categoría": "news"
+  },
+  "bfmBuss-bfmtv-esp-BFM2": {
+    "nombre": "BFMTV (Español) - BFM2 - BFMBuss",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://players.brightcove.net/876450610001/19dszYXgm_default/index.html?videoId=6346069778112",
+        "https://azrotv.com/pyr/?id=aHR0cHM6Ly9taXQyLWNkbi1lZGdlLWxpdmUwNi5wZmQuc2ZyLm5ldC9iZm0tbmNkbi1saXZlLXByZW1pdW0tcGFsMS5wZmQuc2ZyLm5ldC9zaWQ9MDU0YWthcG1pbmphc2Vrc21rcmcvc2hscy9MSVZFJEJGTV9UVi9pbmRleC5tM3U4P3N0YXJ0PUxJVkUmZW5kPUVORA==",
+        "http://azrotv.com/iphone/news/ch/bfmBuss.php",
+        "https://www.livehdtv.com/embed/bfm2-tv-france/",
+        "https://www.stream4free.tv/eurosport",
+        "https://www.livehdtv.com/bfm2-tv-france/",
+        "http://azrotv.com/iphone/news/ch/bfm.php",
+        "https://www.ledirect.fr/iframe-bfmtv",
+        "https://tv-programme.com/bfm-tv/direct"
+      ],
+      "m3u8_url": [
+        "https://live-cdn-bfm2-euw3.bfmtv.bct.nextradiotv.com/master.m3u8",
+        "https://sv20.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/eurosportde.m3u8",
+        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.bfmtv.com/en-direct/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "euronews-esp": {
+    "nombre": "euronews (Español)",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/O9mOtdZ-nSk?autoplay=1&mute=1&enablejsapi=1&showinfo=0&embed_config=%7B%22primaryThemeColor%22%3A%22%23005587%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22enableIma%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%2C%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Fes_euronews_new%2Flive%22%2C%22cust_params%22%3A%22lng%3Des%26page%3Dlive%26aamId%3D03171562441619062914450411337735391577%26gs_cat%3Dgv_safe%252Cgb_safe%252Cgb_safe_from_high%252Cgb_safe_from_high_med%252Cgs_entertain_tv%252Cgs_entertain%252Cgs_busfin%252Cgs_busfin_indus%252Cgs_busfin_indus_media%252Cgs_home%26player_type%3Dpfp%22%7D%7D%7D&origin=https%3A%2F%2Fes.euronews.com&widgetid=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://es.euronews.com/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "euronews-rus": {
+    "nombre": "euronews Русский",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UCFzJjgVicCtFxJ5B0P_ei8A",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ru.euronews.com/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "euronews-hun": {
+    "nombre": "euronews (magyarul)",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "UC4Ct8gIf9f0n4mdyGsFiZRA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hu.euronews.com/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "FRANCE-24-Español": {
+    "nombre": "FRANCE 24 Español",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.youtube.com/embed/Y-IlMeCCtIg?hl=es&showinfo=0&color=white&rel=1&enablejsapi=1&origin=https%3A%2F%2Fwww.france24.com&playsinline=0&embed_config=%7B%22primaryThemeColor%22%3A%22%2300a7e3%22%2C%22relatedChannels%22%3A%5B%22UCUdOoVWuWmgo1wByzcsyKDQ%22%5D%2C%22autonavRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&widgetid=1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.france24.com/es/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "FRANCE-2-4English": {
+    "nombre": "FRANCE 24 English",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/embed/france-24-english/",
+        "https://www.livehdtv.com/embed/france-24-french/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.france24.com/en/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "franceinfo-France3": {
+    "nombre": "franceinfo - France3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/token.php?stream=france3",
+        "https://www.livehdtv.com/token.php?stream=france4",
+        "https://www.livehdtv.com/token.php?stream=france5",
+        "https://www.livehdtv.com/token.php?stream=cekyaa",
+        "https://www.livehdtv.com/ch617/",
+        "https://www.livehdtv.com/ch183/",
+        "https://www.livehdtv.com/ch191/",
+        "https://www.livehdtv.com/ch184/",
+        "https://www.livehdtv.com/embed/ch183/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.francetvinfo.fr/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "TF1-TFX": {
+    "nombre": "TF1 - TFX",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/token.php?stream=tf1",
+        "https://www.livehdtv.com/embed/ch123/",
+        "https://www.tf1info.fr/direct/",
+        "https://www.stream4free.tv/tf1-live-streaming",
+        "https://www.stream4free.tv/tf1-series-films",
+        "https://www.stream4free.tv/tfx",
+        "https://www.livehdtv.com/ch194/"
+      ],
+      "m3u8_url": [
+        "https://sv1.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/seriefilmes.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/ch123/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "CNEWS-La16tv": {
+    "nombre": "CNEWS - La16tv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/video/x3b68jn",
+        "https://rds.live/antena-stars/#google_vignette",
+        "https://www.canalplus.com/live/?channel=480",
+        "https://www.canalplus.com/chaines/cstar/",
+        "https://oneplanete.com/chaine-tv/cstar-tv-en-direct/",
+        "https://www.canalplus.com/live/",
+        "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
+        "https://www.livehdtv.com/cnews/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "la16tv"
+    },
+    "sitio_oficial": "https://www.twitch.tv/la16tv",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "cnews-LUXTV": {
+    "nombre": "cnews-LUXTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
+        "https://www.livehdtv.com/embed/cnews/",
+        "https://www.cxtvlive.com/live-tv/i-tele-france",
+        "https://www.tvlux.sk/nazivo/",
+        "https://www.tvlux.be/direct"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/cnews/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "W9": {
+    "nombre": "W9",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/token.php?stream=w9",
+        "https://azrotv.com/local/drPlayer/?id=w9",
+        "https://daddylive1.ru/live/stream-30.php",
+        "https://sslivetv.com/live/680-",
+        "http://azrotv.com/iphone/Fr/ch2/w9.php"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/w9-live-stream-from-france/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "tv5-MONDE-S-Médias-Tv3-LIGHT-ECO-TV-RMTV": {
+    "nombre": "TV5 MONDE - S-Médias Tv3 - LIGHT ECO TV",
+    "logo": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://europe.tv5monde.com/en/live",
+        "https://github.com/bermufine/BeroMain/blob/6d5721b6cb1b20ed8ae2e2b67a546da90703ee09/README.md?plain=1#L131",
+        "https://github.com/streamlink/streamlink/issues/5496"
+      ],
+      "m3u8_url": [
+        "http://51.254.199.122:8080/resTV/index.m3u8",
+        "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8",
+        "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8",
+        "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8",
+        "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/bermufine/news?tab=readme-ov-file",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "tv5-MONDE": {
+    "nombre": "RL PRO TV",
+    "logo": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
+    "señales": {
+      "iframe_url": [
+        "https://europe.tv5monde.com/en/live/group",
+        "https://europe.tv5monde.com/fr/direct"
+      ],
+      "m3u8_url": [
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/bermufine/news?tab=readme-ov-file",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "ONE-TV-6ter": {
+    "nombre": "ONE TV - 6Ter - Zee One",
+    "logo": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://v2.ssh101.com/detailng.php?id=onetvlive",
+        "https://onechannel.gr/live-tv/?forcevidads=1",
+        "https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA",
+        "https://www.livehdtv.com/token.php?stream=6ter",
+        "https://azrotv.com/local/drPlayer/?id=6ter",
+        "https://endirecttv.com/token.php?stream=6ter",
+        "https://endirecttv.com/6ter-direct/#google_vignette",
+        "http://azrotv.com/iphone/Fr/ch1/zee_one.php"
+      ],
+      "m3u8_url": [
+        "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
+        "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
+        "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://github.com/bermufine/BeroMain",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "gulli-French-Kids-Channel-Mirabelle": {
+    "nombre": "Gulli En Direct - French Kids Channel - Mirabelle",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/gulli/",
+        "https://www.cxtvlive.com/live-tv/mirabelle-tv"
+      ],
+      "m3u8_url": [
+        "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8",
+        "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.livehdtv.com/gulli/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "Arte-Rlprotv": {
+    "nombre": "Arte - Rlprotv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/token.php?stream=artede",
+        "https://www.stream4free.tv/arte",
+        "https://www.cxtvlive.com/live-tv/rlpro-tv"
+      ],
+      "m3u8_url": [
+        "https://sv1.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/artefrance.m3u8",
+        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.arte.tv/fr/direct/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "20MinutesTV": {
+    "nombre": "20MinutesTV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/src/qvrlxxf/zone/1/showtitle/1/",
+        "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
+        "https://tv-programme.com/20-minutes-tv-ile-de-france/direct",
+        "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
+        "https://www.20minutes.tv/direct/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.20minutes.tv/",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "l-equipe-21-planeteplus-4KurdHD": {
+    "nombre": "L'Équipe 21 - planeteplus - 4KurdHD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.stream4free.tv/l-equipe-21",
+        "https://www.stream4free.tv/planete-plus",
+        "https://www.stream4free.tv/dragonball-dbz",
+        "https://www.livehdtv.com/l-equipe-21/",
+        "https://kurdistantv.net/ku/live",
+        "https://www.kurdmax.tv/live-stream",
+        "https://karwan.tv/4-kurd-tv.html"
+      ],
+      "m3u8_url": [
+        "https://sv7.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/lequipe.m3u8",
+        "https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8",
+        "https://sv20.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/planeteplus.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://artv.watch/es/FR/4KurdHD.fr",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "NPO1-Moderateurtvadp": {
+    "nombre": "NPO 1 - Moderateurtvadp",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/token.php?stream=npo1",
+        "https://npo.nl/start/live",
+        "https://www.livehdtv.com/npo-1/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
+    "país": "fr",
+    "categoría": "news"
+  },
+  "Vivatvonline": {
+    "nombre": "Vivatvonline",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www-vivatvonline-com.filesusr.com/html/2c320d_77f089c57da0ec47aa7b507af52cf5b7.html",
+        "https://www.vivatvonline.com/tv-en-vivo"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vivatvonline.com/tv-en-vivo",
+    "país": "ge",
+    "categoría": "news"
+  },
+  "Maraotv": {
+    "nombre": "Maraotv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.televizia.org/marao/",
+        "https://www.televizia.org/rioni/",
+        "https://www.televizia.org/comedy-arxi/",
+        "https://www.televizia.org/tvpirveli/",
+        "https://www.televizia.org/silk-universal/",
+        "https://www.televizia.org/gds/",
+        "https://www.televizia.org/formula/",
+        "https://www.televizia.org/pirveli-arxi-hd/",
+        "https://www.televizia.org/pirveli-arxi/",
+        "https://www.televizia.org/imedihq/",
+        "https://www.televizia.org/rustavi2/",
+        "https://www.televizia.org/mtavari-arxi/",
+        "https://www.televizia.live/ge/maraotv"
+      ],
+      "m3u8_url": [
+        "https://streaming-hls3.televizia.org/hls/marao.m3u8",
+        "https://streaming-hls4.televizia.org/hls/rioni.m3u8",
+        "https://streaming-hls1.televizia.org/hls/comedy.m3u8",
+        "https://streaming-hls2.televizia.org/hls/tvpirveli.m3u8",
+        "https://streaming-hls1.televizia.org/hls/silk.m3u8",
+        "https://streaming-hls4.televizia.org/hls/gds.m3u8",
+        "https://streaming-hls3.televizia.org/hls/formula.m3u8",
+        "https://streaming-hls4.televizia.org/hls/pirveliarxi.m3u8",
+        "https://streaming-hls2.televizia.org/hls/pirveliarxi.m3u8",
+        "https://streaming-hls1.televizia.org/hls/imedi.m3u8",
+        "https://streaming-hls4.televizia.org/hls/imedi.m3u8",
+        "https://streaming-hls3.televizia.org/hls/mtavari.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.televizia.org/marao/",
+    "país": "ge",
+    "categoría": "news"
+  },
+  "bmgtv-news": {
+    "nombre": "BMgtv Business",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://bm.ge/tv",
+        "https://www.bmgtv.com/"
+      ],
+      "m3u8_url": [
+        "https://www.30a-tv.com/InvPit.m3u8",
+        "https://www.30a-tv.com/InvPit.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://onlinetvplayer.com/category/business/",
+    "país": "ge",
+    "categoría": "news"
+  },
+  "gbnewsonline": {
+    "nombre": "GBNews",
+    "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.gbnews.com/watch/live"
+      ],
+      "m3u8_url": [
+        "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+      ],
+      "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.gbnews.com/watch/live",
+    "país": "gb-eng",
+    "categoría": "news"
+  },
+  "EUROTV-HNL": {
+    "nombre": "EUROTV - HNL",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ssh101.com/securelive/index.php?id=eurochgreece",
+        "https://www.eurotv.gr/live-tv/",
+        "https://www.parsatv.com/name=HLN#news",
+        "http://www.parsatv.com/embed.php?name=HLN&auto=false",
+        "https://www.hln.be/videos/productie/webstream-3-103242-103242"
+      ],
+      "m3u8_url": [
+        "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8",
+        "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.eurotv.g",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "pronews-tv-MEGA": {
+    "nombre": "PronewsTV - MEGA",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9",
+        "https://www.megatv.com/live/",
+        "https://www.tvopen.gr/ethnoslive",
+        "https://www.tvopen.gr/live",
+        "https://www.grlivetv.com/p/open.html",
+        "https://www.skai.gr/tv/live",
+        "https://stasinos.tv/Greek/Greek-TV-Online1.aspx",
+        "https://netnix.tv/countries/gr/channels/skai-hd-bup2",
+        "https://www.antenna.gr/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "pronewstv"
+    },
+    "sitio_oficial": "www.pronews.gr",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "extacytv-alpha-ertnews": {
+    "nombre": "ExtacyTV - Alpha - Ertnews",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://fr.crystalweb.net:2020/VideoPlayer/extacytv?autoplay=1&muted=1",
+        "https://extacytv.gr/",
+        "https://www.ertflix.gr/embed/index.html?codename=ert-news",
+        "https://netnix.tv/countries/gr/channels/ert-news#google_vignette",
+        "https://www.ertnews.gr/live-tv/",
+        "https://kontra.siliconweb.com/webtv/kontrachannel/iframe.jsp",
+        "https://kontrachannel.gr/livetv-kontrachannel.html#google_vignette",
+        "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
+        "https://www.alphatv.gr/live/",
+        "https://www.grlivetv.com/p/alpha.html",
+        "https://www.star.gr/tv/live-stream",
+        "https://digitalstar.gr/",
+        "https://www.star.gr/tv/live-stream",
+        "https://parltv.live.grnet.gr/webtv/",
+        "https://www.grlivetv.com/p/vouli.html",
+        "https://parltv.live.grnet.gr/webtv/"
+      ],
+      "m3u8_url": [
+        "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8",
+        "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://extacytv.gr/",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "tv100-blueskytv-action24": {
+    "nombre": "TV100 - Blueskytv - Action24",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://deliver2.siliconweb.com/besttv/live_abr.html?2",
+        "https://www.youtube.com/embed/uWIhV9gQClg",
+        "https://fm100.gr/live/tv100",
+        "https://blueskytv.gr/live-tv/",
+        "https://www.grlivetv.com/p/tv100.html#google_vignette",
+        "https://www.action24.gr/live-stream/",
+        "https://stasinos.tv/Greek-Live-TV/Action24.aspx",
+        "https://netnix.tv/countries/gr/channels/action-24#google_vignette",
+        "https://www.attica-tv.gr/live-stream/",
+        "https://www.cretetv.gr/live-stream/",
+        "https://netnix.tv/countries/gr/channels/creta#google_vignette",
+        "https://netnix.tv/countries/gr/channels/krhth-tv",
+        "https://www.neatv.gr/live-broadcast/",
+        "https://netnix.tv/countries/gr/channels/nea-tv",
+        "https://epirustv1.eu/",
+        "https://aeolos.tv/live/",
+        "https://enachannel.gr/webtv/",
+        "https://netnix.tv/countries/gr/channels/ena-channel",
+        "https://best-tv.gr/home/best-live-tv/"
+      ],
+      "m3u8_url": [
+        "https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8",
+        "https://bestTV.siliconweb.com/bestTV/live_abr/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://webtv.gr/live/",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "maktv-tv4e-ioniantv": {
+    "nombre": "Maktv - Tv4e - Ioniantv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rumble.com/embed/v6p0jb8/?pub=kjm83",
+        "https://watch.antennaplus.gr/#/live/maktv",
+        "http://www.tv4e.gr/livestreaming.php",
+        "https://ioniantv.gr/live/",
+        "https://tv.rik.cy/live-tv/rik-sat/",
+        "https://www.arttv.info/p/art.html",
+        "https://onechannel.gr/live-tv/",
+        "https://www.sigmatv.com/live",
+        "https://www.alphacyprus.com.cy/live",
+        "https://www.ant1live.com/webtv/live",
+        "https://tvcreta.gr/live/",
+        "https://www.mesogeiostv.gr/live-tv/",
+        "https://www.omegatv.com.cy/live/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://stasinos.tv/Greek-Live-TV/Kontra.aspx",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "thrakinet-syrostv1-egnatia": {
+    "nombre": "Thrakinet - Syrostv1 - Egnatia",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://eco.streams.ovh:2000/VideoPlayer/syrostv1",
+        "https://www.thrakinet.tv/thrakinet-live/",
+        "https://syrostv1.gr/live-tv/",
+        "https://www.egnatia.tv/live",
+        "https://www.verginanews.gr/web-tv-2/",
+        "https://www.alerttv.com.gr/webtv",
+        "https://trttv.gr/web-tv/",
+        "https://www.astratv.gr/live-streaming/",
+        "http://213.16.128.6:8101/deltatv/live.php",
+        "https://www.pronews.gr/live/"
+      ],
+      "m3u8_url": [
+        "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "astratv2021"
+    },
+    "sitio_oficial": "https://netnix.tv/countries/gr/channels/m-tv-hd",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "dhras-pellatv-extra3": {
+    "nombre": "Dhras - Pellatv - Extra3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.dhras.gr/live-tv",
+        "https://www.tvkosmos.gr/",
+        "https://www.dhras.gr/",
+        "http://www.elladatv.gr/",
+        "https://pellatv.gr/live",
+        "https://www.extra3.tv/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "tvkosmosgr"
+    },
+    "sitio_oficial": "https://www.grlivetv.com/#google_vignette",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "iview-tv-lampsi-tv-village-world": {
+    "nombre": "Iviewtv - Lampsi-tv - Village world",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://ellastvmax.com/village-world/",
+        "https://netnix.tv/countries/gr/channels/iview-tv",
+        "https://ellastvmax.com/ellasworld-tv-live/",
+        "https://netnix.tv/countries/gr/channels/lampsi-tv",
+        "https://www.gamostv.eu/%CE%BB%CE%AC%CE%BC%CF%88%CE%B7-tv-live%21/",
+        "https://ellastvmax.com/madworld-tv-live/",
+        "https://netnix.tv/countries/gr/channels/level",
+        "https://netnix.tv/countries/gr/channels/zeys",
+        "https://netnix.tv/countries/gr/channels/omikron-tv",
+        "https://omikrontv.gr/",
+        "https://netnix.tv/countries/gr/channels/ns-tv#google_vignette",
+        "https://www.nstv.gr/nstvlive/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.greek-web-tv.com/p/live-tv_5.html",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "flash-tv-samiaki-thessaliatv": {
+    "nombre": "Flashtv - Samiaki - Thessaliatv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://livestream.com/watch",
+        "https://flash-tv.gr/live/#google_vignette",
+        "https://diontv.gr/webtv/",
+        "https://www.startmediacorfu.gr/kerkyra-starttv-webtv/",
+        "https://epiloges.tv/tileorasi/",
+        "https://samiaki.tv/web-tv/#google_vignette",
+        "https://www.thessaliatv.gr/live/",
+        "https://www.startvfm.gr/live/",
+        "https://www.zougla.gr/live/",
+        "https://centertv.gr/live-tv",
+        "https://www.acheloostv.gr/news/achelooswebtvlive/",
+        "https://netnix.tv/countries/gr/channels/pro-news#google_vignette"
+      ],
+      "m3u8_url": [
+        "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "orestidatv"
+    },
+    "sitio_oficial": "https://newsinmax.blogspot.com/",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "opap-stent-tv-gnomi-tv": {
+    "nombre": "Opap - Stenttv - Gnomitv",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://horseraces.pamestoixima.gr/el/live-stream",
+        "https://netnix.tv/countries/gr/channels/opap-tv#google_vignette",
+        "https://netnix.tv/countries/gr/channels/argolida-sport",
+        "https://argolidasport.gr/?page_id=1777",
+        "https://netnix.tv/countries/gr/channels/stent-tv",
+        "https://stent.net.gr/",
+        "https://netnix.tv/countries/gr/channels/tv-dipso",
+        "https://netnix.tv/countries/gr/channels/ekklhsia-tv-hd#google_vignette",
+        "https://ecclesiatv.gr/live",
+        "https://netnix.tv/countries/gr/channels/gnomi-tv",
+        "https://www.gnomi.eu/live.html",
+        "https://netnix.tv/countries/gr/channels/alfa"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://horseraces.pamestoixima.gr/el/live-stream",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "alfatv-rodopi-tv-super-b": {
+    "nombre": "Alfatv - Rodopitv - Super-b",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://vectromdigital.com/netveurope.html",
+        "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
+        "https://alfatv.com/en/watch-live",
+        "https://netnix.tv/countries/gr/channels/rodopi-tv",
+        "https://stasinos.tv/Greek/RodopiTV.aspx",
+        "https://netnix.tv/countries/gr/channels/super-b",
+        "https://netnix.tv/countries/gr/channels/groovy",
+        "https://babaktv.com/groovy-tv/",
+        "https://www.parsatv.com/name=Groovy-TV",
+        "https://eja.tv/?country=gr",
+        "https://www.newtv.click/gr/groovy-tv-gr/",
+        "https://netnix.tv/countries/gr/channels/netmax-tv",
+        "https://www.newtv.click/gr/netmax-tv-gr/",
+        "https://netmaxtv.com/live/",
+        "https://netnix.tv/countries/gr/channels/netv-europe-hd",
+        "https://netnix.tv/countries/gr/channels/netv-toronto-hd",
+        "https://www.netvtoronto.com/",
+        "https://netnix.tv/countries/gr/channels/village-world",
+        "https://www.wpbt2.org/live-tv/",
+        "https://worldstvmobile.com/country/GR/Choice.gr/Choice",
+        "https://www.wmht.org/live/",
+        "https://bx-tv.com/kiss-tv/",
+        "https://www.kissfm.ro/kisstv",
+        "https://netnix.tv/countries/gr/channels/kiss-tv",
+        "https://netnix.tv/countries/gr/channels/music-web-tv"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://netnix.tv/countries/gr/channels/alfa#google_vignette",
+    "país": "gr",
+    "categoría": "news"
+  },
+  "guatemalaplus-online": {
+    "nombre": "Guatemala Plus - TN23 - Noti 7",
+    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+    "señales": {
+      "iframe_url": [
+        "https://embed.vhx.tv/videos/3634508?api=1&autoplay=1&buy_label=Registrarse&collection_id=962086&color=000000&context=https%3A%2F%2Fwww.guatemalaplus.com%2Ffeatured-category&is_trailer=false&live=1&locale=es&playsinline=1&product_id=169917&referrer=https%3A%2F%2Fwww.google.com%2F&vimeo=1",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-3-guatemala-en-vivo-gratis-247/27",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-7-guatemala-en-vivo-televisiete-online-gratis-hd/20?server=2",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/canal-7-guatemala-en-vivo-televisiete-online-gratis-hd/20",
+        "https://www.tvguatemalaenvivo.com/livetv/watch/tn23-en-vivo-guatemala/19",
+        "https://www.chapintv.com/envivo-canal-3/?source=Internal&ref=Signals+Menu",
+        "https://www.tn23.tv/en-vivo/",
+        "https://www.guatemalaplus.com/featured-category/events/canal-en-vivo",
+        "https://www.rtv.live/",
+        "https://emisorasgt.com/canal-3/",
+        "https://tvinsur.com/guatemala/canal-7/",
+        "https://canalantigua.tv/envivo/",
+        "https://www.guatemalaenvivo.net/2017/07/Cana-Vea-Tv-en-vivo.html",
+        "https://tvweb360.tv/live_embed_player_630px_sp?ch=frnnspr"
+      ],
+      "m3u8_url": [
+        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/medialist_5900814650867226228_hls.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8",
+        "https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
+    "país": "gt",
+    "categoría": "cristiana"
+  },
+  "ebenezer2-online": {
+    "nombre": "Ebenezer2 - Quesada Tv26 - Romance channel",
+    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+    "señales": {
+      "iframe_url": [
+        "https://cdn.streamhispanatv.net/live-stream-video-widget/canal26quezada",
+        "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
+        "https://ebenezer.hn/envivo",
+        "https://tvocanal23.com/tvo-en-vivo/",
+        "https://www.chapintv.com/envivo-canal-7/",
+        "https://www.enlace.org/envivo/",
+        "https://www.distro.tv/live/romance-channel/",
+        "https://www.timesnownews.com/live-tv"
+      ],
+      "m3u8_url": [
+        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
+    "país": "gt",
+    "categoría": "cristiana"
+  },
+  "canal-27G": {
+    "nombre": "Canal 27G - Aztecaguate",
+    "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
+    "señales": {
+      "iframe_url": [
+        "https://www.canal27.tv/live-tv",
+        "https://emisorasgt.com/embed/tv2/canal-27.html?v=1",
+        "https://play.tvaztecaguate.com/home",
+        "https://guatemala.gob.gt/guatv-transmision-en-vivo/",
+        "https://www.playgt.net/",
+        "https://tvguatemala.net/en-vivo/nuestra-senal-en-vivo/",
+        "https://www.guatemalaenvivo.net/2018/07/TV-USAC-Canal-33-en-vivo.html"
+      ],
+      "m3u8_url": [
+        "https://ch1-c27.duin.dev/hls/0/stream.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://emisorasgt.com/canal-27/",
+    "país": "gt",
+    "categoría": "cristiana"
+  },
+  "canal6": {
+    "nombre": "Canal6",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.panadish.com/canal6.html"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.panadish.com/canal6.html",
+    "país": "gt",
+    "categoría": "news"
+  },
+  "Maxivisión-TV": {
+    "nombre": "Maxivisión TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [
+        "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "https://tvguatemalaenvivo.com/public/livetv/watch/maxivision-tv/52"
+    },
+    "sitio_oficial": "https://github.com/Duartegame/001/blob/5479450ab18fdefcd8e84fe96ea060b7d5d89ca9/free.m3u",
+    "país": "gt",
+    "categoría": "news"
+  },
+  "GRUPO-alphatv": {
+    "nombre": "GRUPO Alphatv GR",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.alphatv.gr/live/",
+        "https://tvstanici.net/alfa-vo-zivo/",
+        "https://ioniantv.gr/live/",
+        "https://www.skai.gr/tv/live",
+        "https://www.ant1live.com/webtv/live",
+        "https://diontv.gr/webtv/",
+        "https://www.attica-tv.gr/live-stream/",
+        "https://www.tvopen.gr/live"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://greek-movies.com/livetv",
+    "país": "gr",
     "categoría": "news"
   },
   "GRUPO-Tenyek": {
@@ -37379,888 +38334,6 @@
     },
     "sitio_oficial": "https://www.vivalivetv.com/channel/30a-tv-1",
     "país": "us",
-    "categoría": "news"
-  },
-  "bfmBuss-bfmtv-esp-BFM2": {
-    "nombre": "BFMTV (Español) - BFM2 - BFMBuss",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://players.brightcove.net/876450610001/19dszYXgm_default/index.html?videoId=6346069778112",
-        "https://azrotv.com/pyr/?id=aHR0cHM6Ly9taXQyLWNkbi1lZGdlLWxpdmUwNi5wZmQuc2ZyLm5ldC9iZm0tbmNkbi1saXZlLXByZW1pdW0tcGFsMS5wZmQuc2ZyLm5ldC9zaWQ9MDU0YWthcG1pbmphc2Vrc21rcmcvc2hscy9MSVZFJEJGTV9UVi9pbmRleC5tM3U4P3N0YXJ0PUxJVkUmZW5kPUVORA==",
-        "http://azrotv.com/iphone/news/ch/bfmBuss.php",
-        "https://www.livehdtv.com/embed/bfm2-tv-france/",
-        "https://www.stream4free.tv/eurosport",
-        "https://www.livehdtv.com/bfm2-tv-france/",
-        "http://azrotv.com/iphone/news/ch/bfm.php",
-        "https://www.ledirect.fr/iframe-bfmtv",
-        "https://tv-programme.com/bfm-tv/direct"
-      ],
-      "m3u8_url": [
-        "https://live-cdn-bfm2-euw3.bfmtv.bct.nextradiotv.com/master.m3u8",
-        "https://sv20.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/eurosportde.m3u8",
-        "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.bfmtv.com/en-direct/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "euronews-esp": {
-    "nombre": "euronews (Español)",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.youtube.com/embed/O9mOtdZ-nSk?autoplay=1&mute=1&enablejsapi=1&showinfo=0&embed_config=%7B%22primaryThemeColor%22%3A%22%23005587%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22enableIma%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%2C%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Fes_euronews_new%2Flive%22%2C%22cust_params%22%3A%22lng%3Des%26page%3Dlive%26aamId%3D03171562441619062914450411337735391577%26gs_cat%3Dgv_safe%252Cgb_safe%252Cgb_safe_from_high%252Cgb_safe_from_high_med%252Cgs_entertain_tv%252Cgs_entertain%252Cgs_busfin%252Cgs_busfin_indus%252Cgs_busfin_indus_media%252Cgs_home%26player_type%3Dpfp%22%7D%7D%7D&origin=https%3A%2F%2Fes.euronews.com&widgetid=1"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://es.euronews.com/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "euronews-rus": {
-    "nombre": "euronews Русский",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "UCFzJjgVicCtFxJ5B0P_ei8A",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://ru.euronews.com/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "euronews-hun": {
-    "nombre": "euronews (magyarul)",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "UC4Ct8gIf9f0n4mdyGsFiZRA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://hu.euronews.com/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "FRANCE-24-Español": {
-    "nombre": "FRANCE 24 Español",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.youtube.com/embed/Y-IlMeCCtIg?hl=es&showinfo=0&color=white&rel=1&enablejsapi=1&origin=https%3A%2F%2Fwww.france24.com&playsinline=0&embed_config=%7B%22primaryThemeColor%22%3A%22%2300a7e3%22%2C%22relatedChannels%22%3A%5B%22UCUdOoVWuWmgo1wByzcsyKDQ%22%5D%2C%22autonavRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&widgetid=1"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.france24.com/es/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "FRANCE-2-4English": {
-    "nombre": "FRANCE 24 English",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/embed/france-24-english/",
-        "https://www.livehdtv.com/embed/france-24-french/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.france24.com/en/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "franceinfo-France3": {
-    "nombre": "franceinfo - France3",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/token.php?stream=france3",
-        "https://www.livehdtv.com/token.php?stream=france4",
-        "https://www.livehdtv.com/token.php?stream=france5",
-        "https://www.livehdtv.com/token.php?stream=cekyaa",
-        "https://www.livehdtv.com/ch617/",
-        "https://www.livehdtv.com/ch183/",
-        "https://www.livehdtv.com/ch191/",
-        "https://www.livehdtv.com/ch184/",
-        "https://www.livehdtv.com/embed/ch183/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.francetvinfo.fr/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "TF1-TFX": {
-    "nombre": "TF1 - TFX",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/token.php?stream=tf1",
-        "https://www.livehdtv.com/embed/ch123/",
-        "https://www.tf1info.fr/direct/",
-        "https://www.stream4free.tv/tf1-live-streaming",
-        "https://www.stream4free.tv/tf1-series-films",
-        "https://www.stream4free.tv/tfx",
-        "https://www.livehdtv.com/ch194/"
-      ],
-      "m3u8_url": [
-        "https://sv1.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/seriefilmes.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/ch123/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "CNEWS-La16tv": {
-    "nombre": "CNEWS - La16tv",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.dailymotion.com/video/x3b68jn",
-        "https://rds.live/antena-stars/#google_vignette",
-        "https://www.canalplus.com/live/?channel=480",
-        "https://www.canalplus.com/chaines/cstar/",
-        "https://oneplanete.com/chaine-tv/cstar-tv-en-direct/",
-        "https://www.canalplus.com/live/",
-        "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
-        "https://www.livehdtv.com/cnews/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "la16tv"
-    },
-    "sitio_oficial": "https://www.twitch.tv/la16tv",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "cnews-LUXTV": {
-    "nombre": "cnews-LUXTV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.dailymotion.com/embed/video/x3b68jn?autoplay=1",
-        "https://www.livehdtv.com/embed/cnews/",
-        "https://www.cxtvlive.com/live-tv/i-tele-france",
-        "https://www.tvlux.sk/nazivo/",
-        "https://www.tvlux.be/direct"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/cnews/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "W9": {
-    "nombre": "W9",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/token.php?stream=w9",
-        "https://azrotv.com/local/drPlayer/?id=w9",
-        "https://daddylive1.ru/live/stream-30.php",
-        "https://sslivetv.com/live/680-",
-        "http://azrotv.com/iphone/Fr/ch2/w9.php"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/w9-live-stream-from-france/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "tv5-MONDE-S-Médias-Tv3-LIGHT-ECO-TV-RMTV": {
-    "nombre": "TV5 MONDE - S-Médias Tv3 - LIGHT ECO TV",
-    "logo": "https://od.lk/s/NDZfNjg5ODE1NDFf/balademonde.jpg",
-    "señales": {
-      "iframe_url": [
-        "https://europe.tv5monde.com/en/live",
-        "https://github.com/bermufine/BeroMain/blob/6d5721b6cb1b20ed8ae2e2b67a546da90703ee09/README.md?plain=1#L131",
-        "https://github.com/streamlink/streamlink/issues/5496"
-      ],
-      "m3u8_url": [
-        "http://51.254.199.122:8080/resTV/index.m3u8",
-        "https://vdo2.pro-fhi.net:3740/hybrid/play.m3u8",
-        "https://stream.berosat.live:19360/s-media-stream/s-media-stream.m3u8",
-        "https://stream.berosat.live:19360/fmg-rtv/fmg-rtv.m3u8",
-        "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://github.com/bermufine/news?tab=readme-ov-file",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "tv5-MONDE": {
-    "nombre": "RL PRO TV",
-    "logo": "https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png",
-    "señales": {
-      "iframe_url": [
-        "https://europe.tv5monde.com/en/live/group",
-        "https://europe.tv5monde.com/fr/direct"
-      ],
-      "m3u8_url": [
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://github.com/bermufine/news?tab=readme-ov-file",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "ONE-TV-6ter": {
-    "nombre": "ONE TV - 6Ter - Zee One",
-    "logo": "https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg",
-    "señales": {
-      "iframe_url": [
-        "https://v2.ssh101.com/detailng.php?id=onetvlive",
-        "https://onechannel.gr/live-tv/?forcevidads=1",
-        "https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA",
-        "https://www.livehdtv.com/token.php?stream=6ter",
-        "https://azrotv.com/local/drPlayer/?id=6ter",
-        "https://endirecttv.com/token.php?stream=6ter",
-        "https://endirecttv.com/6ter-direct/#google_vignette",
-        "http://azrotv.com/iphone/Fr/ch1/zee_one.php"
-      ],
-      "m3u8_url": [
-        "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8",
-        "https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8",
-        "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://github.com/bermufine/BeroMain",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "gulli-French-Kids-Channel-Mirabelle": {
-    "nombre": "Gulli En Direct - French Kids Channel - Mirabelle",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/gulli/",
-        "https://www.cxtvlive.com/live-tv/mirabelle-tv"
-      ],
-      "m3u8_url": [
-        "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8",
-        "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/gulli/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "Arte-Rlprotv": {
-    "nombre": "Arte - Rlprotv",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/token.php?stream=artede",
-        "https://www.stream4free.tv/arte",
-        "https://www.cxtvlive.com/live-tv/rlpro-tv"
-      ],
-      "m3u8_url": [
-        "https://sv1.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/artefrance.m3u8",
-        "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.arte.tv/fr/direct/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "20MinutesTV": {
-    "nombre": "20MinutesTV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/src/qvrlxxf/zone/1/showtitle/1/",
-        "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
-        "https://tv-programme.com/20-minutes-tv-ile-de-france/direct",
-        "https://www.ultimedia.com/deliver/generic/iframe/mdtk/01521514/zone/1/showtitle/1/src/qvrlxxf",
-        "https://www.20minutes.tv/direct/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.20minutes.tv/",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "l-equipe-21-planeteplus-4KurdHD": {
-    "nombre": "L'Équipe 21 - planeteplus - 4KurdHD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.stream4free.tv/l-equipe-21",
-        "https://www.stream4free.tv/planete-plus",
-        "https://www.stream4free.tv/dragonball-dbz",
-        "https://www.livehdtv.com/l-equipe-21/",
-        "https://kurdistantv.net/ku/live",
-        "https://www.kurdmax.tv/live-stream",
-        "https://karwan.tv/4-kurd-tv.html"
-      ],
-      "m3u8_url": [
-        "https://sv7.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/lequipe.m3u8",
-        "https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8",
-        "https://sv20.data-stream.top/daeb340061419f9e31843280112n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/hls/planeteplus.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://artv.watch/es/FR/4KurdHD.fr",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "NPO1-Moderateurtvadp": {
-    "nombre": "NPO 1 - Moderateurtvadp",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/token.php?stream=npo1",
-        "https://npo.nl/start/live",
-        "https://www.livehdtv.com/npo-1/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
-    "país": "fr",
-    "categoría": "news"
-  },
-  "HLN-be": {
-    "nombre": "HLN be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "http://www.parsatv.com/embed.php?name=HLN&auto=false",
-        "https://www.parsatv.com/name=HLN#news",
-        "https://www.livehdtv.com/hln-be/"
-      ],
-      "m3u8_url": [
-        "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/hln-be/",
-    "país": "be",
-    "categoría": "news"
-  },
-  "ATV-be": {
-    "nombre": "ATV be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.gva.be/atv"
-      ],
-      "m3u8_url": [
-        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.gva.be/atv",
-    "país": "be",
-    "categoría": "news"
-  },
-  "BX1-be": {
-    "nombre": "BX1 be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://player.bx1.be/playertv.php",
-        "rtmps://59959724487e3.streamlock.net:443/radio/live",
-        "rtmps://59959724487e3.streamlock.net:443/stream/live",
-        "https://bx1.be/"
-      ],
-      "m3u8_url": [
-        "https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8",
-        "https://59959724487e3.streamlock.net:443/radio/live/playlist.m3u8",
-        "https://59959724487e3.streamlock.net/radio/live/chunklist_w387106910.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://bx1.be/",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Bruzz-be": {
-    "nombre": "Bruzz-be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://player.clevercast.com?account_id=WXv1JD&event_id=V3n5YY",
-        "https://www.bruzz.be/kijken",
-        "https://www.bruzz.be/live/popup/#/bruzz/watch",
-        "https://www.bruzz.be/live/popup/#/ice/watch",
-        "https://www.bruzz.be/kijken"
-      ],
-      "m3u8_url": [
-        "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b1300000.m3u8",
-        "https://n1.cdn.jetstre.am/session/a5c62ede9a57f2566a56dfdf491d0256/sz/fmbrussel/wowza4/live/BruzzIceVideo/chunklist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.bruzz.be/kijken",
-    "país": "be",
-    "categoría": "news"
-  },
-  "TV-Oost-be": {
-    "nombre": "TV Oost-be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.tvoost.be/"
-      ],
-      "m3u8_url": [
-        "https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.tvoost.be/",
-    "país": "be",
-    "categoría": "news"
-  },
-  "ROB-tv-be": {
-    "nombre": "ROB tv-be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.robtv.be/meld-nieuws/"
-      ],
-      "m3u8_url": [
-        "https://live.zendzend.com/mpegts/29375_395477/media_mpegts_1.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.robtv.be/",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Notélé-be": {
-    "nombre": "Notélé-be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.notele.be/it105-md5-direct.html"
-      ],
-      "m3u8_url": [
-        "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.notele.be/it105-md5-direct.html",
-    "país": "be",
-    "categoría": "news"
-  },
-  "TV-Limburg-TVL-be": {
-    "nombre": "TV Limburg (TVL) be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.tvl.be/"
-      ],
-      "m3u8_url": [
-        "https://live.zendzend.com/mpegts/29375_395474/media_mpegts_0.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.tvl.be/",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Matélé-be": {
-    "nombre": "Matélé-be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.matele.be/direct"
-      ],
-      "m3u8_url": [
-        "https://live.matele.be/hls/live.m3u8",
-        "https://live.matele.be/hls/live.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.matele.be/direct",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Focus-WTV-be": {
-    "nombre": "Focus WTV-be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://focus-wtv.be/tv-zone"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://focus-wtv.be/tv-zone",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Fun-Vision-be": {
-    "nombre": "Fun Vision be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.funradio.be/funvision/",
-        "https://www.dailymotion.com/embed/video/x8fy3fv?autoplay=1",
-        "https://geo2.dailymotion.com/player/xb0mn.html?video=x8fy3fv"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.funradio.be/funvision/",
-    "país": "be",
-    "categoría": "news"
-  },
-  "VRT-MAX-be": {
-    "nombre": "VRT MAX be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.squidtv.net/europe/belgium/belgium-006.html"
-      ],
-      "m3u8_url": [
-        "https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8",
-        "https://live-radio.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.squidtv.net/europe/belgium/belgium-006.html",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Qmusic-be": {
-    "nombre": "Qmusic be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://qmusic.be/luister/qmusic_be/watch"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://qmusic.be/luister/qmusic_be/watch",
-    "país": "be",
-    "categoría": "news"
-  },
-  "Europeby-Satellitebe": {
-    "nombre": "Europe by Satellite be",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=1&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
-        "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=2&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
-        "https://audiovisual.ec.europa.eu/en/ebs/live/1"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://audiovisual.ec.europa.eu/en/ebs/live/1",
-    "país": "be",
-    "categoría": "news"
-  },
-  "DW-News": {
-    "nombre": "DW News",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.dw.com/en/live-tv/channel-english"
-      ],
-      "m3u8_url": [
-        "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.dw.com/en",
-    "país": "de",
-    "categoría": "news"
-  },
-  "dw-arabic": {
-    "nombre": "DW عربية",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.dw.com/ar/live-tv/channel-arabic"
-      ],
-      "m3u8_url": [
-        "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
-      ],
-      "yt_id": "UC30ditU5JI16o5NbFsHde_Q",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.dw.com/ar",
-    "país": "de",
-    "categoría": "news"
-  },
-  "DW-Español": {
-    "nombre": "DW Español",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.dw.com/es/live-tv/channel-spanish"
-      ],
-      "m3u8_url": [
-        "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-        "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-      ],
-      "yt_id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.dw.com/es",
-    "país": "de",
-    "categoría": "news"
-  },
-  "WELTOK54-OffenerKanalMainz": {
-    "nombre": "WELT - OK 54 - Offener Kanal Mainz",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.kabeljournal.de/livestream",
-        "https://icanlive.tv/live/14728/ard-tagesschau.html",
-        "https://www.oktv-rlp.de/sehen/livestream/156/",
-        "https://ok54.de/webtv",
-        "https://www.l-tv.de/livestream.html",
-        "https://www.yoltv.eu/",
-        "https://www.welt.de/tv-programm-live-stream/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.welt.de/",
-    "país": "de",
-    "categoría": "news"
-  },
-  "WeAreDiamond-osftv-Nrwision": {
-    "nombre": "We Are Diamond - osftv - Nrwision",
-    "logo": "https://graph.facebook.com/wearediamond1/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [
-        "https://osftv.de/",
-        "https://www.nrwision.de/tv",
-        "https://icanlive.tv/live/15181/osf-fernsehen.html",
-        "https://ok-nahetv.de/index.php/programmvorschau/livestream"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UCrFFy9BMtlNsg2wsa4XbTPg",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "oderspreefernsehen"
-    },
-    "sitio_oficial": "https://wearediamond.net/",
-    "país": "de",
-    "categoría": "music"
-  },
-  "ArteLive-NiceTV-BRFernsehenSüd": {
-    "nombre": "Arte Live - Nice TV - BR Fernsehen Süd",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.ardmediathek.de/br/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQlItU8O8ZA",
-        "https://www.livehdtv.com/rtl-germany/",
-        "https://www.zdf.de/",
-        "https://www.mixcloud.com/live/niceMIXTV/",
-        "https://www.livehdtv.com/arte-german/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/arte-german/",
-    "país": "de",
-    "categoría": "news"
-  },
-  "ARD": {
-    "nombre": "ARD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/ard/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/ard/",
-    "país": "de",
-    "categoría": "news"
-  },
-  "HR-Fernsehen": {
-    "nombre": "HR Fernsehen",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/hr-fernsehen/"
-      ],
-      "m3u8_url": [
-        "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/hr-fernsehen/",
-    "país": "de",
-    "categoría": "news"
-  },
-  "wdr-fernsehen": {
-    "nombre": "WDR Fernsehen",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.livehdtv.com/wdr-fernsehen/"
-      ],
-      "m3u8_url": [
-        "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.livehdtv.com/wdr-fernsehen/",
-    "país": "de",
-    "categoría": "news"
-  },
-  "KIKA": {
-    "nombre": "KIKA",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.kika.de/live/live-100"
-      ],
-      "m3u8_url": [
-        "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.kika.de/live/live-100",
-    "país": "de",
     "categoría": "news"
   },
   "24-channel-online": {
