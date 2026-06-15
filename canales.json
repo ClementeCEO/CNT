@@ -12953,6 +12953,7 @@
     "señales": {
       "iframe_url": [
         "https://iframe.dacast.com/live/2c659e044a58572e056cceed234a70cb/a962d51b-9a13-5651-cb26-cedab92a00ec",
+        "https://geo.dailymotion.com/player.html?video=x9lincs",
         "https://cdn.com.do/envivo/",
         "https://telemicro.com.do/telemicro-en-vivo/",
         "https://telemicro.com.do/players/5bot/",
@@ -12964,7 +12965,7 @@
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://tvonline.com.do/cdn-canal-37-en-vivo/",
       "twitch_id": ""
     },
     "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
@@ -12992,13 +12993,15 @@
     "país": "do",
     "categoría": "news"
   },
-  "telemicro-canal-5hd": {
-    "nombre": "telemicro-canal-5hd",
+  "telemicro-canal-5hd-Digital15": {
+    "nombre": "telemicro-canal-5hd - Digital 15",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://telemicro.com.do/players/15bot/",
         "https://telemicro.com.do/telemicro-en-vivo/",
-        "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+        "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
+        "https://noticiasdehoyrd.com/noticias/digital-15-online-y-en-directo/"
       ],
       "m3u8_url": [
         "http://51.81.93.239:8084/hls/tmicro.m3u8"
@@ -13087,15 +13090,17 @@
     "país": "do",
     "categoría": "news"
   },
-  "Telesistema-Canal-11": {
-    "nombre": "Telesistema Canal 11",
+  "Telesistema-Canal-11-Águilas-Cibaeñas": {
+    "nombre": "Telesistema Canal 11 - Águilas Cibaeñas",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.dailymotion.com/embed/video/x80ac48?autoplay=1&queue-enable=false",
-        "https://telesistema11.com.do/"
+        "https://telesistema11.com.do/",
+        "https://tvonline.com.do/aguilas-cibaenas-en-vivo-online/"
       ],
       "m3u8_url": [
+        "https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8",
         "https://fl1002.bozztv.com/ssh101/0011/tracks-v1a1/mono.m3u8"
       ],
       "yt_id": "",
@@ -13107,13 +13112,17 @@
     "país": "do",
     "categoría": "news"
   },
-  "Color-Vision-Canal-9-TV": {
-    "nombre": "Color-Vision-Canal-9-TV",
+  "Color-Vision-Canal-9-TV-TelediosCanal8": {
+    "nombre": "Color-Vision-Canal-9-TV - Teledios Canal 8",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.dailymotion.com/embed/video/x7gy059",
-        "https://colorvision.com.do/en-vivo/"
+        "https://colorvision.com.do/en-vivo/",
+        "https://geo.dailymotion.com/player.html?video=x9hvyy0",
+        "https://noticiasdehoyrd.com/noticias/gigantes-del-cibao-en-vivo-online/",
+        "",
+        "https://emisorasdominicanas.com.do/gigantes-del-cibao-en-vivo-por-radio/"
       ],
       "m3u8_url": [],
       "yt_id": "",
