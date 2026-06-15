@@ -30757,12 +30757,13 @@
     "país": "pr",
     "categoría": "news"
   },
-  "Telemundo": {
+  "Telemundo-PR": {
     "nombre": "Telemundo",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.telemundopr.com/en-vivo",
+        "https://embed.saohgdasregions.fun/embed2/telemundopuertorico.html",
         "https://www.tvlibrehd.com/en-vivo/telemundo",
         "https://tvron.ro/",
         "https://www.tvporinternet2.com/"
@@ -36081,7 +36082,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.telemundo51.com/ver/"
+        "https://www.telemundo51.com/ver/",
+        "https://embed.saohgdasregions.fun/embed2/telemundo51.html"
       ],
       "m3u8_url": [],
       "yt_id": "",
