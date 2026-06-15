@@ -110,11 +110,13 @@
     "categoría": "news"
   },
   "FOX-NEW": {
-    "nombre": "FOX-NEWS - MI FLOLKLORE - FOX SOUL - LRT Lituanica",
+    "nombre": "FOX-NEWS - Business Today- ECOTV - MI FLOLKLORE - FOX SOUL - LRT Lituanica",
     "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
+        "https://feeds.intoday.in/bttv/itgd.m3u8",
+        "http://iptv.prosto.tv:7000/ch97/video.m3u8",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=26efebb4ea241e9cc769fa29dbca1789&expires=1781554244&sig=585c48d285f8309824f2b4411ae9f7bb2c288eccf9e2668e47e9b09937731d99",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=bbb895cbbbbd6a333e57d1636fd4bde0&expires=1772833051&sig=bd21173c5ecfa14129de83ab50332bcd304156e3eaefe0b0f974b6322732e62e",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=6cad7565ea4ecb78687a706ba8b76d4e&expires=1772907007&sig=ca1a7df96ef9bcad04b28d02fd248e624b19e2f31826047ea5fe9d09146076cb",
@@ -40509,34 +40511,43 @@
     "país": "in",
     "categoría": "news"
   },
-  "ET-NOW": {
-    "nombre": "ET NOW",
+  "ET-NOW-BusinessToday": {
+    "nombre": "CNBC TV18 - ET NOW - Business Today - NDTV Profit - CNBC TV18 Prime HD - Bloomberg TV Asia - CNBC Asia",
     "logo": "https://graph.facebook.com/etnow/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
         "https://www.etnownews.com/live-tv"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
+        "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+        "https://feeds.intoday.in/bttv/itgd.m3u8",
+        "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
+        "https://www.bloomberg.com/media-manifest/streams/asia.m3u8",
+        "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+        "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8"
+      ],
       "yt_id": "UCI_mwTKUhicNzFrhm33MzBQ",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/parasu-coder/iptv/blob/1408c5ee729a1cc93d1d1ddeb94416f8b6d07966/News.m3u#L243",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.etnownews.com/",
     "país": "in",
-    "categoría": "news"
+    "categoría": "business"
   },
   "News18-Rajasthan": {
-    "nombre": "News18 Rajasthan",
+    "nombre": "News18 Rajasthan - Calcutta News",
     "logo": "https://graph.facebook.com/News18Rajasthan/picture?width=800&height=800",
     "señales": {
       "iframe_url": [],
       "m3u8_url": [
-        "https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8"
+        "https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8",
+        "https://live.legitpro.co.in/cnnnews/index.m3u8"
       ],
       "yt_id": "UC7FlLbNo66YsCEAPuJITiNg",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/parasu-coder/iptv/blob/1408c5ee729a1cc93d1d1ddeb94416f8b6d07966/News.m3u#L243",
       "twitch_id": ""
     },
     "sitio_oficial": "https://hindi.news18.com/livetv/",
