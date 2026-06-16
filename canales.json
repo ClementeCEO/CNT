@@ -26889,14 +26889,15 @@
         "https://servilive.com/live-stream-video-widget/jntv19",
         "http://www.jn19television.com/19_2.htm",
         "http://www.jn19television.com/",
-        "https://geniostv.pe/"
+        "https://geniostv.pe/",
+        "https://play.ebrands.pe/canales-nacionales"
       ],
       "m3u8_url": [
         "https://sc1.wasidata.com/Genios/tracks-v1/index.fmp4.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/doms9/iptv/blob/784db7e48a807d55facd41a1f505cd5803288ef8/M3U8/events.m3u8#L154",
       "twitch_id": ""
     },
     "sitio_oficial": "http://www.jn19television.com/",
@@ -28222,7 +28223,8 @@
         "https://www.lasestrellas.tv/en-vivo",
         "https://www.photocalltv.site/cv/embed.js?c=o4c546xcv5c",
         "https://www.cablevisionhd.com/",
-        "https://urlscan.io/domain/www.cablevisionhd.com"
+        "https://urlscan.io/domain/www.cablevisionhd.com",
+        "http://www.fawanews.sc/FIFA_world_cup_2026_Iraq_vs_Norway_es.html"
       ],
       "m3u8_url": [
         "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
