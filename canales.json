@@ -28138,12 +28138,28 @@
     "país": "pe",
     "categoría": "news"
   },
-  "History2-XTVPERU-Yurimaguas": {
-    "nombre": "History2 XTV PERU Yurimaguas",
+  "DSPORTPLUS-XTVPERU-Yurimaguas": {
+    "nombre": "DSPORT PLUS - XTV PERU Yurimaguas",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://xtv.pe/",
+        "https://canalcoin.com/tv-directo/",
+        "https://la18hd.com/vivo/canales.php?stream=movistar",
+        "https://la18hd.com/vivo/canales.php?stream=dsports2",
+        "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
+        "https://la18hd.com/vivo/canales.php?stream=foxsports2",
+        "https://la18hd.com/vivo/canal.php?stream=dsports2",
+        "https://la18hd.com/vivo/canales.php?stream=espn1_nl",
+        "https://la18hd.com/vivo/canales.php?stream=espn2_nl",
+        "https://la18hd.com/vivo/canales.php?stream=espn3_nl",
+        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed.php",
+        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed2.php",
+        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed3.php",
+        "https://deportelibree.com/total/stream-131.php",
+        "https://pelotalibre.click/directv-sports-2/",
+        "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Senegal_es.html",
+        "https://futbollibre.click/goltv/",
         "https://tucanaldeportivo.org/golperu.php"
       ],
       "m3u8_url": [
@@ -28154,7 +28170,7 @@
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/scrviejo/sandrop/blob/main/SAPO",
       "twitch_id": ""
     },
     "sitio_oficial": "https://xtv.pe/",
