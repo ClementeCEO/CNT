@@ -28243,14 +28243,12 @@
     "país": "pe",
     "categoría": "news"
   },
-  "LoretoTV-gol-ucayalitv-shumac-tv-peru": {
-    "nombre": "Loreto TV- GOL - Ucayalitv Shumac PERU",
-    "logo": "",
+  "DSPORT-ucayalitv-shumac-tv-peru": {
+    "nombre": "DSPORT - Loreto TV - Ucayalitv Shumac PERU",
+    "logo": "https://www.ucayalitv.com/",
     "señales": {
       "iframe_url": [
-        "https://www.ucayalitv.com/",
-        "https://golperuenvivoperutv.com/",
-        "https://golperuhd.pe/",
+        "https://www.radiusac.pe/#section-tv-live",
         "https://streamtpday1.xyz/global1.php?stream=espnpremium",
         "https://streamtpday1.xyz/global1.php?stream=espn",
         "https://streamtpday1.xyz/global1.php?stream=espn2",
@@ -28268,15 +28266,19 @@
         "https://streamtpday1.xyz/global1.php?stream=sporttvbr1",
         "https://streamtpday1.xyz/global1.php?stream=premiere2",
         "https://streamtpday1.xyz/global1.php?stream=premiere3",
-        "https://www.tvgratishd.com/2024/04/shumac-tv-peru-en-vivo.html"
+        "https://www.tvgratishd.com/2024/04/shumac-tv-peru-en-vivo.html",
+        "https://golperuenvivoperutv.com/",
+        "https://www.facebook.com/SomosUTV/",
+        "https://golperuhd.pe/"
       ],
       "m3u8_url": [
-        "https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8"
+        "https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8",
+        "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
       ],
       "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
       "yt_embed": "HOxJF0Xkbn4?",
       "yt_playlist": "https://streamtpday1.xyz/",
-      "twitch_id": ""
+      "twitch_id": "https://github.com/juanicp/web/blob/cef95d256c549dc2408a84ccdbeb1985b91d2575/flow.m3u8#L182"
     },
     "sitio_oficial": "https://www.facebook.com/loreto.tv/",
     "país": "pe",
