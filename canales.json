@@ -9307,7 +9307,7 @@
   },
   "web-tv-classicos-do-cinema": {
     "nombre": "Web Tv Clássicos do Cinema Ao Vivo",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d8781AK55fhiuk95oijk5tijMhZqyjzQ7C9mPi.webp",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d8781AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi.webp",
     "señales": {
       "iframe_url": [
         "https://infomastertec.blogspot.com/p/agora-na-tv.html"
@@ -24829,7 +24829,7 @@
     "país": "mx",
     "categoría": "news"
   },
-  "TUDN-TNTsports-ESPN-PREMIUM-LAT-ESPN-PREMIUM-LAT-TYC-SPORTS-FOX-SPORTS": {
+  "TUDN-TNTsports-UQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr-SPORTS": {
     "nombre": "TUDN - TNTSports - ESPN PREMIUM LAT - ESPN PREMIUM LAT - TYC SPORTS - FOX SPORTS",
     "logo": "",
     "señales": {
@@ -26017,9 +26017,9 @@
         "https://www.futxi.com/en-vivo/latina-television/"
       ],
       "m3u8_url": [
-        "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8",
-        "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8",
-        "https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0",
+        "https://redirector.rudo.video/hls-video/52n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/latina/latina.smil/playlist.m3u8",
+        "https://redirector.rudo.video/hls-video/52n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/latina/latina.smil/playlist.m3u8",
+        "https://jireh-4-hls-video-us-isp.dps.live/hls-video/52n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b219888625076924a342318f1&sid=ba5t1l1xb25212908116924af90718bb&ndvc=0",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429009",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429010",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429011"
@@ -26196,7 +26196,7 @@
     "señales": {
       "iframe_url": [
         "https://radiosanborjatv.com/",
-        "https://bradm.ax/build/202403/30/d853f825e47c1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
+        "https://bradm.ax/build/202403/30/d82n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
       ],
       "m3u8_url": [
         "https://stream.mediacorp.pe/srt/3/playlist.m3u8"
@@ -29980,7 +29980,7 @@
     "país": "pe",
     "categoría": "Deportes"
   },
-  "ESPNPremium-ESPNPremiumArgentina-TyCSports-Sqala-BethelTV-Cristiana": {
+  "UQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr-BethelTV-Cristiana": {
     "nombre": "ESPN Premium - ESPN Premium Argentina - TyC Sports - Sqala - Bethel TV Cristiana",
     "logo": "",
     "señales": {
