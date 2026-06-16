@@ -25709,6 +25709,8 @@
         "https://bonytv.pe//tvradio/play.html?autoplay=1",
         "https://micanal.ovh/channel/live-stream/ULTRA",
         "https://bonytv.pe/tv-en-vivo/",
+        "https://sport99.live/embed/?id=sk-super-nova-bfc-daugavpils-15472506&source=rapid",
+        "https://sport99.live/embed/stream.php?id=sk-super-nova-bfc-daugavpils-15472506&source=rapid&exp=1781628607&token=98a1f9c6bf12705a3333a54c4116357f43f3d000db259fbca3ee7e4d94dbfc50",
         "https://iblups.com/embed/acotv",
         "https://iblups.com/acotv",
         "https://deporflix.com/canales/serie-a-%f0%9f%87%ae%f0%9f%87%b9/",
@@ -25727,7 +25729,7 @@
       ],
       "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
       "yt_embed": "9c12dWtDNKM?",
-      "yt_playlist": "",
+      "yt_playlist": "https://pelotalibrehd.pe/match/sk-super-nova-bfc-daugavpils-15472506/",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.clarosports.com/en-vivo-latam/",
@@ -25797,6 +25799,11 @@
         "https://la18hd.com/vivo/canales.php?stream=canal5",
         "https://la18hd.com/vivo/canales.php?stream=calientetv",
         "https://la18hd.com/vivo/canales.php?stream=dsports",
+        "https://latamx701.org/global2.php?stream=dsports",
+        "https://www.librefutbol2.com/envivo/directvsports.php",
+        "https://www.librefutbol2.com/envivo/directvsports.php",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsports&target=2",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsports&target=1",
         "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
         "https://la18hd.com/vivo/canales.php?stream=vtvplus",
         "https://la18hd.com/vivo/canales.php?stream=espn2",
@@ -25804,11 +25811,14 @@
         "https://app.plex.tv/desktop/#!/live-tv",
         "https://player.twitch.tv/?autoplay=false&channel=quatrotvgo&height=100%25&parent=tvgratisperu.com&referrer=https%3A%2F%2Ftvgratisperu.com%2Fpages%2Fperu%2Fre%2Fquatrotvgo_op1.php&width=100%25"    
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https:\/\/deportes.ksdjugfsddeports.com:9092\/MTc5LjYuNi4xMDM=\/3_.m3u8?token=CZkzfWAT5Bz-JLRh6RZxqA&expires=1781659898",
+        "https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuNi4xMDM=/3_.m3u8?token=d4VjPnC35W0xmD3uMnXk4Q&expires=1781660090"
+      ],
       "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_embed": "https://embed.ksdjugfsddeports.com",
+      "yt_playlist": "https://www.tvporinternet2.com/",
+      "twitch_id": "https://www.librefutbol2.com/"
     },
     "sitio_oficial": "https://www.cuatro.com/en-directo/",
     "país": "pe",
