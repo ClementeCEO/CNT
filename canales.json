@@ -28153,10 +28153,6 @@
         "https://la18hd.com/vivo/canales.php?stream=espn1_nl",
         "https://la18hd.com/vivo/canales.php?stream=espn2_nl",
         "https://la18hd.com/vivo/canales.php?stream=espn3_nl",
-        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed.php",
-        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed2.php",
-        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed3.php",
-        "https://deportelibree.com/total/stream-131.php",
         "https://pelotalibre.click/directv-sports-2/",
         "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Senegal_es.html",
         "https://futbollibre.click/goltv/",
@@ -28217,6 +28213,10 @@
     "señales": {
       "iframe_url": [
         "https://www.xtremo-stereo.com/las-estrellas-en-vivo/",
+        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed.php",
+        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed2.php",
+        "https://deportelibree.com/en-vivo-online/telemundo-usa/embed3.php",
+        "https://deportelibree.com/total/stream-131.php",
         "https://www.telextrema2.com/azteca-7-en-vivo.html",
         "https://www.photocall-tv.es/cv/embed.js?c=o4c546xcv5c",
         "https://www.lasestrellas.tv/en-vivo",
