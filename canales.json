@@ -23840,7 +23840,7 @@
     "país": "my",
     "categoría": "news"
   },
-  "Madani-Urdu-Live-AYMSports-BeinSportXtraÑ-CanelaDeportes-ClaroSports-": {
+  "Madani-Urdu-Live-AYMSports-BeinSportXtraÑ-CanelaDeportes-ClaroSports": {
     "nombre": "Madani Urdu Live - AYM Sports - Bein Sport Xtra Ñ",
     "logo": "",
     "señales": {
@@ -23936,7 +23936,7 @@
         "https://streamtp-x-y-z.ws/global2.php?stream=espnpremium"
       ],
       "m3u8_url": [],
-    "yt_id": "",
+    "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
     "yt_embed": "",
     "yt_playlist": "",
     "twitch_id": ""
@@ -23946,7 +23946,7 @@
     "categoría": "news"
   },
   "Bernama-TV-🇲🇾-FoxDeportes-Sports-2--3-4": {
-    "nombre": "Bernama TV 🇲🇾 - Fox Deportes-Sports-2-3-4- ",
+    "nombre": "Bernama TV 🇲🇾 - Fox Deportes-Sports-2-3-4",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -24032,8 +24032,7 @@
       ],
       "m3u8_url": [
         "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342",
-        "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
-        
+        "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id="
       ],
     "yt_id": "UCjUxj4cyy_F0tVCT8WfmdZQ",
     "yt_embed": "",
