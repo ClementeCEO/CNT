@@ -4613,15 +4613,17 @@
     "país": "at",
     "categoría": "news"
   },
-  "FS1-TV": {
-    "nombre": "FS1 TV",
+  "FS1-ATV": {
+    "nombre": "FS1 - ATV",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://fs1.tv/",
         "https://www.okto.tv/de/tv/",
         "https://www.k-tv.org/live-stream/",
-        "https://swamiji.tv/stream/eu/eu-Vienna"
+        "https://swamiji.tv/stream/eu/eu-Vienna",
+        "https://www.atv.at/",
+        "https://www.joyn.at/play/live-tv?channel_id=1057&from=%2Fmediatheken%2Fatv"
       ],
       "m3u8_url": [
         "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
@@ -9443,13 +9445,14 @@
     "país": "br",
     "categoría": "news"
   },
-  "TV-MAX-Ao": {
-    "nombre": "TV MAX Ao",
+  "TV-MAX-Ao-tv-Candides": {
+    "nombre": "TV MAX Ao - Tv-candides",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp",
     "señales": {
       "iframe_url": [
         "https://www-tvmaxrio-net.filesusr.com/html/b88112_2e47258ffd866b2caa634bcdf9f30080.html",
-        "https://www.tvmaxrio.net/"
+        "https://www.tvmaxrio.net/",
+        "http://tvonline.2fer.top/brasil/tv-candides"
       ],
       "m3u8_url": [
         "https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8"
@@ -12826,14 +12829,26 @@
     "país": "de",
     "categoría": "news"
   },
-  "ARD": {
-    "nombre": "ARD",
+  "ARD-Augsburg-Baden-": {
+    "nombre": "ARD - Augsburg - Baden",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.livehdtv.com/ard/"
+        "https://www.livehdtv.com/ard/",
+        "https://www.augsburg.tv/",
+        "http://tvonline.2fer.top/alemania/augsburg-tv",
+        "https://www.baden-tv.com/livestream/",
+        "https://www.muenchen.tv/programm/wochenprogramm-muenchen-tv-kabel/",
+        "https://www.br.de",
+        "https://www.tagesschau.de/multimedia/livestreams/livestream1",
+        "https://www1.wdr.de/fernsehen/livestream/index.html",
+        "https://tv.de/live/tagesschau24/",
+        "https://www.ardmediathek.de/wdr/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1AK55fhiuk95oijk5tijMhZqyjzQ7C9mPi",
+        "https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvbGl2ZXN0cmVhbQ"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://playhls.com/?url=https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -19443,11 +19458,14 @@
     "país": "it",
     "categoría": "news"
   },
-  "Radioantenna1TV": {
-    "nombre": "Radioantenna1 TV",
+  "Radioantenna1TV-Goldtv": {
+    "nombre": "Radioantenna1TV - Goldtv",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "http://tvonline.2fer.top/italia/gold-tv",
+        "https://goldtv.it/canali/gold-tv-lcn-11/"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
@@ -49349,11 +49367,12 @@
     "país": "tw",
     "categoría": "news"
   },
-  "ucl-uruguay": {
-    "nombre": "UCL",
+  "ucl-uruguay-Canal11": {
+    "nombre": "UCL Canal11",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "http://canal11.uy",
         "https://www.trodi.dev/tv/UY/UCL.uy",
         "https://5900.tv/webcam/ucl.html",
         "https://artv.watch/embed.php?channel=UCL.uy",
@@ -49770,8 +49789,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.malimar.tv/channels/lone_sinh_lao_tv?grid=Lao_LiveTV_Free_CF",
-        ""
+        "https://www.malimar.tv/channels/lone_sinh_lao_tv?grid=Lao_LiveTV_Free_CF"
       ],
       "m3u8_url": [
         "https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8"
