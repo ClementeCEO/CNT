@@ -43625,17 +43625,22 @@
     "país": "ru",
     "categoría": "news"
   },
-  "1000-Action": {
-    "nombre": "1000 Action",
+  "1000-Action-FOXNewsExtraAU-РБК-ТВ": {
+    "nombre": "1000 Action - FOX News Extra AU - РБК-ТВ - Deshi TV (720p) - Zarok TV Sorani (720p)",
     "logo": "http://ip.viks.tv/posts/2016-04/1460666864_1000-action.png",
     "señales": {
       "iframe_url": [
         "http://ip.viks.tv/422-1000-action_9.html"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://github.com/OlDom/BaltTV/blob/768348ccc5ff1609125586289891547a414f8b2d/Uno.m3u",
+        "http://ixjk6nfs.rostelekom.xyz/iptv/ELVNTKK2RLGGKX/6116/index.m3u8",
+        "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8",
+        "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+      ],
       "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
+      "yt_embed": "https://github.com/sacuar/MyIPTV/blob/76cfb12e5500fbe71991440e163b513bae844e89/play.m3u",
+      "yt_playlist": "https://github.com/OlDom/BaltTV/blob/768348ccc5ff1609125586289891547a414f8b2d/Uno.m3u",
       "twitch_id": ""
     },
     "sitio_oficial": "http://ip.viks.tv/422-1000-action_9.html",
