@@ -7,6 +7,7 @@
         "https://www.channelstv.com/live/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=fx&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=space&target=2",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=goldenpremier&target=1",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
@@ -23839,12 +23840,100 @@
     "país": "my",
     "categoría": "news"
   },
-  "Parliament-Live": {
-    "nombre": "Parliament Live",
+  "Madani-Urdu-Live-AYMSports-BeinSportXtraÑ-CanelaDeportes-ClaroSports-": {
+    "nombre": "Madani Urdu Live - AYM Sports - Bein Sport Xtra Ñ",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://rtm-player.glueapi.io/latest/h/7"
+        "https://bolaloca.my/player/3/105",
+        "https://bolaloca.my/player/3/69",
+        "https://bolaloca.my/player/3/69",
+        "https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow"
+      ],
+      "m3u8_url": [
+        "https://aym-as.otteravision.com/aym/as/as_480p.m3u8",
+        "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8",
+        "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+        "https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8",
+        "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8"
+      ],
+    "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
+    "yt_embed": "",
+    "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/3dbf344f914c650100e320ded35a30cd3f5bb159/scripts-album/categorias/deportes.json",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm",
+    "país": "my",
+    "categoría": "news"
+  },
+  "boraktengahlapar-MYDAZNF1-DeportesporMas-DeporTV-DSports2": {
+    "nombre": "boraktengahlaparMY - DAZN F1 - Deportes por M+ - DeporTV - DSports 2 +",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rtm-player.glueapi.io/latest/h/13669",
+        "https://bolaloca.my/player/3/60",
+        "https://bolaloca.my/player/3/62",
+        "https://bestleague.top//tok.html?get=RGVwb3JUVkhE",
+        "https://bolaloca.my/player/3/94",
+        "https://la18hd.com/vivo/canales.php?stream=dsports",
+        "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
+        "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+        "https://bolaloca.my/player/3/95",
+        "https://la18hd.com/vivo/canales.php?stream=dsports2",
+        "https://bolaloca.my/player/3/96",
+        "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
+        "https://streamtp-x-y-z.ws/global1.php?stream=dsportsplus"
+      ],
+      "m3u8_url": [
+        "http://190.117.20.37:8000/play/a08d/index.m3u8",
+        "http://190.108.83.69:8000/play/a05w/index.m3u8"
+      ],
+    "yt_id": "",
+    "yt_embed": "",
+    "yt_playlist": "",
+    "twitch_id": ""
+    },
+    "sitio_oficial": "https://rtmklik.rtm.gov.my/live/boraktengahlapar",
+    "país": "my",
+    "categoría": "news"
+  },
+  "Parliament-Live-ECDF-ESPN2-3-4-5-6-7-DEPORTE-PREMIUM": {
+    "nombre": "Parliament - ECDF - ESPN2-3-4-5-6-7-DEPORTE-PREMIUM",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://rtm-player.glueapi.io/latest/h/7",
+        "https://bolaloca.my/player/3/85",
+        "https://bestleague.top//tok.html?get=RVNQTjJIRA",
+        "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGRVNQTiUyRmxpdmVfZGFzaF9jbGQlMkZFU1BOLm1wZCUzRmNrJTNEZXlJMlpESTBNMlZpWkRkaE5UZGlaV0UwWWpSaU1EVXlZV1V4TTJZMFl6QTFNU0k2SWpWak1Ua3lOVGczT1dSbE9EY3paRFF6WWpkak1qVTVNalU1TURJMU16bGlJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SjklMjZ0aXRsZSUzRFRlbGVHcmF0dWl0YQ==",
+        "https://bolaloca.my/player/3/87",
+        "https://bolaloca.my/player/3/97",
+        "https://streamtp-x-y-z.ws/global2.php?stream=espn",
+        "https://bestleague.top//tok.html?get=RVNQTjJfQXJn",
+        "https://bolaloca.my/player/3/88",
+        "https://bolaloca.my/player/3/98",
+        "https://bestleague.top//tok.html?get=RVNQTjM",
+        "https://bolaloca.my/player/3/89",
+        "https://bestleague.top//tok.html?get=RVNQTkhE",
+        "https://bolaloca.my/player/3/90",
+        "https://bolaloca.my/player/3/100",
+        "https://bestleague.top//tok.html?get=RVNQTjQ=",
+        "https://bolaloca.my/player/3/91",
+        "https://la18hd.com/vivo/canales.php?stream=espn5",
+        "https://bestleague.top//tok.html?get=Rm94U3BvcnRzM19VWQ==",
+        "https://bolaloca.my/player/3/92",
+        "https://la18hd.com/vivo/canales.php?stream=espn6",
+        "https://bestleague.top//tok.html?get=Rm94U3BvcnRzMl9VWQ==",
+        "https://bolaloca.my/player/3/93",
+        "https://bolaloca.my/player/3/79",
+        "https://la18hd.com/vivo/canales.php?stream=espn7",
+        "https://bolaloca.my/player/3/71",
+        "https://bestleague.top//tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZicGstdHYlMkZFU1BOUHJlbWl1bSUyRmRlZmF1bHQlMkZpbmRleC5tcGQlM0ZjayUzRGV5Sm1PRGswTTJReE1UUmxNalV4TlRGak9HRmxOR1kyTVRJek5URmtOV0UxWmlJNklqZG1NelJqT1dFM01HTTRNell3TWpCalltTXpNamN6WXpReU4yWm1NamMzSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
+        "https://bolaloca.my/player/3/76",
+        "https://la18hd.com/vivo/canal.php?stream=espnpremium",
+        "https://streamtp-x-y-z.ws/global2.php?stream=espnpremium"
       ],
       "m3u8_url": [],
     "yt_id": "",
@@ -23856,48 +23945,25 @@
     "país": "my",
     "categoría": "news"
   },
-  "boraktengahlapar-MY": {
-    "nombre": "boraktengahlapar MY",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://rtm-player.glueapi.io/latest/h/13669"
-      ],
-      "m3u8_url": [],
-    "yt_id": "",
-    "yt_embed": "",
-    "yt_playlist": "",
-    "twitch_id": ""
-    },
-    "sitio_oficial": "https://rtmklik.rtm.gov.my/live/boraktengahlapar",
-    "país": "my",
-    "categoría": "news"
-  },
-  "Madani-Urdu-Live": {
-    "nombre": "Madani Urdu Live",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow"
-      ],
-      "m3u8_url": [],
-    "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
-    "yt_embed": "",
-    "yt_playlist": "",
-    "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm",
-    "país": "my",
-    "categoría": "news"
-  },
-  "Bernama-TV-🇲🇾": {
-    "nombre": "Bernama TV 🇲🇾",
+  "Bernama-TV-🇲🇾-FoxDeportes-Sports-2--3-4": {
+    "nombre": "Bernama TV 🇲🇾 - Fox Deportes-Sports-2-3-4- ",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://malaysia-tv.net/bernama/#google_vignette",
         "https://www.tvmalaysia.live/channel/bernama-tv",
-        "https://www.tvmalaysia.live/channel/global-trekker-tv"
+        "https://www.tvmalaysia.live/channel/global-trekker-tv",
+        "https://bolaloca.my/player/3/70",
+        "https://bestleague.top//tok.html?get=Rm94U3BvcnRz",
+        "https://bolaloca.my/player/3/78",
+        "https://bolaloca.my/player/3/101",
+        "https://bestleague.top//tok.html?get=Rm94U3BvcnRzMkhE",
+        "https://bolaloca.my/player/3/102",
+        "https://la18hd.com/vivo/canales.php?stream=foxsports2",
+        "https://bestleague.top//tok.html?get=Rm94U3BvcnRzM0hE",
+        "https://bolaloca.my/player/3/80",
+        "https://bolaloca.my/player/3/103",
+        "https://bolaloca.my/player/3/104"
       ],
       "m3u8_url": [],
     "yt_id": "UCcZg5r9hBqK_VPUT2I7eYVw",
@@ -23909,15 +23975,22 @@
     "país": "my",
     "categoría": "news"
   },
-  "Astro-AWANI-mewatch": {
-    "nombre": "Astro AWANI Mewatch",
+  "Astro-AWANI-mewatch-GarageTV-GolClassics-L1Max-LatinAmericanSports": {
+    "nombre": "Astro AWANI Mewatch - Garage TV - Gol ClassicsL1Max - Latin American Sports",
     "logo": "https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%278682948%27&EntityType=%27LinearSchedule%27&EntityId=%27d6489d74-481a-40d2-81cd-f6da5bd7a942%27&Width=1080&Height=608&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
     "señales": {
       "iframe_url": [
         "https://www.tvmalaysia.live/channel/awani",
-        "https://www.mewatch.sg/channels/LIVE-1-97073?redirect=true&clickToPlay=true"
+        "https://www.mewatch.sg/channels/LIVE-1-97073?redirect=true&clickToPlay=true",
+        "https://bestleague.top//tok.html?get=RWxfR2FyYWdl",
+        "https://bolaloca.my/player/3/84",
+        "https://la18hd.com/vivo/canales.php?stream=liga1max",
+        "https://bolaloca.my/player/3/74"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stream1.sersat.com/hls/garagetv.m3u8",
+        "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8"
+      ],
     "yt_id": "",
     "yt_embed": "",
     "yt_playlist": "",
@@ -23946,17 +24019,22 @@
     "país": "my",
     "categoría": "news"
   },
-  "Berita-MY": {
-    "nombre": "Berita MY",
+  "Berita-MY-MotorVision-Movil TV Turf-MovistarDeportes": {
+    "nombre": "Berita MY - MotorVision - Movil TV Turf - Movistar Deportes",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://rtmklik.rtm.gov.my/live/beritartm",
         "https://www.mana2.my/channel/live/berita-rtm",
         "https://www.tvmalaysia.live/channel/berita-rtm",
-        "https://www.itvmalaysia.net/2022/04/berita-rtm.html"
+        "https://www.itvmalaysia.net/2022/04/berita-rtm.html",
+        "https://la18hd.com/vivo/canales.php?stream=movistar"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342",
+        "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+        
+      ],
     "yt_id": "UCjUxj4cyy_F0tVCT8WfmdZQ",
     "yt_embed": "",
     "yt_playlist": "",
@@ -23966,16 +24044,21 @@
     "país": "my",
     "categoría": "news"
   },
-  "Ikim-MY": {
-    "nombre": "Ikim MY",
+  "Ikim-MY-NBATV-RealMadridTV-SkySportsLaLiga": {
+    "nombre": "Ikim MY - NBA TV - Real Madrid TV - Sky Sports La Liga",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.mana2.my/channel/live/tv-ikim",
         "https://www.tvikim.my/live.php",
-        "https://www.tvmy.online/2021/12/tv-ikim.html"
+        "https://www.tvmy.online/2021/12/tv-ikim.html",
+        "https://bestleague.top//tok.html?get=TkJBX1RW",
+        "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+        "https://e1AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-LG_AR/957/hls/master/playlist.m3u8"
+      ],
     "yt_id": "",
     "yt_embed": "",
     "yt_playlist": "",
@@ -23985,91 +24068,119 @@
     "país": "my",
     "categoría": "news"
   },
-  "nasul-tv": {
-    "nombre": "NAȘUL TV",
+  "nasul-tv-TennisChannel-TNTSportsPremium-": {
+    "nombre": "NAȘUL TV - Tennis Channel - TNT Sports Premium",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.nasul.tv/live/"
+        "https://www.nasul.tv/live/",
+        "https://bestleague.top//tok.html?get=VE5UX1Nwb3J0c19IRA",
+        "https://bolaloca.my/player/3/75",
+        "https://bolaloca.my/player/3/83",
+        "https://la18hd.com/vivo/canal.php?stream=tntsports",
+        "https://streamtp-x-y-z.ws/global1.php?stream=tntsports"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+      ],
     "yt_id": "",
     "yt_embed": "",
-    "yt_playlist": "",
+    "yt_playlist": "https://www.tvporinternet2.com/",
     "twitch_id": ""
     },
     "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=nasul-tv#google_vignette",
     "país": "my",
     "categoría": "news"
   },
-  "selangor-MY": {
-    "nombre": "Selangor MY",
+  "selangor-MY-TSN4-TUDN-TVCDeportes": {
+    "nombre": "SelangorMY - TSN 4 - TUDN - TVC Deportes",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.mana2.my/channel/live/selangor-tv",
         "https://selangortv.my/live-stream-tvs/",
-        "https://www.bosstv.top/"
+        "https://www.bosstv.top/",
+        "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvdHNuNGNhLmh0bWw=",
+        "https://bolaloca.my/player/3/68",
+        "https://bolaloca.my/player/3/106",
+        "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
+        "https://la18hd.com/vivo/canales.php?stream=tvc_deportes"
       ],
       "m3u8_url": [],
     "yt_id": "UCldPEJgJgq_Mb6Ndek5RxQg",
     "yt_embed": "",
-    "yt_playlist": "",
+    "yt_playlist": "https://www.cablevisionhd.com/",
     "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/channel/UCldPEJgJgq_Mb6Ndek5RxQg",
     "país": "my",
     "categoría": "news"
   },
-  "awani-oasis-MY": {
-    "nombre": "Awani oasis MY",
+  "awani-oasis-MY-TVCDeportes": {
+    "nombre": "Awani oasis MY - TVC Deportes",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.tvmalaysia.live/channel/oasis"
+        "https://www.tvmalaysia.live/channel/oasis",
+        "https://la18hd.com/vivo/canales.php?stream=tvc_deportes",
+        "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
+        "https://bolaloca.my/player/3/77",
+        "https://la18hd.com/vivo/canales.php?stream=tycsports",
+        "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
+        "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE="
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "http://38.44.109.41:8003/play/a02l/index.m3u8"
+      ],
     "yt_id": "UC5dYmq91e5_g54krpO06NJw",
     "yt_embed": "",
-    "yt_playlist": "",
+    "yt_playlist": "https://github.com/search?q=https%3A%2F%2Fregionales.saohgdasregions.fun&type=code",
     "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/astroawani",
     "país": "my",
     "categoría": "news"
   },
-  "didik-ntv7-MY": {
-    "nombre": "Didik ntv7 MY",
+  "didik-ntv7-MY-WinMASFutbol-XtremaTVCnaDeportes2": {
+    "nombre": "Didik ntv7 MY - Win+ Futbol - Xtrema TV Cna Deportes 2",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.tvmalaysia.live/channel/didiktv",
         "https://livetvmalaysia.com/didiktv/",
         "https://www.tvmy.online/2024/03/photocall-tv-malaysia.html",
-        "https://livetvmalaysia.com/didiktv/#google_vignette"
+        "https://livetvmalaysia.com/didiktv/#google_vignette",
+        "https://bolaloca.my/player/3/81",
+        "https://la18hd.com/vivo/canales.php?stream=winsports2",
+        "https://la18hd.com/vivo/canales.php?stream=winsports",
+        "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzQxLzQ1d3NwcnRzLnBocA=="
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8"
+      ],
     "yt_id": "",
     "yt_embed": "",
-    "yt_playlist": "",
+    "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/3dbf344f914c650100e320ded35a30cd3f5bb159/scripts-album/web-url/saohgdasregions.json#L8",
     "twitch_id": ""
     },
     "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/ntv7.html",
     "país": "my",
     "categoría": "news"
   },
-  "alhijrah-MY": {
-    "nombre": "Alhijrah MY",
+  "alhijrah-MY-Automoto🇫🇷-": {
+    "nombre": "Alhijrah MY - ",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.mana2.my/channel/live/tv-alhijrah",
-        "https://www.tvmy.online/2022/12/tv-alhijrah.html"
+        "https://www.tvmy.online/2022/12/tv-alhijrah.html",
+        "https://bolaloca.my/player/3/23"
       ],
       "m3u8_url": [],
     "yt_id": "",
     "yt_embed": "",
-    "yt_playlist": "",
+    "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/3dbf344f914c650100e320ded35a30cd3f5bb159/scripts-album/categorias/deportes.json",
     "twitch_id": ""
     },
     "sitio_oficial": "https://tvalhijrah.com/",
@@ -24136,13 +24247,14 @@
       "iframe_url": [
         "https://www.youtube.com/embed/nlgf5enFRgE?autoplay=0&controls=2&rel=0&embed_config=%7B%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F35139216%2FYouTube_Intrasitio%2FImagen_TV%22%2C%22cust_params%22%3A%22intereses%3D%26channel%3Den-vivo%22%2C%22ppid%22%3A%22no_define%22%2C%22pp%22%3A%22z%22%7D%7D%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.imagentv.com&widgetid=1&forigin=https%3A%2F%2Fwww.imagentv.com%2Fen-vivo&aoriginsup=1&vf=1",
         "https://www.youtube.com/embed/EQEBqMqJzs0?autoplay=0&controls=2&rel=0&embed_config=%7B%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F35139216%2FYouTube_Intrasitio%2FImagen_TV%22%2C%22cust_params%22%3A%22intereses%3D%26channel%3Den-vivo%22%2C%22ppid%22%3A%22no_define%22%2C%22pp%22%3A%22z%22%7D%7D%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.imagentv.com&widgetid=1&forigin=https%3A%2F%2Fwww.imagentv.com%2Fen-vivo&aoriginsup=1&gporigin=https%3A%2F%2Fwww.imagentv.com%2Fen-vivo&vf=6",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=25_",
         "https://imagenuabc.tv/en-vivo/",
         "https://www.imagentv.com/en-vivo"
       ],
       "m3u8_url": [],
     "yt_id": "UCl5JKSQsl-_WSU1rz7_BCJA",
     "yt_embed": "nlgf5enFRgE?",
-    "yt_playlist": "",
+    "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/3dbf344f914c650100e320ded35a30cd3f5bb159/scripts-album/web-url/saohgdasregions.json#L8",
     "twitch_id": ""
     },
     "sitio_oficial": "https://www.imagentv.com/en-vivo",
@@ -24335,6 +24447,7 @@
         "https://mxplus.tv/television/tv-migrante",
         "https://embed.saohgdasregions.fun/embed2/canal5.html",
         "https://embed.saohgdasregions.fun/embed/canal5.html",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=2_",
         "https://la18hd.com/vivo/canales.php?stream=canal5"
       ],
       "m3u8_url": [
@@ -24355,8 +24468,11 @@
     "señales": {
       "iframe_url": [
         "https://regionales.saohgdasregions.fun/stream.php?canal=lasestrellas&target=3",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=13_",
         "https://embed.saohgdasregions.fun/embed2/tnt.html",
         "https://embed.saohgdasregions.fun/embed/tnt.html",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=12_",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
         "https://embed.saohgdasregions.fun/embed2/lasestrellas.html",
         "https://embed.saohgdasregions.fun/embed/lasestrellas.html",
         "https://embed.saohgdasregions.fun/embed2/tntseries.html",
@@ -24401,18 +24517,24 @@
     "país": "mx",
     "categoría": "news"
   },
-  "Telemundo-Ahora": {
-    "nombre": "Telemundo Ahora",
+  "Telemundo-Ahora-Unicable🇲🇽": {
+    "nombre": "Telemundo Ahora - Unicable 🇲🇽",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://regionales.saohgdasregions.fun/stream.php?canal=telemundo51&target=2",
-        "https://vix.com/es-es/canales?lang=canales"
+        "https://vix.com/es-es/canales?lang=canales",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=9_",
+        "https://regionales.saohgdasregions.fun/stream.php?canal=telemundo51&target=2",
+        "https://www.tvporinternet2.com/live/telemundo51.php",
+        "https://www.telemundopr.com/en-vivo",
+        "https://www.telemundo.com/noticias/noticias-telemundo-ahora",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=24_",
       ],
       "m3u8_url": [],
       "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
       "yt_embed": "8hl9htCf1w0",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/3dbf344f914c650100e320ded35a30cd3f5bb159/scripts-album/categorias/deportes.json",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/noticias",
@@ -24428,6 +24550,7 @@
         "https://deportes.ksdjugfsddeports.com/stream.php?canal=aztecadeportes&target=1",
         "https://regionales.saohgdasregions.fun/stream.php?canal=azteca7&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=aztecauno&target=2",
+        "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_",
         "https://envivo.tvazteca.com/",
         "https://www.tvazteca.com/tv-azteca-internacional/envivo"
       ],
@@ -36039,13 +36162,11 @@
     "país": "us",
     "categoría": "news"
   },
-  "telemundo-nbcnews-teleonce": {
-    "nombre": "Noticias Telemundo PR - NBCnews - Teleonce",
+  "nbcnews-teleonce": {
+    "nombre": "NBCnews - Teleonce",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.telemundopr.com/en-vivo",
-        "https://www.telemundo.com/noticias/noticias-telemundo-ahora",
         "https://www.nbcnews.com/watch",
         "https://www.nbcboston.com/watch/",
         "https://www.cbsnews.com/live/",
@@ -36067,7 +36188,7 @@
       ],
       "yt_id": "UCx2F6LSGZQbEg7ZAL5uNecQ",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/CINECITY2023/cinecity/blob/3dbf344f914c650100e320ded35a30cd3f5bb159/scripts-album/web-url/saohgdasregions.json#L8",
       "twitch_id": "txl_092l"
     },
     "sitio_oficial": "https://www.telemundo.com/noticias",
