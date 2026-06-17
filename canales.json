@@ -113,8 +113,11 @@
     "nombre": "FOX-NEWS - Business Today- ECOTV - MI FLOLKLORE - FOX SOUL - LRT Lituanica",
     "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://teleon.tv/embed/NGYzYzJhOTQ5NTg0ZjNjMmEAOF/"
+      ],
       "m3u8_url": [
+        "https://teleon.tv/stream/cG5wODQ5NDk1OHBucDg0.m3u8",
         "https://feeds.intoday.in/bttv/itgd.m3u8",
         "http://iptv.prosto.tv:7000/ch97/video.m3u8",
         "https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=26efebb4ea241e9cc769fa29dbca1789&expires=1781554244&sig=585c48d285f8309824f2b4411ae9f7bb2c288eccf9e2668e47e9b09937731d99",
@@ -35588,10 +35591,13 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",
     "señales": {
       "iframe_url": [
+        "https://teleon.tv/embed/NGYzYzJhOTQ5NTg0ZjNjMmEAOF/",
         "https://cnnportugal.iol.pt/direto",
+        "https://teleon.tv/ar/live-tv/cnn-en-espanol-es/",
         "https://tviplayer.iol.pt/direto/CNN"
       ],
       "m3u8_url": [
+        "https://teleon.tv/stream/cG5wODQ5NDk1OHBucDg0.m3u8",
         "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
         "http://45.173.74.2:2010/play/a09h/index.m3u8",
         "http://185.56.109.253/Sony/playlist.m3u8",
