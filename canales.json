@@ -18766,6 +18766,7 @@
     "señales": {
       "iframe_url": [
         "https://www.rainews.it/notiziari/rainews24",
+        "https://teleon.tv/embed/NGYzYzJhOTQ5NjA0ZjNjMmEAOF/",
         "https://uaznao.com/guarda-rai-1-in-diretta-streaming-gratis-estero/",
         "https://uaznao.com/guarda-rai-2-in-diretta-streaming-gratis-estero/",
         "https://uaznao.com/guarda-rai-3-in-diretta-streaming-gratis-estero/",
@@ -26660,12 +26661,20 @@
     "país": "pe",
     "categoría": "news"
   },
-  "sol-tv": {
-    "nombre": "SOL TRUJILLO",
+  "sol-tv-SonyOneNovelas": {
+    "nombre": "SOL TRUJILLO - Sony One Novelas GRUPO",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://soltvperu.com/en-vivo/",
+        "https://teleon.tv/embed/NGYzYzJhOTAwNDM0ZjNjMmEAOF/",
+        "https://teleon.tv/embed/NGYzYzJhNzc4MDc0ZjNjMmEAOF/",
+        "https://teleon.tv/embed/NGYzYzJhNzc4MDM0ZjNjMmEAOF/",
+        "https://teleon.tv/embed/NGYzYzJhNzc4MDQ0ZjNjMmEAOF/",
+        "https://teleon.tv/embed/NGYzYzJhNTU5MTA0ZjNjMmEAOF/",
+        "https://teleon.tv/embed/NGYzYzJhNzc4MDU0ZjNjMmEAOF/",
+        "https://teleon.tv/embed/NGYzYzJhNzc4MDY0ZjNjMmEAOF/",
+        "https://teleon.tv/ar/live-tv/sony-one-series-thriller-es/",
         "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///"
       ],
       "m3u8_url": [
