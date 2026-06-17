@@ -28395,11 +28395,12 @@
     "país": "pe",
     "categoría": "news"
   },
-  "GRUPOSSC5-Espn-Premiun": {
-    "nombre": "GRUPO SSC 5 - Espn-Premiun",
+  "GRUPOSSC5-Espn-Premiun-gacetaucayalina": {
+    "nombre": "GRUPO SSC 5 - Espn-Premiun - Gacetaucayalina",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.gacetaucayalina.com/",
         "https://tucanaldeportivo.org/espnpremium.php",
         "https://www.elahmad.com/tv/ssc-sport-live.php",
         "https://azrotv.com/local/tv/ch/ssc.php?id=extra2#google_vignette"
@@ -29059,14 +29060,18 @@
     "país": "pe",
     "categoría": "news"
   },
-  "PlaneaTv-danec-tv": {
-    "nombre": "Planea Tv - Danec TV",
+  "PlaneaTv-danec-tv-bendicionchannel": {
+    "nombre": "Planea Tv - Danec TV - Bendicionchannel",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://planeatvamazonas.com/"
+        "https://planeatvamazonas.com/",
+        "https://www.bendicionchannel.com/",
+        "http://tvpe15.com/amazonas/planea-tv"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://7.innovatestream.pe:19360/planetajaen/planetajaen.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
