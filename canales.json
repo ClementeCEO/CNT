@@ -115,9 +115,12 @@
     "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",
     "señales": {
       "iframe_url": [
-        "https://teleon.tv/embed/NGYzYzJhOTQ5NTg0ZjNjMmEAOF/"
+        "https://teleon.tv/embed/NGYzYzJhOTQ5NTg0ZjNjMmEAOF/",
+        "http://www.freeintertv.com/modules/View/screen.php?nametv=Fox+News+Live+%28USA%29&idtv=1799&TVSESS=eenjqbaptu3prur041r56bfur4"
       ],
       "m3u8_url": [
+        "https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb7f3e167b726f8c9aca353384a440aa88026a8b5538d26165a9009e23cb160c84e9fb92e94de64a11e24094385631004262d519ce64669e802ef716776c69108a99b265d992026eeb86092e21a3321855e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a2cc71f02b8f541a2fbe84345c66cbfb10c2bc47914a5db5dccd71ba583d24beb17d169f010948cf095d30e82948562fc5ee466595d2130cf8228cb840ce7dccb246198262a0b4c07e4f3cafd4864d1111a5acacca1d00d57f15ee85fe35012f964a84a9625f813c06b94c03e6e2926bd382c0aabd14f696781e8a598f23632c706b1c2bb9f1b78e82ae28828d31b90825278b16cc8b8a5f0b5dcda0288b17b143bc1de699290b3b948d1e757b12ad0cef8943c0d1b2d5442ce6aab9469d43ece3886fa53700c0314f6da62cd888f0a6b2257d0d41794320ba9d78eb4da0c10c374540fbb379708532c841f4448c801b5da306582234aa2303ef0577cc061f4aa23f8a294b45262fb8e8912b13faf860bd4f710a022690a55fda17a1f60487a9fbf32547e298d15aa83b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba66777fec5a25727b03189010a400f2094a1221da11d5b8731aa0022628a6ea7f6a536292c7a692c5b1ee41a674c7c0ed334d690883dcd78589dfb55b90e9e062aea3eb5e11f957e2afd28d/21/1280x720_2886400/index.m3u8",
+        "http://www.freeintertv.com/includes/js/get_item_video_888_3_clappr_m3u8.min.js",
         "https://teleon.tv/stream/cG5wODQ5NDk1OHBucDg0.m3u8",
         "https://feeds.intoday.in/bttv/itgd.m3u8",
         "http://iptv.prosto.tv:7000/ch97/video.m3u8",
