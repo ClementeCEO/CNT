@@ -114,12 +114,9 @@
     "nombre": "FOX-NEWS - Business Today- ECOTV - MI FLOLKLORE - FOX SOUL - LRT Lituanica",
     "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",
     "señales": {
-      "iframe_url": [
-        "https://teleon.tv/embed/NGYzYzJhOTQ5NTg0ZjNjMmEAOF/",
-        "https://www.c-span.org/congress/?chamber=senate&date=2026-06-18",
-        "http://www.freeintertv.com/view/id-1799"
-      ],
+      "iframe_url": [],
       "m3u8_url": [
+        "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
         "https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb7f3e167b726f8c9aca353384a440aa88026a8b5538d26165a9009e23cb160c84e9fb92e94de64a11e24094385631004262d519ce64669e802ef716776c69108a99b265d992026eeb86092e21a3321855e71e6490650f77eeec18238c29fa2c5644a65a38167aa6953dd00a4ed5dc53d02a39fcf88e3a66644a2cc71f02b8f541a2fbe84345c66cbfb10c2bc47914a5db5dccd71ba583d24beb17d169f010948cf095d30e82948562fc5ee466595d2130cf8228cb840ce7dccb246198262a0b4c07e4f3cafd4864d1111a5acacca1d00d57f15ee85fe35012f964a84a9625f813c06b94c03e6e2926bd382c0aabd14f696781e8a598f23632c706b1c2bb9f1b78e82ae28828d31b90825278b16cc8b8a5f0b5dcda0288b17b143bc1de699290b3b948d1e757b12ad0cef8943c0d1b2d5442ce6aab9469d43ece3886fa53700c0314f6da62cd888f0a6b2257d0d41794320ba9d78eb4da0c10c374540fbb379708532c841f4448c801b5da306582234aa2303ef0577cc061f4aa23f8a294b45262fb8e8912b13faf860bd4f710a022690a55fda17a1f60487a9fbf32547e298d15aa83b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba66777fec5a25727b03189010a400f2094a1221da11d5b8731aa0022628a6ea7f6a536292c7a692c5b1ee41a674c7c0ed334d690883dcd78589dfb55b90e9e062aea3eb5e11f957e2afd28d/21/1280x720_2886400/index.m3u8",
         "https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8",
         "https://feeds.intoday.in/bttv/itgd.m3u8",
@@ -287,7 +284,10 @@
       "iframe_url": [
         "https://eu1.servers10.com:2020/VideoPlayer/8106?autoplay=1",
         "https://www.tvporinternet2.com/",
-        "https://www.cablevisionhd.com/espn-en-vivo.php"
+        "https://www.cablevisionhd.com/espn-en-vivo.php",
+        "https://teleon.tv/embed/NGYzYzJhOTQ5NTg0ZjNjMmEAOF/",
+        "https://www.c-span.org/congress/?chamber=senate&date=2026-06-18",
+        "http://www.freeintertv.com/view/id-1799"
       ],
       "m3u8_url": [
         "https://eu1.servers10.com:8081/8106/index.m3u8",
@@ -295,7 +295,7 @@
       ],
       "yt_id": "UClErHbdZKUnD1NyIUeQWvuQ",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/ClementeCEO/Vizontele/blob/main/Channels.json",
       "twitch_id": "hostlivetv"
     },
     "sitio_oficial": "https://www.youtube.com/@der.aktionaer/streams",
