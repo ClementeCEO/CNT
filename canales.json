@@ -30153,27 +30153,39 @@
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://www.cablevisionhd.com/directv-sports-2-en-vivo.php",
       "twitch_id": ""
     },
     "sitio_oficial": "https://canal11delzulia.com/",
     "país": "pe",
     "categoría": "news"
   },
-  "asomavision-tv": {
-    "nombre": "AsomaVision Televisión Cristiana",
+  "DsportSPORTS-2PLUS-DIRECTVSPORTS-2PLUS-asomavision-tv": {
+    "nombre": "Dsport SPORTS-2 PLUS - DIRECTV SPORTS-2 PLUS - AsomaVision Televisión Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://musicacristiana.com.ar/tv/asomavision-tv.htm"
+        "https://musicacristiana.com.ar/tv/asomavision-tv.htm",
+        "https://www.cablevisionhd.com/stream/directvsports.php",
+        "https://www.cablevisionhd.com/stream/directvsports2.php",
+        "https://www.cablevisionhd.com/stream/directvsportsplus.php",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsportsplus&target=2",
+        "https://embed.saohgdasregions.fun/embed/directvsports.html",
+        "https://embed.saohgdasregions.fun/embed2/directvsports.html",
+        "https://embed.saohgdasregions.fun/embed/directvsports2.html",
+        "https://embed.saohgdasregions.fun/embed2/directvsports2.html",
+        "https://embed.saohgdasregions.fun/embed/directvsportsplus.html",
+        "https://embed.saohgdasregions.fun/embed2/directvsportsplus.html",
+        "https://canalshowsport.com.ar/vivo/"
       ],
       "m3u8_url": [
-        "https://asomatv.duckdns.org/livestream/stream.m3u8"
+        "http://190.117.20.37:8000/play/a08d/index.m3u8",
+        "http://190.117.20.39:8000/play/a08d/index.m3u8"
       ],
       "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_embed": "https://github.com/la22lo/sports/blob/f76d23eee802bb27c5bd887e96bb0b0f7d2f4e8f/futbol.m3u#L154",
+      "yt_playlist": "https://github.com/ClementeCEO/belkafutnav/tree/main",
+      "twitch_id": "https://embed.saohgdasregions.fun/"
     },
     "sitio_oficial": "https://musicacristiana.com.ar/asomavision-tv.html",
     "país": "pe",
