@@ -28465,19 +28465,24 @@
     "país": "pe",
     "categoría": "news"
   },
-  "diario-el-comercio": {
-    "nombre": "Diario El Comercio Videos",
+  "USA-FOX-DEPORTES-FuboSportsNetwork-diario-el-comercio": {
+    "nombre": "USA FOX DEPORTES - Fubo Sports Network - Diario El Comercio Videos",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://www.distro.tv/live/black-enterprise/",
         "https://www.distro.tv/live/cindie-tv/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+        "http://45.5.118.152:8000/play/a08d/index.m3u8",
+        "http://181.78.192.238:8000/play/a2hi/index.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8"
+      ],
       "yt_id": "UCLtGUPjKLqa3zgdmhKCZONg",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_embed": "https://github.com/ClementeCEO/fifa",
+      "yt_playlist": "https://github.com/ClementeCEO/LiveTnavezVCollector",
+      "twitch_id": "https://github.com/ClementeCEO/famelack-data"
     },
     "sitio_oficial": "https://elcomercio.pe",
     "país": "pe",
@@ -28493,7 +28498,7 @@
       "m3u8_url": [],
       "yt_id": "UCa5H2yRYfOlUH4c22uY5JsQ",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/ClementeCEO/niuin-s-ipnatv",
       "twitch_id": ""
     },
     "sitio_oficial": "https://n60.pe/",
@@ -28508,7 +28513,7 @@
       "m3u8_url": [],
       "yt_id": "UC2dULJJ_G6TTNjsunSxP7ag",
       "yt_embed": "qHIk_qdNFy0?",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/RichardBuet/EASYTVWEB/blob/main/AIO2506V0.m3u",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/@SupremeMasterTVlive",
