@@ -16882,8 +16882,8 @@
     "país": "fr",
     "categoría": "news"
   },
-  "W9": {
-    "nombre": "W9",
+  "W9-Noovo": {
+    "nombre": "W9 - Noovo",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -16891,9 +16891,13 @@
         "https://azrotv.com/local/drPlayer/?id=w9",
         "https://daddylive1.ru/live/stream-30.php",
         "https://sslivetv.com/live/680-",
-        "http://azrotv.com/iphone/Fr/ch2/w9.php"
+        "http://azrotv.com/iphone/Fr/ch2/w9.php",
+        "https://endirecttv.com/noovo-direct/",
+        "https://endirecttv.com/yayin/?kanal=566&yayin=&guvenlik=$2y$10$2n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt.9oY8uO/i"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
