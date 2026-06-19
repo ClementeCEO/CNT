@@ -1683,6 +1683,7 @@
     "logo": "https://graph.facebook.com/puranoticiachile/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://pnt.janus.cl/front/video_player_no_widgets.html",
         "https://pnt.janus.cl/front/video_player_website.html",
         "https://puranoticia.pnt.cl/cms/stat/stream.html"
       ],
@@ -28323,7 +28324,6 @@
         "https://la18hd.com/vivo/canales.php?stream=movistar",
         "https://la18hd.com/vivo/canales.php?stream=dsports2",
         "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
-        "https://la18hd.com/vivo/canales.php?stream=foxsports2",
         "https://la18hd.com/vivo/canal.php?stream=dsports2",
         "https://la18hd.com/vivo/canales.php?stream=espn1_nl",
         "https://la18hd.com/vivo/canales.php?stream=espn2_nl",
