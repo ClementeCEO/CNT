@@ -487,6 +487,8 @@
       "iframe_url": [
         "https://rudo.video/live/chvn",
         "https://rudo.video/live/chvn",
+        "https://zonatv.store/canales/chilevision/",
+        "https://stream-xhd.com/live1.php?stream=chilevision",
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCRsUoZYC1ULUspipMRnMhwg&autoplay=1&mute=1&modestbranding=1&showinfo=0",
@@ -26630,6 +26632,10 @@
         "https://www.negocios.com/directo/",
         "https://www.repretel.com/envivo-canal2/?source=Internal&ref=Signals+Menu",
         "https://canal6.com.ni/en-vivo/",
+        "https://deportelibree.com/disney.php",
+        "https://miatv.in/eet-tv-tamil/",
+        "https://tamilultra.co.uk/player.php?https://yuppparoriglin.akamaized.net//181224//smil:wowkidztam.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b&id=25734&type=mp4",
+        "https://tamilultra.co.uk/live/wow-kidz-tamil/",
         "https://1.deporte-libre.org/"
       ],
       "m3u8_url": [
@@ -28325,13 +28331,20 @@
         "https://la18hd.com/vivo/canales.php?stream=dsports2",
         "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
         "https://la18hd.com/vivo/canal.php?stream=dsports2",
+        "https://sudamericaplay2.com/canal_8112/cza_dsports.html",
         "https://la18hd.com/vivo/canales.php?stream=espn1_nl",
         "https://la18hd.com/vivo/canales.php?stream=espn2_nl",
         "https://la18hd.com/vivo/canales.php?stream=espn3_nl",
         "https://pelotalibre.click/directv-sports-2/",
+        "https://zonatv.store/canales/max1.php/",
+        "https://streamtpday1.xyz/global2.php?stream=max1",
+        "https://zonatv.store/canales/vix1.php/",
+        "https://stream-xhd.com/live1.php?stream=vix1",
+        "https://stream-xhd.com/live1.php?stream=",
         "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Senegal_es.html",
         "https://s2.free-shoutcast.com/stream/18248",
         "https://futbollibre.click/goltv/",
+        "https://zonatv.store/canales.php?id=vix1",
         "https://tucanaldeportivo.org/golperu.php"
       ],
       "m3u8_url": [
@@ -28341,9 +28354,9 @@
         "https://bradm.ax/build/202403/22/7f3ef98516bf62a2f18d05db9e0b2b9099705a66/index.html?mediaUrl=https%3A%2F%2Flive.obslivestream.com%2Fxtvplus%2Findex.m3u8"
       ],
       "yt_id": "",
-      "yt_embed": "",
+      "yt_embed": "https://deportelibree.com/",
       "yt_playlist": "https://github.com/scrviejo/sandrop/blob/main/SAPO",
-      "twitch_id": ""
+      "twitch_id": "https://deportelibree.com/disney.php"
     },
     "sitio_oficial": "https://xtv.pe/",
     "país": "pe",
@@ -28375,8 +28388,8 @@
         "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8"
       ],
       "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
+      "yt_embed": "https://streamtpday1.xyz/",
+      "yt_playlist": "https://deportelibretv.com/",
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.novelisima.com/page/646792d82a19035a166745f6",
