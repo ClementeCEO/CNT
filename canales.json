@@ -28314,7 +28314,7 @@
     "categoría": "news"
   },
   "DSPORTPLUS-XTVPERU-Yurimaguas": {
-    "nombre": "DSPORT PLUS - XTV PERU Yurimaguas",
+    "nombre": "DSPORTPLUS🆚 - XTV PERU Yurimaguas",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -28322,7 +28322,7 @@
         "https://canalcoin.com/tv-directo/",
         "https://la18hd.com/vivo/canales.php?stream=movistar",
         "https://la18hd.com/vivo/canales.php?stream=dsports2",
-        "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
+        "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
         "https://la18hd.com/vivo/canales.php?stream=foxsports2",
         "https://la18hd.com/vivo/canal.php?stream=dsports2",
         "https://la18hd.com/vivo/canales.php?stream=espn1_nl",
@@ -28330,6 +28330,7 @@
         "https://la18hd.com/vivo/canales.php?stream=espn3_nl",
         "https://pelotalibre.click/directv-sports-2/",
         "http://www.fawanews.sc/FIFA_world_cup_2026_France_vs_Senegal_es.html",
+        "https://s2.free-shoutcast.com/stream/18248",
         "https://futbollibre.click/goltv/",
         "https://tucanaldeportivo.org/golperu.php"
       ],
@@ -28420,8 +28421,8 @@
     "señales": {
       "iframe_url": [
         "https://www.gacetaucayalina.com/",
-        "https://tucanaldeportivo.org/espnpremium.php",
-        "https://www.elahmad.com/tv/ssc-sport-live.php",
+        "https://tucanaldeportivo.net/espnpremium.php",
+        "https://www.elahmad.org/tv/ssc-sport-live.php",
         "https://azrotv.com/local/tv/ch/ssc.php?id=extra2#google_vignette"
       ],
       "m3u8_url": [
@@ -28429,15 +28430,15 @@
       ],
       "yt_id": "",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/yIsus-mEx/AF1CIONADOS/blob/main/Zona.Deportiva.w3u",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://deporte-libre.top/en-vivo-online/espn-7/",
+    "sitio_oficial": "https://mundial.juanjuiserver.com/",
     "país": "pe",
     "categoría": "news"
   },
   "DSPORT-ucayalitv-shumac-tv-peru": {
-    "nombre": "DSPORT - Loreto TV - Ucayalitv Shumac PERU",
+    "nombre": "DSPORT🆚 - Loreto TV - Ucayalitv Shumac PERU",
     "logo": "https://www.ucayalitv.com/",
     "señales": {
       "iframe_url": [
@@ -28466,7 +28467,9 @@
       ],
       "m3u8_url": [
         "https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8",
-        "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+        "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "https://videopro.juanjuistream.uk:1981/tve/tracks-v1a1/mono.m3u8",
+        "https://videopro.juanjuistream.uk:1981/test/tracks-v1a1/mono.m3u8"
       ],
       "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
       "yt_embed": "HOxJF0Xkbn4?",
