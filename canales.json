@@ -485,10 +485,10 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
     "señales": {
       "iframe_url": [
+        "https://stream-xhd.com/live1.php?stream=chilevision",
         "https://rudo.video/live/chvn",
         "https://rudo.video/live/chvn",
         "https://zonatv.store/canales/chilevision/",
-        "https://stream-xhd.com/live1.php?stream=chilevision",
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
         "https://mdstrm.com/live-stream/6491ced935a5833c47dd7f41?volume=0",
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UCRsUoZYC1ULUspipMRnMhwg&autoplay=1&mute=1&modestbranding=1&showinfo=0",
@@ -28499,7 +28499,11 @@
     "señales": {
       "iframe_url": [
         "https://www.distro.tv/live/black-enterprise/",
-        "https://www.distro.tv/live/cindie-tv/"
+        "https://www.distro.tv/live/cindie-tv/",
+        "https://sudamericaplay2.com/canal_8112/1foxone.html",
+        "https://zonatv.store/canales/foxoneusa/",
+        "https://stream-xhd.com/live1.php?stream=foxoneusa",
+        "https://zonatv.store/canales/foxoneusa/op2.php"
       ],
       "m3u8_url": [
         "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
@@ -30177,21 +30181,28 @@
     "país": "pe",
     "categoría": "news"
   },
-  "canal11delzulia-online": {
-    "nombre": "canal 11 del zulia Cristiana",
+  "DAZNMundial-canal11delzulia-online": {
+    "nombre": "DAZN Mundial - Canal 11 del zulia Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://player.restream.io/?token=82c3e679c9b24efd8ef70017d54c0ddf&vwrs=1",
-        "https://canal11delzulia.com/"
+        "https://canal11delzulia.com/",
+        "https://zonatv.store/canales/dazn-mundial/",
+        "https://cartelive.club/player/3/56",
+        "https://cartelive.club/player/3/75",
+        "https://zonatv.store/canales.php?id=dazn-mundial",
+        "https://zonatv.store/canales/dazn-mundial/op2.php",
+        "https://donis.jimpenopisonline.online/premiumtv/daddy.php?id=918",
+        "https://zonatv.store/canales.php?id=dazn-mundial4"
       ],
       "m3u8_url": [
         "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJjNWFlZDUzY2E5NDg4MDk2ZjFhMTEwOTA5NWI1MDEzMCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzMxNDcxMjIwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.NufORuovUQdf3GiAi8MrtIStOOGUew3HMIfhn2fvlyIeEbDQjTe21gunBiARKtctnkqww_gN5AMana8bOsEu3F8Qk1ljtfiPUdNg1QaX9wUcB4IWijPSEg0wyJ64mngxFwjTWrVCMyKhBTWd73Tg8xG6p30Vb2pNG2zVvy0JwCY8PZ6L9d06mL5XMWi7QNrY93i_QVEtCvZmraGiaCmpGc5vuKKMVSvST-x49p-Smzdi_R7HM1nTTIZGE9rmtnqAXJkIxDi9-6JNgOsy0zE8VexgFj_Bq28dt7e3aCcHMCPJlJoz7Ge0qQ-ypmRg-NrRl-55qgz-EAPUpDsuKTgQMw/manifest/video.m3u8"
       ],
       "yt_id": "",
-      "yt_embed": "",
+      "yt_embed": "https://streamtpday1.xyz/",
       "yt_playlist": "https://www.cablevisionhd.com/directv-sports-2-en-vivo.php",
-      "twitch_id": ""
+      "twitch_id": "https://deportelibree.com/"
     },
     "sitio_oficial": "https://canal11delzulia.com/",
     "país": "pe",
