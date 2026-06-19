@@ -15803,11 +15803,13 @@
     "país": "es",
     "categoría": "news"
   },
-  "la-vanguardia": {
-    "nombre": "La Vanguardia",
+  "la-vanguardia-rtvmarbella": {
+    "nombre": "La Vanguardia - RTVMarbella",
     "logo": "https://graph.facebook.com/LaVanguardia/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://rtvmarbella.tv/tv-en-directo/"
+      ],
       "m3u8_url": [],
       "yt_id": "UClLLRs_mFTsNT5U-DqTYAGg",
       "yt_embed": "",
@@ -28550,8 +28552,12 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.tvcnews.tv/live-streaming/",
+        "https://naijaonline.tv/itv-nigeria",
         "https://www.distro.tv/live/romance-channel/",
-        "https://www.tivify.tv/inicio"
+        "https://www.tivify.tv/inicio",
+        "https://tvivu.com/watch/bride-tv",
+        "https://www.arise.tv/nigeria-launches-freetv-with-over-100-free-channels-unveils-new-era-of-digital-broadcasting/#"
       ],
       "m3u8_url": [],
       "yt_id": "UCgp4A6I8LCWrhUzn-5SbKvA",
@@ -28560,7 +28566,7 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/@tvcnewsnigeria/streams",
-    "país": "pe",
+    "país": "ng",
     "categoría": "news"
   },
   "Suspenso-Channel": {
