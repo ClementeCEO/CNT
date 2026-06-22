@@ -10984,6 +10984,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://cdn.tdtcloud.xyz/ws16.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws15.php?t=1782165879076",
         "https://cdn.tdtcloud.xyz/ws15.php",
         "https://embed.saohgdasregions.fun/embed2/rcn.html",
         "https://www.canalrcn.nl/",
@@ -28358,6 +28360,9 @@
       "iframe_url": [
         "https://xtv.pe/",
         "https://canalcoin.com/tv-directo/",
+        "https://cdn.tdtcloud.xyz/ws07.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws08.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws09.php?t=1782165879076",
         "https://la18hd.com/vivo/canales.php?stream=movistar",
         "https://la18hd.com/vivo/canales.php?stream=dsports2",
         "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
@@ -30299,7 +30304,7 @@
     "país": "pe",
     "categoría": "Deportes"
   },
-  "UQDUawHPXQrIAtKZNVXhrky2YF0zS9IMMiJAUKMn8G70tCqr-BethelTV-Cristiana": {
+  "ESPN-Premium-BethelTV-Cristiana": {
     "nombre": "ESPN Premium - ESPN Premium Argentina - TyC Sports - Sqala - Bethel TV Cristiana",
     "logo": "",
     "señales": {
@@ -30308,7 +30313,33 @@
         "https://sqala.tv/",
         "https://embed.saohgdasregions.fun/embed2/espnpremium.html",
         "https://embed.saohgdasregions.fun/embed2/espnpremiumargentina.html",
-        "https://embed.saohgdasregions.fun/embed2/tycsports.html"
+        "https://embed.saohgdasregions.fun/embed2/tycsports.html",
+        "https://cdn.tdtcloud.xyz/ws25.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws24.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws23.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws22.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws21.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws19.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws18.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws17.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws16.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws15.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws14.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws13.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws12.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws11.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws10.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws09.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws20.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws08.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws07.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws06.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws05.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws04.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws03.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws02.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws01.php?t=1782165879076",
+        "https://wsdeportes.net/?v=dsportsmas"
       ],
       "m3u8_url": [
         "https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8"
