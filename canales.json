@@ -10899,7 +10899,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.chatytvgratishd.me/canal.php?id=caracol",
         "https://regionales.saohgdasregions.fun/stream.php?canal=caracol&target=2",
         "https://embed.saohgdasregions.fun/embed/caracol.html",
         "https://moviedays.top/embed-live1.php?v=caracol",
@@ -10923,9 +10922,7 @@
         "https://www.youtube-nocookie.com/embed/live_stream?channel=UC2Xq2PK-got3Rtz9ZJ32hLQ&autoplay=1&mute=1&modestbranding=1&showinfo=0"
       ],
       "m3u8_url": [
-        "https://hls.tdtcloud.xyz/hls/CarSD1/index.m3u8?token=KIf-gDFXNzNSrYWI7UI2fw&expires=1780442034",
-        "https://hls.tdtcloud.xyz/hls/CarHD1/index.m3u8?token=M41axCPQn9p5VvLdmUF7Lg&expires=1780442177",
-        "https://w1327.mywebtv.cloud/hls/CarSD1b/index.m3u8?token=hESpJk6XKbdiJQgcwLQi_w&expires=1780442273",
+        "https://hls.tdtcloud.xyz/hls/CarSD2/index.m3u8?token=CeL-AE04XB5xWF40DqsZtA&expires=1782178676",
         "https://video.ejeserver.com/live/teledoradahd.m3u8",
         "http://147.75.116.250:8586/play/a01r/index.m3u8"
       ],
@@ -24542,6 +24539,7 @@
         "https://embed.saohgdasregions.fun/embed2/tntseries.html",
         "https://embed.saohgdasregions.fun/embed/tntseries.html",
         "https://www.golive.cl/tv/nmas-univision",
+        "https://www.nmas.com.mx/en-vivo/?canal=forotv",
         "https://www.nmas.com.mx/foro-tv/"
       ],
       "m3u8_url": [
