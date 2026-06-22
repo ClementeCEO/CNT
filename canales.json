@@ -43,9 +43,17 @@
   },
   "BBC-PERSIAN-Navez": {
     "nombre": "BBC PERSIANavez - IRIBusiness3",
-    "logo": "",
+    "logo": "https://vivotv.lat/",
     "señales": {
       "iframe_url": [
+        "https://moviedays.top/embed-live1.php?v=directvsports",
+        "https://moviedays.top/embed-live1.php?v=directvsports2",
+        "https://moviedays.top/embed-live1.php?v=directvsportsplus",
+        "https://moviedays.top/embed-live1.php?v=tntnovelas",
+        "https://moviedays.top/embed-live1.php?v=latina",
+        "https://moviedays.top/embed-live1.php?v=caracol",
+        "https://moviedays.top/embed-live1.php?v=univision",
+        "https://moviedays.top/embed-live1.php?v=atv",
         "https://telewebion.ir/live/tv1",
         "https://telewebion.ir/embed/live/irinn",
         "https://telewebion.ir/embed/live/tv3",
