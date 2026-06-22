@@ -46,7 +46,9 @@
     "logo": "https://vivotv.lat/",
     "señales": {
       "iframe_url": [
-        "https://cdn.tdtcloud.xyz/caracolhd201x.php",
+        "https://cdn.tdtcloud.xyz/ws07.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws08.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws09.php?t=1782165879076",
         "https://telewebion.ir/live/tv1",
         "https://telewebion.ir/embed/live/irinn",
         "https://telewebion.ir/embed/live/tv3",
