@@ -24541,6 +24541,7 @@
         "https://embed.saohgdasregions.fun/embed/lasestrellas.html",
         "https://embed.saohgdasregions.fun/embed2/tntseries.html",
         "https://embed.saohgdasregions.fun/embed/tntseries.html",
+        "https://www.golive.cl/tv/nmas-univision",
         "https://www.nmas.com.mx/foro-tv/"
       ],
       "m3u8_url": [
@@ -30980,14 +30981,16 @@
         "https://lamiafm.com/",
         "https://embed.saohgdasregions.fun/embed2/disneychannel.html",
         "https://embed.saohgdasregions.fun/embed2/globaltv.html",
-        "https://embed.saohgdasregions.fun/embed2/discoverykids.html"
+        "https://embed.saohgdasregions.fun/embed2/discoverykids.html",
+        "https://www.golive.cl/tv/discovery-la",
+        "https://hanerix.com/e/e1s57yu286ea"
       ],
       "m3u8_url": [
         "https://vdo.upmediatech.com/LiveApp/streams/lamiafm.m3u8"
       ],
-      "yt_id": "",
+      "yt_id": "UCcP6Vtkc2DtQ0IV9r_x6pCQ",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/filmboxapp/",
       "twitch_id": ""
     },
     "sitio_oficial": "https://lamiafm.com/",
@@ -35952,6 +35955,7 @@
     "señales": {
       "iframe_url": [
         "https://la18hd.com/vivo/canales.php?stream=univision",
+        "https://moviedays.top/embed-live1.php?v=univision",
         "https://deporflix.net/canales/univision/",
         "https://www.univision.com/noticias/en-vivo-noticias-24-7",
         "https://www.xtremo-stereo.com/univision-en-vivo/",
