@@ -46,14 +46,6 @@
     "logo": "https://vivotv.lat/",
     "señales": {
       "iframe_url": [
-        "https://moviedays.top/embed-live1.php?v=directvsports",
-        "https://moviedays.top/embed-live1.php?v=directvsports2",
-        "https://moviedays.top/embed-live1.php?v=directvsportsplus",
-        "https://moviedays.top/embed-live1.php?v=tntnovelas",
-        "https://moviedays.top/embed-live1.php?v=latina",
-        "https://moviedays.top/embed-live1.php?v=caracol",
-        "https://moviedays.top/embed-live1.php?v=univision",
-        "https://moviedays.top/embed-live1.php?v=atv",
         "https://telewebion.ir/live/tv1",
         "https://telewebion.ir/embed/live/irinn",
         "https://telewebion.ir/embed/live/tv3",
@@ -10910,6 +10902,7 @@
         "https://www.chatytvgratishd.me/canal.php?id=caracol",
         "https://regionales.saohgdasregions.fun/stream.php?canal=caracol&target=2",
         "https://embed.saohgdasregions.fun/embed/caracol.html",
+        "https://moviedays.top/embed-live1.php?v=caracol",
         "https://beisbol-en-vivo-online.blogspot.com/2017/01/caracol-1_9.html",
         "https://play.tdtchannels.com/television/NoticiasCaracolColombia",
         "https://iteleflix.com/ver/noticias-caracol-colombia-en-directo-online/",
@@ -26175,6 +26168,7 @@
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=1",
         "https://regionales.saohgdasregions.fun/stream.php?canal=atv&target=2",
         "https://embed.saohgdasregions.fun/embed2/atv.html",
+        "https://moviedays.top/embed-live1.php?v=atv",
         "https://globoview.cam/directorio/peru/atv/",
         "https://www.atv.pe/",
         "https://v2.ssh101.com/detailng.php?id=lagloriafm",
@@ -26223,6 +26217,7 @@
         "https://rudo.video/live/latinanoticias",
         "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=latina&target=1",
+        "https://moviedays.top/embed-live1.php?v=latina",
         "https://rudo.video/live/latinanoticias?autoplay=true&volume=0",
         "https://www.latina.pe/tvenvivo",
         "https://tvlibres.com/",
@@ -30262,6 +30257,9 @@
         "https://embed.saohgdasregions.fun/embed2/directvsports2.html",
         "https://embed.saohgdasregions.fun/embed/directvsportsplus.html",
         "https://embed.saohgdasregions.fun/embed2/directvsportsplus.html",
+        "https://moviedays.top/embed-live1.php?v=directvsports",
+        "https://moviedays.top/embed-live1.php?v=directvsports2",
+        "https://moviedays.top/embed-live1.php?v=directvsportsplus",
         "https://canalshowsport.com.ar/vivo/"
       ],
       "m3u8_url": [
@@ -31004,8 +31002,10 @@
         "//www.alsolnet.com/stream/dialradiotv/arg/player.htm",
         "https://dialradio.tv/",
         "https://embed.saohgdasregions.fun/embed2/tntnovelas.html",
+        "https://moviedays.top/embed-live1.php?v=tntnovelas",
         "https://embed.saohgdasregions.fun/embed2/universalcinema.html",
-        "https://embed.saohgdasregions.fun/embed2/fmhotkids.html"
+        "https://embed.saohgdasregions.fun/embed2/fmhotkids.html",
+        "https://moviedays.top/embed-live1.php?v=fmhotkids"
       ],
       "m3u8_url": [
         "//streamyes.alsolnet.com/dialradiotv/live/playlist.m3u8"
