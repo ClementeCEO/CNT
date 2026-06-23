@@ -30306,7 +30306,7 @@
     "categoría": "Deportes"
   },
   "ESPN-Premium-BethelTV-Cristiana": {
-    "nombre": "ESPN Premium-AR🅰️🅳🅾️🆂 TyC Sports - Sqala - Bethel TV Cristiana",
+    "nombre": "🅰️🅳ESPN Premium-AR🅾️🆂 TyC Sports - Sqala - Bethel TV Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30343,11 +30343,12 @@
         "https://sqala.tv/"
       ],
       "m3u8_url": [
-        "https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8"
+        "https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8",
+        "https://cdn.tdtcloud.xyz/CH01.php?t=1782165879076",
       ],
       "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
+      "yt_embed": "https://www.chatytvgratis.net/",
+      "yt_playlist": "https://wsdeportes.net/?v=disneyplus",
       "twitch_id": ""
     },
     "sitio_oficial": "https://musicacristiana.com.ar/bethel-tv.html",
