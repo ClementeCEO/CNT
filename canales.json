@@ -30306,12 +30306,11 @@
     "categoría": "Deportes"
   },
   "ESPN-Premium-BethelTV-Cristiana": {
-    "nombre": "ESPN Premium - ESPN Premium Argentina - TyC Sports - Sqala - Bethel TV Cristiana",
+    "nombre": "ESPN Premium-AR🅰️🅳🅾️🆂 TyC Sports - Sqala - Bethel TV Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://musicacristiana.com.ar/tv/bethel-tv.htm",
-        "https://sqala.tv/",
         "https://embed.saohgdasregions.fun/embed2/espnpremium.html",
         "https://embed.saohgdasregions.fun/embed2/espnpremiumargentina.html",
         "https://embed.saohgdasregions.fun/embed2/tycsports.html",
@@ -30340,7 +30339,8 @@
         "https://cdn.tdtcloud.xyz/ws03.php?t=1782165879076",
         "https://cdn.tdtcloud.xyz/ws02.php?t=1782165879076",
         "https://cdn.tdtcloud.xyz/ws01.php?t=1782165879076",
-        "https://wsdeportes.net/?v=dsportsmas"
+        "https://wsdeportes.net/?v=dsportsmas",
+        "https://sqala.tv/"
       ],
       "m3u8_url": [
         "https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8"
