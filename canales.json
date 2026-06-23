@@ -47,7 +47,6 @@
     "señales": {
       "iframe_url": [
         "https://telewebion.ir/live/tv1",
-        "https://telewebion.ir/embed/live/irinn",
         "https://www.irtv.website/embed.php?name=BBC-Persian",
         "https://darya.stream/live-tv/varzish-tv-iran-live/",
         "https://deeyartelevision.com/en/deeyartv-live/",
@@ -55,7 +54,8 @@
         "https://www.bbc.com/persian/media-49522521 ",
         "https://persianhub1.com/watch/live/bbc-persian-live",
         "https://www.persianity.com/ch=Shabakeh-3",
-        "https://tv.sarcheshmeh.us/name=Shabakeh-3"
+        "https://tv.sarcheshmeh.us/name=Shabakeh-3",
+        "https://telewebion.ir/embed/live/irinn"
       ],
       "m3u8_url": [
         "https://live-news.asharq.com/asharq_1080p30.m3u8",
