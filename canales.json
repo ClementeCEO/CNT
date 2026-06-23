@@ -392,18 +392,20 @@
     "país": "cl",
     "categoría": "news"
   },
-  "MEGA-Oficial": {
-    "nombre": "MEGA Oficial",
+  "MEGA-OficialRadio-Usach": {
+    "nombre": "MEGA Oficial - Radio Usach",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://rudo.video/live/mega"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://stv4.janus.cl/playlist/stream.m3u8?PlaylistM3UCL"
+      ],
       "yt_id": "UCEpId-jtRABuZyX6D2z6FZQ",
       "yt_embed": "zlhH_QNMkMs?",
       "yt_playlist": "https://www.mega.cl/",
-      "twitch_id": ""
+      "twitch_id": "https://github.com/brucmsTV/brucmsM3U/blob/22c47ac2db1ddddde3044aeb4ce00c024bdf43fe/PlanNacional.m3u#L264"
     },
     "sitio_oficial": "https://www.youtube.com/@megaoficial",
     "país": "cl",
