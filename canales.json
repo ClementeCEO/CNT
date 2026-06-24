@@ -4,6 +4,8 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
     "señales": {
       "iframe_url": [
+        "https://sintoniza.tv/canal/epa-tv/iframe/",
+        "https://sintoniza.tv/canal/epa-tv/",
         "https://www.channelstv.com/live/",
         "https://regionales.saohgdasregions.fun/stream.php?canal=fx&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=space&target=2",
@@ -23,6 +25,7 @@
         "https://www.24horas.cl/envivo/"
       ],
       "m3u8_url": [
+        "https://v4.tustreaming.cl/edusauriotv/index.m3u8",
         "http://181.118.153.15:8000/play/tb45/index.m3u8?hls",
         "http://41.205.93.154/ESPN/index.m3u8",
         "http://41.205.93.154:80/MSNBC/index.m3u8",
@@ -3825,11 +3828,15 @@
     "categoría": "general"
   },
   "Arica-TV": {
-    "nombre": "Arica TV",
+    "nombre": "AricaTV - PLAZATV",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://tvonlinechile.cl/canal/arica-tv"
+        "https://tvonlinechile.cl/canal/arica-tv",
+        "https://sintoniza.tv/canal/plazatv/iframe/",
+        "https://plazatv.cl/",
+        "https://sintoniza.tv/canal/coyhaique-tv/iframe/",
+        "https://www.coyhaique-tv.cl/"
       ],
       "m3u8_url": [
         "https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8"
@@ -4020,11 +4027,15 @@
     "país": "cl",
     "categoría": "news"
   },
-  "fmplustv-tv": {
-    "nombre": "Fmplustv TV",
+  "fmplustv-docevision": {
+    "nombre": "FmplusTV - Docevision",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://sintoniza.tv/canal/docevision/iframe/",
+        "https://docevision.weebly.com/",
+        "https://sintoniza.tv/canal/fantasia-tv/iframe/"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
@@ -5888,13 +5899,14 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://player.twitch.tv/?channel=rbolondi&parent=www.5900.tv"
+        "https://sintoniza.tv/canal/canal-6-digital/iframe/",
+        "https://noticiasdel6.com/tv/"
       ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "rbolondi"
     },
     "sitio_oficial": "https://www.5900.tv/teledigital-pascanas/",
     "país": "ar",
@@ -29240,13 +29252,17 @@
     "categoría": "news"
   },
   "nzk-television-cpn": {
-    "nombre": "NZK Televisión - cpn",
+    "nombre": "NZK Televisión - cpn - TVSTELAR",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://cableperu.pe/ver-cpn"
+        "https://cableperu.pe/ver-cpn",
+        "https://sintoniza.tv/canal/estelar-tv-tarapoto/iframe/",
+        "https://estelartvtarapoto.com/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://srt.tvdatta.com/tvestelar/index.m3u8"
+      ],
       "yt_id": "UCE7mMrSeXxOnIAJK9eBen6Q",
       "yt_embed": "",
       "yt_playlist": "",
@@ -34715,11 +34731,14 @@
     "país": "ve",
     "categoría": "news"
   },
-  "latinamedios-tv": {
-    "nombre": "Latinamedios TV",
+  "latinamediostv-MileniumTV": {
+    "nombre": "LatinamediosTV - Milenium TV",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://sintoniza.tv/canal/milenium-tv/iframe/",
+        "https://sites.google.com/view/mileniumtv/"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
