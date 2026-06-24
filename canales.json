@@ -25909,11 +25909,14 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://vmvpd.short.gy/Успешный",
         "https://tv.exitosanoticias.pe",
         "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0",
         "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://luna-1-video.mediaserver.digital/exitosatv_server2_3d41s0d1/tracks-v1a1/mono.m3u8"
+      ],
       "yt_id": "UCxgO_rak_BKZP8VNVmYqbWg",
       "yt_embed": "",
       "yt_playlist": "",
@@ -26278,9 +26281,13 @@
         "https://www.youtube.com/embed/DhWVrsc0RuQ?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://atvenvivo.com/en-vivo/latina.php.html",
         "https://www.futxi.com/en-vivo/latina-television/",
-        "http://tvonline.2fer.top/peru/latina"
+        "http://tvonline.2fer.top/peru/latina",
+        "https://vmvpd.short.gy/Латина",
+        "https://vmvpd.short.gy/ВТ/Латина",
+        "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429010"
       ],
       "m3u8_url": [
+        "https://vmvpd.short.gy/ВТ/Латина",
         "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/429010",
         "https://redirector.rudo.video/hls-video/567ffde3fa31AziGRT61CE9bvyEo7VeGnPGcovJ2MhmPi/latina/latina.smil/playlist.m3u8?did=b2119699464653fd0407ce84",
         "https://redirector.rudo.video/hls-video/52n1Mv2e4KmLTTZDy3uCz4fYmsqDwcsUEWvkVXZ2spXbt/latina/latina.smil/playlist.m3u8",
