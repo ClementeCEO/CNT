@@ -17620,7 +17620,7 @@
     "categoría": "cristiana"
   },
   "ebenezer2-online": {
-    "nombre": "Ebenezer2 - Quesada Tv26 - Romance channel",
+    "nombre": "Ebenezer2 - Quesada Tv26",
     "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
     "señales": {
       "iframe_url": [
@@ -17630,7 +17630,6 @@
         "https://tvocanal23.com/tvo-en-vivo/",
         "https://www.chapintv.com/envivo-canal-7/",
         "https://www.enlace.org/envivo/",
-        "https://www.distro.tv/live/romance-channel/",
         "https://www.timesnownews.com/live-tv"
       ],
       "m3u8_url": [
@@ -18570,7 +18569,10 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false"
+        "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false",
+        "https://www.tikilive.com/watch/live",
+        "https://github.com/WalkerBarbosa88/LILILO-TV/blob/bdfc2add4bd93efa31fd6bb443015b5d405db230/aa%20info%20m3u#L168",
+        "https://github.com/search?q=https%3A%2F%2Fwww.distro.tv&type=code"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -18587,7 +18589,8 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false"
+        "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false",
+        "https://www.dens.tv/tv-local/watch/13/mdtv"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -18604,7 +18607,9 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false"
+        "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false",
+        "https://www.cnnindonesia.com/tv",
+        "https://github.com/warningfm/v2/blob/60342494894714adb0d875fecbf5a72819bb5db2/live/vs1.m3u8"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -28686,68 +28691,6 @@
     },
     "sitio_oficial": "https://www.youtube.com/@suspensochannel/streams",
     "país": "pe",
-    "categoría": "news"
-  },
-  "prima-sport-1": {
-    "nombre": "Prima Sport 1- Vezi Pro Arena HD",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
-        "https://www.tvonline123.com/embed/prima-sport-1",
-        "https://www.tvonline123.com/epg/prima-sport-1"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
-    "país": "ro",
-    "categoría": "news"
-  },
-  "digi-sport-1-2-digi-24": {
-    "nombre": "Digi Sport 1-2 - Digi 24",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.digi24.ro/live/digi24",
-        "https://tvron.org/digi-sport-1/",
-        "https://tvcanale.live/embed.php?id=62",
-        "https://tvron.org/digi-sport-2/",
-        "https://tvcanale.live/embed.php?id=63",
-        "https://tvron.org/digi-sport-2/",
-        "https://www.digi24.ro/live/digi24"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://tvron.org/digi-sport-1/",
-    "país": "ro",
-    "categoría": "news"
-  },
-  "observatornews": {
-    "nombre": "Observatornews",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://observatornews.ro/live/"
-      ],
-      "m3u8_url": [
-        "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
-        "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews_1400k.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://observatornews.ro/live/",
-    "país": "ro",
     "categoría": "news"
   },
   "romance-channel": {
@@ -43386,6 +43329,68 @@
     "sitio_oficial": "https://www.youtube.com/channel/",
     "país": "",
     "categoría": "classic"
+  },
+  "prima-sport-1": {
+    "nombre": "Prima Sport 1- Vezi Pro Arena HD",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
+        "https://www.tvonline123.com/embed/prima-sport-1",
+        "https://www.tvonline123.com/epg/prima-sport-1"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "digi-sport-1-2-digi-24": {
+    "nombre": "Digi Sport 1-2 - Digi 24",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.digi24.ro/live/digi24",
+        "https://tvron.org/digi-sport-1/",
+        "https://tvcanale.live/embed.php?id=62",
+        "https://tvron.org/digi-sport-2/",
+        "https://tvcanale.live/embed.php?id=63",
+        "https://tvron.org/digi-sport-2/",
+        "https://www.digi24.ro/live/digi24"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvron.org/digi-sport-1/",
+    "país": "ro",
+    "categoría": "news"
+  },
+  "observatornews": {
+    "nombre": "Observatornews",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://observatornews.ro/live/"
+      ],
+      "m3u8_url": [
+        "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+        "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews_1400k.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://observatornews.ro/live/",
+    "país": "ro",
+    "categoría": "news"
   },
   "rt-Noticias": {
     "nombre": "RT Noticias",
