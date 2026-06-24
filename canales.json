@@ -25909,6 +25909,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://tv.exitosanoticias.pe",
         "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0",
         "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/embed.html?autoplay=0"
       ],
@@ -27232,8 +27233,8 @@
     "país": "pe",
     "categoría": "news"
   },
-  "tv-cosmos": {
-    "nombre": "TV COSMOS",
+  "tvcosmos-INKAVISIÓN": {
+    "nombre": "TVCOSMOS - INKA VISIÓN",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -27243,8 +27244,8 @@
       "m3u8_url": [
         "https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCPYZkyHfgFRxj51pSLoym1A",
+      "yt_embed": "OmEu0rg5k40?",
       "yt_playlist": "",
       "twitch_id": ""
     },
