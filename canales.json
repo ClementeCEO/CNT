@@ -46,7 +46,6 @@
     "logo": "https://vivotv.lat/",
     "señales": {
       "iframe_url": [
-        "https://www.parsatv.com/embed.php?name=FX-TV-1&auto=false",
         "https://telewebion.ir/live/tv1",
         "https://www.irtv.website/embed.php?name=BBC-Persian",
         "https://darya.stream/live-tv/varzish-tv-iran-live/",
@@ -30799,7 +30798,8 @@
         "https://enlace.plus/live",
         "https://embed.saohgdasregions.fun/embed2/fx.html",
         "https://embed.saohgdasregions.fun/embed2/goldenplus.html",
-        "https://embed.saohgdasregions.fun/embed2/goldenedge.html"
+        "https://embed.saohgdasregions.fun/embed2/goldenedge.html",
+        "https://www.parsatv.com/embed.php?name=FX-TV-1&auto=false"
       ],
       "m3u8_url": [
         "https://livecdn.enlace.plus/enconcierto/smil:enconcierto-hd.smil/chunklist_b2752000_sleng.m3u8"
