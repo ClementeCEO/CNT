@@ -30285,16 +30285,18 @@
       "iframe_url": [
         "https://teleon.tv/ec/live-tv/asomavision-ec/",
         "https://musicacristiana.com.ar/tv/asomavision-tv.htm",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsports&target=2",
         "https://www.cablevisionhd.com/stream/directvsports.php",
-        "https://www.cablevisionhd.com/stream/directvsports2.php",
-        "https://www.cablevisionhd.com/stream/directvsportsplus.php",
-        "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsportsplus&target=2",
+        "https://www.cablevisionhd.com/stream/directvsports.php",
         "https://embed.saohgdasregions.fun/embed/directvsports.html",
         "https://embed.saohgdasregions.fun/embed2/directvsports.html",
         "https://embed.saohgdasregions.fun/embed/directvsports2.html",
         "https://embed.saohgdasregions.fun/embed2/directvsports2.html",
+        "https://www.cablevisionhd.com/stream/directvsports2.php",
+        "https://www.cablevisionhd.com/stream/directvsportsplus.php",
         "https://embed.saohgdasregions.fun/embed/directvsportsplus.html",
         "https://embed.saohgdasregions.fun/embed2/directvsportsplus.html",
+        "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsportsplus&target=2",
         "https://moviedays.top/embed-live1.php?v=directvsports",
         "https://moviedays.top/embed-live1.php?v=directvsports2",
         "https://moviedays.top/embed-live1.php?v=directvsportsplus",
@@ -30308,7 +30310,7 @@
       ],
       "m3u8_url": [
         "http://190.117.20.37:8000/play/a08d/index.m3u8",
-        "http://190.117.20.39:8000/play/a08d/index.m3u8"
+        "https://www.cablevisionhd.com/stream/directvsports.php"
       ],
       "yt_id": "",
       "yt_embed": "https://github.com/la22lo/sports/blob/f76d23eee802bb27c5bd887e96bb0b0f7d2f4e8f/futbol.m3u#L154",
