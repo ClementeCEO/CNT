@@ -30481,7 +30481,7 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "https://streamx-hd.com/"
     },
     "sitio_oficial": "https://musicacristiana.com.ar/agape-tv-el-salvador-tv.html",
     "país": "pe",
@@ -30874,7 +30874,7 @@
     "categoría": "news"
   },
   "MIX-TV-StudioUniversal-Multipremier-AMC": {
-    "nombre": "MIX TV - Studio Universal - Multipremier - AMC",
+    "nombre": "Studio Universal - Multipremier - AMC - MIX TV",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30897,7 +30897,7 @@
     "categoría": "news"
   },
   "supertrendy-valencia-Paramount Channel-DPelicula-MTV": {
-    "nombre": "Supertrendy Valencia - Paramount Channel - DPelicula - MTV",
+    "nombre": "Paramount Channel - DPelicula - MTV -  Supertrendy Valencia",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30943,7 +30943,7 @@
     "categoría": "news"
   },
   "Rumbera-107-9-DiscoveryChannel-DiscoveryH&H-IDInvestigation": {
-    "nombre": "Rumbera 107-9 - Discovery Channel - Discovery H&H - ID Investigation - ",
+    "nombre": "Discovery Channel - Discovery H&H - ID Investigation - Rumbera 107-9",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30966,7 +30966,7 @@
     "categoría": "news"
   },
   "Supertrendy-Cojedes-DiscoveryTheater-DiscoveryTLC-DiscoveryA&E": {
-    "nombre": "Supertrendy Cojedes - Discovery Theater - Discovery TLC - Discovery A&E",
+    "nombre": "Discovery Theater - Discovery TLC - Discovery A&E - Supertrendy Cojedes",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30987,7 +30987,7 @@
     "categoría": "news"
   },
   "91-5-Supertrendy-ElGourmet-Everything-DiscoveryWorld": {
-    "nombre": "91-5 Supertrendy - El Gourmet - Everything - Discovery World",
+    "nombre": "El Gourmet - Everything - Discovery World - 91-5 Supertrendy",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -31009,7 +31009,7 @@
     "categoría": "news"
   },
   "Laquebuenaatlanta-NickJr-DisneyJr": {
-    "nombre": "Laquebuenaatlanta - Nick Jr - Disney Jr",
+    "nombre": "Nick Jr - Disney Jr - Laquebuenaatlanta",
     "logo": "",
     "señales": {
       "iframe_url": [
