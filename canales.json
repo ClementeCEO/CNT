@@ -4562,7 +4562,18 @@
         "https://www.syri-vision.tv/live/",
         "https://video.gjirafa.com/drejteperdrejt",
         "https://ww1.knaqu.tv/",
-        "https://tvklan.al/"
+        "https://tvklan.al/",
+        "https://antena1.rtp.pt/",
+        "https://www.oranews.tv/live/",
+        "https://report-tv.al/report_live",
+        "https://syritv.al/",
+        "https://www.syri.net/",
+        "https://top-channel.tv/topnewslive/",
+        "https://tropoja.tv/live/",
+        "https://tv7.al/live/",
+        "https://apollon.tv/bota-2/",
+        "https://www.vizionplus.tv/livestream/",
+        "https://www.rtp.pt/play/popup/antena1"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -26113,12 +26124,11 @@
   },
   "TumbajulcaNavez ANTENAUNO": {
     "nombre": "Tumbajulca Navez - ANTENA UNO",
-    "logo": "",
+    "logo": "TVAlbania",
     "señales": {
       "iframe_url": [
         "https://canala1.com/",
         "https://www.antenauno.com/",
-        "https://www.rtp.pt/play/popup/antena1",
         "https://iblups.com/tv",
         "https://iblups.com/urbanateve",
         "https://iblups.com/tvmaranataweb",
@@ -26126,12 +26136,9 @@
         "https://iblups.com/gandudasorte",
         "https://iblups.com/casmatv",
         "https://iblups.com/televisiodelpoble",
-        "https://iblups.com/triunforadiotv",
-        "https://antena1.rtp.pt/"
+        "https://iblups.com/triunforadiotv"
       ],
-      "m3u8_url": [
-        "https://live-evg1.tv360.bitel.com.pe/bitel/auno/chunks.m3u8"
-      ],
+      "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
