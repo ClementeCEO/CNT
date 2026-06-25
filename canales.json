@@ -34189,6 +34189,8 @@
     "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
+        "https://dailymotion.com/embed/video/x930kre?autoplay=1&ui-highlight&start&endscreen-enable=0&controls=1&mute=0&ui-start-screen-info=1&ui-logo=1",
+        "https://vtv.com.ve/",
         "https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0",
         "https://tvinsur.com/venezuela/reforma-tv/",
         "https://tvinsur.com/venezuela/canal-once/"
@@ -34200,6 +34202,42 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.vtv.gob.ve/en-vivo/",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "vtv-ve-vtvradiofm": {
+    "nombre": " Venezolana Televisión (VTV) RADIO Venezuela",
+    "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1",
+        "https://www.vtv.gob.ve/en-vivo/",
+        "https://canal8.com.ve/en-directo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "UC2_P7AV2jJ9_gYK0VS-w2rA",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.atom.bio/vtvradio_",
+    "país": "ve",
+    "categoría": "news"
+  },
+  "vnradio1049fm": {
+    "nombre": "Venezuela News Radio",
+    "logo": "https://graph.facebook.com/agenciaVenezuelaNews/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://customer-6usl3cynfiimbl78.cloudflarestream.com/00d86ee9f866c69da0cfc961bd3c9c8c/iframe"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://venezuela-news.com/radio/",
     "país": "ve",
     "categoría": "news"
   },
@@ -34228,8 +34266,8 @@
     "país": "ve",
     "categoría": "news"
   },
-  "televentv-tves-tv": {
-    "nombre": "TelevenTV - TvEs",
+  "televentv-tves-LGDTelevision": {
+    "nombre": "TelevenTV - TvEs - LGD Television",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -34242,7 +34280,9 @@
         "https://es.livetvcentral.com/tv/tves",
         "https://app.televen.com/"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8"
+      ],
       "yt_id": "UCPxs1siPSF6YKGtKP_Zyvtw",
       "yt_embed": "",
       "yt_playlist": "",
@@ -34302,42 +34342,6 @@
       "twitch_id": "ultimachance_"
     },
     "sitio_oficial": "https://www.youtube.com/channel/UCw2ceOxZ4VhgRSre0ny2RcA",
-    "país": "ve",
-    "categoría": "news"
-  },
-  "vtv-ve-vtvradiofm": {
-    "nombre": "VTV RADIO Venezuela",
-    "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [
-        "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1",
-        "https://www.vtv.gob.ve/en-vivo/",
-        "https://canal8.com.ve/en-directo/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "UC2_P7AV2jJ9_gYK0VS-w2rA",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.atom.bio/vtvradio_",
-    "país": "ve",
-    "categoría": "news"
-  },
-  "vnradio1049fm": {
-    "nombre": "Venezuela News Radio",
-    "logo": "https://graph.facebook.com/agenciaVenezuelaNews/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [
-        "https://customer-6usl3cynfiimbl78.cloudflarestream.com/00d86ee9f866c69da0cfc961bd3c9c8c/iframe"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://venezuela-news.com/radio/",
     "país": "ve",
     "categoría": "news"
   },
