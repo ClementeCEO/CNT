@@ -26138,7 +26138,13 @@
         "https://iblups.com/televisiodelpoble",
         "https://iblups.com/triunforadiotv"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://crwn-hits.akamaized.net/hls/playlist.m3u8",
+        "https://crwn-nsrc.akamaized.net/hls/playlist.m3u8",
+        "https://crwn-christmas.akamaized.net/hls/playlist.m3u8",
+        "https://crwn-mysteries.akamaized.net/hls/playlist.m3u8",
+        "https://github.com/ClementeCEO/hallmark-epgnavez/blob/main/hallmark.m3u"
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -30277,6 +30283,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://teleon.tv/ec/live-tv/asomavision-ec/",
         "https://musicacristiana.com.ar/tv/asomavision-tv.htm",
         "https://www.cablevisionhd.com/stream/directvsports.php",
         "https://www.cablevisionhd.com/stream/directvsports2.php",
@@ -30291,7 +30298,13 @@
         "https://moviedays.top/embed-live1.php?v=directvsports",
         "https://moviedays.top/embed-live1.php?v=directvsports2",
         "https://moviedays.top/embed-live1.php?v=directvsportsplus",
-        "https://canalshowsport.com.ar/vivo/"
+        "https://canalshowsport.com.ar/vivo/",
+        "https://globoview.cam/directorio/ecuador/asomavision/",
+        "https://www.zonadecristo.com/2023/11/asomavision-en-vivo-por-internet-online.html",
+        "https://serenotv.com/canal/canal-asomavision/",
+        "https://www.vivalivetv.com/channel/asomavision",
+        "https://www.asomavision.com/?srsltid=AfmBOopB6e1UiFE42EEt6fFSAFjcxf_3aDf39xCmebIfpLVVvMUlpv_9",
+        "https://tvradio-online.com/channel/marmorkos-tv-live/"
       ],
       "m3u8_url": [
         "http://190.117.20.37:8000/play/a08d/index.m3u8",
@@ -30448,7 +30461,7 @@
     "categoría": "Deportes"
   },
   "ESPN7-DirecTV Sports-2-agape-tv-el-salvador-tv": {
-    "nombre": "ESPN 7 - DirecTV Sports-2 - AGAPE TV Canal 8 Cristiana",
+    "nombre": "ESPN7🅾️ - DirecTV Sports-2 - AGAPE TV Canal 8 Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30469,7 +30482,7 @@
     "categoría": "Deportes"
   },
   "DirecTVSportsPlus-ESPN-2-México-TBN-EspañaTV-Cristiana": {
-    "nombre": "DirecTV Sports Plus - ESPN México-2 - TBN España TV Cristiana",
+    "nombre": "DirecTV🅳 Sports Plus - ESPN México-2 - TBN España TV Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30540,7 +30553,7 @@
     "categoría": "Deportes"
   },
   "MovistarDeportes-DAZNF1-DAZNLaLiga-The-Word-Network-Cristiana-INGLES": {
-    "nombre": "Movistar Deportes 🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 DAZN F1 - DAZN La Liga - The Word Network Cristiana INGLES",
+    "nombre": "Movistar🅵1 Deportes 🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂 DAZN F1 - DAZN La Liga - The Word Network Cristiana INGLES",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30565,7 +30578,7 @@
     "categoría": "Deportes"
   },
   "MovistarLigadeCampeones-WinSports-Plus-Spirit-TV-Cristiana-INGLES": {
-    "nombre": "Movistar Liga de Campeones - Win Sports - Win Sports Plus - Spirit TV Cristiana INGLES",
+    "nombre": "Movistar1🅲 Liga de Campeones - Win Sports - Win Sports Plus - Spirit TV Cristiana INGLES",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30588,7 +30601,7 @@
     "categoría": "Deportes"
   },
   "BeINSportsXtra-MovistarLaLiga-NBA-THEDOVE-TVCristianaINGLES": {
-    "nombre": "BeIN Sports Xtra - Movistar La Liga - NBA - THE DOVE TV Cristiana INGLES",
+    "nombre": "BeIN🅸 Sports Xtra - Movistar La Liga - NBA - THE DOVE TV Cristiana INGLES",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30724,7 +30737,7 @@
     "categoría": "news"
   },
   "History2-Pasiones-Galavision-Los-Evangelios-Cristiana": {
-    "nombre": "History 2 - Pasiones - Galavision - Los Evangelios Cristiana",
+    "nombre": "History2🅾️ - Pasiones - Galavision - Los Evangelios Cristiana",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -30734,9 +30747,9 @@
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=1",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
-        "https://embed.saohgdasregions.fun/embed2/history2.html",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history&target=3",
+        "https://embed.saohgdasregions.fun/embed2/history2.html",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=2",
         "https://regionales.saohgdasregions.fun/stream.php?canal=history2&target=3",
