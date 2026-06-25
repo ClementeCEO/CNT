@@ -34292,8 +34292,8 @@
     "país": "ve",
     "categoría": "news"
   },
-  "la-iguana-tv": {
-    "nombre": "La Iguana TV",
+  "la-iguanatv": {
+    "nombre": "La IguanaTV",
     "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
@@ -34331,11 +34331,15 @@
     "categoría": "news"
   },
   "ultimachance": {
-    "nombre": "Lista Tv",
+    "nombre": "ListaTv - Reforma TV",
     "logo": "",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://www.reformatv.net/"
+      ],
+      "m3u8_url": [
+        "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
+      ],
       "yt_id": "UCw2ceOxZ4VhgRSre0ny2RcA",
       "yt_embed": "",
       "yt_playlist": "",
@@ -34346,13 +34350,15 @@
     "categoría": "news"
   },
   "anzoategui-tv": {
-    "nombre": "Anzoátegui TV",
+    "nombre": "AnzoáteguiTV - Oxigeno Network",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://lorini.net/anzoateguitv/"
+        "https://lorini.net/anzoateguitv/",
+        "https://oxigenonetwork.com.ve/"
       ],
       "m3u8_url": [
+        "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8",
         "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
       ],
       "yt_id": "UCjTbJ6Obs0yWlL36lw-Tz8w",
@@ -34553,7 +34559,7 @@
     "categoría": "news"
   },
   "valetv-tv": {
-    "nombre": "Valetv Online",
+    "nombre": "ValeTV",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -34592,11 +34598,13 @@
     "categoría": "news"
   },
   "canal11delzulia-TV": {
-    "nombre": "Canal11delzulia TV",
+    "nombre": "Canal11 zuliaTV",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://globalstreaming.com.ve/reproductor/video.php?p=3&s=canalzulia"
+        "https://canalc.vercel.app/stream.html",
+        "https://globalstreaming.com.ve/reproductor/video.php?p=3&s=canalzulia",
+        "https://canalc.vercel.app/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -34609,11 +34617,16 @@
     "categoría": "news"
   },
   "promar-tv": {
-    "nombre": "Promar TV",
+    "nombre": "PromarTV - Telearagua",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "http://www.telearagua.net/envivo/",
+        "https://www.promar.tv/senal-en-vivo-2/",
+        "https://www.telearagua.net/"
+      ],
       "m3u8_url": [
+        "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
         "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
       ],
       "yt_id": "",
@@ -34621,19 +34634,21 @@
       "yt_playlist": "",
       "twitch_id": ""
     },
-    "sitio_oficial": "https://www.promar.tv/senal-en-vivo-2/",
+    "sitio_oficial": "https://www.promar.tv/",
     "país": "ve",
     "categoría": "news"
   },
-  "vepaco-tv": {
-    "nombre": "Vepaco TV",
+  "vepaco-Novelisima": {
+    "nombre": "VepacoTV - Novelisima",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://player.streamingconnect.com/cliente/player2.php?id=88&numero=0"
+        "https://player.streamingconnect.com/cliente/player2.php?id=88&numero=0",
+        "https://www.novelisima.com/player/channel/6762e742266509002439fefc",
+        "https://www.novelisima.com/"
       ],
       "m3u8_url": [],
-      "yt_id": "",
+      "yt_id": "https://www.novelisima.com/",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
@@ -34642,12 +34657,13 @@
     "país": "ve",
     "categoría": "news"
   },
-  "trv-tv": {
-    "nombre": "TRV TV",
+  "trv-MovieFe": {
+    "nombre": "TRV - Movie Fe",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://trv.net.ve/"
+        "https://trv.net.ve/",
+        "https://www.tvvnetwork.com/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -34659,12 +34675,13 @@
     "país": "ve",
     "categoría": "news"
   },
-  "trt-tv": {
-    "nombre": "TRT TV",
+  "trt-Nubeh": {
+    "nombre": "TRT Nubeh",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://trttv.gr/web-tv/"
+        "https://trttv.gr/web-tv/",
+        "https://www.nubehtv.com/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -34681,6 +34698,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://tvocanal23.com/tvo-en-vivo/",
         "https://www.tvo-online.ch/live"
       ],
       "m3u8_url": [],
@@ -34716,9 +34734,12 @@
     "señales": {
       "iframe_url": [
         "https://sintoniza.tv/canal/milenium-tv/iframe/",
-        "https://sites.google.com/view/mileniumtv/"
+        "https://sites.google.com/view/mileniumtv/",
+        "https://www.cxtvlive.com/live-tv/latina-tv-venezuela"
       ],
-      "m3u8_url": [],
+      "m3u8_url": [
+        "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+      ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
@@ -34729,11 +34750,16 @@
     "categoría": "news"
   },
   "laiguana-TV": {
-    "nombre": "Laiguana TV",
+    "nombre": "LaiguanaTV - AguacateTV",
     "logo": "https://www.laiguana.tv/wp-content/uploads/2020/05/logo_movil.jpg",
     "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
+      "iframe_url": [
+        "https://www.laiguana.tv/envivo/",
+        "https://aguacatetv.com/"
+      ],
+      "m3u8_url": [
+        "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+      ],
       "yt_id": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
       "yt_embed": "",
       "yt_playlist": "",
