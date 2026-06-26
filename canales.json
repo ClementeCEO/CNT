@@ -417,9 +417,12 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
     "señales": {
       "iframe_url": [
+        "https://la18hd.com/vivo/canales.php?stream=dsports",
         "https://la18hd.com/vivo/canales.php?stream=dsports2",
+        "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
+        "https://stream-xhd.com/channel2/?id=dsports1&t=1782482309921",
         "https://stream-xhd.com/channel2/?id=dsports2&t=1782482309921",
-        "https://wsdeportes.net/?v=dsports&op=2",
+        "https://stream-xhd.com/channel3/?id=dsportsplus&t=1782482309921",
         "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
         "https://www.youtube.com/embed/R_V7FhsCPwM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
         "https://rudo.video/live/t13?autoplay=true&volume=0",
@@ -11011,9 +11014,6 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://cdn.tdtcloud.xyz/ws16.php?t=1782165879076",
-        "https://cdn.tdtcloud.xyz/ws15.php?t=1782165879076",
-        "https://cdn.tdtcloud.xyz/ws15.php",
         "https://embed.saohgdasregions.fun/embed2/rcn.html",
         "https://www.canalrcn.nl/",
         "https://www.canalrcn.com/co/player/67535f2a8e10fec44f483a50",
@@ -11036,7 +11036,10 @@
         "https://w1327.mywebtv.cloud/hls/rcnsd/index.m3u8?token=TMbT91vv_4EnCokEjGG7gw&expires=1780164237",
         "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
         "https://1569023982.rsc.cdn77.org/AG8S7FUHP_jV1apmnEKwLw==,1743710148/1569023982/tracks-v3a1/mono.m3u8",
-        "https://1632122577.rsc.cdn77.org/YW4R58XPjBy8nShtkoE-nw==,1743710579/1632122577/index.m3u8"
+        "https://1632122577.rsc.cdn77.org/YW4R58XPjBy8nShtkoE-nw==,1743710579/1632122577/index.m3u8",
+        "https://cdn.tdtcloud.xyz/ws16.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws15.php?t=1782165879076",
+        "https://cdn.tdtcloud.xyz/ws15.php"
       ],
       "yt_id": "UCSCAJJ1RJ4rfRTVW4gjYTpQ",
       "yt_embed": "-8ItzGB4j7o",
