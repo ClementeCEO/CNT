@@ -419,8 +419,7 @@
       "iframe_url": [
         "https://la18hd.com/vivo/canales.php?stream=dsports2",
         "https://stream-xhd.com/channel2/?id=dsports2&t=1782482309921",
-        "https://cdn.tdtcloud.xyz/ws07.php",
-        "https://cdn.tdtcloud.xyz/ws07.php?t=1782484035307",
+        "<iframe id="videoFrame" data-src="https://cdn.tdtcloud.xyz/ws07b.php" title="DSPORTS" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" allowfullscreen="" src="https://cdn.tdtcloud.xyz/ws07b.php?t=1782484465876"></iframe>",
         "https://cdn.tdtcloud.xyz/ws07.php?t=1782165879076",
         "https://cdn.tdtcloud.xyz/ws08.php?t=1782165879076",
         "https://cdn.tdtcloud.xyz/ws09.php?t=1782165879076",
