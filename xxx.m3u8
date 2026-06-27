@@ -3,6 +3,8 @@
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:0 type="favorites" channelId="3731" group="-", Azteca UNO https://mametchikitty.github.io/Listas-IPTV/
 http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:0 type="favorites" channelId="3731" group="-",amc
+http://181.119.177.253:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="canal 1 AMERICA HD.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", Cana 1 HD (720p)
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(M7xsLF3mqcTWj6oU0EjAqngJZugvlQa0XuaOVCIH7b2cOad5wZ4PTZpTzfkQc0IMBPYAQuhhxLuE5DQIMrR8H1HWcAmJJ2JVREIyW3hi_vtcVtRalUa246LHjkWW3lN_)/cloud/3/x9nvvkc/s/live-720.m3u8
 #EXTINF:-1 tvg-id="STAR TVE AMERICA HD.us" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="music", STAR TVE AMERICA HD (720p)
