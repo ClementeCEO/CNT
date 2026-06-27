@@ -416,7 +416,9 @@
     "nombre": "TVC DEPORTES - Fortaleza",
     "logo": "",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "http://190.117.20.37:8000/play/a08d/index.m3u8"
+      ],
       "m3u8_url": [
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8",
