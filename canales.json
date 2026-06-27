@@ -34133,7 +34133,7 @@
     "categoría": "news"
   },
   "telesur": {
-    "nombre": "TeleSUR",
+    "nombre": "TeleSUR - Telecolor",
     "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
     "señales": {
       "iframe_url": [
@@ -34141,15 +34141,16 @@
         "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0",
         "https://www.youtube.com/embed/OiV3tZGxNYc?si=5Mp6nTBFbWVMXEPU",
         "https://app.televen.com/player/live?channelId=20003079&categoryId=90000663&categoryName=Nacionales&channelNumber=104",
-        "https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live"
+        "https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live",
+        "https://telecolor.com/"
       ],
       "m3u8_url": [
-        "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-        "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?DVR",
+        "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
         "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
       ],
       "yt_id": "UCh57chOa8G811mvbqHBqxlw",
-      "yt_embed": "",
+      "yt_embed": "OiV3tZGxNYc?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -34165,9 +34166,10 @@
         "https://mbliveec.telesur.ultrabase.net/"
       ],
       "m3u8_url": [
-        "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+        "https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
         "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8",
-        "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"
+        "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8",
+        "https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur_eng.m3u8"
       ],
       "yt_id": "UCmuTmpLY35O3csvhyA6vrkg",
       "yt_embed": "",
