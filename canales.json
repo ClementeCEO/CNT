@@ -34138,7 +34138,10 @@
     "señales": {
       "iframe_url": [
         "https://mblive.telesur.ultrabase.net/",
-        "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"
+        "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0",
+        "https://www.youtube.com/embed/OiV3tZGxNYc?si=5Mp6nTBFbWVMXEPU",
+        "https://app.televen.com/player/live?channelId=20003079&categoryId=90000663&categoryName=Nacionales&channelNumber=104",
+        "https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ/live"
       ],
       "m3u8_url": [
         "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
@@ -37252,15 +37255,16 @@
     "categoría": "news"
   },
   "wfaa-channel": {
-    "nombre": "WFAA Channel",
+    "nombre": "WFAA Channel - 🏀FIFA🏀",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.wfaa.com/liveweatherchannel"
+        "https://www.wfaa.com/liveweatherchannel",
+        "https://www.youtube.com/user/FIBAWorld/live"
       ],
       "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "UCtInrnU3QbWqFGsdKT1GZtg",
+      "yt_embed": "ignUn4xeR90?",
       "yt_playlist": "",
       "twitch_id": ""
     },
@@ -39037,7 +39041,7 @@
     "categoría": "news"
   },
   "NBTV2-Fangshan-Noticias": {
-    "nombre": "NBTV2 - Fangshan Noticias",
+    "nombre": "NBTV2 - Fangshan Noticias - RTHK",
     "logo": "",
     "señales": {
       "iframe_url": [
@@ -39045,10 +39049,14 @@
         "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV2/index.shtml",
         "https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV3/index.shtml",
         "http://www.funhillrm.com/news/folder65/",
-        "https://www.squidtv.net/china/zhejiang/zhejiang-003.html#google_vignette"
+        "https://www.squidtv.net/china/zhejiang/zhejiang-003.html#google_vignette",
+        "https://www.rthk.hk/tv"
       ],
-      "m3u8_url": [],
-      "yt_id": "",
+      "m3u8_url": [
+        "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8",
+        "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"
+      ],
+      "yt_id": "https://www.rthk.hk/tv",
       "yt_embed": "",
       "yt_playlist": "",
       "twitch_id": ""
@@ -40172,12 +40180,17 @@
     "categoría": "news"
   },
   "TIVI-6": {
-    "nombre": "TIVI 6",
+    "nombre": "TIVI 6 - Number One",
     "logo": "https://i.ibb.co/9H3DMWz/tivi6.png",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.numberone.com.tr/2015/12/18/nr1-tv-canli-yayin/"
+      ],
       "m3u8_url": [
-        "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8"
+        "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+        "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+        "https://github.com/AireTV/TDTChannels/blob/6ccf8fcbabd0fa152cd0ff16ce416d2a2a3f488e/TELEVISION.md?plain=1#L635",
+        "https://github.com/jesusdf/TDTChannels/blob/f5fdbfae9b2882a378ff939a98713d16b7f894b8/TELEVISION.md?plain=1#L689"
       ],
       "yt_id": "",
       "yt_embed": "",
