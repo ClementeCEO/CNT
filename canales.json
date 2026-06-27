@@ -416,18 +416,17 @@
     "nombre": "TVC DEPORTES - Fortaleza",
     "logo": "",
     "señales": {
-      "iframe_url": [
-        "http://107.150.60.122/live/cctv5p.m3u8",
-        "http://190.117.20.37:8000/play/a08d/index.m3u8"
-      ],
+      "iframe_url": [],
       "m3u8_url": [
-        "http://107.150.60.122/live/cctv5p.m3u8",
+        "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=9d707e8cc0862b94741b347b87cd03eb39f5cb6f-82-1782623679-1782569679&ip=179.6.6.103",
+        "https://v4.tustreaming.cl/edusauriotv/index.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8",
         "http://38.226.210.46:8000/play/A008/index.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/114.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8",
         "http://190.117.20.37:8000/play/a08d/index.m3u8",
+        "http://107.150.60.122/live/cctv5p.m3u8",
         "http://190.14.10.19:16000/play/a02u/index.m3u8"
       ],
       "yt_id": "",
