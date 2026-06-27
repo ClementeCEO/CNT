@@ -419,6 +419,9 @@
       "iframe_url": [],
       "m3u8_url": [
         "https://sa.streamtpday1.xyz:443/global/dsports/index.m3u8?token=9d707e8cc0862b94741b347b87cd03eb39f5cb6f-82-1782623679-1782569679&ip=179.6.6.103",
+        "https://lb1new.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/107.m3u8?token=TRdbUxIKFF8SXQgNAVoBBFQHVQZbAwJWVgYFBVNfAlJSBwNRVldTBgUaFRpCFkdTU1g5DF0RCANUVRgQFhVREWlcVxBbQARHHBpNUVwHFwwCGUQVUFcQCEZQBABTXg1aFBkRVxkWUxdeWVVnVQdDX1FQRF9XRl5eSEBbXDwCUQ5XW1cQW0AGRxwaUEtBQA9YR1kKSRtRW0YWA0BXQVwWUQEBChBNQFUKRVZNSkhADxRicERJG1ZKRgEMR1sMCBZZFFgAR1lAGkdZS2ZKVBFBRFdUCwBLEQgQVEAYEA4HTDxVWl1cBAFCDF9WShoLQAUUHhcLCldaRl0WPURbB0QOQQQMAQpUVwNHTQ==",
+        "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
+        "https://adpnetworkhd-cmd.github.io/iptv/PlusPlus.m3u8",
         "https://v4.tustreaming.cl/edusauriotv/index.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/122.m3u8",
@@ -429,13 +432,13 @@
         "http://107.150.60.122/live/cctv5p.m3u8",
         "http://190.14.10.19:16000/play/a02u/index.m3u8"
       ],
-      "yt_id": "",
-      "yt_embed": "",
+      "yt_id": "https://liveam.tv/uk/plusplus.html",
+      "yt_embed": "https://github.com/Romaxa55/world_ip_tv/blob/6170644c8bdbdf7783dbde9afce52c0fa86a13a8/output/ua.m3u#L43",
       "yt_playlist": "https://github.com/ClementeCEO/prrrh",
       "twitch_id": "https://streamtpday1.xyz/"
     },
-    "sitio_oficial": "",
-    "país": "cl",
+    "sitio_oficial": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8",
+    "país": "uk",
     "categoría": "news"
   },
   "t13-2": {
@@ -34103,6 +34106,10 @@
         "https://lorini.net/exctv/",
         "https://tvinsur.com/venezuela/globovision/",
         "https://tv.legal/watch/tv-oasis-trujillo-ve",
+        "https://tvivu.com/watch/chivacoa-tv-internacional",
+        "https://www.chiletvapp.com/online/tv-oasis",
+        "https://icanlive.tv/live/31338/tv-oasis-monay.html",
+        "https://www.chiletvapp.com/online/c-y-g-tv",
         "https://tv.legal/watch/torococo-tv-ve"
       ],
       "m3u8_url": [
@@ -34115,7 +34122,8 @@
         "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8",
         "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8",
         "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
-        "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8"
+        "https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8",
+        "http://181.78.8.199:8000/play/a09k/index.m3u8"
       ],
       "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
       "yt_embed": "QxgBzI8MG08?",
