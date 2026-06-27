@@ -432,7 +432,7 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "https://github.com/ClementeCEO/prrrh",
-      "twitch_id": ""
+      "twitch_id": "https://streamtpday1.xyz/"
     },
     "sitio_oficial": "",
     "país": "cl",
@@ -443,9 +443,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
     "señales": {
       "iframe_url": [
-        "https://la18hd.com/vivo/canales.php?stream=dsports",
-        "https://la18hd.com/vivo/canales.php?stream=dsports2",
-        "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
         "https://stream-xhd.com/channel2/?id=dsports1&t=1782482309921",
         "https://stream-xhd.com/channel2/?id=dsports2&t=1782482309921",
         "https://stream-xhd.com/channel3/?id=dsportsplus&t=1782482309921",
