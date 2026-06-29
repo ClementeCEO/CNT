@@ -15838,15 +15838,18 @@
       ],
       "m3u8_url": [
         "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-        "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+        "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+        "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+        "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619",
+        "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
         "https://ztnr.rtve.es/ztnr/3293681.m3u8",
-        "https://ztnr.rtve.es/ztnr/1688885.m3u8",
         "https://ztnr.rtve.es/ztnr/5468585.m3u8",
-        "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8"
+        "",
+        "https://ztnr.rtve.es/ztnr/5468585.m3u8"
       ],
       "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
       "yt_embed": "",
-      "yt_playlist": "",
+      "yt_playlist": "https://github.com/JMigue85/IPTV-SV/blob/main/IPTVSV.m3u",
       "twitch_id": "https://github.com/Karthikdoddi/iptv/blob/aad587b8cd1e0a875681553405b4d1ee1d93cd48/streams/al.m3u"
     },
     "sitio_oficial": "https://www.rtve.es/noticias",
@@ -15922,6 +15925,54 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg",
+    "país": "es",
+    "categoría": "news"
+  },
+  "Canal-Antena-3": {
+    "nombre": "Canal Antena 3",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://embed.saohgdasregions.fun/embed2/antena3.html",
+        "https://www.livehdtv.com/yayin/?kanal=663&yayin=&guvenlik=$2y$10$l1Y9s89LsQUj354UEXpAu.24is0wgdU5R9J8DGKwwlWaef2kYoFFy",
+        "https://www.livehdtv.com/token.php?stream=ant3",
+        "https://nebunexa.co/clappr/?id=ANTENA3",
+        "https://tele-libre.org/en-vivo-online/antena-3/embed.php",
+        "https://tele-libre.org/en-vivo-online/antena-3/embed2.php",
+        "https://www.livehdtv.com/antena-3-spain/",
+        "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM="
+      ],
+      "m3u8_url": [
+        "http://176.65.146.237:8401/play/a0ae/index.m3u8",
+        "http://38.183.182.166:8000/play/a0sx/index.m3u8",
+        "https://tvnoov.com/application/player/?id=/fadoo/antena3.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvlibreonline.net/en-vivo/antena3/",
+    "país": "es",
+    "categoría": "news"
+  },
+  "A3SERIES": {
+    "nombre": "A3SERIES",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://www.livehdtv.com/yayin/?kanal=668&yayin=&guvenlik=$2y$10$CGzTwr.rkO6n6Bg/dSILRixNbV1uJUPG1n5e4SrAwPBcvYn99xNQz",
+        "https://www.canalred.tv/",
+        "https://deporflix.com/canales/a3series-atreseries/",
+        "https://www.livehdtv.com/tv3-catalonia/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://tvhd.pe/a3series-en-vivo/",
     "país": "es",
     "categoría": "news"
   },
@@ -16130,6 +16181,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.livehdtv.com/yayin/?kanal=665&yayin=&guvenlik=$2y$10$VDIazv.KH4cwOd.K0O.7dOsSdstWN0cjKTr85ywqhIDnYK8aTjK8S",
         "https://www.cuatro.com/en-directo/",
         "https://tele-libre.org/en-vivo-online/la-cuatro/embed.php",
         "https://tvcuatro.tv/4-1/",
@@ -16183,6 +16235,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://www.livehdtv.com/yayin/?kanal=664&yayin=&guvenlik=$2y$10$qmc5QXKBjNbZn6/MfjxVI.xD5XJ4Uvb8XLqVzTr6QoRoXJ/WXtiEW",
         "https://www.telecinco.es/endirecto/#utm_source=directo_desktop",
         "https://canalcoin.com/tv-directo/",
         "https://teleonline.org/canal/informacion-tv/",
@@ -16191,6 +16244,7 @@
         "https://www.telecinco.es/endirecto/"
       ],
       "m3u8_url": [
+        "https://helpfullive.info/telec/index.m3u8?token=65792a6d3d97d7b66f8ff816fc9cf119eaf4891c-1f416912390b8fa979db07d1f98d8f41-1782757831-1782747031",
         "http://176.65.146.237:8401/play/a09r/index.m3u8",
         "https://tvnoov.com/application/player/?id=/fadoo/telecincohd.m3u8"
       ],
@@ -16320,49 +16374,6 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
-    "país": "es",
-    "categoría": "news"
-  },
-  "Canal-Antena-3": {
-    "nombre": "Canal Antena 3",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://embed.saohgdasregions.fun/embed2/antena3.html",
-        "https://nebunexa.co/clappr/?id=ANTENA3",
-        "https://tele-libre.org/en-vivo-online/antena-3/embed.php",
-        "https://tele-libre.org/en-vivo-online/antena-3/embed2.php",
-        "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM="
-      ],
-      "m3u8_url": [
-        "http://176.65.146.237:8401/play/a0ae/index.m3u8",
-        "http://38.183.182.166:8000/play/a0sx/index.m3u8",
-        "https://tvnoov.com/application/player/?id=/fadoo/antena3.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://tvlibreonline.net/en-vivo/antena3/",
-    "país": "es",
-    "categoría": "news"
-  },
-  "A3SERIES": {
-    "nombre": "A3SERIES",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.canalred.tv/",
-        "https://deporflix.com/canales/a3series-atreseries/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://tvhd.pe/a3series-en-vivo/",
     "país": "es",
     "categoría": "news"
   },
