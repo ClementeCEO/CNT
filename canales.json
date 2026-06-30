@@ -417,6 +417,7 @@
     "logo": "https://i.imgur.com/gPteww8.jpeg",
     "señales": {
       "iframe_url": [
+        "https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/204/file/stream.mpd?hdnts=exp=1782834851~acl=/stream/204/file/stream.mpd!/stream/204/file/*/aac/*!/stream/204/file/*/*-2160p/*!/stream/204/file/*/*-1440p/*!/stream/204/file/*/*-1080p/*!/stream/204/file/*/*-720p/*!/stream/204/file/*/*-480p/*!/stream/204/file/*/*-360p/*~id=allUsers~hmac=a83b84b05c71153f8b6fede09de1d4d2c9error code: 522&user_token=ytRREMQfyFii_KDMxpbC",
         "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
         "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
         "https://m90play2026.blogspot.com/p/520365.html?url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd&k1=45bbd582f220f438f896450d8306a3f2&k2=582c6ba7f64bbc0f2d91c6b0c265760c",
