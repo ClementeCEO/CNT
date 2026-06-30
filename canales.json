@@ -414,11 +414,14 @@
   },
   "t13": {
     "nombre": "TVC DEPORTES - Fortaleza",
-    "logo": "",
+    "logo": "https://i.imgur.com/gPteww8.jpeg",
     "señales": {
       "iframe_url": [
+        "https://tvratu.my.id/vid/index.mpd?id=205&type=dash",
+        "https://tvratu.my.id/vid/index.mpd?id=204&type=dash",
         "https://m90play2026.blogspot.com/p/520365.html?url=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd&k1=45bbd582f220f438f896450d8306a3f2&k2=582c6ba7f64bbc0f2d91c6b0c265760c",
         "https://ecuatvhd.github.io/ecuatv/clarp.html?url=http://132.255.210.69:9000/play/a06i/index.m3u8",
+        "https://ecuatvhd.github.io/ecuatv/clarp.html?url=http://66.102.126.10:8000/play/a076/index.m3u8",
         "https://latamvidzfy.org/tvela1.php",
         "https://latamplay1.click/channel/la1.html",
         "https://streamx996.one/global1.php?channel=telemundo",
@@ -428,11 +431,12 @@
         "https://streamx996.one/global1.php?channel=disney1",
         "https://streamx996.one/global1.php?channel=fox1ar",
         "https://streamx996.one/global1.php?channel=daznf1",
-        "https:///sudamericaplay.sbs/canal_41/caracoltv41.php"
+        "https:///sudamericaplay.sbs/canal_41/caracoltv41.php",
+        "https://www.rctiplus.com/tv/mnctv"
       ],
       "m3u8_url": [
         "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
-        "https://cgxheq.fubo18.com:443/dsports/mono.m3u8?token=51148c87a613578de37c8e026acbb9db0dc489dc-7d-1782767353-1782749353",
+        "http://66.102.126.10:8000/play/a076/index.m3u8",
         "https://adpnetworkhd-cmd.github.io/iptv/PlusPlus.m3u8",
         "https://v4.tustreaming.cl/edusauriotv/index.m3u8",
         "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.m3u8",
