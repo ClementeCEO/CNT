@@ -48538,17 +48538,17 @@
         "https://www.oned.net/en/home"
       ],
       "m3u8_url": [
-        "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
-        "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8",
+        "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8 ",
         "https://cdn-live.dltv.ac.th/dltv14.m3u8",
         "https://github.com/wandering-oldman/egaletv/blob/main/egaletv-ch-one31.m3u8",
         "https://github.com/sesukyothole/LiveTVCollector/blob/9410e692f48ff4e5588839ae11673f9eccc9b136/BugsfreeStreams/processed_links-TH.json#L818",
-        "https://github.com/ZXArkin/my-personal-iptv/blob/6e1469751b4bbe410b83288ca7e75312950475c1/ZXIPTV.m3u"
+        "https://github.com/ZXArkin/my-personal-iptv/blob/6e1469751b4bbe410b83288ca7e75312950475c1/ZXIPTV.m3u",
+        "https://github.com/imfelixlaw/iptv/blob/dd6394dca0eb6f59800a2b6290836e44a73dd361/streams/th.m3u#L89"
       ],
       "yt_id": "UC8f7MkX4MFOOJ2SerXLInCA",
       "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
+      "yt_playlist": "https://github.com/songwenhui237/songwenhui237/blob/2172e803d03af8c3dc0af2f5f251cd3866b18929/tvlist.txt#L87",
+      "twitch_id": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
     },
     "sitio_oficial": "https://github.com/Soponwit19997/IPTV/blob/main/Digital_TV.m3u",
     "país": "th",
