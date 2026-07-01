@@ -4,9 +4,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
     "señales": {
       "iframe_url": [
-        "https://108.181.8.179/c/canal26/live?__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20",
-        "https://208.87.240.35/embed/e8LvHiIl8G0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0&__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20",
-        "https://www.youtube.com/c/canal26/live",
         "https://sintoniza.tv/canal/epa-tv/iframe/",
         "https://sintoniza.tv/canal/epa-tv/",
         "https://www.channelstv.com/live/",
@@ -25,7 +22,8 @@
         "https://s.emisoras.tv:2020/VideoPlayer/mimutv?autoplay=1",
         "https://mimutv.com/",
         "https://tvnplay.com/",
-        "https://www.24horas.cl/envivo/"
+        "https://www.24horas.cl/envivo/",
+        "https://www.youtube.com/c/canal26/live"
       ],
       "m3u8_url": [
         "https://v4.tustreaming.cl/edusauriotv/index.m3u8",
