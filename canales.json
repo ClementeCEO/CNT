@@ -574,6 +574,7 @@
         "https://www.tvonlinechile.cl/senal-chv"
       ],
       "m3u8_url": [
+        "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?did=",
         "http://38.250.127.17:9800/play/a08e/index.m3u8",
         "http://38.250.127.17:9800/play/a05h/index.m3u8",
         "http://38.250.127.17:9800/play/a0al/index.m3u8",
