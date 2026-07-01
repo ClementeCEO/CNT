@@ -91,6 +91,7 @@
         "http://azrotv.com/iphone/arabic/ch2/asharq_news.php",
         "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1",
         "https://persianhub1.com/watch/live/BBC%20Persian%20Live",
+        "https://habbabihd.com/iqraalivetv.aspx",
         "https://www.youtube.com/watch?v=f6VpkfV7m4Y"
       ],
       "m3u8_url": [
@@ -34140,9 +34141,10 @@
   },
   "globovision": {
     "nombre": "Globovisión",
-    "logo": "",
+    "logo": "https://www.dailymotion.com/video/xio7e2",
     "señales": {
       "iframe_url": [
+        "https://geo.dailymotion.com/player.html?video=xio7e2",
         "https://www.globovision.com/",
         "https://www.youtube.com/embed/QxgBzI8MG08?autoplay=true",
         "https://www.grandefmtv.com.ve/television",
