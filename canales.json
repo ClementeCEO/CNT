@@ -17846,13 +17846,14 @@
     "país": "hn",
     "categoría": "news"
   },
-  "VTV-HN": {
-    "nombre": "VTV HN",
-    "logo": "",
+  "VTV-HN-aztecahonduras": {
+    "nombre": "VTV-HN - Aztecahonduras",
+    "logo": "https://i.postimg.cc/7hp2CTk1/In_Shot_20260325_181601965.jpg",
     "señales": {
       "iframe_url": [
         "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1",
-        "https://www.vtv.com.hn/envivo/"
+        "https://www.vtv.com.hn/envivo/",
+        "https://aztecahonduras.com/programas/"
       ],
       "m3u8_url": [],
       "yt_id": "",
@@ -17949,12 +17950,13 @@
     "país": "hn",
     "categoría": "cristiana"
   },
-  "une-tv-hn": {
-    "nombre": "Une TV HN",
-    "logo": "",
+  "unetv-hn-tencanal10": {
+    "nombre": "UneTV-HN - Tencanal10",
+    "logo": "https://anointingtube.com/wp-content/uploads/2020/11/TEN-LOGO-SLIDE2.png",
     "señales": {
       "iframe_url": [
-        "http://www.unetvhn.com/"
+        "http://www.unetvhn.com/",
+        "https://tencanal10.tv/"
       ],
       "m3u8_url": [
         "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
@@ -17963,7 +17965,7 @@
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "https://github.com/Duartegame/listas/blob/91b7deb8870065eb0e4903691dbcfe3cf4d4c7ea/canalessearch.txt#L24"
     },
     "sitio_oficial": "http://www.unetvhn.com/",
     "país": "hn",
@@ -17990,11 +17992,13 @@
     "país": "hn",
     "categoría": "news"
   },
-  "multicabletv-tv": {
-    "nombre": "Multicabletv TV",
-    "logo": "",
+  "multicabletv-canelatv": {
+    "nombre": "Multicabletv - CanelaTV",
+    "logo": "https://i.postimg.cc/zXgRrBHH/0-16x9.jpg",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.canela.tv/player/channel/cine-romantico"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
@@ -18005,11 +18009,13 @@
     "país": "hn",
     "categoría": "news"
   },
-  "LaverdadtvhnTV": {
-    "nombre": "laverdadtvhn TV",
-    "logo": "",
+  "Laverdadtvhn-globotvhondurasTV": {
+    "nombre": "laverdadtvhn - GlobotvhondurasTV",
+    "logo": "https://i.postimg.cc/wjX4496w/imagen-2026-02-02-142359469-png.webp",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://globotvhonduras.com/"
+      ],
       "m3u8_url": [],
       "yt_id": "",
       "yt_embed": "",
@@ -36036,10 +36042,13 @@
     "categoría": "news"
   },
   "CS-Noticias": {
-    "nombre": "CS Noticias",
+    "nombre": "CS-Noticias - Canal - 11 - 12",
     "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
     "señales": {
-      "iframe_url": [],
+      "iframe_url": [
+        "https://www.canal11.com.sv/",
+        "https://www.canal12.com.sv/envivo/"
+      ],
       "m3u8_url": [],
       "yt_id": "UCUd3i3w8AKinobDEeEmjmWA",
       "yt_embed": "",
@@ -36047,6 +36056,94 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.esmitv.com/",
+    "país": "sv",
+    "categoría": "news"
+  },
+  "megavision-univtec-Canal-8-Artigas-uruguay": {
+    "nombre": "Megavision Univtec - Canal 8 Artigas",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://megavision.univtec.com/player/channel/62b9cbcc98e2b50012d7a8cb",
+        "https://megavision.univtec.com/page/64da1c748f3a39d93769d43d",
+        "https://anteltv.com.uy/play/2s6p1",
+        "https://megavision.univtec.com/#!/"
+      ],
+      "m3u8_url": [
+        "https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8",
+        "https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8",
+        "https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8",
+        "https://mgv-corazon.akamaized.net/hls/live/2039835/MGV_CORAZON/0/streamPlaylist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://megavision.univtec.com/#!/",
+    "país": "sv",
+    "categoría": "news"
+  },
+  "El-Salvador-Noticia-tvo-en-vivo": {
+    "nombre": "El Salvador Noticia - Tvo Canal 23",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://conceptoweb-studio.com/radio/video/tvo/",
+        "https://tvocanal23.com/tvo-en-vivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.youtube.com/@ElSalvadorNoticia",
+    "país": "sv",
+    "categoría": "Radio"
+  },
+  "wow-el-salvador-wow-mx": {
+    "nombre": "wow el salvador - wow mx",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://player.kick.com/wowtv-sv",
+        "https://www.wowmx.tv/",
+        "https://www.wowelsalvador.com/",
+        "https://www.canalesdelsalvadorenvivo.com/2024/12/canal-21-en-vivo.html",
+        "https://vercanal.com/tv-el-salvador/10-tves/",
+        "https://www.wowt.com/livestream/",
+        "https://kick.com/wowtv-sv"
+      ],
+      "m3u8_url": [
+        "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.wowelsalvador.com/",
+    "país": "sv",
+    "categoría": "news"
+  },
+  "orbit-tv": {
+    "nombre": "Orbit TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://orbittv.net/",
+        "https://www.vivalivetv.com/channel/orbit-tv",
+        "https://v2.ssh101.com/detail.php?id=OrbitaFM",
+        "https://canaltrv.com/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "",
     "país": "sv",
     "categoría": "news"
   },
