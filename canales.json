@@ -484,8 +484,8 @@
         "https://www.populartv.cl/"
       ],
       "m3u8_url": [
+        "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
         "http://38.226.210.46:8000/play/A008/index.m3u8",
-        "https://hls.mywebtv.cloud/hls/dsportsplus/index.m3u8?token=1G5vjVGlypWHh7UR3xvyZw&expires=1782180322",
         "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
         "https://multimedia.fortalezatv.cl/video/video.m3u8",
         "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
