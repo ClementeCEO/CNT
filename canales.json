@@ -10628,11 +10628,12 @@
     "categoría": "news"
   },
   "la-urucaplaza-de-deportes-vista-oeste_17": {
-    "nombre": "TICA TV",
-    "logo": "",
+    "nombre": "TICATV - Televicentro",
+    "logo": "https://i.postimg.cc/sx4mGy2h/In_Shot_20260326_103521859.jpg",
     "señales": {
       "iframe_url": [
-        "https://www.costaricayplayas.com/p/la-urucaplaza-de-deportes-vista-oeste_17.html"
+        "https://www.costaricayplayas.com/p/la-urucaplaza-de-deportes-vista-oeste_17.html",
+        "https://www.televicentro.com/envivo/178e0fab-b03d-4b3a-80a5-bae837c53069"
       ],
       "m3u8_url": [
         "https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8"
@@ -10647,11 +10648,12 @@
     "categoría": "news"
   },
   "LIMON-TV": {
-    "nombre": "",
+    "nombre": "LIMONTV - Canal11 TUTV",
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.costaricayplayas.com/p/cinemax-prueba.html"
+        "https://www.costaricayplayas.com/p/cinemax-prueba.html",
+        "https://www.canal11.com.sv/"
       ],
       "m3u8_url": [
         "https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8"
@@ -10666,12 +10668,13 @@
     "categoría": "news"
   },
   "CANAL-13": {
-    "nombre": "CANAL 13",
-    "logo": "",
+    "nombre": "CANAL 13 - 10",
+    "logo": "https://i.postimg.cc/qRWsKFcq/In_Shot_20260325_182130276.jpg",
     "señales": {
       "iframe_url": [
         "https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1",
-        "https://www.costaricayplayas.com/p/blog-page_11.html"
+        "https://www.costaricayplayas.com/p/blog-page_11.html",
+        "https://www.vivalivetv.com/channel/canal-10-costa-rica"
       ],
       "m3u8_url": [
         "https://live-b.cf.dmcdn.net/sec2(Z_ub-YK7qk9Es-vMJXYJDQ4R9dqTtDXfE_lQz1-WWD96i_BSA98Brf3iDffvF4e6eCUaegHVh0UnPa8nKckH8-g-kNm0AdXVYDuSpcZNjWc)/dm/3/x7vh8g3/d/live-480.m3u8"
@@ -10686,11 +10689,12 @@
     "categoría": "news"
   },
   "trivision-36": {
-    "nombre": "TRIVISION 36",
-    "logo": "",
+    "nombre": "TRIVISION 36 - Telecadena",
+    "logo": "https://i.postimg.cc/0jLw6Jsd/In_Shot_20260325_181442368.jpg",
     "señales": {
       "iframe_url": [
-        "https://www.costaricayplayas.com/p/trivision-36.html"
+        "https://www.costaricayplayas.com/p/trivision-36.html",
+        "https://www.televicentro.com/envivo/81413ed4-cfe4-41dd-ad3b-f9040d91d96b"
       ],
       "m3u8_url": [
         "https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"
@@ -10709,7 +10713,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
-        "https://www.costaricayplayas.com/p/iq-tv.html"
+        "https://www.costaricayplayas.com/p/iq-tv.html",
       ],
       "m3u8_url": [
         "https://opa.usastreams.com:3066/live/canalopalive.m3u8"
@@ -13519,24 +13523,6 @@
     },
     "sitio_oficial": "https://proceso.com.do/en-vivo/",
     "país": "do",
-    "categoría": "news"
-  },
-  "VTV-HN": {
-    "nombre": "VTV HN",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1",
-        "https://www.vtv.com.hn/envivo/"
-      ],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.vtv.com.hn/envivo/",
-    "país": "hn",
     "categoría": "news"
   },
   "Canal-Algérie-(ENTV2)": {
@@ -17860,6 +17846,24 @@
     "país": "hn",
     "categoría": "news"
   },
+  "VTV-HN": {
+    "nombre": "VTV HN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://cnn.livestreaminggroup.info/live-stream-video-widget/vtv32?autoplay=1",
+        "https://www.vtv.com.hn/envivo/"
+      ],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.vtv.com.hn/envivo/",
+    "país": "hn",
+    "categoría": "news"
+  },
   "jbntv-online": {
     "nombre": "Jbntv Cristiana",
     "logo": "",
@@ -17879,6 +17883,140 @@
       "twitch_id": ""
     },
     "sitio_oficial": "https://www.jbntv.org/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "HCH-Oficial-PLUS": {
+    "nombre": "HCH Oficial - HCH+",
+    "logo": "https://i.postimg.cc/MZt3c6gT/In-Shot-20260325-172829757.jpg",
+    "señales": {
+      "iframe_url": [
+        "https://www.mireferido.top/2026/04/hch.html",
+        "https://hch.tv/hch-en-vivo/#google_vignette",
+        "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
+      ],
+      "m3u8_url": [
+        "https://live.streamhch.com/live/streams/hch1.m3u8"
+      ],
+      "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://hch.tv/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "teleprogreso-online": {
+    "nombre": "Telepais",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "https://my.viewhn.com:2443/client/embed_luxmty-player.php?user=telepais",
+        "https://www.teleprogreso.net/apiv3/release/iphone/12/section/45294325/index.html?v=1782226651&define_function=1",
+        "https://webmedialive.com/ReproTelePais/live/",
+        "https://www.teleprogreso.net/"
+      ],
+      "m3u8_url": [
+        "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.teleprogreso.net/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "ebenezer-online": {
+    "nombre": "Ebenezer",
+    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+    "señales": {
+      "iframe_url": [
+        "https://ebenezer.hn/envivo",
+        "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
+      ],
+      "m3u8_url": [
+        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://ebenezer.hn/",
+    "país": "hn",
+    "categoría": "cristiana"
+  },
+  "une-tv-hn": {
+    "nombre": "Une TV HN",
+    "logo": "",
+    "señales": {
+      "iframe_url": [
+        "http://www.unetvhn.com/"
+      ],
+      "m3u8_url": [
+        "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
+        "https://catv.amixtv.live:3058/live/unetvlive.m3u8"
+      ],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "http://www.unetvhn.com/",
+    "país": "hn",
+    "categoría": "general"
+  },
+  "metro-tv-choluteca": {
+    "nombre": "METRO TV - CHOLUTECA HONDURAS",
+    "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
+    "señales": {
+      "iframe_url": [
+        "https://s.emisoras.tv:2020/VideoPlayer/cholutecatv",
+        "https://s.emisoras.tv:2020/stream/metro",
+        "https://s.emisoras.tv:2020/stream/ilusion"
+      ],
+      "m3u8_url": [
+        "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+      ],
+      "yt_id": "UCblZy4UUsMlqv4gSCNslpWw",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": ""
+    },
+    "sitio_oficial": "https://www.lametrohn.com/",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "multicabletv-tv": {
+    "nombre": "Multicabletv TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "multicabletv"
+    },
+    "sitio_oficial": "https://www.twitch.tv/multicabletv",
+    "país": "hn",
+    "categoría": "news"
+  },
+  "LaverdadtvhnTV": {
+    "nombre": "laverdadtvhn TV",
+    "logo": "",
+    "señales": {
+      "iframe_url": [],
+      "m3u8_url": [],
+      "yt_id": "",
+      "yt_embed": "",
+      "yt_playlist": "",
+      "twitch_id": "laverdadtvhn"
+    },
+    "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
     "país": "hn",
     "categoría": "news"
   },
@@ -17949,137 +18087,6 @@
     },
     "sitio_oficial": "https://hrti.hrt.hr/home",
     "país": "hr",
-    "categoría": "news"
-  },
-  "ebenezer-online": {
-    "nombre": "Ebenezer",
-    "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
-    "señales": {
-      "iframe_url": [
-        "https://ebenezer.hn/envivo",
-        "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
-      ],
-      "m3u8_url": [
-        "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://ebenezer.hn/",
-    "país": "hn",
-    "categoría": "cristiana"
-  },
-  "une-tv-hn": {
-    "nombre": "Une TV HN",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "http://www.unetvhn.com/"
-      ],
-      "m3u8_url": [
-        "https://catv.amixtv.live:3058/live/unetvlive.m3u8",
-        "https://catv.amixtv.live:3058/live/unetvlive.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "http://www.unetvhn.com/",
-    "país": "hn",
-    "categoría": "general"
-  },
-  "teleprogreso-online": {
-    "nombre": "Telepais",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://webmedialive.com/ReproTelePais/live/",
-        "https://www.teleprogreso.net/"
-      ],
-      "m3u8_url": [
-        "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.teleprogreso.net/",
-    "país": "hn",
-    "categoría": "news"
-  },
-  "HCH-Oficial": {
-    "nombre": "HCH Oficial",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://hch.tv/hch-en-vivo/#google_vignette",
-        "https://geo.dailymotion.com/player/x5poh.html?video=x81za5c&autoplay=true&volume=0"
-      ],
-      "m3u8_url": [
-        "https://live.streamhch.com/live/streams/hch1.m3u8"
-      ],
-      "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://hch.tv/",
-    "país": "hn",
-    "categoría": "news"
-  },
-  "metro-tv-choluteca": {
-    "nombre": "METRO TV - CHOLUTECA HONDURAS",
-    "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
-    "señales": {
-      "iframe_url": [
-        "https://s.emisoras.tv:2020/VideoPlayer/cholutecatv",
-        "https://s.emisoras.tv:2020/stream/metro",
-        "https://s.emisoras.tv:2020/stream/ilusion"
-      ],
-      "m3u8_url": [
-        "https://s.emisoras.tv:8081/metrotv/index.m3u8"
-      ],
-      "yt_id": "UCblZy4UUsMlqv4gSCNslpWw",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.lametrohn.com/",
-    "país": "hn",
-    "categoría": "news"
-  },
-  "multicabletv-tv": {
-    "nombre": "Multicabletv TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "multicabletv"
-    },
-    "sitio_oficial": "https://www.twitch.tv/multicabletv",
-    "país": "hn",
-    "categoría": "news"
-  },
-  "LaverdadtvhnTV": {
-    "nombre": "laverdadtvhn TV",
-    "logo": "",
-    "señales": {
-      "iframe_url": [],
-      "m3u8_url": [],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": "laverdadtvhn"
-    },
-    "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
-    "país": "hn",
     "categoría": "news"
   },
   "24-News": {
@@ -29712,28 +29719,6 @@
     },
     "sitio_oficial": "https://www.avivamiento.com/avivamiento-tv.php",
     "país": "pe",
-    "categoría": "news"
-  },
-  "jbntv-online": {
-    "nombre": "Jbntv Cristiana",
-    "logo": "",
-    "señales": {
-      "iframe_url": [
-        "https://www.jbntv.org/reprotv/",
-        "https://www.musicacristiana.com.ar/tv/jbn-internacional-tv.htm",
-        "https://www.jbntv.org/"
-      ],
-      "m3u8_url": [
-        "https://mediacp.us:8081/jbntv/tracks-v1a1/mono.m3u8",
-        "https://mediacp.us:8081/jbntv/tracks-v1a1/mono.m3u8"
-      ],
-      "yt_id": "",
-      "yt_embed": "",
-      "yt_playlist": "",
-      "twitch_id": ""
-    },
-    "sitio_oficial": "https://www.jbntv.org/",
-    "país": "hn",
     "categoría": "news"
   },
   "ritmocelestial-online": {
