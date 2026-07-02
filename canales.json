@@ -27156,23 +27156,24 @@
     "categoría": "news"
   },
   "enfoquetv25-radio-nacional": {
-    "nombre": "🎌 Enfoquetv25 - Radio nacional 👀",
+    "nombre": "🎌 Enfoquetv25 - Radio nacional 👀 MHRADIO",
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://ecuatvhd.github.io/ecuatv/clarp.html?url=https://micanal.ovh/livestreams/158.XK67UBTGPTEB.m3u8",
         "https://www.radionacional.gob.pe/",
         "https://irtp-player.iblups.com/radionacional",
-        "https://iblups.com/enfoquetv25",
+        "https://iblups.com/planetaradiotv",
         "https://radiokalientequiquijana.blogspot.com/?ref=tv.ahmetcadirci.com",
-        "https://iblups.com/e_radionacional"
+        "https://mhradioperu.com/"
       ],
       "m3u8_url": [
-        "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
+        "https://micanal.ovh/livestreams/158.XK67UBTGPTEB.m3u8"
       ],
       "yt_id": "",
       "yt_embed": "",
       "yt_playlist": "",
-      "twitch_id": ""
+      "twitch_id": "https://www.facebook.com/p/Mhradio-Peru-100063708121917/"
     },
     "sitio_oficial": "https://www.radionacional.gob.pe/",
     "país": "pe",
