@@ -50,7 +50,6 @@
     "logo": "https://vivotv.lat/",
     "señales": {
       "iframe_url": [
-        "https://www.sawlivenow.com/embed/ch87_LQ/",
         "https://geo.dailymotion.com/player.html?video=x90qe0k",
         "https://telewebion.ir/live/tv1",
         "https://www.irtv.website/embed.php?name=BBC-Persian",
@@ -15838,6 +15837,7 @@
     "señales": {
       "iframe_url": [
         "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
+        "https://stream-xhd.com/live1.php?stream=la1es",
         "https://sudamericaplay2.com/canal_8112/tvla1es.html",
         "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
         "https://latamvidzfy.org/tvela1.php",
@@ -25014,6 +25014,7 @@
     "logo": "",
     "señales": {
       "iframe_url": [
+        "https://stream-xhd.com/live1.php?stream=canal5mx",
         "https://b15.com.mx/canal15fresnillo/",
         "https://vimeo.com/event/4400240/embed/interaction?muted=1"
       ],
@@ -30361,6 +30362,7 @@
       "iframe_url": [
         "https://teleon.tv/ec/live-tv/asomavision-ec/",
         "https://musicacristiana.com.ar/tv/asomavision-tv.htm",
+        "https://stream-xhd.com/live1.php?stream=dsports",
         "https://deportes.ksdjugfsddeports.com/stream.php?canal=directvsports&target=2",
         "https://www.cablevisionhd.com/stream/directvsports.php",
         "https://www.cablevisionhd.com/stream/directvsports.php",
@@ -38495,13 +38497,14 @@
     "país": "us",
     "categoría": "news"
   },
-  "didgah-tv": {
-    "nombre": "Didgah TV",
+  "didgah-Goluchitas": {
+    "nombre": "DidgahTV - Goluchitas",
     "logo": "",
     "señales": {
       "iframe_url": [
         "https://media.streambrothers.com/VideoPlayer/8276",
-        "https://www.didgah.tv/"
+        "https://www.didgah.tv/",
+        "https://goluchitas.com"
       ],
       "m3u8_url": [
         "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
